@@ -58,6 +58,7 @@
       <div class="group">
         <a id="pdf" class="btn btn-primary btn-link" href="#" download>⬇ Ladda ner PDF</a>
         <button id="print" class="btn btn-ghost" type="button">🖨 Skriv ut</button>
+        <a id="kahoot" class="btn btn-ghost btn-link" href="#" target="_blank" rel="noopener" hidden>🎮 Spela som Kahoot</a>
       </div>
     </div>
 
@@ -100,6 +101,9 @@
       $("sheet").hidden = false;
       $("pdf").href = `quiz/${current.id}-${version}.pdf`;
       $("pdf").textContent = version === "elev" ? "⬇ PDF elevversion" : "⬇ PDF lärarversion";
+      const k = current.kahoot && current.kahoot.url;
+      $("kahoot").hidden = !k;
+      if (k) $("kahoot").href = k;
       document.title = `${current.title} – ${version === "elev" ? "elevversion" : "lärarversion"}`;
       const url = new URL(location);
       url.searchParams.set("q", current.id);

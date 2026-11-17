@@ -229,3 +229,4 @@ body {
   .wx-sm { display: inline; }
   .wx-table th, .wx-table td { padding-left: .15rem; padding-right: .15rem; }
 }
+.btn[hidden] { display: none; }
