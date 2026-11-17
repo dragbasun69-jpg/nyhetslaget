@@ -4,6 +4,7 @@
 // Kör lokalt:  node scripts/fetch-news.mjs
 
 import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { clusterStories } from "./cluster.mjs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -316,6 +317,25 @@ async function main() {
       category: x.category, paywall: x.paywall, id: `${x.sourceId}-${i}`,
       ...(x.alsoAt ? { alsoAt: x.alsoAt } : {}),
     }));
+
+  // Samma händelse hos olika källor -> sidan "Jämför källorna"
+  try {
+    const clusters = clusterStories(all);
+    for (const c of clusters) for (const v of c.versions) {
+      const it = all.find((x) => x.id === v.id);
+      if (it) { it.cluster = c.id; it.clusterSize = c.sources; }
+    }
+    const cmp = { updated: new Date().toISOString(), clusters };
+    const CMP_FILE = path.join(path.dirname(OUT_FILE), "jamfor.json");
+    let same = false;
+    try { same = JSON.stringify(JSON.parse(await readFile(CMP_FILE, "utf8")).clusters) === JSON.stringify(clusters); } catch {}
+    if (!same) {
+      await writeFile(CMP_FILE, JSON.stringify(cmp, null, 2) + "\n", "utf8");
+      console.log(`Jämförelser: ${clusters.length} händelser med flera källor`);
+    }
+  } catch (err) {
+    console.error("Kunde inte jämföra källor:", err.message);
+  }
 
   // Skriv bara om något faktiskt ändrats, så att repot inte fylls av tomma ändringar
   try {

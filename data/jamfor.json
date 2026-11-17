@@ -1,0 +1,874 @@
+{
+  "updated": "2026-11-17T17:48:24.947Z",
+  "clusters": [
+    {
+      "id": "k-aftonbladet-309",
+      "sources": 5,
+      "latest": "2026-11-17T10:26:26.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/13001824-6f57-3972-bc7d-5a49411a6199?format=auto&w=1000&s=eb84adef0f5dcf39196ceedb7cd47f1147246f84",
+      "versions": [
+        {
+          "id": "aftonbladet-309",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "SD-ledamot ändrar sig – tänker inte hoppa av",
+          "summary": "SD-riksdagsledamoten Rasmus Giertz meddelade sitt avhopp efter anklagelser om sexuella övertramp.",
+          "link": "https://www.aftonbladet.se/nyheter/a/vkQ6dB/sd-ledamot-andrar-sig-tanker-inte-hoppa-av?utm_medium=rss",
+          "date": "2026-11-16T20:57:49.000Z",
+          "paywall": false,
+          "alsoAt": [
+            "SvD"
+          ]
+        },
+        {
+          "id": "svt-inrikes-301",
+          "source": "SVT Nyheter",
+          "color": "#1a1a1a",
+          "title": "Rasmus Giertz (SD) ändrar sig – hoppar inte av riksdagsuppdrag",
+          "summary": "Rasmus Giertz (SD) har ångrat sitt avgångsbeslut och tänker sitta kvar i riksdagen, säger han till sajten Samnytt. Riksdagsledamoten meddelade sin avgång efter en granskning i DN.",
+          "link": "https://www.svt.se/nyheter/inrikes/rasmus-giertz-sd-andrar-sig-hoppar-inte-av-riksdagsuppdrag",
+          "date": "2026-11-16T21:40:28.000Z",
+          "paywall": false
+        },
+        {
+          "id": "expressen-299",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Rasmus Giertz (SD) svänger – stannar i riksdagen",
+          "summary": "I en DN-artikel anklagas riksdagsledamoten Rasmus Giertz (SD) för sexuella övertramp mot kvinnor i partiets ungdomsförbund. Giertz nekar till anklagelserna, men sa efter publiceringen att han skulle lämna riksdagen. Nu har han ändrat sig. SD har inlett ett personärende mot honom.",
+          "link": "https://www.expressen.se/nyheter/politik/rasmus-giertz-sd-svanger-stannar-i-riksdagen/",
+          "date": "2026-11-16T21:52:40.000Z",
+          "paywall": false
+        },
+        {
+          "id": "ekot-278",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Giertz (SD) ändrar sig – lämnar inte riksdagen",
+          "summary": "Sverigedemokraternas riksdagsledamot Rasmus Giertz, som i en artikel i Dagens Nyheter anklagas för sexuella övertramp, säger till Samnytt att han stannar i riksdagen. Detta eftersom han citat \"inte vill låta DN vinna\". Tidigare hade Giertz, som nekar till anklagelserna, meddelat att han skulle avgå.",
+          "link": "https://www.sverigesradio.se/artikel/9344054",
+          "date": "2026-11-17T00:55:00.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svd-138",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Drog tillbaka avhopp – utreds av partiet",
+          "summary": "Först sa han att han skulle avgå – sedan ändrade sig SD-ledamoten Rasmus Giertz och meddelade att…",
+          "link": "https://www.svd.se/a/g37LmJ/drog-tillbaka-avhopp-utreds-av-partiet?utm_medium=rss",
+          "date": "2026-11-17T10:26:26.000Z",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "id": "k-ekot-195",
+      "sources": 4,
+      "latest": "2026-11-17T12:45:50.000Z",
+      "category": "Sverige",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.47/0.31/98df5b7810b4a37861ed506cdbd93720e4e7fff4587a90d6b6a286f3298d88ae",
+      "versions": [
+        {
+          "id": "svt-utrikes-201",
+          "source": "SVT Utrikes",
+          "color": "#1a1a1a",
+          "title": "Chatta med Bert Sundström – slutar efter 36 år på SVT",
+          "summary": "Tidigare Rysslandskorrespondenten Bert Sundström slutar efter 36 år på SVT. Ställ dina frågor om Ryssland, kriget i Ukraina och livet som korrespondent:",
+          "link": "https://www.svt.se/nyheter/utrikes/chatta-med-bert-sundstrom-slutar-efter-36-ar-pa-svt",
+          "date": "2026-11-17T07:21:15.000Z",
+          "paywall": false
+        },
+        {
+          "id": "expressen-198",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Bert Sundström slutar på SVT efter 36 år, enligt kanalen",
+          "summary": "Korrespondenten lämnar efter 36 år",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=00ff6e21-c76c-4fa5-8942-020e06f1a860",
+          "date": "2026-11-17T07:31:24.000Z",
+          "paywall": false
+        },
+        {
+          "id": "ekot-195",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Bert Sundström slutar på SVT",
+          "summary": "Tidigare Rysslandskorrespondenten Bert Sundström slutar efter 36 år på SVT. Sundström var korrespondent för Rapport i Washington 1996–1999 och utrikeskorrespondent för Sveriges Television i Moskva mellan september 2002 och februari 2023.",
+          "link": "https://www.sverigesradio.se/artikel/9344119",
+          "date": "2026-11-17T07:36:00.000Z",
+          "paywall": false,
+          "alsoAt": [
+            "Expressen"
+          ]
+        },
+        {
+          "id": "svd-93",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Veteranen slutar: ”SVT är klart höger”",
+          "summary": "SVT har blivit ”klart höger”. Det anser den mångårige korrespondenten Bert Sundström, som nu går i…",
+          "link": "https://www.svd.se/a/KL3jq5/svt-s-bert-sundstrom-gar-i-pension-svt-ar-klart-hoger?utm_medium=rss",
+          "date": "2026-11-17T12:45:50.000Z",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-116",
+      "sources": 4,
+      "latest": "2026-11-17T12:03:43.000Z",
+      "category": "Sverige",
+      "image": "https://www.svd.se/monorepo-api/og/wA9Gmd.png?pinnedEntry=80000",
+      "versions": [
+        {
+          "id": "svd-118",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Radhus brinner i Södertälje",
+          "summary": "",
+          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80000&utm_medium=rss",
+          "date": "2026-11-17T11:27:11.000Z",
+          "paywall": true
+        },
+        {
+          "id": "aftonbladet-116",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Radhuslänga brinner i Södertälje",
+          "summary": "En brand har brutit ut i en radhuslänga i Södertälje. Flera bostäder har drabbats.",
+          "link": "https://www.aftonbladet.se/nyheter/a/bk57we/flera-bostader-brinner-i-radhusbrand?utm_medium=rss",
+          "date": "2026-11-17T11:28:28.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svt-inrikes-113",
+          "source": "SVT Nyheter",
+          "color": "#1a1a1a",
+          "title": "Brand i radhus i Södertälje",
+          "summary": "En radhusbrand rasar i Hovsjö i Södertälje. Totalt ska fyra bostäder vara drabbade.",
+          "link": "https://www.svt.se/nyheter/inrikes/brand-i-radhus-i-sodertalje",
+          "date": "2026-11-17T11:34:52.000Z",
+          "paywall": false
+        },
+        {
+          "id": "expressen-103",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Radhusbrand i Hovsjö i Södertälje",
+          "summary": "Det brinner i en radhuslänga i Hovsjö i Södertälje. Branden har spridit sig upp till vinden. Polisen utreder mordbrand.",
+          "link": "https://www.expressen.se/nyheter/sverige/radhusbrand-i-hovsjo-i-sodertalje/",
+          "date": "2026-11-17T12:03:43.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-186",
+      "sources": 4,
+      "latest": "2026-11-17T08:48:53.000Z",
+      "category": "Lokalt",
+      "image": "https://static.bonniernews.se/ba/fc625cc1-9eeb-43ce-bd6a-11d1e8f1f721.jpeg?width=600",
+      "versions": [
+        {
+          "id": "nsk-324",
+          "source": "Norra Skåne",
+          "color": "#6a4c93",
+          "title": "Säpo inkopplad – man skrev till Lind (MP): ”Haschtomte”",
+          "summary": "”Låt oss i stället avrätta dej din lilla haschrökare.\" Så skrev en man från Östra Göinge under ett av Amanda Linds (MP) inlägg på Facebook. Nu åtalas mannen i 45-årsåldern för olaga hot. Han har förhörts av Säkerhetspolisen. – Ibland när man är full så skriver man saker som man ångrar, säger mannen i förhör.",
+          "link": "https://www.nsk.se/ostra-goinge/sapo-inkopplad-man-skrev-till-lind-mp-haschtomte/",
+          "date": "2026-11-16T20:00:00.000Z",
+          "paywall": true,
+          "alsoAt": [
+            "Kristianstadsbladet"
+          ]
+        },
+        {
+          "id": "p4-kristianstad-224",
+          "source": "P4 Kristianstad",
+          "color": "#e85d04",
+          "title": "Dödshotade Amanda Lind (MP): ”Din lilla haschrökare”",
+          "summary": "Efter en hotfull kommentar med uppmaning att avrätta Amanda Lind, Miljöpartiets språkrör, åtalades en man från Östra Göinge kommun för olaga hot. Kommentaren, där han bland annat kallade språkröret \"din lilla haschrökare\", skrevs på ett inlägg som Amanda Lind lagt ut på sociala medier i början av året.",
+          "link": "https://www.sverigesradio.se/artikel/9344075",
+          "date": "2026-11-17T06:13:00.000Z",
+          "paywall": false
+        },
+        {
+          "id": "aftonbladet-186",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Mordhotade Amanda Lind – åtalas",
+          "summary": "En man i 45-årsåldern från Östra Göinge åtalas för att ha mordhotat Miljöpartiets språkrör Amanda…",
+          "link": "https://www.aftonbladet.se/nyheter/a/ARdEnr/mordhotade-amanda-lind-atalas?utm_medium=rss",
+          "date": "2026-11-17T08:13:19.000Z",
+          "paywall": false,
+          "alsoAt": [
+            "SvD"
+          ]
+        },
+        {
+          "id": "svt-skane-178",
+          "source": "SVT Skåne",
+          "color": "#2a9d8f",
+          "title": "Utredning om mordhot mot Amanda Lind (MP) läggs ned",
+          "summary": "En man i 45-årsåldern från Östra Göinge åtalas för att ha mordhotat Miljöpartiets språkrör Amanda Lind, skriver Kristianstadsbladet.",
+          "link": "https://www.svt.se/nyheter/lokalt/skane/mordhotade-amanda-lind-atalas",
+          "date": "2026-11-17T08:48:53.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-ekot-14",
+      "sources": 3,
+      "latest": "2026-11-17T16:46:00.000Z",
+      "category": "Världen",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/9beb45c0befa52e6eea0edcc9ed4bf772ea23c226e4e062e7c46f91622fc82ad",
+      "versions": [
+        {
+          "id": "svt-utrikes-28",
+          "source": "SVT Utrikes",
+          "color": "#1a1a1a",
+          "title": "Jensen Huang bryter tystnaden",
+          "summary": "Jensen Huang bryter tystnaden efter otrohetsskandalerna. Till The Wall Street Journal säger Nvidias tidigare vd att han är beredd att komma tillbaka till företaget.",
+          "link": "https://www.svt.se/nyheter/utrikes/jensen-huang-bryter-tystnaden",
+          "date": "2026-11-17T16:11:11.000Z",
+          "paywall": false
+        },
+        {
+          "id": "expressen-23",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Tidigare Nvidia-chefen bryter tystnaden efter otrohetsaffärerna",
+          "summary": "Jensen Huang är beredd att återvända som vd för Nvidia om bolagets styrelse ber honom. Det säger han i sitt första offentliga uttalande sedan han lämnade chipjätten efter avslöjandena om sina otrohetsaffärer. – Jag skapade problem för styrelsen som jag djupt ångrar. Jag tar fullt ansvar för mina misstag.",
+          "link": "https://www.expressen.se/nyheter/varlden/tidigare-nvidia-chefen-bryter-tystnaden-efter-otrohetsaffarerna/",
+          "date": "2026-11-17T16:24:30.000Z",
+          "paywall": false
+        },
+        {
+          "id": "ekot-14",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Jensen Huang: Redo att återvända till Nvidia som vd",
+          "summary": "Chiptillverkaren Nvidias nyss avgångne vd Jensen Huang säger till The Wall Street Journal att han är redo att återvända som vd om Nvidias styrelse bedömer att hans återkomst ligger i aktieägarnas, företagets, anställdas och USA:s intresse.",
+          "link": "https://www.sverigesradio.se/artikel/9344708",
+          "date": "2026-11-17T16:46:00.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-54",
+      "sources": 3,
+      "latest": "2026-11-17T15:06:54.000Z",
+      "category": "Sverige",
+      "image": "https://www.svd.se/monorepo-api/og/wA9Gmd.png?pinnedEntry=80004",
+      "versions": [
+        {
+          "id": "svd-67",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Personal på hälsocentral attackerad – misstänkt mordförsök",
+          "summary": "",
+          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80004&utm_medium=rss",
+          "date": "2026-11-17T14:25:59.000Z",
+          "paywall": true
+        },
+        {
+          "id": "aftonbladet-54",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Anställd vid vårdcentral attackerad i Kalix",
+          "summary": "En anställd på en vårdcentral i Kalix har attackerats och skadats av en man med ett tillhygge.",
+          "link": "https://www.aftonbladet.se/nyheter/a/Pv9na7/anstalld-vid-vardcentral-attackerad-i-kalix?utm_medium=rss",
+          "date": "2026-11-17T15:02:57.000Z",
+          "paywall": false
+        },
+        {
+          "id": "expressen-52",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Sjukvårdsanställd skadad i Kalix – misstänkt mordförsök",
+          "summary": "En anställd på Kalix hälsocentral har skadats i en attack. En man är gripen misstänkt för mordförsök. – Det här är en fruktansvärd händelse, säger regiondirektör Anna Alm Andersson i ett pressmeddelande.",
+          "link": "https://www.expressen.se/nyheter/sverige/sjukvardsanstalld-skadad-misstankt-mordforsok/",
+          "date": "2026-11-17T15:06:54.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-112",
+      "sources": 3,
+      "latest": "2026-11-17T13:39:27.000Z",
+      "category": "Sverige",
+      "image": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
+      "versions": [
+        {
+          "id": "expressen-120",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Präster får fortsatt säga nej till samkönade",
+          "summary": "Ska utredas",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6a06742d-b3eb-4ac1-ada7-678a1ff4a330",
+          "date": "2026-11-17T11:16:23.000Z",
+          "paywall": false
+        },
+        {
+          "id": "aftonbladet-112",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Präster får fortsätta neka samkönade vigslar",
+          "summary": "Stor präst-debatt i Svenska kyrkan",
+          "link": "https://www.aftonbladet.se/nyheter/a/mMR8dE/praster-far-fortsatta-neka-samkonade-vigslar?utm_medium=rss",
+          "date": "2026-11-17T11:40:41.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svd-80",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Striden om samkönade vigslar fortsätter",
+          "summary": "Enskilda präster kommer inte längre att ha rätt att säga nej till att viga samkönade par.",
+          "link": "https://www.svd.se/a/vkQ3aL/svenska-kyrkan-om-en-konsneutral-aktenskapssyn?utm_medium=rss",
+          "date": "2026-11-17T13:39:27.000Z",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "id": "k-dn-95",
+      "sources": 3,
+      "latest": "2026-11-17T12:42:55.000Z",
+      "category": "Sverige",
+      "image": "https://static.bonniernews.se/ba/a7755dfd-b2b3-4478-bd44-f486741979e2.jpeg?crop=1979%2C1113%2Cx0%2Cy298",
+      "versions": [
+        {
+          "id": "expressen-306",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Svensk forskare: Det talar emot att Epstein begick självmord",
+          "summary": "Många amerikaner tror inte att Jeffrey Epstein tog livet av sig. Nu får de stöd av en grupp forskare – bland annat svenska Anders Eriksson. – Ett scenario som kan förklara alla fynd, det är att han har blivit strypt, säger Eriksson i Ekot .",
+          "link": "https://www.expressen.se/nyheter/varlden/svenska-forskaren-mer-troligt-att-epstein-mordades/",
+          "date": "2026-11-16T21:14:30.000Z",
+          "paywall": false
+        },
+        {
+          "id": "ekot-292",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Svenska experten: Epsteins skador talar emot självmord",
+          "summary": "Det har funnits många konspirationsteorier efter att den dömde sexualförbrytaren Jeffrey Epstein hittades död i sin häktescell på Manhattan i New York 2019. En grupp forskare, bland annat svenske Anders Eriksson, professor emeritus i rättsmedicin vid Umeå universitet, menar nu att den dömde Jeffrey Epstein kanske inte …",
+          "link": "https://www.sverigesradio.se/artikel/9344043",
+          "date": "2026-11-16T22:56:00.000Z",
+          "paywall": false
+        },
+        {
+          "id": "dn-95",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "Rättsläkare: Epstein mördades i sin cell",
+          "summary": "Den dömde sexualförbrytaren Jeffrey Epstein begick inte självmord, enligt Anders Eriksson, professor emeritus i rättsmedicin, som har granskat obduktionsprotokollet. Han anser att Epstein ströps till döds bakifrån och att kroppen därefter placerades i en iscensatt position i cellen.",
+          "link": "https://www.dn.se/varlden/rattslakare-epstein-mordades-i-sin-cell/",
+          "date": "2026-11-17T12:42:55.000Z",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-191",
+      "sources": 3,
+      "latest": "2026-11-17T09:00:45.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/6765bf00-7a22-3d5a-83cf-5e4f5ae99dfc?format=auto&w=1000&s=0c45f2879376ce69bd5ea252f78ca09ae3988834",
+      "versions": [
+        {
+          "id": "aftonbladet-191",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Nytt varningslarm i mobilen testas i hela landet",
+          "summary": "I vinter ska det nya varningslarmet SE-Alert testas i mobiltelefoner i hela landet, rapporterar P4…",
+          "link": "https://www.aftonbladet.se/nyheter/a/qOLv8w/nytt-varningslarm-i-mobilen-testas-i-hela-landet?utm_medium=rss",
+          "date": "2026-11-17T07:50:46.000Z",
+          "paywall": false
+        },
+        {
+          "id": "expressen-181",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Nya varningssystemet ska testas i hela Sverige",
+          "summary": "Varningssystem testas nu i hela landet",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=6dd35be7-7482-4fe6-bb5e-9f719efbf6f5",
+          "date": "2026-11-17T08:33:31.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svt-inrikes-175",
+          "source": "SVT Nyheter",
+          "color": "#1a1a1a",
+          "title": "Sveriges nya larmsystem testas på nytt – i hela landet",
+          "summary": "Den 7 december testas återigen varningssystemet SE-Alert. Denna gång ska hela landet få ett VMA-meddelande – direkt i telefonen.",
+          "link": "https://www.svt.se/nyheter/inrikes/sveriges-nya-larmsystem-testas-pa-nytt-i-hela-landet",
+          "date": "2026-11-17T09:00:45.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-ekot-222",
+      "sources": 3,
+      "latest": "2026-11-17T07:04:56.000Z",
+      "category": "Sverige",
+      "image": "https://image-api.sr.se/v1/static/AA/83/d1826845-eb9c-4786-86f9-77e72dcf61c1.jpg?w=1200&h=675&q=75",
+      "versions": [
+        {
+          "id": "ekot-222",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Tre döda efter flygkrasch i Grand Canyon",
+          "summary": "Tre personer har bekräftats döda efter efter en flygplanskrasch i USA. Planet, av modellen Piper Comanche, försvann sent på söndagskvällen från radarn och vrakdelarna hittades på måndagen i Grand Canyon, skriver New York Post. Orsaken till kraschen håller på att utredas och identifieringen av personerna pågår.",
+          "link": "https://www.sverigesradio.se/artikel/9344081",
+          "date": "2026-11-17T06:16:00.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svt-utrikes-219",
+          "source": "SVT Utrikes",
+          "color": "#1a1a1a",
+          "title": "Tre döda efter flygkrasch vid Grand Canyon",
+          "summary": "Tre personer dödades när ett mindre flygplan störtade vid Grand Canyon på måndagen, skriver nationalparken på sin hemsida.",
+          "link": "https://www.svt.se/nyheter/utrikes/tre-doda-efter-flygkrasch-vid-grand-canyon",
+          "date": "2026-11-17T06:20:32.000Z",
+          "paywall": false
+        },
+        {
+          "id": "expressen-205",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Försvann mystiskt vid turistmålet – tre döda",
+          "summary": "Tre personer har dött efter en flygkrasch i Grand Canyon i USA, rapporterar New York Post . Flygplanet försvann spårlöst i söndags.",
+          "link": "https://www.expressen.se/nyheter/varlden/forsvann-mystiskt-vid-turistmalet-tre-doda/",
+          "date": "2026-11-17T07:04:56.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-ekot-206",
+      "sources": 3,
+      "latest": "2026-11-17T07:02:00.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/b87ddba7-fbc9-3fca-b2ec-da0f4f488c13?format=auto&w=1000&s=9c091ccad7c79ed5ac94af46ce05dca72f975901",
+      "versions": [
+        {
+          "id": "svd-245",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Vinterns elprischock väntas bli värre än 2022",
+          "summary": "Det blir ovanligt höga elpriser i vinter – högre än krisvintern 2022–2023, enligt en prognos från…",
+          "link": "https://www.svd.se/a/dJOLRX/vinterns-elprischock-vantas-bli-varre-an-2022?utm_medium=rss",
+          "date": "2026-11-17T05:05:11.000Z",
+          "paywall": true
+        },
+        {
+          "id": "svt-ekonomi-220",
+          "source": "SVT Ekonomi",
+          "color": "#1a1a1a",
+          "title": "Höga elpriser väntas i södra Sverige – trots gynnsamt väder",
+          "summary": "Vinterns elräkningar väntas bli ovanligt höga i södra Sverige, enligt en prognos från elhandelsbolaget Bixia. Det så kallade systempriset mellan december och februari väntas bli ca 1,70 kr per kWh, vilket är högre än under krisvintern 2022/2023.",
+          "link": "https://www.svt.se/nyheter/ekonomi/hoga-elpriser-vantas-i-sodra-sverige-trots-gynnsamt-vader",
+          "date": "2026-11-17T06:19:10.000Z",
+          "paywall": false
+        },
+        {
+          "id": "ekot-206",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Ny prognos: Högre elpriser än krisvintern 2022",
+          "summary": "Elräkningarna ser ut att bli ovanligt höga i vinter. Högre än under krisvintern 2022-2023, med ett snittpris på 1 och 70 per kilowattimme, enligt en prognos från elhandelsbolaget Bixia. Anledningen är framförallt vattenbrist i magasinen i Norge och höga gaspriser i Europa.",
+          "link": "https://www.sverigesradio.se/artikel/9344095",
+          "date": "2026-11-17T07:02:00.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-275",
+      "sources": 3,
+      "latest": "2026-11-17T04:32:01.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/0930ce9b-6122-3638-a978-2bb72c8a3a61?format=auto&w=1000&s=7b4b619f052872b57cb53f6ddb5f6417d80cc99b",
+      "versions": [
+        {
+          "id": "aftonbladet-275",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Ryska plan anklagas ha kränkt luftrum",
+          "summary": "Två flygplan som misstänks komma från Ryssland har kränkt Japans luftrum, uppger japanska…",
+          "link": "https://www.aftonbladet.se/nyheter/a/qOLJ2m/japan-ryska-plan-krankt-luftrum?utm_medium=rss",
+          "date": "2026-11-17T01:29:52.000Z",
+          "paywall": false,
+          "alsoAt": [
+            "SvD"
+          ]
+        },
+        {
+          "id": "svt-utrikes-274",
+          "source": "SVT Utrikes",
+          "color": "#1a1a1a",
+          "title": "Japan: Ryska plan har kränkt vårt luftrum",
+          "summary": "Två flygplan som misstänks komma från Ryssland har kränkt Japans luftrum, uppger japanska regeringsföreträdare natten mot tisdagen, svensk tid. Även i Taiwan upptäckte man två ryska militärflygplan som flög in i landets luftförsvarsidentifieringszon.",
+          "link": "https://www.svt.se/nyheter/utrikes/japan-ryska-plan-har-krankt-vart-luftrum",
+          "date": "2026-11-17T01:40:19.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svd-266",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Japan: Ryska plan kränkte vårt luftrum",
+          "summary": "",
+          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79984&utm_medium=rss",
+          "date": "2026-11-17T04:32:01.000Z",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "id": "k-dn-272",
+      "sources": 3,
+      "latest": "2026-11-17T04:23:26.000Z",
+      "category": "Sverige",
+      "image": "https://static.bonniernews.se/ba/28d53a12-0943-48fe-9bf7-932b9ecb55ec.jpeg?crop=1505%2C846%2Cx1055%2Cy426",
+      "versions": [
+        {
+          "id": "expressen-279",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Uppgifter: Iran planerar attack mot Washington DC",
+          "summary": "Underrättelseinformation tyder på att Iran utvecklar planer på att detonera en ”smutsig bomb” eller ett kemiskt vapen i Washington DC. Det uppger källor för CNN . Iran tillbakavisar uppgifterna.",
+          "link": "https://www.expressen.se/nyheter/varlden/uppgifter-iran-planerar-attack-mot-washington-dc/",
+          "date": "2026-11-17T00:09:45.000Z",
+          "paywall": false
+        },
+        {
+          "id": "dn-272",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "Uppgifter: Iran planerar bombdåd mot Washington DC",
+          "summary": "WASHINGTON. Iran gör upp planer på ett möjligt attentat med en ”smutsig bomb” i Washington DC, enligt flera underrättelsekällor till CNN. Det föreligger inget omedelbart hot utan handlar om att landet vill ha alternativ om de behöver eskalera konflikten med USA, uppger tv-kanalen.",
+          "link": "https://www.dn.se/varlden/uppgifter-iran-forbereder-bombdad-mot-washington/",
+          "date": "2026-11-17T03:13:51.000Z",
+          "paywall": true
+        },
+        {
+          "id": "svd-269",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Uppgifter: Iran planerar bombdåd i USA",
+          "summary": "",
+          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=79983&utm_medium=rss",
+          "date": "2026-11-17T04:23:26.000Z",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-43",
+      "sources": 2,
+      "latest": "2026-11-17T16:58:00.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/e4383b3b-6508-3fdf-9699-b00b0a7b8618?format=auto&w=1000&s=9939f4a65ed15fb0152b9acf52ce873191b4ae9b",
+      "versions": [
+        {
+          "id": "aftonbladet-43",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Magdalena Andersson: Välkomnar beskedet",
+          "summary": "Välkomnar beskedet",
+          "link": "https://www.aftonbladet.se/nyheter/a/kMJmyk/magdalena-andersson-valkomnar-beskedet?utm_medium=rss",
+          "date": "2026-11-17T15:35:54.000Z",
+          "paywall": false
+        },
+        {
+          "id": "ekot-7",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Gissén om pressen på S: ”Vore en smärre katastrof”",
+          "summary": "S-ledaren Magdalena Andersson välkomnar talmannens besked om ny talmansrunda nästa vecka och säger att hon kommer att fortsätta arbeta intensivt för att Sverige ska få en ny regering.",
+          "link": "https://www.sverigesradio.se/artikel/9344646",
+          "date": "2026-11-17T16:58:00.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-ekot-50",
+      "sources": 2,
+      "latest": "2026-11-17T15:18:15.000Z",
+      "category": "Sverige",
+      "image": "https://image-api.sr.se/v1/static/AA/83/144d1231-3f6b-48d7-947b-dd081ad33bd1.jpg?w=1200&h=675&q=75",
+      "versions": [
+        {
+          "id": "ekot-50",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Talmannen: Vill se en ny regering före jul",
+          "summary": "Talmannen ger Ulf Kristersson en veckas paus i sonderingen – i väntan på en upplösning i de pågående förhandlingarna bland de rödgröna partierna. Nästa vecka kommer talmansrundor hållas. Samtidigt pressade talman Andreas Norlén partierna – han sa att regeringsbildningen behöver vara klar i god tid innan jul.",
+          "link": "https://www.sverigesradio.se/artikel/9344572",
+          "date": "2026-11-17T15:18:00.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svt-inrikes-49",
+          "source": "SVT Nyheter",
+          "color": "#1a1a1a",
+          "title": "Efter M-ledarens förslag – en veckas paus i sonderingen",
+          "summary": "Talmannen ger Ulf Kristersson (M) och övriga partier en veckas paus i sonderingsprocessen för att lämna utrymme för ytterligare förhandlingar. Alla partier kallas till en ny talmansrunda i nästa vecka.",
+          "link": "https://www.svt.se/nyheter/inrikes/efter-m-ledarens-forslag-en-veckas-paus-i-sonderingen",
+          "date": "2026-11-17T15:18:15.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-dn-68",
+      "sources": 2,
+      "latest": "2026-11-17T14:40:20.000Z",
+      "category": "Sverige",
+      "image": "https://static.bonniernews.se/ba/b8570be0-9f61-4675-a2ae-26eca57758b2.jpeg?io=1&width=1000",
+      "versions": [
+        {
+          "id": "dn-68",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "”Ny regering eller besked om extra val före jul”",
+          "summary": "Talman Andreas Norlén ger M-ledaren Ulf Kristersson och övriga partier en vecka till i arbetet med att bilda en regering. Samtidigt sätter han en slutgiltig tidsfrist. – När svenska folket firar jul ska man veta om Sverige antingen har en ny regering eller förbereder sig för ett extra val, säger Norlén.",
+          "link": "https://www.dn.se/sverige/kristersson-vill-ha-mer-tid-helt-installd-pa-att-mitt-forslag-provas/",
+          "date": "2026-11-17T14:23:55.000Z",
+          "paywall": true
+        },
+        {
+          "id": "expressen-63",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Talmannens deadline: Klart före jul",
+          "summary": "Talmannen har en ny deadline. – Jag vill att när svenska folket firar jul så ska man veta att Sverige antingen har en ny regering eller förbereder sig för ett extraval, säger han på en pressträff.",
+          "link": "https://www.expressen.se/nyheter/politik/kristersson-m-vill-ha-mer-sonderingstid-talmannens-besked-/",
+          "date": "2026-11-17T14:40:20.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-124",
+      "sources": 2,
+      "latest": "2026-11-17T11:04:26.000Z",
+      "category": "Sverige",
+      "image": "https://image-api.sr.se/v1/static/AA/83/df7890e0-2692-4e96-bc21-4d8d4a14ad14.jpg?w=1200&h=675&q=75",
+      "versions": [
+        {
+          "id": "ekot-248",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Rödgröna vill förtydliga abortlagen: Gäller inte bara kvinnor",
+          "summary": "Vid sidan av regeringssamtalen har de rödgröna partierna gjort upp om att det omdebatterade förslaget till ny abortlag ska förtydligas, enligt uppgift till Ekot. De rödgröna vill, enligt vad Ekot erfar, att det uttryckligen ska stå att rätten till abort inte enbart omfattar kvinnor – utan alla som kan bli gravida, …",
+          "link": "https://www.sverigesradio.se/artikel/9344032",
+          "date": "2026-11-17T05:00:00.000Z",
+          "paywall": false
+        },
+        {
+          "id": "aftonbladet-124",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Rödgröna: Aborträtt omfattar inte bara kvinnor",
+          "summary": "De rödgröna partierna har enats om att uppmana nästa regering att förtydliga den nya abortlagen.",
+          "link": "https://www.aftonbladet.se/nyheter/a/530jOb/rodgrona-abortratt-omfattar-inte-bara-kvinnor?utm_medium=rss",
+          "date": "2026-11-17T11:04:26.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-143",
+      "sources": 2,
+      "latest": "2026-11-17T10:25:32.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/452036c0-6a52-3e70-afaa-44f5eaabc22d?format=auto&w=1000&s=83a70169d266c844cc543440bc6693217fd74851",
+      "versions": [
+        {
+          "id": "aftonbladet-143",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "MP: Köper inte hela totalpaketet",
+          "summary": "Miljöpartiet (MP) köper inte det så kallade totalpaket som Socialdemokraterna har tagit fram.",
+          "link": "https://www.aftonbladet.se/nyheter/a/KL3jrM/mp-koper-inte-hela-totalpaketet?utm_medium=rss",
+          "date": "2026-11-17T10:11:40.000Z",
+          "paywall": false,
+          "alsoAt": [
+            "DN",
+            "SvD"
+          ]
+        },
+        {
+          "id": "svd-139",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "MP-toppen köper inte totalpaketet: ”S-bud”",
+          "summary": "Miljöpartiet köper inte hela Socialdemokraternas totalpaket. ”Tydligt ett S-bud”, säger partitoppen…",
+          "link": "https://www.svd.se/a/dJOkwA/mp-toppen-koper-inte-totalpaketet-s-bud?utm_medium=rss",
+          "date": "2026-11-17T10:25:32.000Z",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "id": "k-dn-318",
+      "sources": 2,
+      "latest": "2026-11-17T08:22:40.000Z",
+      "category": "Sverige",
+      "image": "https://static.bonniernews.se/ba/754a0bb8-8258-42ff-8bd5-68e8aae194fd.jpeg?io=1&width=1000",
+      "versions": [
+        {
+          "id": "dn-318",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "C-toppen: Vänsterpartiet vill ingå äktenskap direkt",
+          "summary": "Gubbar på nätet tycker att han ska ”åka tillbaka till Danmark”. Men Centerpartiets Niels Paarup-Petersen vill hellre att de rödgröna kör till valfri bygdegård och får en ny regering på plats. – Utmaningen med Vänsterpartiet är att vi aldrig haft någon dejtingfas.",
+          "link": "https://www.dn.se/sverige/c-toppen-vansterpartiet-vill-inga-aktenskap-direkt/",
+          "date": "2026-11-16T20:08:03.000Z",
+          "paywall": true
+        },
+        {
+          "id": "expressen-184",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "V-toppens pik mot C: Beter sig som offer",
+          "summary": "C-toppen Niels Paarup-Petersen tycker att det är svårt att lita på Vänstern. Nu slår Ida Gabrielsson (V) tillbaka. ”C beter beter sig som att dom är offer för ett tvångsäktenskap”, skriver Gabrielsson på X.",
+          "link": "https://www.expressen.se/nyheter/politik/v-toppens-pik-mot-c-beter-sig-som-offer/",
+          "date": "2026-11-17T08:22:40.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-296",
+      "sources": 2,
+      "latest": "2026-11-16T22:16:10.000Z",
+      "category": "Världen",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/39b2b87053cfbc21dd4997dbc46d7f519573c21b3da8d6b5cd6627072885d0f9",
+      "versions": [
+        {
+          "id": "svt-utrikes-366",
+          "source": "SVT Utrikes",
+          "color": "#1a1a1a",
+          "title": "Storbritannien vill närma sig EU: ”Som kejsarens nya kläder”",
+          "summary": "Brexit har kostat Storbritannien mer än det har gett, uppgav Andy Burnham i ett tal i London inför toppmötet med EU i veckan.",
+          "link": "https://www.svt.se/nyheter/utrikes/storbritannien-vill-narma-sig-eu-som-kejsarens-nya-klader",
+          "date": "2026-11-16T13:41:27.000Z",
+          "paywall": false
+        },
+        {
+          "id": "aftonbladet-296",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Burnham: Behandla brexit som Kejsarens nya kläder",
+          "summary": "Storbritanniens premiärminister Andy Burnham är optimistisk inför veckans förhandlingar om ett nytt…",
+          "link": "https://www.aftonbladet.se/nyheter/a/z0GMKb/burnham-behandla-brexit-som-kejsarens-nya-klader?utm_medium=rss",
+          "date": "2026-11-16T22:16:10.000Z",
+          "paywall": false,
+          "alsoAt": [
+            "SvD"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-ekot-344",
+      "sources": 2,
+      "latest": "2026-11-16T18:07:00.000Z",
+      "category": "Världen",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.73/0.26/23d5eef14587a44cb8c71497cad8cea805d499f84c91f7a38ed6ab345bded3e1",
+      "versions": [
+        {
+          "id": "svt-utrikes-356",
+          "source": "SVT Utrikes",
+          "color": "#1a1a1a",
+          "title": "EU-länder ska införa ”hubb” för utvisade i Rwanda",
+          "summary": "Danmark och fyra andra EU-länder ska kunna placera personer som fått avslag på sin asylansökan i Rwanda, om de inte frivilligt lämnar Europa. Det uppger Danmarks regering på måndagen.",
+          "link": "https://www.svt.se/nyheter/utrikes/eu-lander-ska-infora-hubb-for-utvisade-i-rwanda",
+          "date": "2026-11-16T16:26:05.000Z",
+          "paywall": false
+        },
+        {
+          "id": "ekot-344",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "EU-länder vill öppna återvändandecenter i Rwanda",
+          "summary": "Österrike, Danmark, Tyskland, Grekland och Nederländerna kommer omedelbart att inleda förhandlingar för att öppna återvändandecenter i Rwanda för personer som har fått avslag på sin asylansökan, det meddelades vid en pressträff idag.",
+          "link": "https://www.sverigesradio.se/artikel/9343968",
+          "date": "2026-11-16T18:07:00.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-ekot-355",
+      "sources": 2,
+      "latest": "2026-11-16T16:28:00.000Z",
+      "category": "Världen",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/2f93ba843f7e400a13c86112e65490896499522866cbeab7a04aa887efed39b6",
+      "versions": [
+        {
+          "id": "svt-utrikes-400",
+          "source": "SVT Utrikes",
+          "color": "#1a1a1a",
+          "title": "Omkring 2 200 migranter till Spanien på två dagar",
+          "summary": "Närmare 2 200 migranter har anlänt till Kanarieöarna de senaste två dagarna, enligt Spaniens maritima räddningstjänst.",
+          "link": "https://www.svt.se/nyheter/utrikes/omkring-2-200-migranter-till-spanien-pa-tva-dagar",
+          "date": "2026-11-15T15:54:33.000Z",
+          "paywall": false
+        },
+        {
+          "id": "ekot-355",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Kanarieöarna under press av migrantbåtar – spädbarn lyfts iland",
+          "summary": "Kanarieöarna i Spanien är under hård press efter att cirka 3 000 migranter anlänt de senaste tre dagarna. Nu kommer krav på mer stöd från EU:s gränsbevakning för att stoppa migranttrafiken från Västafrika.",
+          "link": "https://www.sverigesradio.se/artikel/9343860",
+          "date": "2026-11-16T16:28:00.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-dn-ekonomi-384",
+      "sources": 2,
+      "latest": "2026-11-16T08:06:06.000Z",
+      "category": "Världen",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.38/0.52/4fb758ac7e082aa8b8014284226069b6e53be3db4470be1e3890fb0a8c2ae55a",
+      "versions": [
+        {
+          "id": "svt-utrikes-391",
+          "source": "SVT Utrikes",
+          "color": "#1a1a1a",
+          "title": "Uppgifter: Jensen Huang överväger comeback",
+          "summary": "Jensen Huang uppges överväga att återvända som vd för Nvidia, enligt Financial Times. Samtidigt har flera techprofiler inlett en offentlig kampanj för att få bolagets styrelse att återinsätta honom.",
+          "link": "https://www.svt.se/nyheter/utrikes/jensen-huang-overvager-comeback",
+          "date": "2026-11-15T23:28:29.000Z",
+          "paywall": false
+        },
+        {
+          "id": "dn-ekonomi-384",
+          "source": "DN Ekonomi",
+          "color": "#0f4c81",
+          "title": "Upprop för att Jensen Huang ska återvända till Nvidia",
+          "summary": "Över 170 000 personer, inklusive techmogulen Elon Musk, har skrivit under ett digitalt upprop för att Nvidia ska ta tillbaka Jensen Huang som vd. Huang uppges ha diskuterat möjligheten att göra comeback med nära medarbetare, enligt Financial Times.",
+          "link": "https://www.dn.se/ekonomi/upprop-for-att-jensen-huang-ska-atervanda-till-nvidia/",
+          "date": "2026-11-16T08:06:06.000Z",
+          "paywall": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jämför källorna – Nyhetsläget</title>
+  <meta name="description" content="Samma nyhet, olika rubriker. Se hur olika medier berättar om samma händelse – för källkritik i klassrummet.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Nyhetsläget">
+  <meta property="og:title" content="Jämför källorna – Nyhetsläget">
+  <meta property="og:description" content="Samma nyhet, olika rubriker. Se hur olika medier berättar om samma händelse.">
+  <meta property="og:url" content="https://dragbasun69-jpg.github.io/nyhetslaget/jamfor.html">
+  <meta property="og:image" content="https://dragbasun69-jpg.github.io/nyhetslaget/og-bild.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://dragbasun69-jpg.github.io/nyhetslaget/jamfor.html">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗞️</text></svg>">
+  <link rel="stylesheet" href="style.css?v=1">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <div>
+        <h1>Jämför källorna</h1>
+        <p class="tagline">Samma händelse, olika rubriker. <a class="back" href="./">← Till nyheterna</a></p>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap cmp-main">
+    <section class="cmp-guide" aria-labelledby="guideTitle">
+      <h2 id="guideTitle">Så kan du jämföra</h2>
+      <ol>
+        <li>Vilka ord skiljer sig mellan rubrikerna? Är någon rubrik mer laddad eller dramatisk än de andra?</li>
+        <li>Vad står först i ingressen? Vad tycker källan är viktigast?</li>
+        <li>Finns det uppgifter som bara en av källorna har? Vem får komma till tals?</li>
+        <li>Är det en nyhetsartikel eller en åsiktstext, till exempel en krönika eller ledare?</li>
+        <li>Vilken rubrik ger den mest rättvisande bilden av händelsen? Varför?</li>
+      </ol>
+      <p class="small"><mark>Markerade ord</mark> finns bara i den rubriken och inte hos de andra källorna. Sidan hittar liknande nyheter automatiskt, så ibland kan två nyheter handla om olika saker. Det kan också vara en bra diskussionsfråga.</p>
+    </section>
+
+    <div class="cmp-bar">
+      <div class="filters" role="group" aria-label="Visa">
+        <button class="chip" type="button" data-min="2" aria-pressed="true">Alla</button>
+        <button class="chip" type="button" data-min="3" aria-pressed="false">Minst 3 källor</button>
+      </div>
+      <p id="cmpUpdated" class="small"></p>
+    </div>
+
+    <p id="cmpStatus" class="status">Hämtar …</p>
+    <div id="cmpList"></div>
+  </main>
+
+  <footer class="wrap foot">
+    <p class="credit">Nyhetsläget är gjort av Torgny Johansson · <a href="about.html">Om sidan</a> · <a href="https://dragbasun69-jpg.github.io/lattnytt/">Lätt nytt – nyheter på lätt svenska</a></p>
+  </footer>
+
+  <script>
+    const $ = (id) => document.getElementById(id);
+    const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+    const safeUrl = (u) => (/^https?:\/\//i.test(u || "") ? u : "#");
+    let data = null, minSources = 2;
+
+    function when(iso) {
+      if (!iso) return "";
+      const d = new Date(iso);
+      return d.toLocaleString("sv-SE", { weekday: "short", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit", timeZone: "Europe/Stockholm" });
+    }
+
+    // Ord i rubriken som inte finns i någon av de andra rubrikerna i samma grupp
+    const words = (t) => (t.toLowerCase().match(/[a-zåäöéü0-9]+/g) || []);
+    const SKIP = new Set("och i på att en ett av för med som till om är det den de har inte efter mot ny nya vid".split(" "));
+    function markTitle(title, others) {
+      const other = new Set(others.flatMap(words));
+      return esc(title).replace(/[A-Za-zÅÄÖÉÜåäöéü0-9]+/g, (w) => {
+        const lw = w.toLowerCase();
+        return w.length > 2 && !SKIP.has(lw) && !other.has(lw) ? `<mark>${w}</mark>` : w;
+      });
+    }
+
+    function draw() {
+      const list = data.clusters.filter((c) => c.sources >= minSources);
+      $("cmpStatus").hidden = list.length > 0;
+      $("cmpStatus").textContent = "Inga händelser just nu med så många källor.";
+      $("cmpList").innerHTML = list.map((c) => {
+        const titles = c.versions.map((v) => v.title);
+        return `
+        <section class="cmp" id="${esc(c.id)}" aria-label="${esc(c.sources)} källor om samma händelse">
+          <div class="cmp-head">
+            <p class="meta"><span class="cat">${esc(c.category || "")}</span> <span>${esc(c.sources)} källor</span></p>
+            <button class="btn btn-ghost cmp-print" type="button" data-print="${esc(c.id)}">🖨 Skriv ut som uppgift</button>
+          </div>
+          <div class="cmp-grid">
+            ${c.versions.map((v, i) => `
+              <article class="cmp-card">
+                <p class="meta"><span class="badge" style="background:${esc(v.color || "#14213d")}">${esc(v.source)}</span>
+                  <time datetime="${esc(v.date || "")}">${esc(when(v.date))}</time></p>
+                <h3>${markTitle(v.title, titles.filter((_, j) => j !== i))}</h3>
+                ${v.summary ? `<p class="cmp-sum">${esc(v.summary)}</p>` : `<p class="cmp-sum small">(Ingen ingress)</p>`}
+                ${v.alsoAt?.length ? `<p class="also">Samma text även hos ${esc(v.alsoAt.join(" och "))}</p>` : ""}
+                <a class="more" href="${esc(safeUrl(v.link))}" target="_blank" rel="noopener">Läs hos ${esc(v.source)}${v.paywall ? " 🔒" : ""} →</a>
+              </article>`).join("")}
+          </div>
+        </section>`;
+      }).join("");
+      focusHash();
+    }
+
+    function focusHash() {
+      const id = decodeURIComponent(location.hash.slice(1));
+      const el = id && document.getElementById(id);
+      if (!el) return;
+      if (el.hidden || !el.offsetParent) return;
+      el.classList.add("cmp-target");
+      el.scrollIntoView({ block: "start" });
+    }
+
+    document.querySelectorAll("[data-min]").forEach((b) => b.addEventListener("click", () => {
+      minSources = +b.dataset.min;
+      document.querySelectorAll("[data-min]").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+      draw();
+    }));
+
+    $("cmpList").addEventListener("click", (e) => {
+      const b = e.target.closest("[data-print]");
+      if (!b) return;
+      const sec = document.getElementById(b.dataset.print);
+      document.body.classList.add("print-one");
+      sec.classList.add("print-me");
+      const done = () => { document.body.classList.remove("print-one"); sec.classList.remove("print-me"); window.removeEventListener("afterprint", done); };
+      window.addEventListener("afterprint", done);
+      window.print();
+    });
+
+    fetch(`data/jamfor.json?t=${Date.now()}`, { cache: "no-store" })
+      .then((r) => r.json())
+      .then((d) => {
+        data = d;
+        $("cmpUpdated").textContent = "Uppdaterad " + when(d.updated);
+        // Länk till en grupp med färre källor än filtret: visa alla
+        draw();
+      })
+      .catch(() => { $("cmpStatus").textContent = "Jämförelserna kunde inte hämtas just nu. Försök igen om en stund."; });
+  </script>
+  <script data-goatcounter="https://nyhetslaget.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
