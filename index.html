@@ -23,7 +23,12 @@
 <body>
   <a class="skip" href="#news">Hoppa till nyheterna</a>
 
-  <div id="ticker" class="ticker" hidden aria-label="Börsen just nu"></div>
+  <div class="ticker" aria-label="Väder och börs just nu">
+    <div class="wrap ticker-inner">
+      <a id="wxChip" class="tk-wx" href="vader.html" hidden></a>
+      <a id="mkChip" class="ticker-link" href="borsen.html" hidden></a>
+    </div>
+  </div>
 
   <header class="top">
     <div class="wrap top-inner">
@@ -99,7 +104,11 @@
 
   <script src="app.js?v=1"></script>
   <script src="market.js?v=1"></script>
-  <script>Market.ticker(document.getElementById("ticker"));</script>
+  <script src="weather.js?v=1"></script>
+  <script>
+    Market.ticker(document.getElementById("mkChip"));
+    Weather.chip(document.getElementById("wxChip"));
+  </script>
 
   <!-- Besöksräknare (GoatCounter): inga cookies, inga personuppgifter.
        Statistiken finns på https://nyhetslaget.goatcounter.com -->

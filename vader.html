@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Väder – Nyhetsläget</title>
+  <meta name="description" content="Väderprognos för Hässleholm och hela Sverige: just nu, i dag och sju dagar framåt.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Nyhetsläget">
+  <meta property="og:title" content="Väder – Nyhetsläget">
+  <meta property="og:description" content="Nyheter från Sverige, Skåne och världen samlade på ett ställe.">
+  <meta property="og:url" content="https://dragbasun69-jpg.github.io/nyhetslaget/vader.html">
+  <meta property="og:image" content="https://dragbasun69-jpg.github.io/nyhetslaget/og-bild.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://dragbasun69-jpg.github.io/nyhetslaget/vader.html">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗞️</text></svg>">
+  <link rel="stylesheet" href="style.css?v=1">
+  <style>
+    .back { color:#fff; opacity:.85; }
+  </style>
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <div>
+        <h1>Väder</h1>
+        <p class="tagline">Prognos för i dag och sju dagar framåt. <a class="back" href="./">← Till nyheterna</a></p>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap" id="weather">
+    <div class="wx-search">
+      <label for="wxSearch" class="visually-hidden">Sök ort</label>
+      <input id="wxSearch" type="search" placeholder="🔍 Sök ort, t.ex. Kristianstad" autocomplete="off">
+      <button id="wxHome" class="btn btn-ghost" type="button">Hässleholm</button>
+      <ul id="wxResults" class="wx-results"></ul>
+    </div>
+    <div id="wxOut"></div>
+    <p class="small wx-note">Väderdata från <a href="https://open-meteo.com/" rel="noopener">Open-Meteo.com</a> (CC BY 4.0), som bygger på prognoser från nationella vädertjänster. Den ort du väljer sparas bara i din egen webbläsare. Vid vädervarningar, se <a href="https://www.smhi.se/vader/varningar-och-brandrisk" rel="noopener">SMHI</a>.</p>
+  </main>
+
+  <footer class="wrap foot">
+    <p class="credit">Nyhetsläget är gjort av Torgny Johansson · <a href="about.html">Om sidan</a> · <a href="https://dragbasun69-jpg.github.io/lattnytt/">Lätt nytt – nyheter på lätt svenska</a></p>
+  </footer>
+
+  <script src="weather.js?v=1"></script>
+  <script>Weather.page(document.getElementById("weather"));</script>
+  <script data-goatcounter="https://nyhetslaget.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

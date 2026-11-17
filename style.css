@@ -182,6 +182,45 @@ body {
 .chart .tip { position: absolute; top: 0; transform: translateX(-50%); background: var(--ink); color: #fff; font-size: .8rem; padding: .35rem .55rem; border-radius: 8px; pointer-events: none; white-space: nowrap; text-align: center; }
 .mk-note { margin-bottom: 2rem; }
 .chart [hidden] { display: none; }
-.ticker-link { color: inherit; text-decoration: none; display: block; }
+.ticker-link { color: inherit; text-decoration: none; display: flex; gap: 1.2rem; align-items: center; flex: 1; }
+.ticker-link[hidden], .tk-wx[hidden] { display: none; }
 .ticker-link:hover .tk-more { text-decoration: underline; }
 .tk-more { text-decoration: none; }
+
+/* Väder */
+.tk-wx { color: #fff; text-decoration: none; white-space: nowrap; padding-right: 1.2rem; border-right: 1px solid rgba(255,255,255,.2); }
+.tk-wx:hover b { text-decoration: underline; }
+.wx-search { position: relative; display: flex; gap: .6rem; margin: 1.5rem 0 1rem; flex-wrap: wrap; }
+#wxSearch { flex: 1 1 260px; font: inherit; padding: .7rem 1rem; border: 2px solid var(--line); border-radius: 999px; background: #fff; min-height: 48px; }
+.wx-results { list-style: none; margin: 0; padding: 0; position: absolute; top: 3.4rem; left: 0; right: 0; z-index: 4; background: #fff; border-radius: 12px; box-shadow: 0 8px 24px rgba(16,42,67,.15); overflow: hidden; }
+.wx-results:empty { display: none; }
+.wx-results li { border-bottom: 1px solid var(--line); } .wx-results li.small { padding: .7rem 1rem; }
+.wx-results button { font: inherit; width: 100%; text-align: left; background: none; border: 0; padding: .7rem 1rem; cursor: pointer; min-height: 44px; }
+.wx-results button:hover, .wx-results button:focus-visible { background: #eef3f8; }
+.wx-card { background: #fff; border-radius: 14px; padding: 1.3rem 1.4rem; box-shadow: 0 4px 14px rgba(16,42,67,.08); margin-bottom: 1.2rem; }
+.wx-card h2 { margin: 0 0 .4rem; font-size: 1.25rem; }
+.wx-card .sub { display: block; font-size: .85rem; font-weight: 500; color: var(--ink-soft); }
+.wx-now { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr); gap: 1.5rem; align-items: center; }
+.wx-temp { font-size: 3.4rem; font-weight: 800; margin: .3rem 0 0; display: flex; align-items: center; gap: .6rem; line-height: 1; }
+.wx-icon { font-size: 3rem; }
+.wx-desc { margin: .3rem 0 0; font-size: 1.1rem; }
+.wx-facts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .8rem 1.2rem; margin: 0; }
+.wx-facts dt { font-size: .8rem; color: var(--ink-soft); }
+.wx-facts dd { margin: 0; font-weight: 700; font-size: 1.05rem; }
+.wx-table { width: 100%; border-collapse: collapse; }
+.wx-table th, .wx-table td { padding: .6rem .4rem; border-bottom: 1px solid var(--line); text-align: left; }
+.wx-table thead th { font-size: .8rem; color: var(--ink-soft); font-weight: 600; }
+.wx-table .num { text-align: right; white-space: nowrap; }
+.wx-sym span[aria-hidden] { font-size: 1.4rem; margin-right: .3rem; }
+.wx-note { margin-bottom: 2rem; }
+.wx-sm { display: none; }
+@media (max-width: 640px) {
+  .wx-now { grid-template-columns: 1fr; }
+  .wx-txt { display: none; }
+  .wx-table th, .wx-table td { padding: .55rem .2rem; font-size: .88rem; }
+  .wx-table tbody th, .wx-table td:first-child { white-space: nowrap; }
+  .wx-card { padding: 1.1rem .9rem; }
+  .wx-lg { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .wx-sm { display: inline; }
+  .wx-table th, .wx-table td { padding-left: .15rem; padding-right: .15rem; }
+}

@@ -37,7 +37,7 @@
       if (m.index) parts.push(`<span class="tk"><b>OMXS30</b> ${nf(m.index.last)} ${change(m.index)}</span>`);
       for (const f of m.fx) parts.push(`<span class="tk"><b>${esc(f.name)}</b> ${nf(f.last)} kr ${change(f, false)}</span>`);
       if (!parts.length) return;
-      el.innerHTML = `<a class="ticker-link" href="borsen.html" aria-label="Börsen: se mer"><div class="wrap ticker-inner">${parts.join("")}<span class="tk-more">Börsen →</span></div></a>`;
+      el.innerHTML = `${parts.join("")}<span class="tk-more">Börsen →</span>`;
       el.hidden = false;
     } catch { /* ingen börsdata – visa inget */ }
   }
