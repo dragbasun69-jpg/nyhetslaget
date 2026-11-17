@@ -152,3 +152,5 @@ body {
 .cat { font-size: .78rem; font-weight: 700; color: var(--ink-soft); text-transform: uppercase; letter-spacing: .04em; }
 .more-wrap { text-align: center; margin: 1.5rem 0 0; }
 .also { margin: 0; font-size: .82rem; color: var(--ink-soft); font-style: italic; }
+.sister { margin: .5rem 0 0; font-size: .92rem; }
+.sister a { color: #fff; font-weight: 600; text-decoration: underline; text-underline-offset: 3px; }
