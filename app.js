@@ -112,6 +112,7 @@
           </div>
           <h2 data-chunk="0"><a href="${esc(safeUrl(x.link))}" target="_blank" rel="noopener">${esc(x.title)}</a></h2>
           <p class="summary">${sentences.map((s, i) => `<span class="sent" data-chunk="${i + 1}">${esc(s)}</span>`).join(" ")}</p>
+          ${x.alsoAt?.length ? `<p class="also">Finns även hos ${esc(x.alsoAt.join(" och "))}</p>` : ""}
           <div class="card-actions">
             ${synth ? `<button class="listen" type="button" data-listen="${esc(x.id)}" aria-pressed="false">🔊 Lyssna</button>` : ""}
             <a class="more" href="${esc(safeUrl(x.link))}" target="_blank" rel="noopener"${x.paywall ? ' title="Kan kräva prenumeration"' : ""}>Läs hela hos ${esc(x.source)}${x.paywall ? " 🔒" : ""} →</a>

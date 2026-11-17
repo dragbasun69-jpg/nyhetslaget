@@ -151,3 +151,4 @@ body {
 .source-pick select { font: inherit; font-size: .9rem; padding: .45rem .7rem; border-radius: 999px; border: 2px solid var(--line); background: #fff; min-height: 40px; max-width: 100%; }
 .cat { font-size: .78rem; font-weight: 700; color: var(--ink-soft); text-transform: uppercase; letter-spacing: .04em; }
 .more-wrap { text-align: center; margin: 1.5rem 0 0; }
+.also { margin: 0; font-size: .82rem; color: var(--ink-soft); font-style: italic; }

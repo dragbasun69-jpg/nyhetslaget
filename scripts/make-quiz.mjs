@@ -325,8 +325,10 @@ async function main() {
   const cutoff = Date.now() - 7 * 864e5;
   // Många källor: ta ett jämnt urval över veckan, högst 8 nyheter per källa
   const thisWeek = archive.items.filter((x) => new Date(x.date || x.firstSeen).getTime() >= cutoff);
+  const seenTitles = new Set();
+  const unique = thisWeek.filter((x) => { const k = (x.title || "").toLowerCase().trim(); return seenTitles.has(k) ? false : seenTitles.add(k); });
   const bySource = new Map();
-  for (const x of thisWeek) { if (!bySource.has(x.sourceId)) bySource.set(x.sourceId, []); bySource.get(x.sourceId).push(x); }
+  for (const x of unique) { if (!bySource.has(x.sourceId)) bySource.set(x.sourceId, []); bySource.get(x.sourceId).push(x); }
   const items = [...bySource.values()].flatMap((list) => {
     const step = Math.max(1, Math.floor(list.length / 8));
     return list.filter((_, i) => i % step === 0).slice(0, 8);

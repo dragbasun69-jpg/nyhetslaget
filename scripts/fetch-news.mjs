@@ -289,14 +289,32 @@ async function main() {
   // Sajten visar nyheter från de senaste dagarna; arkivet sparar en vecka till quizet
   const colors = Object.fromEntries(config.sources.map((s) => [s.id, s.color]));
   const archived = await updateArchive(all);
+  // Samma artikel kan komma från flera tidningar i samma koncern (t.ex. Norra Skåne och
+  // Kristianstadsbladet). Visa den en gång och notera var den mer finns.
+  const order = Object.fromEntries(config.sources.map((s, i) => [s.id, i]));
+  const normTitle = (t) => (t || "").toLowerCase().replace(/[^a-z0-9åäöéü]+/g, " ").trim();
   const siteCutoff = Date.now() - SITE_DAYS * 864e5;
-  all = archived
-    .filter((x) => new Date(x.date || x.firstSeen).getTime() >= siteCutoff)
+  const groups = new Map();
+  for (const x of archived.filter((x) => new Date(x.date || x.firstSeen).getTime() >= siteCutoff)) {
+    const k = normTitle(x.title);
+    if (!groups.has(k)) groups.set(k, []);
+    groups.get(k).push(x);
+  }
+  all = [...groups.values()]
+    .map((g) => {
+      g.sort((a, b) => (order[a.sourceId] ?? 99) - (order[b.sourceId] ?? 99));
+      const main = { ...g[0] };
+      const others = [...new Set(g.slice(1).map((o) => o.source).filter((n) => n !== main.source))];
+      if (others.length) main.alsoAt = others;
+      return main;
+    })
+    .sort((a, b) => (b.date || b.firstSeen || "").localeCompare(a.date || a.firstSeen || ""))
     .slice(0, SITE_MAX)
     .map((x, i) => ({
       title: x.title, link: x.link, summary: x.summary, date: x.date, image: x.image,
       sourceId: x.sourceId, source: x.source, color: colors[x.sourceId] || "#14213d",
       category: x.category, paywall: x.paywall, id: `${x.sourceId}-${i}`,
+      ...(x.alsoAt ? { alsoAt: x.alsoAt } : {}),
     }));
 
   // Skriv bara om något faktiskt ändrats, så att repot inte fylls av tomma ändringar
