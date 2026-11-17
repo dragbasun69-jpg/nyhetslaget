@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nyhetsquiz – Nyhetsläget</title>
+  <meta name="description" content="Veckans nyhetsquiz om nyheterna i Sverige och världen. Elevversion och lärarversion med facit, att skriva ut som PDF.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Nyhetsläget">
+  <meta property="og:title" content="Nyhetsquiz – Nyhetsläget">
+  <meta property="og:description" content="Veckans nyheter som quiz för klassrummet. Elevversion och lärarversion med facit, att skriva ut som PDF.">
+  <meta property="og:url" content="https://dragbasun69-jpg.github.io/nyhetslaget/quiz.html">
+  <meta property="og:image" content="https://dragbasun69-jpg.github.io/nyhetslaget/og-bild.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="sv_SE">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://dragbasun69-jpg.github.io/nyhetslaget/quiz.html">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗞️</text></svg>">
+  <link rel="stylesheet" href="style.css?v=1">
+  <style>
+    .quiz-tools { display:flex; flex-wrap:wrap; gap:.6rem; align-items:center; justify-content:space-between; padding:1rem 0; }
+    .quiz-tools .group { display:flex; flex-wrap:wrap; gap:.5rem; align-items:center; }
+    .quiz-tools select { max-width:100%; font:inherit; padding:.45rem .6rem; border-radius:10px; border:2px solid var(--line); background:#fff; min-height:44px; }
+    .btn-link { text-decoration:none; display:inline-flex; align-items:center; }
+    .sheet { background:#fff; border-radius:14px; padding:2rem 2.2rem; box-shadow:0 4px 14px rgba(20,33,61,.08); margin-bottom:2rem; }
+    .back { color:#fff; opacity:.85; }
+    @media (max-width:600px) { .sheet { padding:1.2rem 1rem; } .quiz-tools .group { width:100%; } .quiz-tools select { width:100%; } }
+    @media print {
+      body { background:#fff; padding:0; }
+      .top, .quiz-tools, .foot, .skip, #empty { display:none !important; }
+      .sheet { box-shadow:none; padding:0; border-radius:0; }
+      .wrap { max-width:none; padding:0; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#sheet">Hoppa till quizet</a>
+  <header class="top">
+    <div class="wrap top-inner">
+      <div>
+        <h1>Nyhetsquiz</h1>
+        <p class="tagline">Veckans nyheter som quiz för klassrummet. <a class="back" href="./">← Till nyheterna</a></p>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="quiz-tools">
+      <div class="group">
+        <label for="week" class="small">Vecka</label>
+        <select id="week"></select>
+        <div class="filters" role="group" aria-label="Version">
+          <button class="chip" type="button" data-version="elev" aria-pressed="true">Elevversion</button>
+          <button class="chip" type="button" data-version="larare" aria-pressed="false">Lärarversion</button>
+        </div>
+      </div>
+      <div class="group">
+        <a id="pdf" class="btn btn-primary btn-link" href="#" download>⬇ Ladda ner PDF</a>
+        <button id="print" class="btn btn-ghost" type="button">🖨 Skriv ut</button>
+      </div>
+    </div>
+
+    <p id="empty" class="status">Hämtar quiz …</p>
+    <div id="sheet" class="sheet" hidden></div>
+  </main>
+
+  <footer class="wrap foot">
+    <p>Ett nytt quiz kommer varje måndag morgon. Frågorna skrivs av AI utifrån veckans nyheter, så läs igenom lärarversionen innan lektionen.</p>
+    <p class="credit">Nyhetsläget är gjort av Torgny Johansson · <a href="about.html">Om sidan</a></p>
+  </footer>
+
+  <script src="quiz-render.js?v=1"></script>
+  <script>
+  (() => {
+    const $ = (id) => document.getElementById(id);
+    const params = new URLSearchParams(location.search);
+    let version = params.get("v") === "larare" ? "larare" : "elev";
+    let quizzes = [];
+    let current = null;
+
+    const style = document.createElement("style");
+    style.textContent = QuizRender.CSS;
+    document.head.appendChild(style);
+
+    function setVersion(v) {
+      version = v;
+      document.querySelectorAll("[data-version]").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.version === v)));
+      draw();
+    }
+
+    function draw() {
+      if (!current) return;
+      try {
+        $("sheet").innerHTML = QuizRender.render(current, version);
+      } catch (err) {
+        console.error(err);
+        $("sheet").innerHTML = "<p>Quizet kunde inte visas. Ladda om sidan (Ctrl + F5). Du kan också ladda ner PDF:en.</p>";
+      }
+      $("sheet").hidden = false;
+      $("pdf").href = `quiz/${current.id}-${version}.pdf`;
+      $("pdf").textContent = version === "elev" ? "⬇ PDF elevversion" : "⬇ PDF lärarversion";
+      document.title = `${current.title} – ${version === "elev" ? "elevversion" : "lärarversion"}`;
+      const url = new URL(location);
+      url.searchParams.set("q", current.id);
+      url.searchParams.set("v", version);
+      history.replaceState(null, "", url);
+    }
+
+    async function open(id) {
+      const res = await fetch(`data/quiz/${id}.json?t=${Date.now()}`, { cache: "no-store" });
+      current = await res.json();
+      draw();
+    }
+
+    document.querySelectorAll("[data-version]").forEach((b) => b.addEventListener("click", () => setVersion(b.dataset.version)));
+    $("week").addEventListener("change", (e) => open(e.target.value));
+    $("print").addEventListener("click", () => window.print());
+
+    fetch(`data/quiz/index.json?t=${Date.now()}`, { cache: "no-store" })
+      .then((r) => (r.ok ? r.json() : { quizzes: [] }))
+      .then((idx) => {
+        quizzes = idx.quizzes || [];
+        if (!quizzes.length) { $("empty").textContent = "Det finns inget quiz än. Det första kommer på måndag morgon."; return; }
+        $("empty").hidden = true;
+        $("week").innerHTML = quizzes.map((q) => `<option value="${q.id}">${q.title} (${q.period})</option>`).join("");
+        const wanted = quizzes.find((q) => q.id === params.get("q"))?.id || quizzes[0].id;
+        $("week").value = wanted;
+        setVersion(version);
+        open(wanted);
+      })
+      .catch(() => { $("empty").textContent = "Kunde inte hämta quizet."; });
+  })();
+  </script>
+  <script data-goatcounter="https://nyhetslaget.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

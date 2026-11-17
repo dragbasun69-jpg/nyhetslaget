@@ -1,0 +1,167 @@
+{
+  "maxPerSource": 20,
+  "maxTotal": 400,
+  "categories": [
+    "Sverige",
+    "Världen",
+    "Lokalt",
+    "Ekonomi",
+    "Vetenskap",
+    "Sport"
+  ],
+  "sources": [
+    {
+      "id": "svt-inrikes",
+      "name": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/inrikes/rss.xml",
+      "category": "Sverige",
+      "color": "#1a1a1a",
+      "paywall": false,
+      "enabled": true
+    },
+    {
+      "id": "ekot",
+      "name": "Ekot",
+      "url": "https://api.sr.se/api/rss/program/83",
+      "category": "Sverige",
+      "color": "#1d4e89",
+      "paywall": false,
+      "enabled": true
+    },
+    {
+      "id": "aftonbladet",
+      "name": "Aftonbladet",
+      "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
+      "category": "Sverige",
+      "color": "#c8102e",
+      "paywall": false,
+      "enabled": true
+    },
+    {
+      "id": "expressen",
+      "name": "Expressen",
+      "url": "https://feeds.expressen.se/nyheter/",
+      "category": "Sverige",
+      "color": "#d2232a",
+      "paywall": false,
+      "enabled": true
+    },
+    {
+      "id": "dn",
+      "name": "DN",
+      "url": "https://www.dn.se/rss/",
+      "category": "Sverige",
+      "color": "#0f4c81",
+      "paywall": true,
+      "enabled": true
+    },
+    {
+      "id": "svd",
+      "name": "SvD",
+      "url": "https://www.svd.se/feed/articles.rss",
+      "category": "Sverige",
+      "color": "#2b2b2b",
+      "paywall": true,
+      "enabled": true
+    },
+    {
+      "id": "svt-utrikes",
+      "name": "SVT Utrikes",
+      "url": "https://www.svt.se/nyheter/utrikes/rss.xml",
+      "category": "Världen",
+      "color": "#1a1a1a",
+      "paywall": false,
+      "enabled": true
+    },
+    {
+      "id": "svt-skane",
+      "name": "SVT Skåne",
+      "url": "https://www.svt.se/nyheter/lokalt/skane/rss.xml",
+      "category": "Lokalt",
+      "color": "#2a9d8f",
+      "paywall": false,
+      "enabled": true
+    },
+    {
+      "id": "p4-kristianstad",
+      "name": "P4 Kristianstad",
+      "url": "https://api.sr.se/api/rss/program/101",
+      "category": "Lokalt",
+      "color": "#e85d04",
+      "paywall": false,
+      "enabled": true
+    },
+    {
+      "id": "nsk",
+      "name": "Norra Skåne",
+      "url": "https://www.nsk.se/rss",
+      "category": "Lokalt",
+      "color": "#6a4c93",
+      "paywall": true,
+      "enabled": true
+    },
+    {
+      "id": "kristianstadsbladet",
+      "name": "Kristianstadsbladet",
+      "url": "https://www.kristianstadsbladet.se/rss",
+      "category": "Lokalt",
+      "color": "#264653",
+      "paywall": true,
+      "enabled": true
+    },
+    {
+      "id": "svt-ekonomi",
+      "name": "SVT Ekonomi",
+      "url": "https://www.svt.se/nyheter/ekonomi/rss.xml",
+      "category": "Ekonomi",
+      "color": "#1a1a1a",
+      "paywall": false,
+      "enabled": true
+    },
+    {
+      "id": "dn-ekonomi",
+      "name": "DN Ekonomi",
+      "url": "https://www.dn.se/rss/ekonomi/",
+      "category": "Ekonomi",
+      "color": "#0f4c81",
+      "paywall": true,
+      "enabled": true
+    },
+    {
+      "id": "svt-vetenskap",
+      "name": "SVT Vetenskap",
+      "url": "https://www.svt.se/nyheter/vetenskap/rss.xml",
+      "category": "Vetenskap",
+      "color": "#1a1a1a",
+      "paywall": false,
+      "enabled": true
+    },
+    {
+      "id": "forskning",
+      "name": "Forskning.se",
+      "url": "https://www.forskning.se/feed/",
+      "category": "Vetenskap",
+      "color": "#3a7d44",
+      "paywall": false,
+      "enabled": true
+    },
+    {
+      "id": "nyteknik",
+      "name": "Ny Teknik",
+      "url": "https://www.nyteknik.se/rss",
+      "category": "Vetenskap",
+      "color": "#005f73",
+      "paywall": true,
+      "enabled": true
+    },
+    {
+      "id": "svt-sport",
+      "name": "SVT Sport",
+      "url": "https://www.svt.se/sport/rss.xml",
+      "category": "Sport",
+      "color": "#1a1a1a",
+      "paywall": false,
+      "enabled": true
+    }
+  ]
+}

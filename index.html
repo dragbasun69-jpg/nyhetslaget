@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nyhetsläget – nyheter från Sverige och världen</title>
+  <meta name="description" content="Nyheter från Sverige, Skåne och världen samlade på ett ställe. SVT, Sveriges Radio, DN, SvD, Aftonbladet, Expressen och fler. Läs, sök, lyssna och gör veckans nyhetsquiz.">
+  <meta name="theme-color" content="#102a43">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Nyhetsläget">
+  <meta property="og:title" content="Nyhetsläget – nyheter från Sverige och världen">
+  <meta property="og:description" content="Nyheter från Sverige, Skåne och världen samlade på ett ställe. SVT, Sveriges Radio, DN, SvD, Aftonbladet, Expressen och fler. Läs, sök, lyssna och gör veckans nyhetsquiz.">
+  <meta property="og:url" content="https://dragbasun69-jpg.github.io/nyhetslaget/">
+  <meta property="og:image" content="https://dragbasun69-jpg.github.io/nyhetslaget/og-bild.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="sv_SE">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://dragbasun69-jpg.github.io/nyhetslaget/">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗞️</text></svg>">
+  <link rel="stylesheet" href="style.css?v=1">
+</head>
+<body>
+  <a class="skip" href="#news">Hoppa till nyheterna</a>
+
+  <header class="top">
+    <div class="wrap top-inner">
+      <div>
+        <h1>Nyhetsläget</h1>
+        <p class="tagline">Sverige, Skåne och världen på ett ställe. Läs eller lyssna.</p>
+      </div>
+      <div class="top-actions">
+        <a href="quiz.html" class="btn btn-ghost btn-quiz">📝 Nyhetsquiz</a>
+        <button id="playAll" class="btn btn-primary" type="button">
+          <span aria-hidden="true">▶</span> Lyssna på alla
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <div class="wrap toolbar" role="region" aria-label="Inställningar">
+    <div class="search-wrap">
+      <label for="search" class="visually-hidden">Sök bland nyheterna</label>
+      <input id="search" type="search" placeholder="🔍 Sök bland nyheterna" autocomplete="off">
+    </div>
+    <div id="filters" class="filters" role="group" aria-label="Välj ämne"></div>
+    <label class="source-pick"><span class="visually-hidden">Välj källa</span><select id="sourceSelect"></select></label>
+    <div class="settings">
+      <button id="textSmaller" class="btn btn-ghost" type="button" aria-label="Mindre text">A−</button>
+      <button id="textBigger" class="btn btn-ghost" type="button" aria-label="Större text">A+</button>
+    </div>
+  </div>
+
+  <main id="news" class="wrap">
+    <p id="status" class="status" aria-live="polite">Hämtar nyheter …</p>
+    <div id="grid" class="grid"></div>
+    <p class="more-wrap"><button id="showMore" class="btn btn-ghost" type="button" hidden>Visa fler nyheter</button></p>
+  </main>
+
+  <footer class="wrap foot">
+    <p id="updated"></p>
+    <p>Rubriker, ingresser och bilder kommer från källorna. Klicka på en nyhet för att läsa hela texten hos källan. 🔒 betyder att källan kan kräva prenumeration.</p>
+    <p id="sourceStatus" class="small"></p>
+    <p id="visits" class="small" hidden></p>
+    <p class="credit">Nyhetsläget är gjort av Torgny Johansson · <a href="about.html">Om sidan</a></p>
+  </footer>
+
+  <!-- Spelaren visas när något läses upp -->
+  <div id="player" class="player" hidden role="region" aria-label="Uppläsning">
+    <div class="wrap player-inner">
+      <div class="now">
+        <span class="now-label">Läser upp</span>
+        <span id="nowTitle" class="now-title"></span>
+      </div>
+      <div class="controls">
+        <button id="prevBtn" class="ctrl" type="button" aria-label="Föregående nyhet">⏮</button>
+        <button id="pauseBtn" class="ctrl ctrl-main" type="button" aria-label="Pausa">⏸</button>
+        <button id="nextBtn" class="ctrl" type="button" aria-label="Nästa nyhet">⏭</button>
+        <button id="stopBtn" class="ctrl" type="button" aria-label="Stoppa">⏹</button>
+      </div>
+      <div class="voice-settings">
+        <label>Hastighet
+          <select id="rate">
+            <option value="0.7">Långsam</option>
+            <option value="0.85">Lite långsam</option>
+            <option value="1" selected>Normal</option>
+            <option value="1.15">Snabb</option>
+          </select>
+        </label>
+        <label>Röst
+          <select id="voice"></select>
+        </label>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js?v=1"></script>
+
+  <!-- Besöksräknare (GoatCounter): inga cookies, inga personuppgifter.
+       Statistiken finns på https://nyhetslaget.goatcounter.com -->
+  <script data-goatcounter="https://nyhetslaget.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

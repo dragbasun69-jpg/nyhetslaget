@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Om Nyhetsläget</title>
+  <meta name="description" content="Om Nyhetsläget – nyheter från Sverige, Skåne och världen samlade på ett ställe.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Nyhetsläget">
+  <meta property="og:title" content="Om Nyhetsläget">
+  <meta property="og:description" content="Nyheter från Sverige, Skåne och världen samlade på ett ställe.">
+  <meta property="og:url" content="https://dragbasun69-jpg.github.io/nyhetslaget/about.html">
+  <meta property="og:image" content="https://dragbasun69-jpg.github.io/nyhetslaget/og-bild.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://dragbasun69-jpg.github.io/nyhetslaget/about.html">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗞️</text></svg>">
+  <link rel="stylesheet" href="style.css?v=1">
+  <style>
+    .about { background:#fff; border-radius:14px; padding:2rem 2.2rem; margin:1.5rem auto 2rem; max-width:760px; box-shadow:0 4px 14px rgba(16,42,67,.08); }
+    .about h2 { font-size:1.3rem; margin:1.8rem 0 .4rem; }
+    .about h2:first-child { margin-top:0; }
+    .about p, .about li { max-width:65ch; }
+    .about ul { padding-left:1.2rem; }
+    .back { color:#fff; opacity:.85; }
+    @media (max-width:600px) { .about { padding:1.3rem 1.1rem; } }
+  </style>
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <div>
+        <h1>Om Nyhetsläget</h1>
+        <p class="tagline">Vem som gjort sidan och hur den fungerar. <a class="back" href="./">← Till nyheterna</a></p>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <article class="about">
+      <h2>Vad är Nyhetsläget?</h2>
+      <p>Nyhetsläget samlar nyheter från Sverige, Skåne och världen på ett ställe. Du kan sortera på ämne och källa, söka och lyssna på nyheterna. Sidan uppdateras automatiskt varje timme.</p>
+      <p>Varje måndag kommer ett <a href="quiz.html">nyhetsquiz</a> om veckans nyheter, med en elevversion och en lärarversion med facit.</p>
+
+      <h2>Vem har gjort sidan?</h2>
+      <p>Nyhetsläget är gjort av <b>Torgny Johansson</b>, gymnasielärare. Sidan och quizen är gjorda med hjälp av AI.</p>
+      <p id="contact" hidden>Har du tips eller hittat ett fel? Mejla <a id="contactLink" href="#"></a>.</p>
+
+      <h2>Var kommer nyheterna ifrån?</h2>
+      <p id="sourceList">Nyheterna hämtas från öppna nyhetsflöden (RSS) hos svenska medier, bland annat SVT, Sveriges Radio, DN, SvD, Aftonbladet och Expressen.</p>
+      <p>Rubriker, ingresser och bilder tillhör källorna. Nyhetsläget visar bara en kort del av varje nyhet och länkar alltid till källan, där du kan läsa hela texten. Nyheter märkta med 🔒 kan kräva prenumeration hos källan.</p>
+
+      <h2>Uppläsningen</h2>
+      <p>Nyheterna läses upp av rösten som finns i din egen mobil eller dator. Ingen text skickas någon annanstans för att läsas upp.</p>
+
+      <h2>Integritet</h2>
+      <p>Nyhetsläget använder inga cookies och samlar inte in personuppgifter. Sidan räknar antal besök med <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a>, som inte sparar något som kan visa vem du är.</p>
+    </article>
+  </main>
+
+  <footer class="wrap foot">
+    <p class="credit">Nyhetsläget är gjort av Torgny Johansson · <a href="about.html">Om sidan</a></p>
+  </footer>
+
+  <script>
+    // Kontaktadress. Lämna tom för att dölja kontaktraden.
+    const CONTACT_EMAIL = ["lattnytt.kontakt", "gmail.com"].join("@");
+    if (CONTACT_EMAIL) {
+      const a = document.getElementById("contactLink");
+      a.href = "mailto:" + CONTACT_EMAIL;
+      a.textContent = CONTACT_EMAIL;
+      document.getElementById("contact").hidden = false;
+    }
+    // Lista källorna som faktiskt används
+    fetch("data/news.json").then((r) => r.json()).then((d) => {
+      const names = [...new Set((d.sources || []).filter((s) => s.ok).map((s) => s.name))];
+      if (names.length) document.getElementById("sourceList").textContent =
+        "Nyheterna hämtas från öppna nyhetsflöden (RSS) hos: " + names.join(", ") + ".";
+    }).catch(() => {});
+  </script>
+  <script data-goatcounter="https://nyhetslaget.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>
