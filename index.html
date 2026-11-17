@@ -23,8 +23,9 @@
 <body>
   <a class="skip" href="#news">Hoppa till nyheterna</a>
 
-  <div class="ticker" aria-label="Väder och börs just nu">
+  <div class="ticker" aria-label="Dagens datum och namn, väder och börs">
     <div class="wrap ticker-inner">
+      <span id="ndChip" class="tk-nd" hidden></span>
       <a id="wxChip" class="tk-wx" href="vader.html" hidden></a>
       <a id="mkChip" class="ticker-link" href="borsen.html" hidden></a>
     </div>
@@ -104,10 +105,11 @@
 
   <script src="app.js?v=1"></script>
   <script src="market.js?v=1"></script>
+  <script src="namnsdag.js?v=1"></script>
   <script src="weather.js?v=1"></script>
   <script>
     Market.ticker(document.getElementById("mkChip"));
-    Weather.chip(document.getElementById("wxChip"));
+    Weather.chip(document.getElementById("wxChip")); Namnsdag.chip(document.getElementById("ndChip"));
   </script>
 
   <!-- Besöksräknare (GoatCounter): inga cookies, inga personuppgifter.

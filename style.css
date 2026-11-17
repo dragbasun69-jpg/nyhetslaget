@@ -188,6 +188,11 @@ body {
 .tk-more { text-decoration: none; }
 
 /* Väder */
+.tk-nd { white-space: nowrap; padding-right: 1.2rem; border-right: 1px solid rgba(255,255,255,.2); color: #c9d4e0; }
+.tk-nd b { color: #fff; font-weight: 600; }
+.tk-nd[hidden] { display: none; }
+@media (max-width: 1400px) { .tk-nd .nd-date { display: none; } }
+@media (max-width: 600px) { .tk-nd, .tk-wx { padding-right: .9rem; } .ticker-inner { gap: .9rem; } }
 .tk-wx { color: #fff; text-decoration: none; white-space: nowrap; padding-right: 1.2rem; border-right: 1px solid rgba(255,255,255,.2); }
 .tk-wx:hover b { text-decoration: underline; }
 .wx-search { position: relative; display: flex; gap: .6rem; margin: 1.5rem 0 1rem; flex-wrap: wrap; }
