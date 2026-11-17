@@ -32,10 +32,11 @@
       .join("");
   }
 
-  function wordBlock(list, prefix, teacher, start) {
+  function wordBlock(list, prefix, teacher, start, head = "") {
     return list
       .map((w, i) => `
       <div class="q">
+        ${i === 0 ? head : ""}
         <p class="qtext"><span class="qnum">${prefix}${start + i}.</span> Vad betyder <b>${esc(w.word)}</b>?</p>
         ${w.context ? `<p class="context">”${esc(w.context)}”</p>` : ""}
         ${options(w, teacher)}
@@ -88,9 +89,7 @@
     <h2>Frågor om nyheterna</h2>
     <p class="instr">Sätt ett kryss vid rätt svar.</p>
     ${mcBlock(B.mc, "", teacher, 1)}
-    <h2>Ord</h2>
-    <p class="instr">Vad betyder ordet? Sätt ett kryss.</p>
-    ${wordBlock(B.words, "", teacher, B.mc.length + 1)}
+    ${wordBlock(B.words, "", teacher, B.mc.length + 1, `<h2>Ord</h2><p class="instr">Vad betyder ordet? Sätt ett kryss.</p>`)}
   </section>
 
   <section class="part disc-part">
@@ -152,8 +151,8 @@
 .lines span { display:block; border-bottom:1px solid var(--line); height:1.7rem; margin-left:2.1rem; }
 .qfoot { margin-top:2rem; font-size:.75rem; color:var(--soft); border-top:1px solid var(--line); padding-top:.4rem; }
 @media print {
-  @page { size:A4; margin:16mm 15mm; }
-  .quiz { font-size:10.5pt; max-width:none; }
+  @page { size:A4; margin:12mm 14mm; }
+  .quiz { font-size:10pt; max-width:none; }
   .quiz h2 { break-after:avoid; } .quiz h3 { break-after:avoid; }
   .part { break-before:auto; }
   .opts { display:grid; grid-template-columns:1fr 1fr; column-gap:1.2rem; }

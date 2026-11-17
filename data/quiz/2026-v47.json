@@ -1,0 +1,221 @@
+{
+  "id": "2026-v47",
+  "year": 2026,
+  "week": 47,
+  "title": "Nyhetsquiz vecka 47",
+  "period": "10–17 november 2026",
+  "siteUrl": "https://dragbasun69-jpg.github.io/nyhetslaget/",
+  "created": "2026-11-17T06:45:27.655Z",
+  "model": "manuellt",
+  "teacherIntro": "Veckans quiz tar upp bedrägerier inför Black Week, vinterns elpriser, Lunds beslut om AI i skolan, forskning om korallrev, ny partiledare för Labour i Storbritannien och VM-guld i ishockey. Eleverna letar upp nyheterna på Nyhetsläget och svarar på frågorna.",
+  "lessonTips": [
+    "Visa Nyhetsläget och hur man använder sökfältet och ämnesknapparna (Sverige, Världen, Lokalt, Ekonomi, Vetenskap, Sport).",
+    "Låt eleverna arbeta i par med flervals- och ordfrågorna, ungefär 20 minuter.",
+    "Gå igenom svaren och be eleverna visa var på sajten svaret står.",
+    "Välj en eller två diskussionsfrågor. Frågan om AI i skolan brukar ge bra samtal."
+  ],
+  "news": [
+    {
+      "n": 1,
+      "title": "Polisen varnar inför Black Week",
+      "studentSummary": "Polisen varnar för fler bedrägerier under Black Week, till exempel falska webbshoppar och bluff-sms. AI används för att göra falska hemsidor som stjäl kortuppgifter.",
+      "teacherBackground": "Black Week är en kampanjvecka med rabatter i slutet av november, som kommer från amerikanska Black Friday. Bedragare utnyttjar att många handlar på nätet. Bra råd är att kontrollera webbadressen, söka efter omdömen om butiken och vara misstänksam mot länkar i sms.",
+      "source": "Ekot",
+      "link": "https://www.sverigesradio.se/artikel/9343993",
+      "originalTitle": "Polisens varning inför ”Black Week”: Smörgåsbord för bedragare"
+    },
+    {
+      "n": 2,
+      "title": "Höga elpriser väntas i vinter",
+      "studentSummary": "Elhandelsbolaget Bixia tror att elen blir ovanligt dyr i södra Sverige i vinter. Systempriset väntas bli cirka 1,70 kronor per kilowattimme mellan december och februari, högre än krisvintern 2022/2023.",
+      "teacherBackground": "Sverige är indelat i fyra elområden och priset är ofta högre i södra Sverige. Systempriset är ett referenspris för hela Norden. Vintern 2022/2023 hade mycket höga elpriser, bland annat på grund av energikrisen i Europa efter Rysslands invasion av Ukraina.",
+      "source": "SVT Ekonomi",
+      "link": "https://www.svt.se/nyheter/ekonomi/hoga-elpriser-vantas-i-sodra-sverige-trots-gynnsamt-vader",
+      "originalTitle": "Höga elpriser väntas i södra Sverige – trots gynnsamt väder"
+    },
+    {
+      "n": 3,
+      "title": "Lund stoppar AI för grundskoleelever",
+      "studentSummary": "Vid årsskiftet stoppas grundskoleelevernas AI-användning i Lunds kommun. Kommunen är orolig för både elevernas lärande och hälsa.",
+      "teacherBackground": "AI-tjänster som chattbottar kan skriva texter och lösa uppgifter. Många skolor diskuterar hur AI ska användas så att eleverna fortfarande lär sig själva. Beslutet gäller grundskolan i Lund. Koppla gärna till er egen skolas regler för AI.",
+      "source": "SVT Skåne",
+      "link": "https://www.svt.se/nyheter/lokalt/skane/lund-stoppar-ai-for-elever-oro-for-skolresultat",
+      "originalTitle": "Lund stoppar AI för elever – oro för skolresultat"
+    },
+    {
+      "n": 4,
+      "title": "Koraller kan rädda varandra",
+      "studentSummary": "Enligt en ny studie riskerar 44 procent av världens revbyggande korallarter att dö ut. Forskare har lyckats läka en sjuk korall med hjälp av en ”donatorkorall” som ger alger.",
+      "teacherBackground": "Korallrev byggs av små djur, koralldjur, som lever tillsammans med alger. När havet blir för varmt stöter korallerna bort algerna och bleks, och då kan de dö. Reven är hem för en stor del av havets arter.",
+      "source": "SVT Vetenskap",
+      "link": "https://www.svt.se/nyheter/vetenskap/koraller-kan-radda-varandra-fran-doden-donerar-alger",
+      "originalTitle": "Koraller kan rädda varandra från döden – ”donerar” alger"
+    },
+    {
+      "n": 5,
+      "title": "Ny partiledare för Labour",
+      "studentSummary": "Andy Burnham har valts till ny partiledare för Labour och väntas bli Storbritanniens premiärminister efter Keir Starmer. Han kallas ”King of the north”.",
+      "teacherBackground": "Labour är ett av de två största partierna i Storbritannien. Ledaren för det parti som styr landet blir normalt premiärminister. Smeknamnet ”King of the north” hänger ihop med att Burnham är känd som politiker i norra England.",
+      "source": "SVT Utrikes",
+      "link": "https://www.svt.se/nyheter/utrikes/han-kallas-king-of-the-north-vem-ar-andy-burnham",
+      "originalTitle": "Han kallas ”King of the north” – vem är Andy Burnham?"
+    },
+    {
+      "n": 6,
+      "title": "USA världsmästare i ishockey",
+      "studentSummary": "USA vann VM-guld i ishockey efter finalseger mot Kanada. Hilary Knight slog ett stort rekord.",
+      "teacherBackground": "Hilary Knight är en av USA:s mest framgångsrika ishockeyspelare genom tiderna. USA och Kanada har länge varit de bästa lagen i damernas ishockey och möts ofta i finaler.",
+      "source": "SVT Sport",
+      "link": "https://www.svt.se/sport/ishockey/hilary-knight-slog-maktiga-rekordet-nar-usa-vann-vm-guld",
+      "originalTitle": "Hilary Knight slog mäktiga rekordet när USA vann VM-guld"
+    }
+  ],
+  "questions": {
+    "mc": [
+      {
+        "q": "Vad varnar polisen för inför Black Week?",
+        "options": [
+          "Att kortbetalningar inte fungerar under veckan",
+          "Fler bedrägerier, till exempel falska webbshoppar och bluff-sms",
+          "Att priserna egentligen inte blir lägre",
+          "Att butikerna kommer att ta slut på varor"
+        ],
+        "answer": 1,
+        "explanation": "Polisen varnar för ökad risk för bedrägerier, bland annat falska webbshoppar och bluff-sms.",
+        "news": 1
+      },
+      {
+        "q": "Vad är speciellt med prognosen för vinterns elpriser i södra Sverige?",
+        "options": [
+          "Priserna väntas bli högre än under krisvintern 2022/2023",
+          "Elen väntas bli gratis under julhelgen",
+          "Priserna väntas bli lika höga i hela Sverige",
+          "Priserna väntas bli de lägsta på tio år"
+        ],
+        "answer": 0,
+        "explanation": "Systempriset väntas bli cirka 1,70 kr per kWh, vilket är högre än under krisvintern 2022/2023.",
+        "news": 2
+      },
+      {
+        "q": "Varför stoppar Lunds kommun grundskoleelevernas AI-användning?",
+        "options": [
+          "Lärarna vill använda AI själva i stället",
+          "Kommunen är orolig för elevernas lärande och hälsa",
+          "AI-tjänsterna har blivit för dyra för kommunen",
+          "Eleverna har fuskat på de nationella proven"
+        ],
+        "answer": 1,
+        "explanation": "Beslutet grundar sig i en oro för både elevernas lärande och hälsa.",
+        "news": 3
+      },
+      {
+        "q": "Hur lyckades forskarna läka en sjuk korall?",
+        "options": [
+          "Genom att bygga ett konstgjort rev runt den",
+          "Genom att ge korallen medicin",
+          "Med hjälp av en annan korall som ”donerade” alger",
+          "Genom att flytta korallen till kallare vatten"
+        ],
+        "answer": 2,
+        "explanation": "Forskarna läkte korallen med hjälp av en ”donatorkorall” som gav alger.",
+        "news": 4
+      },
+      {
+        "q": "Vad väntas hända efter att Andy Burnham valts till ny partiledare för Labour?",
+        "options": [
+          "Han väntas bli Natos nya generalsekreterare",
+          "Han väntas bli Storbritanniens premiärminister efter Keir Starmer",
+          "Han väntas utlysa en folkomröstning om EU",
+          "Han väntas flytta till Skottland och starta ett nytt parti"
+        ],
+        "answer": 1,
+        "explanation": "Burnham väntas bli premiärminister i Storbritannien efter Keir Starmer.",
+        "news": 5
+      },
+      {
+        "q": "Vad hände i VM-finalen i ishockey?",
+        "options": [
+          "Kanada vann över USA efter straffar",
+          "Sverige tog sitt första VM-guld",
+          "USA vann över Kanada och Hilary Knight slog ett rekord",
+          "Finalen ställdes in på grund av snöoväder"
+        ],
+        "answer": 2,
+        "explanation": "USA blev världsmästare efter finalseger över Kanada, och Hilary Knight slog ett stort rekord.",
+        "news": 6
+      }
+    ],
+    "words": [
+      {
+        "word": "bedrägerier",
+        "context": "Polisen varnar för ökad risk för bedrägerier under Black Week.",
+        "options": [
+          "Rabatter som bara gäller en dag",
+          "Kontroller av varors kvalitet",
+          "Brott där någon luras att ge bort pengar eller uppgifter",
+          "Leveranser som blir försenade"
+        ],
+        "answer": 2,
+        "explanation": "Ett bedrägeri är när någon lurar en annan person, ofta för att komma åt pengar eller uppgifter."
+      },
+      {
+        "word": "prognos",
+        "context": "Vinterns elräkningar väntas bli ovanligt höga, enligt en prognos från elhandelsbolaget Bixia.",
+        "options": [
+          "En mätning av hur mycket el man har använt",
+          "En lag om hur mycket el får kosta",
+          "En räkning som skickas i efterhand",
+          "En bedömning av hur något kommer att bli i framtiden"
+        ],
+        "answer": 3,
+        "explanation": "En prognos är en bedömning av hur något kommer att utvecklas, till exempel väder eller priser."
+      },
+      {
+        "word": "partiledare",
+        "context": "Andy Burnham har valts till ny partiledare för Labour.",
+        "options": [
+          "Den som leder parlamentets möten",
+          "Den som räknar rösterna i ett val",
+          "En minister som ansvarar för utrikesfrågor",
+          "Den som leder ett politiskt parti"
+        ],
+        "answer": 3,
+        "explanation": "Partiledaren är den som leder ett politiskt parti och är partiets ansikte utåt."
+      },
+      {
+        "word": "dominant",
+        "context": "VM-dominanten Hilary Knight visade klass i finalsegern över Kanada.",
+        "options": [
+          "Någon som är överlägsen och ofta vinner",
+          "En domare i en match",
+          "En spelare som är skadad",
+          "Någon som precis har börjat spela"
+        ],
+        "answer": 0,
+        "explanation": "Den som är dominant är överlägsen och har stort inflytande, här en spelare som ofta har avgjort VM."
+      }
+    ],
+    "discussion": [
+      {
+        "q": "Lunds kommun stoppar AI för grundskoleelever. Ska skolan begränsa AI? Var går gränsen mellan hjälp och fusk?",
+        "tips": "Låt eleverna ge exempel på när AI hjälper lärandet (förklara, ge övningsuppgifter) och när det tar över (skriva hela uppgiften). Koppla till skolans egna regler.",
+        "news": 3
+      },
+      {
+        "q": "Hur kan man känna igen en falsk webbshop eller ett bluff-sms? Vad gör man om man har blivit lurad?",
+        "tips": "Kontrollera webbadressen, sök på butikens namn och omdömen, var misstänksam mot för bra priser och länkar i sms. Har man blivit lurad: kontakta banken direkt och anmäl till polisen.",
+        "news": 1
+      },
+      {
+        "q": "Elen kan bli dyr i vinter. Hur påverkar det olika hushåll, och vad kan man göra för att använda mindre el?",
+        "tips": "Prata om att hushåll med elvärme och låga inkomster påverkas mest. Tips: sänka värmen lite, kortare duschar, tvätta och diska när elen är billigare.",
+        "news": 2
+      },
+      {
+        "q": "Varför är korallreven viktiga, och vad kan vi göra för att skydda haven?",
+        "tips": "Reven är hem för många arter och viktiga för fiske och kuster. Koppla till klimatförändringar och varmare hav, och till sådant man själv kan påverka.",
+        "news": 4
+      }
+    ]
+  }
+}
