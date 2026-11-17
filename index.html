@@ -23,6 +23,8 @@
 <body>
   <a class="skip" href="#news">Hoppa till nyheterna</a>
 
+  <div id="ticker" class="ticker" hidden aria-label="Börsen just nu"></div>
+
   <header class="top">
     <div class="wrap top-inner">
       <div>
@@ -96,6 +98,8 @@
   </div>
 
   <script src="app.js?v=1"></script>
+  <script src="market.js?v=1"></script>
+  <script>Market.ticker(document.getElementById("ticker"));</script>
 
   <!-- Besöksräknare (GoatCounter): inga cookies, inga personuppgifter.
        Statistiken finns på https://nyhetslaget.goatcounter.com -->
