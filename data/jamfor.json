@@ -1,133 +1,15 @@
 {
-  "updated": "2026-11-18T09:14:24.471Z",
+  "updated": "2026-11-18T10:18:09.315Z",
   "clusters": [
     {
-      "id": "k-aftonbladet-559",
-      "sources": 5,
-      "latest": "2026-11-18T06:38:47.000Z",
-      "category": "Sverige",
-      "image": "https://akamai.vgc.no/v2/images/f1808a0e-7fd6-393c-b48b-b6fd625e7824?format=auto&w=1000&s=aacd9d29fe5fb6f41da9eaf6d8410b737cf275a0",
-      "versions": [
-        {
-          "id": "aftonbladet-559",
-          "source": "Aftonbladet",
-          "color": "#c8102e",
-          "title": "Kräver att Nvidiachefen återvänder: ”Backa Jensen”",
-          "summary": "”Backa Jensen” ✓ Styrelsen säger nej",
-          "link": "https://www.aftonbladet.se/nyheter/a/nLaLOd/kraver-att-nvidia-chefen-jensen-huang-atervander?utm_medium=rss",
-          "date": "2026-11-16T18:05:21.000Z",
-          "paywall": false
-        },
-        {
-          "id": "svt-utrikes-243",
-          "source": "SVT Utrikes",
-          "color": "#1a1a1a",
-          "title": "Jensen Huang bryter tystnaden",
-          "summary": "Jensen Huang bryter tystnaden efter otrohetsskandalerna. Till The Wall Street Journal säger Nvidias tidigare vd att han är beredd att komma tillbaka till företaget.",
-          "link": "https://www.svt.se/nyheter/utrikes/jensen-huang-bryter-tystnaden",
-          "date": "2026-11-17T16:11:11.000Z",
-          "paywall": false
-        },
-        {
-          "id": "ekot-230",
-          "source": "Ekot",
-          "color": "#1d4e89",
-          "title": "Jensen Huang: Redo att återvända till Nvidia som vd",
-          "summary": "Chiptillverkaren Nvidias nyss avgångne vd Jensen Huang säger till The Wall Street Journal att han är redo att återvända som vd om Nvidias styrelse vill det. Styrelsen uppger dock på tisdagskvällen att man inte planerar att välkomna Jensen Huang tillbaka som vd.",
-          "link": "https://www.sverigesradio.se/artikel/9344708",
-          "date": "2026-11-17T16:46:00.000Z",
-          "paywall": false
-        },
-        {
-          "id": "expressen-184",
-          "source": "Expressen",
-          "color": "#d2232a",
-          "title": "Tidigare Nvidia-chefen bryter tystnaden efter otrohetsaffärerna",
-          "summary": "Jensen Huang är beredd att återvända som vd för Nvidia om bolagets styrelse ber honom. Det säger han i sitt första offentliga uttalande sedan han lämnade chipjätten efter avslöjandena om sina otrohetsaffärer. – Jag skapade problem för styrelsen som jag djupt ångrar. Jag tar fullt ansvar för mina misstag.",
-          "link": "https://www.expressen.se/nyheter/varlden/tidigare-nvidia-chefen-bryter-tystnaden-efter-otrohetsaffarerna/",
-          "date": "2026-11-17T18:37:47.000Z",
-          "paywall": false
-        },
-        {
-          "id": "svd-49",
-          "source": "SvD",
-          "color": "#2b2b2b",
-          "title": "Huang vill återvända till Nvidia",
-          "summary": "",
-          "link": "https://www.svd.se/a/dJOMyJ/jensen-huang-vill-atervanda-som-nvidias-vd?utm_medium=rss",
-          "date": "2026-11-18T06:38:47.000Z",
-          "paywall": true
-        }
-      ]
-    },
-    {
-      "id": "k-aftonbladet-205",
-      "sources": 5,
-      "latest": "2026-11-17T19:47:05.000Z",
-      "category": "Sverige",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.6/a1212553184ede5163f0cb57e9be1b3b8f9a5bf1545f9db9b2632de51a4e6de8",
-      "versions": [
-        {
-          "id": "svt-utrikes-488",
-          "source": "SVT Utrikes",
-          "color": "#1a1a1a",
-          "title": "Japan: Ryska plan har kränkt vårt luftrum",
-          "summary": "Två flygplan som misstänks komma från Ryssland har kränkt Japans luftrum, uppger japanska regeringsföreträdare natten mot tisdagen, svensk tid. Även i Taiwan upptäckte man två ryska militärflygplan som flög in i landets luftförsvarsidentifieringszon.",
-          "link": "https://www.svt.se/nyheter/utrikes/japan-ryska-plan-har-krankt-vart-luftrum",
-          "date": "2026-11-17T01:40:19.000Z",
-          "paywall": false
-        },
-        {
-          "id": "aftonbladet-205",
-          "source": "Aftonbladet",
-          "color": "#c8102e",
-          "title": "Drönare mot Moldaviens huvudstad – luftrum stängt",
-          "summary": "Moldaviens luftrum är av säkerhetsskäl stängt sedan en drönare på väg mot huvudstaden Chisinau…",
-          "link": "https://www.aftonbladet.se/nyheter/a/g37pMa/dronare-mot-moldaviens-huvudstad-luftrum-stangt?utm_medium=rss",
-          "date": "2026-11-17T17:32:53.000Z",
-          "paywall": false
-        },
-        {
-          "id": "svd-203",
-          "source": "SvD",
-          "color": "#2b2b2b",
-          "title": "Moldavien stänger luftrum efter drönarlarm",
-          "summary": "",
-          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80013&utm_medium=rss",
-          "date": "2026-11-17T17:40:36.000Z",
-          "paywall": true
-        },
-        {
-          "id": "ekot-202",
-          "source": "Ekot",
-          "color": "#1d4e89",
-          "title": "Moldavien stängde luftrummet i landet",
-          "summary": "Moldavien stängde tillfälligt sitt luftrum på tisdagseftermiddagen efter att flera drönare upptäckts, på väg mot huvudstaden Chisinau, rapporterar AFP. Luftrummet öppnades för civila flyg igen tidigt på tisdagskvällen. Myndigheterna pekar ut Ryssland.",
-          "link": "https://www.sverigesradio.se/artikel/9344734",
-          "date": "2026-11-17T17:53:00.000Z",
-          "paywall": false
-        },
-        {
-          "id": "expressen-155",
-          "source": "Expressen",
-          "color": "#d2232a",
-          "title": "Luftrum över Moldavien stängt",
-          "summary": "Ryska drönare kränkt • Moldaviens stänger luftrum",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4c8078b7-ae6e-46c8-a96d-d7feba2738cf",
-          "date": "2026-11-17T19:47:05.000Z",
-          "paywall": false
-        }
-      ]
-    },
-    {
-      "id": "k-aftonbladet-523",
-      "sources": 5,
-      "latest": "2026-11-17T10:26:26.000Z",
+      "id": "k-aftonbladet-546",
+      "sources": 6,
+      "latest": "2026-11-17T18:38:30.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/13001824-6f57-3972-bc7d-5a49411a6199?format=auto&w=1000&s=eb84adef0f5dcf39196ceedb7cd47f1147246f84",
       "versions": [
         {
-          "id": "aftonbladet-523",
+          "id": "aftonbladet-546",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "SD-ledamot ändrar sig – tänker inte hoppa av",
@@ -140,7 +22,7 @@
           ]
         },
         {
-          "id": "svt-inrikes-515",
+          "id": "svt-inrikes-538",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Rasmus Giertz (SD) ändrar sig – hoppar inte av riksdagsuppdrag",
@@ -150,7 +32,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-513",
+          "id": "expressen-536",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Rasmus Giertz (SD) svänger – stannar i riksdagen",
@@ -160,7 +42,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-492",
+          "id": "ekot-515",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Giertz (SD) ändrar sig – lämnar inte riksdagen",
@@ -170,7 +52,7 @@
           "paywall": false
         },
         {
-          "id": "svd-353",
+          "id": "svd-376",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Drog tillbaka avhopp – utreds av partiet",
@@ -178,18 +60,195 @@
           "link": "https://www.svd.se/a/g37LmJ/drog-tillbaka-avhopp-utreds-av-partiet?utm_medium=rss",
           "date": "2026-11-17T10:26:26.000Z",
           "paywall": true
+        },
+        {
+          "id": "dn-206",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "Giertz informerade inte SD om svängningen: ”Har läst i media”",
+          "summary": "SD-ledamoten Rasmus Giertz var överens med partiet om att lämna riksdagen – sedan ändrade han sig. Han har inte informerat partiet om sina nya planer. – Det har jag läst om i media, säger SD:s gruppledare Matheus Enholm.",
+          "link": "https://www.dn.se/sverige/giertz-informerade-inte-sd-om-svangningen-har-last-i-media/",
+          "date": "2026-11-17T18:38:30.000Z",
+          "paywall": true
         }
       ]
     },
     {
-      "id": "k-aftonbladet-68",
+      "id": "k-aftonbladet-582",
+      "sources": 5,
+      "latest": "2026-11-18T06:38:47.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/f1808a0e-7fd6-393c-b48b-b6fd625e7824?format=auto&w=1000&s=aacd9d29fe5fb6f41da9eaf6d8410b737cf275a0",
+      "versions": [
+        {
+          "id": "aftonbladet-582",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Kräver att Nvidiachefen återvänder: ”Backa Jensen”",
+          "summary": "”Backa Jensen” ✓ Styrelsen säger nej",
+          "link": "https://www.aftonbladet.se/nyheter/a/nLaLOd/kraver-att-nvidia-chefen-jensen-huang-atervander?utm_medium=rss",
+          "date": "2026-11-16T18:05:21.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svt-utrikes-266",
+          "source": "SVT Utrikes",
+          "color": "#1a1a1a",
+          "title": "Jensen Huang bryter tystnaden",
+          "summary": "Jensen Huang bryter tystnaden efter otrohetsskandalerna. Till The Wall Street Journal säger Nvidias tidigare vd att han är beredd att komma tillbaka till företaget.",
+          "link": "https://www.svt.se/nyheter/utrikes/jensen-huang-bryter-tystnaden",
+          "date": "2026-11-17T16:11:11.000Z",
+          "paywall": false
+        },
+        {
+          "id": "ekot-253",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Jensen Huang: Redo att återvända till Nvidia som vd",
+          "summary": "Chiptillverkaren Nvidias nyss avgångne vd Jensen Huang säger till The Wall Street Journal att han är redo att återvända som vd om Nvidias styrelse vill det. Styrelsen uppger dock på tisdagskvällen att man inte planerar att välkomna Jensen Huang tillbaka som vd.",
+          "link": "https://www.sverigesradio.se/artikel/9344708",
+          "date": "2026-11-17T16:46:00.000Z",
+          "paywall": false
+        },
+        {
+          "id": "expressen-207",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Tidigare Nvidia-chefen bryter tystnaden efter otrohetsaffärerna",
+          "summary": "Jensen Huang är beredd att återvända som vd för Nvidia om bolagets styrelse ber honom. Det säger han i sitt första offentliga uttalande sedan han lämnade chipjätten efter avslöjandena om sina otrohetsaffärer. – Jag skapade problem för styrelsen som jag djupt ångrar. Jag tar fullt ansvar för mina misstag.",
+          "link": "https://www.expressen.se/nyheter/varlden/tidigare-nvidia-chefen-bryter-tystnaden-efter-otrohetsaffarerna/",
+          "date": "2026-11-17T18:37:47.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svd-71",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Huang vill återvända till Nvidia",
+          "summary": "",
+          "link": "https://www.svd.se/a/dJOMyJ/jensen-huang-vill-atervanda-som-nvidias-vd?utm_medium=rss",
+          "date": "2026-11-18T06:38:47.000Z",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-228",
+      "sources": 5,
+      "latest": "2026-11-17T19:47:05.000Z",
+      "category": "Sverige",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.6/a1212553184ede5163f0cb57e9be1b3b8f9a5bf1545f9db9b2632de51a4e6de8",
+      "versions": [
+        {
+          "id": "svt-utrikes-511",
+          "source": "SVT Utrikes",
+          "color": "#1a1a1a",
+          "title": "Japan: Ryska plan har kränkt vårt luftrum",
+          "summary": "Två flygplan som misstänks komma från Ryssland har kränkt Japans luftrum, uppger japanska regeringsföreträdare natten mot tisdagen, svensk tid. Även i Taiwan upptäckte man två ryska militärflygplan som flög in i landets luftförsvarsidentifieringszon.",
+          "link": "https://www.svt.se/nyheter/utrikes/japan-ryska-plan-har-krankt-vart-luftrum",
+          "date": "2026-11-17T01:40:19.000Z",
+          "paywall": false
+        },
+        {
+          "id": "aftonbladet-228",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Drönare mot Moldaviens huvudstad – luftrum stängt",
+          "summary": "Moldaviens luftrum är av säkerhetsskäl stängt sedan en drönare på väg mot huvudstaden Chisinau…",
+          "link": "https://www.aftonbladet.se/nyheter/a/g37pMa/dronare-mot-moldaviens-huvudstad-luftrum-stangt?utm_medium=rss",
+          "date": "2026-11-17T17:32:53.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svd-226",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Moldavien stänger luftrum efter drönarlarm",
+          "summary": "",
+          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80013&utm_medium=rss",
+          "date": "2026-11-17T17:40:36.000Z",
+          "paywall": true
+        },
+        {
+          "id": "ekot-225",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Moldavien stängde luftrummet i landet",
+          "summary": "Moldavien stängde tillfälligt sitt luftrum på tisdagseftermiddagen efter att flera drönare upptäckts, på väg mot huvudstaden Chisinau, rapporterar AFP. Luftrummet öppnades för civila flyg igen tidigt på tisdagskvällen. Myndigheterna pekar ut Ryssland.",
+          "link": "https://www.sverigesradio.se/artikel/9344734",
+          "date": "2026-11-17T17:53:00.000Z",
+          "paywall": false
+        },
+        {
+          "id": "expressen-178",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Luftrum över Moldavien stängt",
+          "summary": "Ryska drönare kränkt • Moldaviens stänger luftrum",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4c8078b7-ae6e-46c8-a96d-d7feba2738cf",
+          "date": "2026-11-17T19:47:05.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-ekot-22",
+      "sources": 4,
+      "latest": "2026-11-18T10:14:24.000Z",
+      "category": "Sverige",
+      "image": "https://image-api.sr.se/v1/static/AA/83/fee62f75-5243-4e89-bcd7-fe878c3bacfd.jpg?w=1200&h=675&q=75",
+      "versions": [
+        {
+          "id": "ekot-22",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Alla partier överens om nytt kvittningssystem",
+          "summary": "Riksdagspartierna är överens om en ny kvittningsöverenskommelse, enligt TT. Överenskommelsen ska börja gälla nästa vecka och innebär att 10,5 procent av ledamöterna kommer att vara utkvitterade vid varje voteringstillfälle – vilket i mandat översätts till 36 av 349 ledamöter.",
+          "link": "https://www.sverigesradio.se/artikel/9345047",
+          "date": "2026-11-18T09:17:00.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svd-20",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Partierna överens om nytt kvittningssystem",
+          "summary": "",
+          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80060&utm_medium=rss",
+          "date": "2026-11-18T09:22:33.000Z",
+          "paywall": true
+        },
+        {
+          "id": "expressen-11",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Nytt kvittningssystem",
+          "summary": "Beskedet: Alla riksdagspartier överens",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=32f575a7-9d08-46c1-afd4-52af8d0f5c11",
+          "date": "2026-11-18T09:51:45.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svt-inrikes-2",
+          "source": "SVT Nyheter",
+          "color": "#1a1a1a",
+          "title": "Riksdagens partier överens om nytt kvittningssystem",
+          "summary": "Alla riksdagens partier har enats om ett nytt kvittningssystem. Överenskommelsen sätter därmed punkt för det halvår långa ”kvittningskaoset” i riksdagen. – Jag skulle säga att det är över nu, säger Moderaterna gruppledare Mattias Karlsson.",
+          "link": "https://www.svt.se/nyheter/inrikes/riksdagens-partier-overens-om-nytt-kvittningssystem",
+          "date": "2026-11-18T10:14:24.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-91",
       "sources": 4,
       "latest": "2026-11-18T06:02:19.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/d5129884-ed22-388d-a2f0-2198df137fad?format=auto&w=1000&s=af5ed7843625d14d83a1783b4f13931b0c49c753",
       "versions": [
         {
-          "id": "aftonbladet-68",
+          "id": "aftonbladet-91",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Startnumret är årets julklapp",
@@ -202,7 +261,7 @@
           ]
         },
         {
-          "id": "svt-inrikes-67",
+          "id": "svt-inrikes-90",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Årets julklapp – startnumret till ett motionslopp",
@@ -212,7 +271,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-65",
+          "id": "ekot-88",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Startnummer är årets julklapp",
@@ -222,7 +281,7 @@
           "paywall": false
         },
         {
-          "id": "svd-62",
+          "id": "svd-85",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "God jul! Du får ett motionslopp",
@@ -234,14 +293,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-160",
+      "id": "k-aftonbladet-183",
       "sources": 4,
       "latest": "2026-11-17T19:17:56.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/a7755dfd-b2b3-4478-bd44-f486741979e2.jpeg?crop=1979%2C1113%2Cx0%2Cy298",
       "versions": [
         {
-          "id": "expressen-520",
+          "id": "expressen-543",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Svensk forskare: Det talar emot att Epstein begick självmord",
@@ -251,7 +310,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-506",
+          "id": "ekot-529",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Svenska experten: Epsteins skador talar emot självmord",
@@ -261,7 +320,7 @@
           "paywall": false
         },
         {
-          "id": "dn-310",
+          "id": "dn-333",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Rättsläkare: Epstein mördades i sin cell",
@@ -271,7 +330,7 @@
           "paywall": true
         },
         {
-          "id": "aftonbladet-160",
+          "id": "aftonbladet-183",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Svensk professor om Epstein: Kan ha mördats",
@@ -286,14 +345,14 @@
       ]
     },
     {
-      "id": "k-ekot-409",
+      "id": "k-ekot-432",
       "sources": 4,
       "latest": "2026-11-17T12:45:50.000Z",
       "category": "Sverige",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.47/0.31/98df5b7810b4a37861ed506cdbd93720e4e7fff4587a90d6b6a286f3298d88ae",
       "versions": [
         {
-          "id": "svt-utrikes-415",
+          "id": "svt-utrikes-438",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Chatta med Bert Sundström – slutar efter 36 år på SVT",
@@ -303,7 +362,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-412",
+          "id": "expressen-435",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Bert Sundström slutar på SVT efter 36 år, enligt kanalen",
@@ -313,7 +372,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-409",
+          "id": "ekot-432",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Bert Sundström slutar på SVT",
@@ -326,7 +385,7 @@
           ]
         },
         {
-          "id": "svd-308",
+          "id": "svd-331",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Veteranen slutar: ”SVT är klart höger”",
@@ -338,14 +397,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-331",
+      "id": "k-aftonbladet-354",
       "sources": 4,
       "latest": "2026-11-17T12:03:43.000Z",
       "category": "Sverige",
       "image": "https://www.svd.se/monorepo-api/og/wA9Gmd.png?pinnedEntry=80000",
       "versions": [
         {
-          "id": "svd-333",
+          "id": "svd-356",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Radhus brinner i Södertälje",
@@ -355,7 +414,7 @@
           "paywall": true
         },
         {
-          "id": "aftonbladet-331",
+          "id": "aftonbladet-354",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Radhuslänga brinner i Södertälje",
@@ -365,7 +424,7 @@
           "paywall": false
         },
         {
-          "id": "svt-inrikes-328",
+          "id": "svt-inrikes-351",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Brand i radhus i Södertälje",
@@ -375,7 +434,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-318",
+          "id": "expressen-341",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Radhusbrand i Hovsjö i Södertälje",
@@ -387,14 +446,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-401",
+      "id": "k-aftonbladet-424",
       "sources": 4,
       "latest": "2026-11-17T08:48:53.000Z",
       "category": "Lokalt",
       "image": "https://static.bonniernews.se/ba/fc625cc1-9eeb-43ce-bd6a-11d1e8f1f721.jpeg?width=600",
       "versions": [
         {
-          "id": "nsk-538",
+          "id": "nsk-561",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "Säpo inkopplad – man skrev till Lind (MP): ”Haschtomte”",
@@ -407,7 +466,7 @@
           ]
         },
         {
-          "id": "p4-kristianstad-438",
+          "id": "p4-kristianstad-461",
           "source": "P4 Kristianstad",
           "color": "#e85d04",
           "title": "Dödshotade Amanda Lind (MP): ”Din lilla haschrökare”",
@@ -417,7 +476,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-401",
+          "id": "aftonbladet-424",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Mordhotade Amanda Lind – åtalas",
@@ -430,7 +489,7 @@
           ]
         },
         {
-          "id": "svt-skane-393",
+          "id": "svt-skane-416",
           "source": "SVT Skåne",
           "color": "#2a9d8f",
           "title": "Utredning om mordhot mot Amanda Lind (MP) läggs ned",
@@ -442,14 +501,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-29",
+      "id": "k-aftonbladet-51",
       "sources": 3,
       "latest": "2026-11-18T08:50:00.000Z",
       "category": "Sverige",
       "image": "https://aftonbladet.se/monorepo-api/og/2vGoVr.png",
       "versions": [
         {
-          "id": "aftonbladet-29",
+          "id": "aftonbladet-51",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Norsk säkerhetstjänst: ”Ökad risk för terrorattacker”",
@@ -459,7 +518,7 @@
           "paywall": false
         },
         {
-          "id": "svd-16",
+          "id": "svd-38",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Norge: Ökad risk för terrordåd",
@@ -469,7 +528,7 @@
           "paywall": true
         },
         {
-          "id": "ekot-6",
+          "id": "ekot-28",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Norsk säkerhetstjänst höjer terrorvarning",
@@ -481,14 +540,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-269",
+      "id": "k-aftonbladet-292",
       "sources": 3,
       "latest": "2026-11-17T18:17:11.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/47d6d2c9-7611-366f-8da8-30c365058115?format=auto&w=1000&s=7d009a9ffa0f5d83283fdb32db7e917b19e76383",
       "versions": [
         {
-          "id": "aftonbladet-269",
+          "id": "aftonbladet-292",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Anställd vid vårdcentral attackerad i Kalix",
@@ -498,7 +557,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-267",
+          "id": "expressen-290",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Sjukvårdsanställd skadad i Kalix – misstänkt mordförsök",
@@ -508,7 +567,7 @@
           "paywall": false
         },
         {
-          "id": "svd-192",
+          "id": "svd-215",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Misstänkt mordförsök vid hälsocentral i Kalix",
@@ -520,14 +579,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-327",
+      "id": "k-aftonbladet-350",
       "sources": 3,
       "latest": "2026-11-17T13:39:27.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
       "versions": [
         {
-          "id": "expressen-335",
+          "id": "expressen-358",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Präster får fortsatt säga nej till samkönade",
@@ -537,7 +596,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-327",
+          "id": "aftonbladet-350",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Präster får fortsätta neka samkönade vigslar",
@@ -547,7 +606,7 @@
           "paywall": false
         },
         {
-          "id": "svd-295",
+          "id": "svd-318",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Striden om samkönade vigslar fortsätter",
@@ -559,14 +618,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-405",
+      "id": "k-aftonbladet-428",
       "sources": 3,
       "latest": "2026-11-17T09:00:45.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/6765bf00-7a22-3d5a-83cf-5e4f5ae99dfc?format=auto&w=1000&s=0c45f2879376ce69bd5ea252f78ca09ae3988834",
       "versions": [
         {
-          "id": "aftonbladet-405",
+          "id": "aftonbladet-428",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Nytt varningslarm i mobilen testas i hela landet",
@@ -576,7 +635,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-396",
+          "id": "expressen-419",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Nya varningssystemet ska testas i hela Sverige",
@@ -586,7 +645,7 @@
           "paywall": false
         },
         {
-          "id": "svt-inrikes-390",
+          "id": "svt-inrikes-413",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Sveriges nya larmsystem testas på nytt – i hela landet",
@@ -598,14 +657,14 @@
       ]
     },
     {
-      "id": "k-ekot-436",
+      "id": "k-ekot-459",
       "sources": 3,
       "latest": "2026-11-17T07:04:56.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/d1826845-eb9c-4786-86f9-77e72dcf61c1.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-436",
+          "id": "ekot-459",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Tre döda efter flygkrasch i Grand Canyon",
@@ -615,7 +674,7 @@
           "paywall": false
         },
         {
-          "id": "svt-utrikes-433",
+          "id": "svt-utrikes-456",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Tre döda efter flygkrasch vid Grand Canyon",
@@ -625,7 +684,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-419",
+          "id": "expressen-442",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Försvann mystiskt vid turistmålet – tre döda",
@@ -637,14 +696,14 @@
       ]
     },
     {
-      "id": "k-ekot-420",
+      "id": "k-ekot-443",
       "sources": 3,
       "latest": "2026-11-17T07:02:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/b87ddba7-fbc9-3fca-b2ec-da0f4f488c13?format=auto&w=1000&s=9c091ccad7c79ed5ac94af46ce05dca72f975901",
       "versions": [
         {
-          "id": "svd-459",
+          "id": "svd-482",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Vinterns elprischock väntas bli värre än 2022",
@@ -654,7 +713,7 @@
           "paywall": true
         },
         {
-          "id": "svt-ekonomi-434",
+          "id": "svt-ekonomi-457",
           "source": "SVT Ekonomi",
           "color": "#1a1a1a",
           "title": "Höga elpriser väntas i södra Sverige – trots gynnsamt väder",
@@ -664,7 +723,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-420",
+          "id": "ekot-443",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Ny prognos: Högre elpriser än krisvintern 2022",
@@ -676,14 +735,14 @@
       ]
     },
     {
-      "id": "k-dn-486",
+      "id": "k-dn-509",
       "sources": 3,
       "latest": "2026-11-17T04:23:26.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/28d53a12-0943-48fe-9bf7-932b9ecb55ec.jpeg?crop=1505%2C846%2Cx1055%2Cy426",
       "versions": [
         {
-          "id": "expressen-493",
+          "id": "expressen-516",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Uppgifter: Iran planerar attack mot Washington DC",
@@ -693,7 +752,7 @@
           "paywall": false
         },
         {
-          "id": "dn-486",
+          "id": "dn-509",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Uppgifter: Iran planerar bombdåd mot Washington DC",
@@ -703,7 +762,7 @@
           "paywall": true
         },
         {
-          "id": "svd-483",
+          "id": "svd-506",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Uppgifter: Iran planerar bombdåd i USA",
@@ -715,14 +774,14 @@
       ]
     },
     {
-      "id": "k-dn-402",
+      "id": "k-dn-425",
       "sources": 2,
-      "latest": "2026-11-18T08:57:15.000Z",
+      "latest": "2026-11-18T09:30:29.000Z",
       "category": "Lokalt",
       "image": "https://static.bonniernews.se/ba/3937cddc-517c-4323-ad34-d742008e3f1d.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-402",
+          "id": "dn-425",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Frida Karlssons uppladdning: Vittnar mot stalker",
@@ -736,13 +795,13 @@
           ]
         },
         {
-          "id": "nsk-4",
+          "id": "nsk-16",
           "source": "Norra Skåne",
           "color": "#6a4c93",
-          "title": "Drama i rätten – Karlssons stalker försenad",
-          "summary": "Det blev dramatiskt direkt när rättegången mot mannen som misstänks ha förföljt Frida Karlsson skulle inledas. Mannen infann sig inte i tid till Eskilstuna tingsrätt och huvudförhandlingen blev försenad.",
+          "title": "Frida Karlsson i rätten: ”Vill att det ska ta slut”",
+          "summary": "Frida Karlsson var sammanbiten när hon vittnade mot den misstänkte stalkern i Eskilstuna tingsrätt. – Jag vill bara att det ska ta slut, säger skidstjärnan.",
           "link": "https://www.nsk.se/sport/frida-karlssons-misstankte-stalker-forsvunnen/",
-          "date": "2026-11-18T08:57:15.000Z",
+          "date": "2026-11-18T09:30:29.000Z",
           "paywall": true,
           "alsoAt": [
             "Kristianstadsbladet"
@@ -751,43 +810,14 @@
       ]
     },
     {
-      "id": "k-dn-13",
-      "sources": 2,
-      "latest": "2026-11-18T08:32:58.000Z",
-      "category": "Sport",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.45/0.24/39949b35c8356217fb50e16690285756203b425d26a5e3d559f205a7aa24f50e",
-      "versions": [
-        {
-          "id": "svt-sport-47",
-          "source": "SVT Sport",
-          "color": "#1a1a1a",
-          "title": "Kif Örebro begärs i konkurs",
-          "summary": "Kif Örebro slutade trea i elitettan och ska kvala upp till damallsvenskan. Men nu, dagen innan första kvalmatchen mot Rosengård, står det klart att klubben har begärts i konkurs. Det bekräftar klubbens ordförande till P4 Örebro. Det hela kan leda till att klubben utesluts från all tävling.",
-          "link": "https://www.svt.se/sport/fotboll/kif-orebro-begars-i-konkurs-dagen-innan-kvalet",
-          "date": "2026-11-18T06:57:41.000Z",
-          "paywall": false
-        },
-        {
-          "id": "dn-13",
-          "source": "DN",
-          "color": "#0f4c81",
-          "title": "Klara för kval – kan slängas ut direkt",
-          "summary": "Kif Örebro ska kvala till damallsvenskan på torsdag. Men det är oklart om dubbelmötet med Rosengård spelas – efter att klubben begärts i konkurs av Skatteverket. – Det finns en ventil som säger att de kan uteslutas på direkten, säger Axel Fagerhäll, tävlingschef på Svenska fotbollförbundet till SVT.",
-          "link": "https://www.dn.se/sport/klara-for-kval-kan-slangas-ut-direkt/",
-          "date": "2026-11-18T08:32:58.000Z",
-          "paywall": true
-        }
-      ]
-    },
-    {
-      "id": "k-nsk-19",
+      "id": "k-nsk-41",
       "sources": 2,
       "latest": "2026-11-18T08:14:32.000Z",
       "category": "Lokalt",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/2f93ba843f7e400a13c86112e65490896499522866cbeab7a04aa887efed39b6",
       "versions": [
         {
-          "id": "svt-skane-73",
+          "id": "svt-skane-96",
           "source": "SVT Skåne",
           "color": "#2a9d8f",
           "title": "Man i 25-årsåldern skärskadad i Osby – en gripen",
@@ -797,7 +827,7 @@
           "paywall": false
         },
         {
-          "id": "nsk-19",
+          "id": "nsk-41",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "Misstänkt misshandel i Osby – en person gripen",
@@ -812,14 +842,14 @@
       ]
     },
     {
-      "id": "k-dn-40",
+      "id": "k-dn-62",
       "sources": 2,
       "latest": "2026-11-18T07:21:45.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/2f4f0959-52c9-4140-849f-f9fad9dfce50.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-48",
+          "id": "ekot-70",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Stor oro för Ukraina när stormakterna möts",
@@ -829,7 +859,7 @@
           "paywall": false
         },
         {
-          "id": "dn-40",
+          "id": "dn-62",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Historiskt möte mellan Xi, Trump och Putin i Shenzhen",
@@ -841,46 +871,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-111",
-      "sources": 2,
-      "latest": "2026-11-18T06:35:54.000Z",
-      "category": "Sverige",
-      "image": "https://akamai.vgc.no/v2/images/5be8bdad-8beb-3b69-8031-25f1621d4137?format=auto&w=1000&s=eecddd828c122d274a9e333bfdfacb2135049eab",
-      "versions": [
-        {
-          "id": "aftonbladet-111",
-          "source": "Aftonbladet",
-          "color": "#c8102e",
-          "title": "Demokrat vinner i Alaska – alla senatsval klara",
-          "summary": "Den sista platsen i USA:s senat går till Alaska-demokraten Mary Peltola, beräknar flera amerikanska…",
-          "link": "https://www.aftonbladet.se/nyheter/a/8PmOME/demokrat-vinner-sista-senatsvalet?utm_medium=rss",
-          "date": "2026-11-18T03:24:57.000Z",
-          "paywall": false,
-          "alsoAt": [
-            "SvD"
-          ]
-        },
-        {
-          "id": "dn-50",
-          "source": "DN",
-          "color": "#0f4c81",
-          "title": "Historisk seger för demokraten Peltola: ”Tack Alaska”",
-          "summary": "Mary Peltola har vunnit en historisk seger i Alaska. Den sista platsen i USA:s senat går till den 53-åriga demokraten, som blir den första personen ur ursprungsbefolkningen på posten. När demokraternas seger stod klar i mellanårsvalet den 3 november ropade hon: ”Aarigaa!” Nu har hon anledning att göra det igen.",
-          "link": "https://www.dn.se/varlden/historisk-seger-for-demokraten-peltola-tack-alaska/",
-          "date": "2026-11-18T06:35:54.000Z",
-          "paywall": true
-        }
-      ]
-    },
-    {
-      "id": "k-aftonbladet-56",
+      "id": "k-aftonbladet-78",
       "sources": 2,
       "latest": "2026-11-18T06:29:18.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/c83f59dd-eb40-3aef-93c8-f3cbd48a37d2?format=auto&w=1000&s=7e451af03a19ecc48ef1c41fa4c38ae89149f73d",
       "versions": [
         {
-          "id": "aftonbladet-56",
+          "id": "aftonbladet-78",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Brand på återvinningsanläggning – spridningsrisk",
@@ -890,7 +888,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-51",
+          "id": "expressen-73",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Brand på återvinning",
@@ -902,14 +900,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-75",
+      "id": "k-aftonbladet-98",
       "sources": 2,
       "latest": "2026-11-18T06:19:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/479df222-8be9-3e83-9465-faecc8991f34?format=auto&w=1000&s=bb6f30c2090ee85fed1030af718f806721cb9db7",
       "versions": [
         {
-          "id": "aftonbladet-75",
+          "id": "aftonbladet-98",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "M går om S i ny mätning – ”vet vad man får”",
@@ -919,7 +917,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-57",
+          "id": "ekot-79",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "M går om S – blir största partiet",
@@ -931,14 +929,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-107",
+      "id": "k-aftonbladet-130",
       "sources": 2,
       "latest": "2026-11-18T05:54:24.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/20764ebd-b87d-369a-85ab-0f5d4ce56d51?format=auto&w=1000&s=cd04f535844f893a53c17607106bfd69f603ffcd",
       "versions": [
         {
-          "id": "aftonbladet-107",
+          "id": "aftonbladet-130",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "En till sjukhus efter brand",
@@ -948,7 +946,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-70",
+          "id": "expressen-93",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Grov mordbrand i Trollhättan",
@@ -960,14 +958,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-76",
+      "id": "k-aftonbladet-99",
       "sources": 2,
       "latest": "2026-11-18T05:28:06.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/f18d5916-baec-4088-bc5a-b5967cc5e903.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-341",
+          "id": "ekot-364",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Här är mejlet som avslöjar it-chefen",
@@ -977,7 +975,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-76",
+          "id": "aftonbladet-99",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Riksbanken-chef reste på lyxresa till Tokyo inför upphandling",
@@ -989,14 +987,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-82",
+      "id": "k-aftonbladet-105",
       "sources": 2,
       "latest": "2026-11-18T05:13:13.000Z",
       "category": "Sverige",
       "image": "https://aftonbladet.se/monorepo-api/og/3BJPyv.png",
       "versions": [
         {
-          "id": "aftonbladet-82",
+          "id": "aftonbladet-105",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Nya Zeeland varnades för tsunami",
@@ -1006,7 +1004,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-79",
+          "id": "expressen-102",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Tsunamivarning",
@@ -1018,14 +1016,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-210",
+      "id": "k-aftonbladet-233",
       "sources": 2,
       "latest": "2026-11-18T04:55:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/8615c915-2396-326f-8b56-cdadd064babe?format=auto&w=1000&s=79821ae3bc14aa4fdf7e6330533175228e4cb190",
       "versions": [
         {
-          "id": "aftonbladet-210",
+          "id": "aftonbladet-233",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "USA: Hemligt nätverk ligger nere",
@@ -1035,7 +1033,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-90",
+          "id": "ekot-113",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Teknikstrulen i USA fortsätter: ”Inga bevis för sammankoppling”",
@@ -1047,14 +1045,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-146",
+      "id": "k-aftonbladet-169",
       "sources": 2,
       "latest": "2026-11-17T22:00:27.000Z",
       "category": "Sverige",
       "image": "https://aftonbladet.se/monorepo-api/og/kMJdwj.png",
       "versions": [
         {
-          "id": "aftonbladet-146",
+          "id": "aftonbladet-169",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Uppgift: Ny amerikansk attack mot Iran",
@@ -1064,7 +1062,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-128",
+          "id": "expressen-151",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Uppgifter: Amerikansk attack mot Iran",
@@ -1076,14 +1074,14 @@
       ]
     },
     {
-      "id": "k-nsk-132",
+      "id": "k-nsk-155",
       "sources": 2,
       "latest": "2026-11-17T21:39:47.000Z",
       "category": "Lokalt",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/2f93ba843f7e400a13c86112e65490896499522866cbeab7a04aa887efed39b6",
       "versions": [
         {
-          "id": "svt-skane-154",
+          "id": "svt-skane-177",
           "source": "SVT Skåne",
           "color": "#2a9d8f",
           "title": "Brand i ödehus i Bjärnum",
@@ -1093,7 +1091,7 @@
           "paywall": false
         },
         {
-          "id": "nsk-132",
+          "id": "nsk-155",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "Ödehus utanför Bjärnum förstört i brand",
@@ -1108,14 +1106,14 @@
       ]
     },
     {
-      "id": "k-dn-158",
+      "id": "k-dn-181",
       "sources": 2,
       "latest": "2026-11-17T21:37:33.000Z",
       "category": "Sport",
       "image": "https://static.bonniernews.se/ba/9b20115f-b365-483e-9bda-7321f4c8efcb.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-158",
+          "id": "dn-181",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Kryss mot Polen efter Hugo Larssons första mål i Blågult",
@@ -1125,7 +1123,7 @@
           "paywall": true
         },
         {
-          "id": "svt-sport-133",
+          "id": "svt-sport-156",
           "source": "SVT Sport",
           "color": "#1a1a1a",
           "title": "Hugo Larsson med karriärens första landslagsmål – Sverige obesegrat",
@@ -1137,14 +1135,14 @@
       ]
     },
     {
-      "id": "k-svd-473",
+      "id": "k-svd-496",
       "sources": 2,
       "latest": "2026-11-17T21:30:11.000Z",
       "category": "Världen",
       "image": "https://akamai.vgc.no/v2/images/0454389a-c11b-3fb1-8826-e4352575f069?format=auto&w=1000&s=8200440eaa29e20f943f2c7735ddad319dd9850a",
       "versions": [
         {
-          "id": "svd-473",
+          "id": "svd-496",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Efter skandalen – nu släpper Nvidia delårssiffror",
@@ -1158,7 +1156,7 @@
           ]
         },
         {
-          "id": "svt-utrikes-136",
+          "id": "svt-utrikes-159",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Nvidia slår förväntningarna i nya kvartalssiffror",
@@ -1170,14 +1168,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-194",
+      "id": "k-aftonbladet-217",
       "sources": 2,
       "latest": "2026-11-17T20:10:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/1a638c23-4791-3b2b-b8b2-11f458143b48?format=auto&w=1000&s=e6036b68f5bfec2c56e0cc37318990fff1c2776a",
       "versions": [
         {
-          "id": "aftonbladet-194",
+          "id": "aftonbladet-217",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Turkisk polisräd mot oppositionell tv-kanal",
@@ -1187,7 +1185,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-148",
+          "id": "ekot-171",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Tillslag mot mediehus i Istanbul – flera chefer gripna",
@@ -1199,14 +1197,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-190",
+      "id": "k-aftonbladet-213",
       "sources": 2,
       "latest": "2026-11-17T18:19:12.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
       "versions": [
         {
-          "id": "expressen-211",
+          "id": "expressen-234",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Ryskt militärplan har störtat",
@@ -1216,7 +1214,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-190",
+          "id": "aftonbladet-213",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Flera döda i olycka med ryskt militärflyg",
@@ -1231,14 +1229,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-258",
+      "id": "k-aftonbladet-281",
       "sources": 2,
       "latest": "2026-11-17T16:58:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/e4383b3b-6508-3fdf-9699-b00b0a7b8618?format=auto&w=1000&s=9939f4a65ed15fb0152b9acf52ce873191b4ae9b",
       "versions": [
         {
-          "id": "aftonbladet-258",
+          "id": "aftonbladet-281",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Magdalena Andersson: Välkomnar beskedet",
@@ -1248,7 +1246,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-223",
+          "id": "ekot-246",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Gissén om pressen på S: ”Vore en smärre katastrof”",
@@ -1260,14 +1258,14 @@
       ]
     },
     {
-      "id": "k-ekot-265",
+      "id": "k-ekot-288",
       "sources": 2,
       "latest": "2026-11-17T15:18:15.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/144d1231-3f6b-48d7-947b-dd081ad33bd1.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-265",
+          "id": "ekot-288",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Talmannen: Vill se en ny regering före jul",
@@ -1277,7 +1275,7 @@
           "paywall": false
         },
         {
-          "id": "svt-inrikes-264",
+          "id": "svt-inrikes-287",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Efter M-ledarens förslag – en veckas paus i sonderingen",
@@ -1289,14 +1287,14 @@
       ]
     },
     {
-      "id": "k-dn-283",
+      "id": "k-dn-306",
       "sources": 2,
       "latest": "2026-11-17T14:40:20.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/b8570be0-9f61-4675-a2ae-26eca57758b2.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-283",
+          "id": "dn-306",
           "source": "DN",
           "color": "#0f4c81",
           "title": "”Ny regering eller besked om extra val före jul”",
@@ -1306,7 +1304,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-278",
+          "id": "expressen-301",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Talmannens deadline: Klart före jul",
@@ -1318,14 +1316,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-339",
+      "id": "k-aftonbladet-362",
       "sources": 2,
       "latest": "2026-11-17T11:04:26.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/df7890e0-2692-4e96-bc21-4d8d4a14ad14.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-462",
+          "id": "ekot-485",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Rödgröna vill förtydliga abortlagen: Gäller inte bara kvinnor",
@@ -1335,7 +1333,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-339",
+          "id": "aftonbladet-362",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Rödgröna: Aborträtt omfattar inte bara kvinnor",
@@ -1347,14 +1345,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-358",
+      "id": "k-aftonbladet-381",
       "sources": 2,
       "latest": "2026-11-17T10:25:32.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/452036c0-6a52-3e70-afaa-44f5eaabc22d?format=auto&w=1000&s=83a70169d266c844cc543440bc6693217fd74851",
       "versions": [
         {
-          "id": "aftonbladet-358",
+          "id": "aftonbladet-381",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "MP: Köper inte hela totalpaketet",
@@ -1368,7 +1366,7 @@
           ]
         },
         {
-          "id": "svd-354",
+          "id": "svd-377",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "MP-toppen köper inte totalpaketet: ”S-bud”",
@@ -1380,14 +1378,14 @@
       ]
     },
     {
-      "id": "k-dn-532",
+      "id": "k-dn-555",
       "sources": 2,
       "latest": "2026-11-17T08:22:40.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/754a0bb8-8258-42ff-8bd5-68e8aae194fd.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-532",
+          "id": "dn-555",
           "source": "DN",
           "color": "#0f4c81",
           "title": "C-toppen: Vänsterpartiet vill ingå äktenskap direkt",
@@ -1397,7 +1395,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-399",
+          "id": "expressen-422",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "V-toppens pik mot C: Beter sig som offer",
@@ -1409,46 +1407,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-510",
-      "sources": 2,
-      "latest": "2026-11-16T22:16:10.000Z",
-      "category": "Världen",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/39b2b87053cfbc21dd4997dbc46d7f519573c21b3da8d6b5cd6627072885d0f9",
-      "versions": [
-        {
-          "id": "svt-utrikes-580",
-          "source": "SVT Utrikes",
-          "color": "#1a1a1a",
-          "title": "Storbritannien vill närma sig EU: ”Som kejsarens nya kläder”",
-          "summary": "Brexit har kostat Storbritannien mer än det har gett, uppgav Andy Burnham i ett tal i London inför toppmötet med EU i veckan.",
-          "link": "https://www.svt.se/nyheter/utrikes/storbritannien-vill-narma-sig-eu-som-kejsarens-nya-klader",
-          "date": "2026-11-16T13:41:27.000Z",
-          "paywall": false
-        },
-        {
-          "id": "aftonbladet-510",
-          "source": "Aftonbladet",
-          "color": "#c8102e",
-          "title": "Burnham: Behandla brexit som Kejsarens nya kläder",
-          "summary": "Storbritanniens premiärminister Andy Burnham är optimistisk inför veckans förhandlingar om ett nytt…",
-          "link": "https://www.aftonbladet.se/nyheter/a/z0GMKb/burnham-behandla-brexit-som-kejsarens-nya-klader?utm_medium=rss",
-          "date": "2026-11-16T22:16:10.000Z",
-          "paywall": false,
-          "alsoAt": [
-            "SvD"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "k-ekot-558",
+      "id": "k-ekot-581",
       "sources": 2,
       "latest": "2026-11-16T18:07:00.000Z",
       "category": "Världen",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.73/0.26/23d5eef14587a44cb8c71497cad8cea805d499f84c91f7a38ed6ab345bded3e1",
       "versions": [
         {
-          "id": "svt-utrikes-570",
+          "id": "svt-utrikes-593",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "EU-länder ska införa ”hubb” för utvisade i Rwanda",
@@ -1458,7 +1424,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-558",
+          "id": "ekot-581",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "EU-länder vill öppna återvändandecenter i Rwanda",
