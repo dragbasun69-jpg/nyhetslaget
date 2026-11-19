@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-19T22:57:33.862Z",
+  "updated": "2026-11-19T23:54:04.261Z",
   "clusters": [
     {
-      "id": "k-aftonbladet-309",
+      "id": "k-aftonbladet-323",
       "sources": 5,
       "latest": "2026-11-19T12:11:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/202d1fe5-b159-3b19-836a-6c5ee332596f?format=auto&w=1000&s=c05097926364ed4657aa166c727f6bec616ed549",
       "versions": [
         {
-          "id": "aftonbladet-309",
+          "id": "aftonbladet-323",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Elever i Sigtuna åtalas: ”Kultur och maktroller”",
@@ -22,7 +22,7 @@
           ]
         },
         {
-          "id": "expressen-307",
+          "id": "expressen-321",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Sex elever åtalas för brott på Sigtunaskolan",
@@ -32,7 +32,7 @@
           "paywall": false
         },
         {
-          "id": "dn-291",
+          "id": "dn-305",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Elever åtalas för sexualbrott på Sigtunaskolan: ”Våldskultur på skolan”",
@@ -42,7 +42,7 @@
           "paywall": true
         },
         {
-          "id": "svd-285",
+          "id": "svd-299",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Sex manliga elever åtalas för brott",
@@ -52,7 +52,7 @@
           "paywall": true
         },
         {
-          "id": "ekot-218",
+          "id": "ekot-232",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Åklagaren: Eleverna använde pekpinnar och skohorn",
@@ -64,14 +64,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-457",
+      "id": "k-aftonbladet-471",
       "sources": 5,
       "latest": "2026-11-19T11:15:13.000Z",
       "category": "Sverige",
       "image": "https://verifiedupload.ifragasatt.se/9aaf72bb-ff04-4455-8e70-16df208a2ec9.jpeg",
       "versions": [
         {
-          "id": "expressen-466",
+          "id": "expressen-480",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Tak rasade in på förlossning",
@@ -81,7 +81,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-465",
+          "id": "ekot-479",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Takras på förlossningsavdelning i Stockholm",
@@ -91,7 +91,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-457",
+          "id": "aftonbladet-471",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Del av tak rasade in på förlossningsavdelning",
@@ -101,7 +101,7 @@
           "paywall": false
         },
         {
-          "id": "dn-449",
+          "id": "dn-463",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Betong ramlade ned på sjukhus – pausade patienter",
@@ -111,7 +111,7 @@
           "paywall": true
         },
         {
-          "id": "svd-237",
+          "id": "svd-251",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Taket rasade – patient fanns i rummet på Sös",
@@ -123,14 +123,14 @@
       ]
     },
     {
-      "id": "k-dn-93",
+      "id": "k-dn-107",
       "sources": 4,
       "latest": "2026-11-19T20:41:00.000Z",
       "category": "Sverige",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.6/71cb9aa625e1b7c12639b1a3f92d3dcba36d6100632725911c439b9d7323d041",
       "versions": [
         {
-          "id": "svt-ekonomi-358",
+          "id": "svt-ekonomi-372",
           "source": "SVT Ekonomi",
           "color": "#1a1a1a",
           "title": "Anthropics gör börsdebut",
@@ -140,7 +140,7 @@
           "paywall": false
         },
         {
-          "id": "svd-109",
+          "id": "svd-123",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Anthropic rusar över 30 procent i börsdebuten",
@@ -150,7 +150,7 @@
           "paywall": true
         },
         {
-          "id": "dn-93",
+          "id": "dn-107",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Anthropic rusade efter rekordnotering",
@@ -163,7 +163,7 @@
           ]
         },
         {
-          "id": "ekot-24",
+          "id": "ekot-38",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Sparekonomen: Anthropic kan locka AI-bolag till börsen",
@@ -175,14 +175,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-228",
+      "id": "k-aftonbladet-242",
       "sources": 4,
       "latest": "2026-11-19T13:14:19.000Z",
       "category": "Sverige",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/edee8654ffbb76db2a1a2e8b335d870465e30eba10d2d66d2521dc1c56fd2d86",
       "versions": [
         {
-          "id": "svt-utrikes-232",
+          "id": "svt-utrikes-246",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "FN-domstol fäller Myanmar för folkmord",
@@ -192,7 +192,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-228",
+          "id": "aftonbladet-242",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "ICJ: Myanmar är skyldigt till folkmord",
@@ -202,7 +202,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-214",
+          "id": "ekot-228",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Naila Saleem: ”Många befinner sig i en slags limbo”",
@@ -212,7 +212,7 @@
           "paywall": false
         },
         {
-          "id": "dn-184",
+          "id": "dn-198",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Marianne Björklund: Militären hade avsikten att förgöra rohingyerna",
@@ -224,14 +224,14 @@
       ]
     },
     {
-      "id": "k-dn-ekonomi-359",
+      "id": "k-dn-ekonomi-373",
       "sources": 4,
       "latest": "2026-11-19T08:55:22.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/00e68a39-0223-4394-b1a9-084c604b07a3.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-ekonomi-359",
+          "id": "dn-ekonomi-373",
           "source": "DN Ekonomi",
           "color": "#0f4c81",
           "title": "Oron: Kan bli rusning till pumpen inför prishöjningen",
@@ -241,7 +241,7 @@
           "paywall": true
         },
         {
-          "id": "svt-inrikes-338",
+          "id": "svt-inrikes-352",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Varnar för bensinbrist inför höjda drivmedelsskatten",
@@ -251,7 +251,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-333",
+          "id": "ekot-347",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Då kan bensinmacken stå tom – risk för köer inför prishöjning",
@@ -261,7 +261,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-298",
+          "id": "expressen-312",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Larmet: Bensinen kan ta slut på macken",
@@ -277,14 +277,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-17",
+      "id": "k-aftonbladet-31",
       "sources": 3,
       "latest": "2026-11-19T21:51:00.000Z",
       "category": "Världen",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.51/0.62/3dd8f56d28bd5e9686f389f3205f4f5fd81be8c8c2fbf38053100aee42227b7c",
       "versions": [
         {
-          "id": "svt-utrikes-440",
+          "id": "svt-utrikes-454",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Kändis-flodhästen Fiona åt mössa – dog efter dagar av vård",
@@ -294,7 +294,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-17",
+          "id": "aftonbladet-31",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Kändis-flodhästen Fiona död",
@@ -307,7 +307,7 @@
           ]
         },
         {
-          "id": "ekot-8",
+          "id": "ekot-22",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Den kända flodhästen Fiona död – åt mössa",
@@ -319,14 +319,14 @@
       ]
     },
     {
-      "id": "k-dn-36",
+      "id": "k-dn-50",
       "sources": 3,
       "latest": "2026-11-19T20:07:13.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/1d6cfc37-d498-3613-809b-8673dfb3f2a2?format=auto&w=1000&s=cc8ddffd179531d46b5cee64ca71663d736c2c8b",
       "versions": [
         {
-          "id": "svd-70",
+          "id": "svd-84",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Hilma af Klint-verk sålt för rekordsumma",
@@ -336,7 +336,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-43",
+          "id": "expressen-57",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Unik Hilma af Klint-målning såld för rekordbelopp",
@@ -346,7 +346,7 @@
           "paywall": false
         },
         {
-          "id": "dn-36",
+          "id": "dn-50",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Hilma af Klints verk sålt för rekordsumma",
@@ -358,14 +358,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-334",
+      "id": "k-aftonbladet-348",
       "sources": 3,
       "latest": "2026-11-19T17:20:54.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/90834d25-fd73-38be-be1d-0730795634b1?format=auto&w=1000&s=a70985ebf03c1d28706443dc873462fcf46590de",
       "versions": [
         {
-          "id": "aftonbladet-334",
+          "id": "aftonbladet-348",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Kvinna hittad död – misstänkt mord",
@@ -375,7 +375,7 @@
           "paywall": false
         },
         {
-          "id": "svd-332",
+          "id": "svd-346",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Misstänkt mord i Enköping",
@@ -385,7 +385,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-100",
+          "id": "expressen-114",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Misstänkt mord på kommunalt bolag – kvinna hittad död",
@@ -397,14 +397,14 @@
       ]
     },
     {
-      "id": "k-dn-201",
+      "id": "k-dn-215",
       "sources": 3,
       "latest": "2026-11-19T13:08:40.000Z",
       "category": "Sverige",
       "image": "https://www.svd.se/monorepo-api/og/wA9Gmd.png?pinnedEntry=80091",
       "versions": [
         {
-          "id": "svd-219",
+          "id": "svd-233",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "SVT-profilen anmäler SVT till granskningsnämnden",
@@ -414,7 +414,7 @@
           "paywall": true
         },
         {
-          "id": "dn-201",
+          "id": "dn-215",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Programledaren Carina Bergfeldt anmäler SVT för artikel om adhd-serie",
@@ -424,7 +424,7 @@
           "paywall": true
         },
         {
-          "id": "svt-inrikes-187",
+          "id": "svt-inrikes-201",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "SVT-profil anmäler SVT till Granskningsnämnden",
@@ -436,14 +436,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-554",
+      "id": "k-aftonbladet-568",
       "sources": 3,
       "latest": "2026-11-18T15:29:37.000Z",
       "category": "Sverige",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/2f93ba843f7e400a13c86112e65490896499522866cbeab7a04aa887efed39b6",
       "versions": [
         {
-          "id": "svt-inrikes-560",
+          "id": "svt-inrikes-574",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Försenade tåg efter kommunikationsproblem hos Trafikverket",
@@ -453,7 +453,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-559",
+          "id": "expressen-573",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Förseningar i hela landet",
@@ -463,7 +463,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-554",
+          "id": "aftonbladet-568",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Tekniskt fel orsakar tågförseningar",
@@ -475,14 +475,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-400",
+      "id": "k-aftonbladet-414",
       "sources": 2,
       "latest": "2026-11-19T21:50:51.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/290cc092-2972-3ee9-8307-aaeed23dff4b?format=auto&w=1000&s=d69abb99f2ce844c518bcdca9811f57882f32515",
       "versions": [
         {
-          "id": "aftonbladet-400",
+          "id": "aftonbladet-414",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Musk: ”Känner mig ganska dum”",
@@ -492,7 +492,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-9",
+          "id": "expressen-23",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Elon Musk: ”Känner mig ganska dum”",
@@ -504,14 +504,14 @@
       ]
     },
     {
-      "id": "k-expressen-28",
+      "id": "k-expressen-42",
       "sources": 2,
       "latest": "2026-11-19T20:27:19.000Z",
       "category": "Världen",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/2f93ba843f7e400a13c86112e65490896499522866cbeab7a04aa887efed39b6",
       "versions": [
         {
-          "id": "svt-utrikes-37",
+          "id": "svt-utrikes-51",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Norwegian ber 5 000 kunder spärra sina bankkort efter dataintrång",
@@ -521,7 +521,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-28",
+          "id": "expressen-42",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Norwegian hackat – ber kunder spärra betalkort",
@@ -536,14 +536,14 @@
       ]
     },
     {
-      "id": "k-ekot-78",
+      "id": "k-ekot-92",
       "sources": 2,
       "latest": "2026-11-19T19:13:20.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/0f092814-3314-4450-a827-76ac2c6fd646.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-78",
+          "id": "ekot-92",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Dataintrång hos taxibolag – kunduppgifter läckta",
@@ -553,7 +553,7 @@
           "paywall": false
         },
         {
-          "id": "svt-inrikes-53",
+          "id": "svt-inrikes-67",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Dataintrång hos taxibolaget Cabonline – kunduppgifter kan ha läckt",
@@ -565,14 +565,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-74",
+      "id": "k-aftonbladet-88",
       "sources": 2,
       "latest": "2026-11-19T18:41:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/e028959b-b2ad-3035-9469-3f5fa5d730a8?format=auto&w=1000&s=7c17dc000333d020ee39934bfed355d0f20b7766",
       "versions": [
         {
-          "id": "aftonbladet-74",
+          "id": "aftonbladet-88",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Explosion nära Sveriges ambassad i Kiev",
@@ -582,7 +582,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-66",
+          "id": "ekot-80",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Explosion nära Sveriges ambassad i Kyjiv",
@@ -594,14 +594,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-94",
+      "id": "k-aftonbladet-108",
       "sources": 2,
       "latest": "2026-11-19T18:31:34.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/ab96ccdf-9e77-39df-b4ab-3fb50190b51e?format=auto&w=1000&s=b93c462e6ec13322c1c4a26df46aca5d343f1a50",
       "versions": [
         {
-          "id": "aftonbladet-94",
+          "id": "aftonbladet-108",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Trump ringde in – överraskade Europas ledare",
@@ -616,7 +616,7 @@
           ]
         },
         {
-          "id": "expressen-72",
+          "id": "expressen-86",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Uppgifter: Trump kritiserar stöd till Ukraina",
@@ -628,14 +628,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-541",
+      "id": "k-aftonbladet-555",
       "sources": 2,
       "latest": "2026-11-19T16:14:37.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/a2a729d8-8da2-3c3d-870f-ebb888c3f9eb?format=auto&w=1000&s=972785943b2c2af1a7f89008b70dbfbf88e647bc",
       "versions": [
         {
-          "id": "aftonbladet-541",
+          "id": "aftonbladet-555",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "C-ledaren: Fokus på att få Andersson vald",
@@ -645,7 +645,7 @@
           "paywall": false
         },
         {
-          "id": "svd-120",
+          "id": "svd-134",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "PM Nilsson totalsågar C-ledaren: Lydrike",
@@ -657,14 +657,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-154",
+      "id": "k-aftonbladet-168",
       "sources": 2,
       "latest": "2026-11-19T15:38:09.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/d75cfe43-1950-3b33-bc79-40769ea92b82?format=auto&w=1000&s=40d88302a951d2179b60199c2896f92abff3bda6",
       "versions": [
         {
-          "id": "aftonbladet-154",
+          "id": "aftonbladet-168",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Influensasäsongen igång – även covid ökar",
@@ -677,7 +677,7 @@
           ]
         },
         {
-          "id": "expressen-142",
+          "id": "expressen-156",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Årets influensasäsong är i gång – tidig start",
@@ -689,14 +689,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-183",
+      "id": "k-aftonbladet-197",
       "sources": 2,
       "latest": "2026-11-19T15:27:44.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/8d107a70-d5de-3c5a-a02e-f76961ec2513?format=auto&w=1000&s=021cbdd1198b40c9a4afa4669ac4bc72c989310c",
       "versions": [
         {
-          "id": "aftonbladet-183",
+          "id": "aftonbladet-197",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Putin: ”Politisk diarré måste upphöra”",
@@ -709,7 +709,7 @@
           ]
         },
         {
-          "id": "dn-143",
+          "id": "dn-157",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Putin: Europeiska företrädare välkomna till Moskva",
@@ -721,14 +721,14 @@
       ]
     },
     {
-      "id": "k-dn-318",
+      "id": "k-dn-332",
       "sources": 2,
       "latest": "2026-11-19T15:24:00.000Z",
       "category": "Världen",
       "image": "https://static.bonniernews.se/ba/acb6a8c7-228f-4d8c-9d6e-c2aa1949c3d7.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-318",
+          "id": "dn-332",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Expert: Myanmardomen kan ge ledtrådar om folkmordsmålet mot Israel",
@@ -738,7 +738,7 @@
           "paywall": true
         },
         {
-          "id": "svt-utrikes-144",
+          "id": "svt-utrikes-158",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Experten: Så kan domen påverka rättsprocessen mot Israel",
@@ -750,14 +750,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-159",
+      "id": "k-aftonbladet-173",
       "sources": 2,
       "latest": "2026-11-19T14:49:00.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/0bc3944b-3e77-4bbd-a913-2d310f72a7d2.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-161",
+          "id": "ekot-175",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Gul snövarning i Stockholm",
@@ -767,7 +767,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-159",
+          "id": "aftonbladet-173",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Gul varning för snöfall i Stockholm",
@@ -779,14 +779,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-351",
+      "id": "k-aftonbladet-365",
       "sources": 2,
       "latest": "2026-11-19T14:44:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/7a3f9eb4-1d15-3b00-87fd-4e046fcaef32?format=auto&w=1000&s=f6a4ac70e0957643db818f9847e0827f598a235d",
       "versions": [
         {
-          "id": "aftonbladet-351",
+          "id": "aftonbladet-365",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Brister i skydd mot spionage och terrorism",
@@ -796,7 +796,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-162",
+          "id": "ekot-176",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Swedavia, Polisen och Göteborgs universitet har åtgärdat brister efter krav",
@@ -808,14 +808,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-212",
+      "id": "k-aftonbladet-226",
       "sources": 2,
       "latest": "2026-11-19T14:08:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/0038ad48-66cd-39c2-b31c-b602d079c42c?format=auto&w=1000&s=f4e626711ec6c5091315db70406921bf7ca60a9b",
       "versions": [
         {
-          "id": "aftonbladet-212",
+          "id": "aftonbladet-226",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Kritik när boven inte nämns vid namn på toppmötet",
@@ -829,7 +829,7 @@
           ]
         },
         {
-          "id": "ekot-174",
+          "id": "ekot-188",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Klimattoppmötets nya utkast: ”Inga referenser till fossila bränslen”",
@@ -841,14 +841,14 @@
       ]
     },
     {
-      "id": "k-p4-kristianstad-190",
+      "id": "k-p4-kristianstad-204",
       "sources": 2,
       "latest": "2026-11-19T13:06:06.000Z",
       "category": "Lokalt",
       "image": "https://image-api.sr.se/v1/static/AA/101/d420e9c7-8bd5-4f6d-b039-e19d01969da6.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "p4-kristianstad-190",
+          "id": "p4-kristianstad-204",
           "source": "P4 Kristianstad",
           "color": "#e85d04",
           "title": "Flicka fick dra ut 15 tänder – nu döms föräldrarna",
@@ -858,7 +858,7 @@
           "paywall": false
         },
         {
-          "id": "svt-skane-188",
+          "id": "svt-skane-202",
           "source": "SVT Skåne",
           "color": "#2a9d8f",
           "title": "Flicka hade hål i alla sina tänder – par i Kristianstad döms för misshandel",
@@ -870,14 +870,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-230",
+      "id": "k-aftonbladet-244",
       "sources": 2,
       "latest": "2026-11-19T11:38:26.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/15ed5fed-4d95-4b06-b22a-7899e191140e.jpeg?crop=2553%2C1434%2Cx0%2Cy0",
       "versions": [
         {
-          "id": "expressen-282",
+          "id": "expressen-296",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Världsledarna överens – fyra punkter efter historiska mötet",
@@ -887,7 +887,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-230",
+          "id": "aftonbladet-244",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Världsledarna överens om fyra punkter",
@@ -899,14 +899,14 @@
       ]
     },
     {
-      "id": "k-ekot-245",
+      "id": "k-ekot-259",
       "sources": 2,
       "latest": "2026-11-19T10:51:00.000Z",
       "category": "Världen",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/fee8ce147e9c3c01fa1e40a60587edcb1a5653a11df349aec981241cd2cfd8d4",
       "versions": [
         {
-          "id": "svt-utrikes-262",
+          "id": "svt-utrikes-276",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Mötet mellan Xi, Putin och Trump avslutas",
@@ -916,7 +916,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-245",
+          "id": "ekot-259",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Historiska mötet avslutat: ”Banbrytande betydelse”",
@@ -928,14 +928,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-266",
+      "id": "k-aftonbladet-280",
       "sources": 2,
       "latest": "2026-11-19T09:58:59.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/d6a89341-d71c-4980-a056-69745f244ffe.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-279",
+          "id": "ekot-293",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "EU-kommissionen har utsatts för en cyberattack",
@@ -945,7 +945,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-266",
+          "id": "aftonbladet-280",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "EU-kommissionen utsatt för cyberattack",
@@ -957,14 +957,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-283",
+      "id": "k-aftonbladet-297",
       "sources": 2,
       "latest": "2026-11-19T09:40:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/e44b48c1-2668-34b2-9cce-6d0989887437?format=auto&w=1000&s=f69564baa140e0fdd93507db7ae28b97dd52dc9e",
       "versions": [
         {
-          "id": "aftonbladet-283",
+          "id": "aftonbladet-297",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Danska folketinget godkänner Grönlandsavtal",
@@ -974,7 +974,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-277",
+          "id": "ekot-291",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Danmark godkänner försvarsavtal med Grönland och USA",
@@ -986,14 +986,14 @@
       ]
     },
     {
-      "id": "k-nsk-287",
+      "id": "k-nsk-301",
       "sources": 2,
       "latest": "2026-11-19T09:17:16.000Z",
       "category": "Lokalt",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/2f93ba843f7e400a13c86112e65490896499522866cbeab7a04aa887efed39b6",
       "versions": [
         {
-          "id": "svt-skane-337",
+          "id": "svt-skane-351",
           "source": "SVT Skåne",
           "color": "#2a9d8f",
           "title": "Växelfel mellan Lund och Klostergården orsakade förseningar",
@@ -1003,7 +1003,7 @@
           "paywall": false
         },
         {
-          "id": "nsk-287",
+          "id": "nsk-301",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "Växelfel påverkar tågtrafiken i Skåne",
@@ -1018,14 +1018,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-292",
+      "id": "k-aftonbladet-306",
       "sources": 2,
       "latest": "2026-11-19T09:07:57.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
       "versions": [
         {
-          "id": "expressen-293",
+          "id": "expressen-307",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Område avspärrat – misstänkt farligt föremål i Göteborg",
@@ -1035,7 +1035,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-292",
+          "id": "aftonbladet-306",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Misstänkt föremål var ofarligt",
@@ -1047,14 +1047,14 @@
       ]
     },
     {
-      "id": "k-ekot-347",
+      "id": "k-ekot-361",
       "sources": 2,
       "latest": "2026-11-19T06:03:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/adacca8a-671e-3a8c-8505-5f0d72e2f9ba?format=auto&w=1000&s=c1fabb9d835e53e6562f0e8ce75bed2165c24d05",
       "versions": [
         {
-          "id": "svd-407",
+          "id": "svd-421",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Anthropic bekräftar aktiepris – sätter rekord",
@@ -1064,7 +1064,7 @@
           "paywall": true
         },
         {
-          "id": "ekot-347",
+          "id": "ekot-361",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "AI-jätten till börsen – väntas sätta rekord",
@@ -1076,14 +1076,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-394",
+      "id": "k-aftonbladet-408",
       "sources": 2,
       "latest": "2026-11-19T05:21:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/7b0d63a7-6b5a-3701-b450-cfb3ce1cae19?format=auto&w=1000&s=44b6d20e531d3a02299dbdedfbf12967c743c7b9",
       "versions": [
         {
-          "id": "aftonbladet-394",
+          "id": "aftonbladet-408",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Unika mötet i gång: Nu träffas Xi, Putin och Trump",
@@ -1097,7 +1097,7 @@
           ]
         },
         {
-          "id": "ekot-360",
+          "id": "ekot-374",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Kärnstrand: Det kan Trump och Xi komma överens om",
@@ -1109,14 +1109,14 @@
       ]
     },
     {
-      "id": "k-expressen-408",
+      "id": "k-expressen-422",
       "sources": 2,
       "latest": "2026-11-19T05:11:38.000Z",
       "category": "Världen",
       "image": "https://static.bonniernews.se/ba/60976c5f-05b7-4061-8f4c-b9b689743bcf.jpeg?crop=2557%2C1440%2Cx0%2Cy0",
       "versions": [
         {
-          "id": "expressen-408",
+          "id": "expressen-422",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Putin har med sig bajsportfölj till historiska mötet i Kina",
@@ -1126,7 +1126,7 @@
           "paywall": false
         },
         {
-          "id": "svt-utrikes-364",
+          "id": "svt-utrikes-378",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Möte mellan Trump, Putin och Xi",
@@ -1138,14 +1138,14 @@
       ]
     },
     {
-      "id": "k-expressen-382",
+      "id": "k-expressen-396",
       "sources": 2,
       "latest": "2026-11-19T04:37:41.000Z",
       "category": "Världen",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.54/0.28/bcaffd18c706e56459fe7c3a5df8107fdf77cb281e41b722704f987720725bb5",
       "versions": [
         {
-          "id": "svt-utrikes-405",
+          "id": "svt-utrikes-419",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Van Gogh-tavla såld för miljardpris",
@@ -1155,7 +1155,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-382",
+          "id": "expressen-396",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "van Gogh-målning såld för 190,4 miljoner dollar – slår rekord",
@@ -1167,14 +1167,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-418",
+      "id": "k-aftonbladet-432",
       "sources": 2,
       "latest": "2026-11-19T01:13:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/1b625acb-e894-3dd5-a0fe-d50cb978c291?format=auto&w=1000&s=42ed2e0fb56a360cc1c148bf3b58361fd936ae49",
       "versions": [
         {
-          "id": "aftonbladet-418",
+          "id": "aftonbladet-432",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Ryssland: Krimbron attackerad igen",
@@ -1188,7 +1188,7 @@
           ]
         },
         {
-          "id": "ekot-404",
+          "id": "ekot-418",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Krimbron attackerad igen",
@@ -1200,14 +1200,14 @@
       ]
     },
     {
-      "id": "k-dn-460",
+      "id": "k-dn-474",
       "sources": 2,
       "latest": "2026-11-18T20:08:07.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/896151d4-b47b-4d06-bd4b-b0aec1fda429.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-460",
+          "id": "dn-474",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Han tar ledigt för att spela ”Grand theft auto VI”: ”Sparat semesterdagar”",
@@ -1217,7 +1217,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-446",
+          "id": "expressen-460",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Logitech ger alla anställda ledigt – för att spela ”GTA 6”",
@@ -1229,14 +1229,14 @@
       ]
     },
     {
-      "id": "k-dn-456",
+      "id": "k-dn-470",
       "sources": 2,
       "latest": "2026-11-18T19:52:10.000Z",
       "category": "Sport",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.44/0.26/664fd91f349987e0198faacb29998cdc3802b5feeccfe98757fc2d9a11fa24ef",
       "versions": [
         {
-          "id": "svt-sport-461",
+          "id": "svt-sport-475",
           "source": "SVT Sport",
           "color": "#1a1a1a",
           "title": "Häcken föll mot Manchester City – efter dråpligt mål",
@@ -1246,7 +1246,7 @@
           "paywall": false
         },
         {
-          "id": "dn-456",
+          "id": "dn-470",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Ingen ny skräll av Häcken – föll hemma mot City",
@@ -1258,14 +1258,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-509",
+      "id": "k-aftonbladet-523",
       "sources": 2,
       "latest": "2026-11-18T18:30:37.000Z",
       "category": "Världen",
       "image": "https://akamai.vgc.no/v2/images/fd57fe9e-a33f-3b83-94c2-db638dea1973?format=auto&w=1000&s=2b4552069f39020ca826744fb13b16ef87ad80f4",
       "versions": [
         {
-          "id": "aftonbladet-509",
+          "id": "aftonbladet-523",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Hegseth i Venezuela – träffat avtal med Rodríguez",
@@ -1275,7 +1275,7 @@
           "paywall": false
         },
         {
-          "id": "svt-utrikes-485",
+          "id": "svt-utrikes-499",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Hegseth i Venezuela – ingått avtal med Rodríguez",
@@ -1287,43 +1287,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-514",
-      "sources": 2,
-      "latest": "2026-11-18T17:06:09.000Z",
-      "category": "Sverige",
-      "image": "https://akamai.vgc.no/v2/images/32412086-6635-3db0-b792-61fc06964072?format=auto&w=1000&s=914fde17c3c2a8df0c3ede2785b62bf5c6bb1e1b",
-      "versions": [
-        {
-          "id": "svd-597",
-          "source": "SvD",
-          "color": "#2b2b2b",
-          "title": "Svenskar bäst i engelska – men ordet fuck skaver",
-          "summary": "Svenskar ligger i topp internationellt i engelska, enligt en ny rapport.",
-          "link": "https://www.svd.se/a/ez8k59/sverige-i-topp-bland-117-lander-i-engelskakunskaper-svenskar-betydligt-battre-i-tal-an-skrift?utm_medium=rss",
-          "date": "2026-11-18T13:32:58.000Z",
-          "paywall": true
-        },
-        {
-          "id": "aftonbladet-514",
-          "source": "Aftonbladet",
-          "color": "#c8102e",
-          "title": "Svenskar bäst på att förstå engelska",
-          "summary": "Svenskarna kommer på första plats i ett globalt test av engelskkunskaper.",
-          "link": "https://www.aftonbladet.se/nyheter/a/qOLeJw/svenskar-bast-pa-att-forsta-engelska?utm_medium=rss",
-          "date": "2026-11-18T17:06:09.000Z",
-          "paywall": false
-        }
-      ]
-    },
-    {
-      "id": "k-dn-562",
+      "id": "k-dn-576",
       "sources": 2,
       "latest": "2026-11-18T15:16:05.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/images/9a/94/9a942a5b42054c71b92833f5b9538191/16x9/original.jpg",
       "versions": [
         {
-          "id": "expressen-566",
+          "id": "expressen-580",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "”Tar det på allvar”",
@@ -1333,7 +1304,7 @@
           "paywall": false
         },
         {
-          "id": "dn-562",
+          "id": "dn-576",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Åkesson (SD): ”Har haft samtal med ungdomsförbundet”",
@@ -1341,35 +1312,6 @@
           "link": "https://www.dn.se/sverige/akesson-sd-har-haft-samtal-med-ungdomsforbundet/",
           "date": "2026-11-18T15:16:05.000Z",
           "paywall": true
-        }
-      ]
-    },
-    {
-      "id": "k-aftonbladet-586",
-      "sources": 2,
-      "latest": "2026-11-18T14:17:26.000Z",
-      "category": "Sverige",
-      "image": "https://akamai.vgc.no/v2/images/2997ef7c-d55e-3194-9833-79dc084df177?format=auto&w=1000&s=3207a52a661ad39355a3444b5677aa7037755c19",
-      "versions": [
-        {
-          "id": "svd-589",
-          "source": "SvD",
-          "color": "#2b2b2b",
-          "title": "E-handelsjätten hackad – varnar kunderna",
-          "summary": "Hackare har kommit åt e-handelsbolaget Lykos interna system – och lagt beslag på kundernas…",
-          "link": "https://www.svd.se/a/xJPVEG/lyko-hackat-kunduppgifter-har-lackt?utm_medium=rss",
-          "date": "2026-11-18T14:12:47.000Z",
-          "paywall": true
-        },
-        {
-          "id": "aftonbladet-586",
-          "source": "Aftonbladet",
-          "color": "#c8102e",
-          "title": "Lyko hackat – kunders personuppgifter läckta",
-          "summary": "Hackare har tagit sig in i Lykos interna system – kommit åt kunders personuppgifter",
-          "link": "https://www.aftonbladet.se/nyheter/a/dJOrKB/lyko-hackat-kunders-personuppgifter-lackta?utm_medium=rss",
-          "date": "2026-11-18T14:17:26.000Z",
-          "paywall": false
         }
       ]
     }
