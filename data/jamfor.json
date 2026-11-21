@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-21T07:19:32.737Z",
+  "updated": "2026-11-21T08:56:44.123Z",
   "clusters": [
     {
-      "id": "k-aftonbladet-19",
+      "id": "k-aftonbladet-40",
       "sources": 5,
       "latest": "2026-11-21T07:17:14.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/19190fe1-2aa1-42a7-a223-3030d587d153.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-23",
+          "id": "ekot-44",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Svensk polisstation i Irak ska komma åt gängkriminella",
@@ -19,7 +19,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-19",
+          "id": "aftonbladet-40",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Svenska poliser ska placeras i Irak",
@@ -32,7 +32,7 @@
           ]
         },
         {
-          "id": "svd-17",
+          "id": "svd-38",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Svensk polis ska placeras i Irak",
@@ -42,7 +42,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-7",
+          "id": "expressen-28",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Sverige öppnar polisstation i Irak",
@@ -52,7 +52,7 @@
           "paywall": false
         },
         {
-          "id": "svt-inrikes-0",
+          "id": "svt-inrikes-22",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Svensk polis öppnar station i Irak",
@@ -67,14 +67,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-357",
+      "id": "k-aftonbladet-379",
       "sources": 5,
       "latest": "2026-11-20T16:49:48.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/589698c6-347b-46e6-81a4-cab61d328b5b.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-358",
+          "id": "ekot-380",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Danskar misstänkts ha lejts av Ryssland – för att döda ukrainsk rappare",
@@ -84,7 +84,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-357",
+          "id": "aftonbladet-379",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Danskar misstänks för rysk mordplan mot rappare",
@@ -97,7 +97,7 @@
           ]
         },
         {
-          "id": "dn-260",
+          "id": "dn-282",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Danmark utvisar rysk försvarsattaché efter misstänkt attentatsförsök",
@@ -107,7 +107,7 @@
           "paywall": true
         },
         {
-          "id": "svt-utrikes-229",
+          "id": "svt-utrikes-251",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Mordplaner på ukrainsk rappare i Danmark – Ryssland misstänks",
@@ -117,7 +117,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-192",
+          "id": "expressen-214",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Planen: Mörda ukrainsk rappare",
@@ -129,14 +129,63 @@
       ]
     },
     {
-      "id": "k-aftonbladet-347",
+      "id": "k-aftonbladet-79",
+      "sources": 4,
+      "latest": "2026-11-21T07:32:36.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/30aa20cf-e439-3619-a402-9c74e683a7c5?format=auto&w=1000&s=8433d4928c42ff79693e57b1be1a13426cf52e17",
+      "versions": [
+        {
+          "id": "aftonbladet-79",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Historiskt matematiskt problem påstås löst med AI",
+          "summary": "Riemannhypotesen har varit en gåta sedan 1800-talet. Nu hävdar en Anthropic-anställd matematiker att…",
+          "link": "https://www.aftonbladet.se/nyheter/a/aGwdm5/historiskt-matematiskt-problem-pastas-lost-med-ai?utm_medium=rss",
+          "date": "2026-11-21T03:14:46.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svd-80",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Raimannhypotesen påstås ha lösts",
+          "summary": "Riemannhypotesen har varit en gåta sedan 1800-talet. Nu hävdar en Anthropic-anställd matematiker att…",
+          "link": "https://www.svd.se/a/qOLrjz/historiskt-matematiskt-problem-pastas-lost-med-ai?utm_medium=rss",
+          "date": "2026-11-21T03:14:46.000Z",
+          "paywall": true
+        },
+        {
+          "id": "expressen-64",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Historiska problemet påstås löst med AI",
+          "summary": "Riemannhypotesen har varit en gåta sedan 1800-talet. Nu hävdar en Anthropic-anställd matematiker att han hittat en lösning med hjälp av bolagets AI.",
+          "link": "https://www.expressen.se/nyheter/varlden/historiska-problemet-pastas-lost-med-ai/",
+          "date": "2026-11-21T04:42:19.000Z",
+          "paywall": false
+        },
+        {
+          "id": "dn-19",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "Ännu ett historiskt matteproblem kan ha lösts – med AI",
+          "summary": "Det kan ha hänt igen. En anställd på Anthropic hävdar att han med hjälp av AI lyckats lösa ett matteproblem som gäckat forskare i över 150 år. Lösningen sträcker sig över 250 000 sidor, enligt matematikern.",
+          "link": "https://www.dn.se/varlden/annu-ett-historiskt-matteproblem-kan-ha-losts-med-ai/",
+          "date": "2026-11-21T07:32:36.000Z",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-369",
       "sources": 4,
       "latest": "2026-11-20T21:52:06.000Z",
       "category": "Sverige",
       "image": "https://www.svd.se/monorepo-api/og/wA9Gmd.png?pinnedEntry=80116",
       "versions": [
         {
-          "id": "svd-351",
+          "id": "svd-373",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "SMHI förlänger gul snövarning till nästa vecka",
@@ -146,7 +195,7 @@
           "paywall": true
         },
         {
-          "id": "ekot-348",
+          "id": "ekot-370",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Gul snövarning utökas för Stockholm och Uppland",
@@ -156,7 +205,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-347",
+          "id": "aftonbladet-369",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "SMHI förlänger gul snövarning – halt på vägarna",
@@ -166,7 +215,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-92",
+          "id": "expressen-114",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Nya bud kring SMHI:s snövarningar – har ändrats flera gånger",
@@ -178,14 +227,14 @@
       ]
     },
     {
-      "id": "k-ekot-149",
+      "id": "k-ekot-171",
       "sources": 4,
       "latest": "2026-11-20T19:25:24.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/b95649ee-b51d-441b-a5f8-fabc54ee0990.jpeg?crop=2553%2C1436%2Cx0%2Cy188",
       "versions": [
         {
-          "id": "expressen-171",
+          "id": "expressen-193",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Trumps tullhot – mot amerikanska företag",
@@ -195,7 +244,7 @@
           "paywall": false
         },
         {
-          "id": "svt-utrikes-162",
+          "id": "svt-utrikes-184",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Donald Trump vill stoppa AI-center utanför USA: ”Enorm skatt”",
@@ -205,7 +254,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-149",
+          "id": "ekot-171",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Trumps hot: Inga amerikanska datacenter utanför USA",
@@ -215,7 +264,7 @@
           "paywall": false
         },
         {
-          "id": "svd-146",
+          "id": "svd-168",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Trump: Förbjud datacenter utanför USA",
@@ -227,14 +276,14 @@
       ]
     },
     {
-      "id": "k-ekot-368",
+      "id": "k-ekot-390",
       "sources": 4,
       "latest": "2026-11-20T13:35:29.000Z",
       "category": "Sverige",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/2f93ba843f7e400a13c86112e65490896499522866cbeab7a04aa887efed39b6",
       "versions": [
         {
-          "id": "svt-utrikes-444",
+          "id": "svt-utrikes-466",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Polen: Rysk kränkning av luftrummet",
@@ -244,7 +293,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-368",
+          "id": "ekot-390",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Två ryska robotar och en drönare har kränkt polskt luftrum",
@@ -254,7 +303,7 @@
           "paywall": false
         },
         {
-          "id": "svd-366",
+          "id": "svd-388",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Rysk kryssningsrobot kränkte polskt luftrum",
@@ -264,7 +313,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-279",
+          "id": "expressen-301",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Svenska Jas i insats",
@@ -276,14 +325,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-430",
+      "id": "k-aftonbladet-452",
       "sources": 4,
       "latest": "2026-11-20T07:44:48.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/505088c7-fce1-4f68-a473-69ab79d535f5.jpeg?crop=2557%2C1438%2Cx0%2Cy266",
       "versions": [
         {
-          "id": "expressen-439",
+          "id": "expressen-461",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Ud bekräftar: Svensk kvinna död i Filippinerna",
@@ -293,7 +342,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-435",
+          "id": "ekot-457",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Uppgifter: Svensk kvinna mördad i Filippinerna",
@@ -303,7 +352,7 @@
           "paywall": false
         },
         {
-          "id": "svt-utrikes-432",
+          "id": "svt-utrikes-454",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Svensk kvinna död i Filippinerna – misstänks mördats",
@@ -313,7 +362,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-430",
+          "id": "aftonbladet-452",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Svensk kvinna hittad död i Filippinerna",
@@ -325,53 +374,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-58",
-      "sources": 3,
-      "latest": "2026-11-21T04:42:19.000Z",
-      "category": "Sverige",
-      "image": "https://akamai.vgc.no/v2/images/30aa20cf-e439-3619-a402-9c74e683a7c5?format=auto&w=1000&s=8433d4928c42ff79693e57b1be1a13426cf52e17",
-      "versions": [
-        {
-          "id": "aftonbladet-58",
-          "source": "Aftonbladet",
-          "color": "#c8102e",
-          "title": "Historiskt matematiskt problem påstås löst med AI",
-          "summary": "Riemannhypotesen har varit en gåta sedan 1800-talet. Nu hävdar en Anthropic-anställd matematiker att…",
-          "link": "https://www.aftonbladet.se/nyheter/a/aGwdm5/historiskt-matematiskt-problem-pastas-lost-med-ai?utm_medium=rss",
-          "date": "2026-11-21T03:14:46.000Z",
-          "paywall": false
-        },
-        {
-          "id": "svd-59",
-          "source": "SvD",
-          "color": "#2b2b2b",
-          "title": "Raimannhypotesen påstås ha lösts",
-          "summary": "Riemannhypotesen har varit en gåta sedan 1800-talet. Nu hävdar en Anthropic-anställd matematiker att…",
-          "link": "https://www.svd.se/a/qOLrjz/historiskt-matematiskt-problem-pastas-lost-med-ai?utm_medium=rss",
-          "date": "2026-11-21T03:14:46.000Z",
-          "paywall": true
-        },
-        {
-          "id": "expressen-43",
-          "source": "Expressen",
-          "color": "#d2232a",
-          "title": "Historiska problemet påstås löst med AI",
-          "summary": "Riemannhypotesen har varit en gåta sedan 1800-talet. Nu hävdar en Anthropic-anställd matematiker att han hittat en lösning med hjälp av bolagets AI.",
-          "link": "https://www.expressen.se/nyheter/varlden/historiska-problemet-pastas-lost-med-ai/",
-          "date": "2026-11-21T04:42:19.000Z",
-          "paywall": false
-        }
-      ]
-    },
-    {
-      "id": "k-dn-193",
+      "id": "k-dn-215",
       "sources": 3,
       "latest": "2026-11-20T17:20:09.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/76953052-acb4-447f-a8d5-b3381a207b43.jpeg?crop=1843%2C1037%2Cx383%2Cy114",
       "versions": [
         {
-          "id": "expressen-199",
+          "id": "expressen-221",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Bergfeldt hjälpte adhd-expert att anmäla SVT",
@@ -381,7 +391,7 @@
           "paywall": false
         },
         {
-          "id": "dn-193",
+          "id": "dn-215",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Carina Bergfeldt hjälpte expert att anmäla SVT-artikel",
@@ -391,7 +401,7 @@
           "paywall": true
         },
         {
-          "id": "svd-182",
+          "id": "svd-204",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Carina Bergfeldt hjälpte expert att anmäla SVT",
@@ -403,14 +413,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-520",
+      "id": "k-aftonbladet-542",
       "sources": 3,
       "latest": "2026-11-20T00:51:41.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/bf818185-c98b-3aa2-8a53-d9ec877369d8?format=auto&w=1000&s=85fba5eca6afe846ec735c5d0294df7bb2ba7f79",
       "versions": [
         {
-          "id": "aftonbladet-520",
+          "id": "aftonbladet-542",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Trump: För upptagen för att träffa Kim",
@@ -420,7 +430,7 @@
           "paywall": false
         },
         {
-          "id": "svd-521",
+          "id": "svd-543",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Trump var för upptagen för Kim",
@@ -430,7 +440,7 @@
           "paywall": true
         },
         {
-          "id": "svt-utrikes-517",
+          "id": "svt-utrikes-539",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Trump: För upptagen för att möta Kim",
@@ -442,14 +452,47 @@
       ]
     },
     {
-      "id": "k-aftonbladet-16",
+      "id": "k-aftonbladet-12",
+      "sources": 2,
+      "latest": "2026-11-21T08:27:45.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/c7c7eae1-0623-3853-a6f1-13c7692fccec?format=auto&w=1000&s=afca5aab84ac3980381592e2fb7250f2bf2ef237",
+      "versions": [
+        {
+          "id": "aftonbladet-12",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Drönarlarm i Finland och Estland – Natoflyg i luften",
+          "summary": "Invånare i Estland har varnats för drönare under natten. I Finland har flyg- och sjötrafik…",
+          "link": "https://www.aftonbladet.se/nyheter/a/LoAglR/dronarlarm-i-finland-och-estland-natoflyg-i-luften?utm_medium=rss",
+          "date": "2026-11-21T08:09:09.000Z",
+          "paywall": false,
+          "alsoAt": [
+            "Expressen",
+            "SVT Utrikes"
+          ]
+        },
+        {
+          "id": "svd-5",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Larm om drönare i Finland och Estland i natt",
+          "summary": "",
+          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80146&utm_medium=rss",
+          "date": "2026-11-21T08:27:45.000Z",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-37",
       "sources": 2,
       "latest": "2026-11-21T06:47:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/56680ef7-7e38-356d-b343-b8606085341d?format=auto&w=1000&s=75b7bc048741eef5c87ce8f85ba6df7df0c1dd8b",
       "versions": [
         {
-          "id": "aftonbladet-16",
+          "id": "aftonbladet-37",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Explosioner och bränder i Kiev",
@@ -459,7 +502,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-6",
+          "id": "ekot-27",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Attacker mot Kyjiv – bostadshus i lågor",
@@ -471,14 +514,14 @@
       ]
     },
     {
-      "id": "k-ekot-57",
+      "id": "k-ekot-78",
       "sources": 2,
       "latest": "2026-11-21T06:10:30.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/c9d0d1b9-0fd2-42cd-9156-276611123307.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-57",
+          "id": "ekot-78",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "CNN: FBI hackade igen – databaser angripna",
@@ -488,7 +531,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-18",
+          "id": "expressen-39",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "FBI hackade",
@@ -500,14 +543,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-68",
+      "id": "k-aftonbladet-89",
       "sources": 2,
       "latest": "2026-11-21T01:03:54.000Z",
       "category": "Världen",
       "image": "https://akamai.vgc.no/v2/images/9cccd7d2-f396-3344-b5b9-5cb5f28963fc?format=auto&w=1000&s=1d6d8e8e90a7b1b7cb0eee588af720b0c150c58d",
       "versions": [
         {
-          "id": "aftonbladet-68",
+          "id": "aftonbladet-89",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Döms för start av Palisadesbrand",
@@ -520,7 +563,7 @@
           ]
         },
         {
-          "id": "svt-utrikes-65",
+          "id": "svt-utrikes-86",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Man döms för dödsbranden i Pacific Palisades",
@@ -532,14 +575,14 @@
       ]
     },
     {
-      "id": "k-dn-99",
+      "id": "k-dn-121",
       "sources": 2,
       "latest": "2026-11-20T21:22:01.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/609ad5ba-4689-36de-9649-c4515eb9b194?format=auto&w=1000&s=96624417c52dab807c89d992231b683505410c58",
       "versions": [
         {
-          "id": "svd-257",
+          "id": "svd-279",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Anthropic har fallit nära nollpunkten",
@@ -549,7 +592,7 @@
           "paywall": true
         },
         {
-          "id": "dn-99",
+          "id": "dn-121",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Blodig fredag med AI-slakt på Wall Street",
@@ -564,14 +607,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-132",
+      "id": "k-aftonbladet-154",
       "sources": 2,
       "latest": "2026-11-20T19:49:47.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/04441b16-a842-3e70-9fda-208e8304bb20?format=auto&w=1000&s=a64bc237f79211c6f1ee2de70db3bfb23c244899",
       "versions": [
         {
-          "id": "aftonbladet-132",
+          "id": "aftonbladet-154",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Oligark krävs på miljarder av ex-fru i jättetvist",
@@ -581,7 +624,7 @@
           "paywall": false
         },
         {
-          "id": "svd-133",
+          "id": "svd-155",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Oligark krävs på miljarder av ex-fru",
@@ -593,14 +636,14 @@
       ]
     },
     {
-      "id": "k-expressen-203",
+      "id": "k-expressen-225",
       "sources": 2,
       "latest": "2026-11-20T16:11:46.000Z",
       "category": "Sverige",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.63/0.79/eaae7305091ec2b3b6f09d50cf33e4d6148eec5eb7195f0b90bbb4546775770f",
       "versions": [
         {
-          "id": "svt-inrikes-322",
+          "id": "svt-inrikes-344",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Lokal C-topp öppnar för V-ministrar i regeringen",
@@ -610,7 +653,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-203",
+          "id": "expressen-225",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Lokal C-topp öppnar för V i regeringen",
@@ -622,14 +665,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-355",
+      "id": "k-aftonbladet-377",
       "sources": 2,
       "latest": "2026-11-20T16:07:49.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/5ebe80ec-c2ab-3fab-b1f3-b7219398f010?format=auto&w=1000&s=777043726934b65bc8b87c0f7d33c4cb6a70c5fd",
       "versions": [
         {
-          "id": "aftonbladet-355",
+          "id": "aftonbladet-377",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "”Jag känner frustration” – splittring vid klimatmöte",
@@ -642,7 +685,7 @@
           ]
         },
         {
-          "id": "dn-205",
+          "id": "dn-227",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Klimatmötet går in på övertid – stor ovisshet",
@@ -654,14 +697,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-498",
+      "id": "k-aftonbladet-520",
       "sources": 2,
       "latest": "2026-11-20T15:25:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/6eea3ee1-6838-39e3-85b8-427387e1d907?format=auto&w=1000&s=b9400f53e6da7d9045c6eb06d60776ea72b3e3a8",
       "versions": [
         {
-          "id": "aftonbladet-498",
+          "id": "aftonbladet-520",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Öppning för unga när Storbritannien närmar sig EU",
@@ -674,7 +717,7 @@
           ]
         },
         {
-          "id": "ekot-236",
+          "id": "ekot-258",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Storbritannien närmar sig EU – öppning för unga",
@@ -686,14 +729,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-365",
+      "id": "k-aftonbladet-387",
       "sources": 2,
       "latest": "2026-11-20T14:58:49.000Z",
       "category": "Lokalt",
       "image": "https://akamai.vgc.no/v2/images/c4a67b99-07f0-3305-bcf8-38076b5667b6?format=auto&w=1000&s=431c36dece3cefb05208b68a0e54934e00bb33e0",
       "versions": [
         {
-          "id": "aftonbladet-365",
+          "id": "aftonbladet-387",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Centern: ”V vägrar förhandla”",
@@ -706,7 +749,7 @@
           ]
         },
         {
-          "id": "nsk-248",
+          "id": "nsk-270",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "Låst mellan de rödgröna: ”Vägrar förhandla”",
@@ -721,14 +764,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-271",
+      "id": "k-aftonbladet-293",
       "sources": 2,
       "latest": "2026-11-20T13:53:19.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/0e9a6738-f622-4fe2-bab0-cfd4b2a010f0.jpeg?crop=2557%2C1440%2Cx0%2Cy0",
       "versions": [
         {
-          "id": "expressen-319",
+          "id": "expressen-341",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Räkningen för kung Haralds begravning klar",
@@ -738,7 +781,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-271",
+          "id": "aftonbladet-293",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Notan för kungens begravning: Nästan 300 miljoner",
@@ -750,14 +793,14 @@
       ]
     },
     {
-      "id": "k-dn-312",
+      "id": "k-dn-334",
       "sources": 2,
       "latest": "2026-11-20T13:02:02.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/60b258df-17e3-45bb-a150-c439c4cbf492.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-312",
+          "id": "dn-334",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Svahn och Grahn starkas i skidpremiären: ”Ringrostig”",
@@ -767,7 +810,7 @@
           "paywall": true
         },
         {
-          "id": "svd-291",
+          "id": "svd-313",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Svahns premiärsuccé: ”Bästa loppet i finalen”",
@@ -783,14 +826,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-338",
+      "id": "k-aftonbladet-360",
       "sources": 2,
       "latest": "2026-11-20T12:04:42.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/f96e90e3-8102-3e5a-92fb-6df63eb1058c?format=auto&w=1000&s=8c74e4d2edcf335e02671922a85c761d035d117c",
       "versions": [
         {
-          "id": "aftonbladet-338",
+          "id": "aftonbladet-360",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Barnen på Safiren får stanna – pappans lättnad",
@@ -800,7 +843,7 @@
           "paywall": false
         },
         {
-          "id": "dn-325",
+          "id": "dn-347",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Nytt besked: Multisjuka barnen får bo kvar på Safiren",
@@ -812,14 +855,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-423",
+      "id": "k-aftonbladet-445",
       "sources": 2,
       "latest": "2026-11-20T08:00:42.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/d33249e1-a284-48d0-a066-f8f2a5a0bfdf.jpeg?crop=767%2C433%2Cx1%2Cy0",
       "versions": [
         {
-          "id": "expressen-424",
+          "id": "expressen-446",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Al-Bara Mejri, 21, uppsatt på Europols ”most wanted”-lista",
@@ -829,7 +872,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-423",
+          "id": "aftonbladet-445",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Al-Bara Mejri på Europols lista – misstänks för flera mord",
@@ -841,14 +884,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-454",
+      "id": "k-aftonbladet-476",
       "sources": 2,
       "latest": "2026-11-20T06:27:51.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/bda474c4-e8d0-3bc5-8d8d-c40b15abe347?format=auto&w=1000&s=6fa28cb3d64f561c70e51e5ccf41c5df3bf834e3",
       "versions": [
         {
-          "id": "aftonbladet-454",
+          "id": "aftonbladet-476",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Protester i hela Europa mot krig och kostnader",
@@ -862,7 +905,7 @@
           ]
         },
         {
-          "id": "svd-453",
+          "id": "svd-475",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Miljontals väntas protestera i helgen",
@@ -874,14 +917,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-477",
+      "id": "k-aftonbladet-499",
       "sources": 2,
       "latest": "2026-11-20T06:13:17.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/2ef09406-995c-3da1-81fc-15b46e0faeab?format=auto&w=1000&s=a4c0b180b1415fd8fe5e83507bfb45a79a49191d",
       "versions": [
         {
-          "id": "aftonbladet-477",
+          "id": "aftonbladet-499",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Lömskt virus minskar bland barn – slår mot äldre",
@@ -894,7 +937,7 @@
           ]
         },
         {
-          "id": "dn-456",
+          "id": "dn-478",
           "source": "DN",
           "color": "#0f4c81",
           "title": "RS-virus minskar bland barn – slår mot äldre",
@@ -906,14 +949,14 @@
       ]
     },
     {
-      "id": "k-expressen-539",
+      "id": "k-expressen-561",
       "sources": 2,
       "latest": "2026-11-20T02:06:04.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/b7bf3bf5-2778-42f0-b113-5a15d671481e.jpeg?crop=1388%2C781%2Cx561%2Cy179",
       "versions": [
         {
-          "id": "expressen-539",
+          "id": "expressen-561",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Tommy Myllymäki lämnar Michelinrestaurangen",
@@ -923,7 +966,7 @@
           "paywall": false
         },
         {
-          "id": "svd-514",
+          "id": "svd-536",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Duon lämnar Michelinkrogen",
@@ -935,14 +978,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-552",
+      "id": "k-aftonbladet-574",
       "sources": 2,
       "latest": "2026-11-19T21:51:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/bd27106c-b8dd-3ac0-b7d1-b081b43a2e73?format=auto&w=1000&s=e346e5579db4f9c1e97417bb299f97c1f9f7ad0a",
       "versions": [
         {
-          "id": "aftonbladet-552",
+          "id": "aftonbladet-574",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Kändis-flodhästen Fiona död",
@@ -955,7 +998,7 @@
           ]
         },
         {
-          "id": "ekot-542",
+          "id": "ekot-564",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Kända flodhästen Fiona död",
@@ -963,38 +1006,6 @@
           "link": "https://www.sverigesradio.se/artikel/9346705",
           "date": "2026-11-19T21:51:00.000Z",
           "paywall": false
-        }
-      ]
-    },
-    {
-      "id": "k-expressen-563",
-      "sources": 2,
-      "latest": "2026-11-19T20:27:19.000Z",
-      "category": "Världen",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/2f93ba843f7e400a13c86112e65490896499522866cbeab7a04aa887efed39b6",
-      "versions": [
-        {
-          "id": "svt-utrikes-572",
-          "source": "SVT Utrikes",
-          "color": "#1a1a1a",
-          "title": "Norwegian ber 5 000 kunder spärra sina bankkort efter dataintrång",
-          "summary": "Omkring 5 000 kunder hos flygbolaget Norwegian uppmanas att omedelbart spärra sina bankkort efter ett dataintrång hos en extern IT-leverantör, rapporterar VG.",
-          "link": "https://www.svt.se/nyheter/utrikes/norwegian-ber-5-000-kunder-sparra-sina-bankkort-efter-dataintrang",
-          "date": "2026-11-19T20:03:56.000Z",
-          "paywall": false
-        },
-        {
-          "id": "expressen-563",
-          "source": "Expressen",
-          "color": "#d2232a",
-          "title": "Norwegian hackat – ber kunder spärra betalkort",
-          "summary": "Ber resenärer spärra sina betalkort",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=075cc82f-89ea-4950-9c8a-abf66cb9e073",
-          "date": "2026-11-19T20:27:19.000Z",
-          "paywall": false,
-          "alsoAt": [
-            "SvD"
-          ]
         }
       ]
     }
