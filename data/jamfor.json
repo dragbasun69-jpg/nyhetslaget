@@ -1,84 +1,87 @@
 {
-  "updated": "2026-11-21T11:54:02.492Z",
+  "updated": "2026-11-21T13:05:26.326Z",
   "clusters": [
     {
-      "id": "k-aftonbladet-430",
-      "sources": 5,
-      "latest": "2026-11-21T10:40:13.000Z",
+      "id": "k-aftonbladet-101",
+      "sources": 6,
+      "latest": "2026-11-21T12:57:32.000Z",
       "category": "Sverige",
-      "image": "https://www.svd.se/monorepo-api/og/wA9Gmd.png?pinnedEntry=80116",
+      "image": "https://akamai.vgc.no/v2/images/c7c7eae1-0623-3853-a6f1-13c7692fccec?format=auto&w=1000&s=afca5aab84ac3980381592e2fb7250f2bf2ef237",
       "versions": [
         {
-          "id": "svd-434",
-          "source": "SvD",
-          "color": "#2b2b2b",
-          "title": "SMHI förlänger gul snövarning till nästa vecka",
-          "summary": "",
-          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80116&utm_medium=rss",
-          "date": "2026-11-20T11:07:07.000Z",
-          "paywall": true
-        },
-        {
-          "id": "aftonbladet-430",
+          "id": "aftonbladet-101",
           "source": "Aftonbladet",
           "color": "#c8102e",
-          "title": "SMHI förlänger gul snövarning – halt på vägarna",
-          "summary": "SMHI förlänger den gula varningen för snöfall i östra Svealand. Flera trafikolyckor har under…",
-          "link": "https://www.aftonbladet.se/nyheter/a/j3dnzL/smhi-forlanger-gul-snovarning?utm_medium=rss",
-          "date": "2026-11-20T11:11:29.000Z",
+          "title": "Fartyg attackerat – drivit till finländskt vatten",
+          "summary": "Ett fraktfartyg har attackerats i Finska viken och drivit in i finländskt vatten.",
+          "link": "https://www.aftonbladet.se/nyheter/a/LoAglR/dronarlarm-i-finland-och-estland-natoflyg-i-luften?utm_medium=rss",
+          "date": "2026-11-21T08:09:09.000Z",
+          "paywall": false,
+          "alsoAt": [
+            "Expressen"
+          ]
+        },
+        {
+          "id": "ekot-54",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Ryskt fartyg brinner i Finska viken – träffat av drönare",
+          "summary": "Ett ryskt lastfartyg står i brand efter att ha attackerats i Finska viken under morgonen. Besättningen har evakuerats. Fartyget ska ha varit på väg från St Petersburg till Kaliningrad när det träffades av två ukrainska drönare, strax norr om den estniska ön Stenskär på internationellt vatten.",
+          "link": "https://www.sverigesradio.se/artikel/9347629",
+          "date": "2026-11-21T10:37:00.000Z",
           "paywall": false
         },
         {
-          "id": "dn-38",
-          "source": "DN",
-          "color": "#0f4c81",
-          "title": "SMHI utökar snövarningen – igen",
-          "summary": "SMHI har återinfört snövarningen i östra Svealand fram till måndagen, efter att den drogs tillbaka under fredagskvällen. Mer snö är med andra ord att vänta. – Vi tittar löpande på nytt prognosmaterial, säger meteorologen Therese Fougman.",
-          "link": "https://www.dn.se/sverige/smhi-utokar-snovarningen-igen/",
-          "date": "2026-11-21T09:37:48.000Z",
+          "id": "svd-35",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Attack i Finska viken – ryskt fartyg brinner",
+          "summary": "",
+          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80152&utm_medium=rss",
+          "date": "2026-11-21T11:43:02.000Z",
           "paywall": true
         },
         {
-          "id": "ekot-36",
-          "source": "Ekot",
-          "color": "#1d4e89",
-          "title": "SMHI vädervarnar igen – gul varning för snö",
-          "summary": "SMHI utökar snövarningen för delar av östra Svealand. Gul varning råder från söndag 05.00 till 12.00 på måndagen, då fem till 15 centimeter snö väntas komma. SMHI skriver att vädret kan medföra problem i trafiken.",
-          "link": "https://www.sverigesradio.se/artikel/9347619",
-          "date": "2026-11-21T09:46:00.000Z",
+          "id": "dn-13",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "Fartyg attackerat i Finska viken – misstänks föra vapen till Ryssland",
+          "summary": "Ett fraktfartyg har attackerats i Finska viken och drivit in i finländskt vatten. Fartyget står under sanktioner för vapentransporter till den ryska militären.",
+          "link": "https://www.dn.se/varlden/fartyg-attackerat-i-finska-viken-misstanks-fora-vapen-till-ryssland/",
+          "date": "2026-11-21T12:41:37.000Z",
+          "paywall": true
+        },
+        {
+          "id": "expressen-10",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Ryskt fartyg brinner",
+          "summary": "Driver in på finskt vatten",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=bc2211e4-7d42-4716-86dc-89cb4a393906",
+          "date": "2026-11-21T12:43:23.000Z",
           "paywall": false
         },
         {
-          "id": "expressen-24",
-          "source": "Expressen",
-          "color": "#d2232a",
-          "title": "SMHI utökar snövarning",
-          "summary": "Gul varning över östra Svealand",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7e5a37b8-5e02-4846-b09d-0b4a65a5fb1c",
-          "date": "2026-11-21T10:40:13.000Z",
+          "id": "svt-utrikes-4",
+          "source": "SVT Utrikes",
+          "color": "#1a1a1a",
+          "title": "Drönarattack mot fraktfartyg i Finska viken",
+          "summary": "Ett fraktfartyg brinner efter att ha attackerats med drönare på internationellt vatten i Finska viken. Fartyget ifråga står under sanktioner för vapentransporter till den ryska militären.",
+          "link": "https://www.svt.se/nyheter/utrikes/dronarattack-mot-fraktfartyg-i-finska-viken",
+          "date": "2026-11-21T12:57:32.000Z",
           "paywall": false
         }
       ]
     },
     {
-      "id": "k-aftonbladet-102",
+      "id": "k-aftonbladet-129",
       "sources": 5,
-      "latest": "2026-11-21T07:17:14.000Z",
+      "latest": "2026-11-21T12:47:00.000Z",
       "category": "Sverige",
-      "image": "https://image-api.sr.se/v1/static/AA/83/19190fe1-2aa1-42a7-a223-3030d587d153.jpg?w=1200&h=675&q=75",
+      "image": "https://akamai.vgc.no/v2/images/f314d1fb-7cbb-320e-97cf-5485b10439e2?format=auto&w=1000&s=5657e0a7a2e93f27aeb67c41f798db5138f9953a",
       "versions": [
         {
-          "id": "ekot-106",
-          "source": "Ekot",
-          "color": "#1d4e89",
-          "title": "Svensk polisstation i Irak ska komma åt gängkriminella",
-          "summary": "Svenska poliser ska placeras på stationer i utlandet för att komma åt gängkriminella som flytt Sverige, säger rikspolischef Petra Lundh i Ekots Lördagsintervju. \"Vi ska köra igång med en pilot där vi ska öppna en utlandsstation i Irak i början på nästa år.\" Målet är att nå de personer som driver på våldsvågen från …",
-          "link": "https://www.sverigesradio.se/artikel/9347344",
-          "date": "2026-11-21T05:35:00.000Z",
-          "paywall": false
-        },
-        {
-          "id": "aftonbladet-102",
+          "id": "aftonbladet-129",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Svenska poliser ska placeras i Irak",
@@ -91,7 +94,7 @@
           ]
         },
         {
-          "id": "svd-100",
+          "id": "svd-127",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Svensk polis ska placeras i Irak",
@@ -101,7 +104,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-90",
+          "id": "expressen-117",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Sverige öppnar polisstation i Irak",
@@ -111,7 +114,7 @@
           "paywall": false
         },
         {
-          "id": "svt-inrikes-84",
+          "id": "svt-inrikes-111",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Svensk polis öppnar station i Irak",
@@ -122,18 +125,87 @@
           "alsoAt": [
             "Aftonbladet"
           ]
+        },
+        {
+          "id": "ekot-8",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Polisen rekryterar chef till nya stationen i Bagdad",
+          "summary": "Svensk polis ska öppna en egen polisstation i Iraks huvudstad Bagdad för att komma åt svenska gängkriminella som styr brottslighet från utlandet, enligt rikspolischef Petra Lundh. Färska siffror visar att det hittills i år gripits 280 efterlysta svenskar utomlands, säger rikspolischefen.",
+          "link": "https://www.sverigesradio.se/artikel/9347664",
+          "date": "2026-11-21T12:47:00.000Z",
+          "paywall": false
         }
       ]
     },
     {
-      "id": "k-aftonbladet-440",
+      "id": "k-aftonbladet-457",
+      "sources": 5,
+      "latest": "2026-11-21T10:40:13.000Z",
+      "category": "Sverige",
+      "image": "https://www.svd.se/monorepo-api/og/wA9Gmd.png?pinnedEntry=80116",
+      "versions": [
+        {
+          "id": "svd-461",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "SMHI förlänger gul snövarning till nästa vecka",
+          "summary": "",
+          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80116&utm_medium=rss",
+          "date": "2026-11-20T11:07:07.000Z",
+          "paywall": true
+        },
+        {
+          "id": "aftonbladet-457",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "SMHI förlänger gul snövarning – halt på vägarna",
+          "summary": "SMHI förlänger den gula varningen för snöfall i östra Svealand. Flera trafikolyckor har under…",
+          "link": "https://www.aftonbladet.se/nyheter/a/j3dnzL/smhi-forlanger-gul-snovarning?utm_medium=rss",
+          "date": "2026-11-20T11:11:29.000Z",
+          "paywall": false
+        },
+        {
+          "id": "dn-65",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "SMHI utökar snövarningen – igen",
+          "summary": "SMHI har återinfört snövarningen i östra Svealand fram till måndagen, efter att den drogs tillbaka under fredagskvällen. Mer snö är med andra ord att vänta. – Vi tittar löpande på nytt prognosmaterial, säger meteorologen Therese Fougman.",
+          "link": "https://www.dn.se/sverige/smhi-utokar-snovarningen-igen/",
+          "date": "2026-11-21T09:37:48.000Z",
+          "paywall": true
+        },
+        {
+          "id": "ekot-63",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "SMHI vädervarnar igen – gul varning för snö",
+          "summary": "SMHI utökar snövarningen för delar av östra Svealand. Gul varning råder från söndag 05.00 till 12.00 på måndagen, då fem till 15 centimeter snö väntas komma. SMHI skriver att vädret kan medföra problem i trafiken.",
+          "link": "https://www.sverigesradio.se/artikel/9347619",
+          "date": "2026-11-21T09:46:00.000Z",
+          "paywall": false
+        },
+        {
+          "id": "expressen-52",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "SMHI utökar snövarning",
+          "summary": "Gul varning över östra Svealand",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=7e5a37b8-5e02-4846-b09d-0b4a65a5fb1c",
+          "date": "2026-11-21T10:40:13.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-467",
       "sources": 5,
       "latest": "2026-11-20T16:49:48.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/589698c6-347b-46e6-81a4-cab61d328b5b.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-441",
+          "id": "ekot-468",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Danskar misstänkts ha lejts av Ryssland – för att döda ukrainsk rappare",
@@ -143,7 +215,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-440",
+          "id": "aftonbladet-467",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Danskar misstänks för rysk mordplan mot rappare",
@@ -156,7 +228,7 @@
           ]
         },
         {
-          "id": "dn-344",
+          "id": "dn-371",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Danmark utvisar rysk försvarsattaché efter misstänkt attentatsförsök",
@@ -166,7 +238,7 @@
           "paywall": true
         },
         {
-          "id": "svt-utrikes-313",
+          "id": "svt-utrikes-340",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Mordplaner på ukrainsk rappare i Danmark – Ryssland misstänks",
@@ -176,7 +248,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-276",
+          "id": "expressen-303",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Planen: Mörda ukrainsk rappare",
@@ -188,14 +260,63 @@
       ]
     },
     {
-      "id": "k-aftonbladet-141",
+      "id": "k-dn-304",
+      "sources": 4,
+      "latest": "2026-11-21T12:25:02.000Z",
+      "category": "Sverige",
+      "image": "https://static.bonniernews.se/ba/76953052-acb4-447f-a8d5-b3381a207b43.jpeg?crop=1843%2C1037%2Cx383%2Cy114",
+      "versions": [
+        {
+          "id": "expressen-310",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Bergfeldt hjälpte adhd-expert att anmäla SVT",
+          "summary": "Carina Bergfeldt hjälpte adhd-expert att anmäla SVT till Granskningsnämnden. Det rapporterar Uppdrag granskning på fredagen. Dessutom följer Bergfeldts man med experten till UG-intervjun och beskriver sig som ”en kompis”.",
+          "link": "https://www.expressen.se/noje/tv-och-streaming/bergfeldt-hjalpte-adhd-expert-att-anmala-svt/",
+          "date": "2026-11-20T16:22:04.000Z",
+          "paywall": false
+        },
+        {
+          "id": "dn-304",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "Carina Bergfeldt hjälpte expert att anmäla SVT-artikel",
+          "summary": "Carina Bergfeldt hjälpte en expert som medverkade i hennes SVT-serie ”Alla mina bokstäver” att anmäla programmet till Granskningsnämnden, rapporterar SVT:s Uppdrag granskning.",
+          "link": "https://www.dn.se/kultur/carina-bergfeldt-hjalpte-expert-att-anmala-svt-artikel/",
+          "date": "2026-11-20T16:47:08.000Z",
+          "paywall": true
+        },
+        {
+          "id": "svd-293",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Carina Bergfeldt hjälpte expert att anmäla SVT",
+          "summary": "En artikel av SVT:s Kulturnyheterna har anmälts till Granskningsnämnden av såväl journalisten och…",
+          "link": "https://www.svd.se/a/3BJwML/carina-bergfeldt-hjalpte-expert-att-anmala-svt?utm_medium=rss",
+          "date": "2026-11-20T17:20:09.000Z",
+          "paywall": true
+        },
+        {
+          "id": "svt-inrikes-17",
+          "source": "SVT Nyheter",
+          "color": "#1a1a1a",
+          "title": "Carina Bergfeldts ånger efter SVT-anmälan: ”Borde hållits isär”",
+          "summary": "SVT-profilen Carina Bergfeldt ångrar att hon hjälpte en adhd-expert att anmäla SVT:s ”Kulturnyheterna” till Granskningsnämden. Det skriver hon i ett inlägg på Instagram.",
+          "link": "https://www.svt.se/nyheter/inrikes/carina-bergfeldts-anger-efter-svt-anmalan-borde-hallits-isar",
+          "date": "2026-11-21T12:25:02.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-168",
       "sources": 4,
       "latest": "2026-11-21T07:32:36.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/30aa20cf-e439-3619-a402-9c74e683a7c5?format=auto&w=1000&s=8433d4928c42ff79693e57b1be1a13426cf52e17",
       "versions": [
         {
-          "id": "aftonbladet-141",
+          "id": "aftonbladet-168",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Historiskt matematiskt problem påstås löst med AI",
@@ -205,7 +326,7 @@
           "paywall": false
         },
         {
-          "id": "svd-142",
+          "id": "svd-169",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Raimannhypotesen påstås ha lösts",
@@ -215,7 +336,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-126",
+          "id": "expressen-153",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Historiska problemet påstås löst med AI",
@@ -225,7 +346,7 @@
           "paywall": false
         },
         {
-          "id": "dn-81",
+          "id": "dn-108",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Ännu ett historiskt matteproblem kan ha lösts – med AI",
@@ -237,14 +358,14 @@
       ]
     },
     {
-      "id": "k-ekot-233",
+      "id": "k-ekot-260",
       "sources": 4,
       "latest": "2026-11-20T19:25:24.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/b95649ee-b51d-441b-a5f8-fabc54ee0990.jpeg?crop=2553%2C1436%2Cx0%2Cy188",
       "versions": [
         {
-          "id": "expressen-255",
+          "id": "expressen-282",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Trumps tullhot – mot amerikanska företag",
@@ -254,7 +375,7 @@
           "paywall": false
         },
         {
-          "id": "svt-utrikes-246",
+          "id": "svt-utrikes-273",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Donald Trump vill stoppa AI-center utanför USA: ”Enorm skatt”",
@@ -264,7 +385,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-233",
+          "id": "ekot-260",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Trumps hot: Inga amerikanska datacenter utanför USA",
@@ -274,7 +395,7 @@
           "paywall": false
         },
         {
-          "id": "svd-230",
+          "id": "svd-257",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Trump: Förbjud datacenter utanför USA",
@@ -286,14 +407,14 @@
       ]
     },
     {
-      "id": "k-ekot-451",
+      "id": "k-ekot-478",
       "sources": 4,
       "latest": "2026-11-20T13:35:29.000Z",
       "category": "Sverige",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/2f93ba843f7e400a13c86112e65490896499522866cbeab7a04aa887efed39b6",
       "versions": [
         {
-          "id": "svt-utrikes-527",
+          "id": "svt-utrikes-554",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Polen: Rysk kränkning av luftrummet",
@@ -303,7 +424,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-451",
+          "id": "ekot-478",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Två ryska robotar och en drönare har kränkt polskt luftrum",
@@ -313,7 +434,7 @@
           "paywall": false
         },
         {
-          "id": "svd-449",
+          "id": "svd-476",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Rysk kryssningsrobot kränkte polskt luftrum",
@@ -323,7 +444,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-363",
+          "id": "expressen-390",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Svenska Jas i insats",
@@ -335,14 +456,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-513",
+      "id": "k-aftonbladet-540",
       "sources": 4,
       "latest": "2026-11-20T07:44:48.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/505088c7-fce1-4f68-a473-69ab79d535f5.jpeg?crop=2557%2C1438%2Cx0%2Cy266",
       "versions": [
         {
-          "id": "expressen-522",
+          "id": "expressen-549",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Ud bekräftar: Svensk kvinna död i Filippinerna",
@@ -352,7 +473,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-518",
+          "id": "ekot-545",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Uppgifter: Svensk kvinna mördad i Filippinerna",
@@ -362,7 +483,7 @@
           "paywall": false
         },
         {
-          "id": "svt-utrikes-515",
+          "id": "svt-utrikes-542",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Svensk kvinna död i Filippinerna – misstänks mördats",
@@ -372,7 +493,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-513",
+          "id": "aftonbladet-540",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Svensk kvinna hittad död i Filippinerna",
@@ -384,53 +505,86 @@
       ]
     },
     {
-      "id": "k-aftonbladet-74",
+      "id": "k-dn-3",
       "sources": 3,
-      "latest": "2026-11-21T11:43:02.000Z",
-      "category": "Sverige",
-      "image": "https://akamai.vgc.no/v2/images/c7c7eae1-0623-3853-a6f1-13c7692fccec?format=auto&w=1000&s=afca5aab84ac3980381592e2fb7250f2bf2ef237",
+      "latest": "2026-11-21T12:58:55.000Z",
+      "category": "Sport",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.73/0.48/0fc209ff7178ef6e5703e7f8c471a2a895dd7d76196b32b991dbbdf8858d5d8b",
       "versions": [
         {
-          "id": "aftonbladet-74",
-          "source": "Aftonbladet",
-          "color": "#c8102e",
-          "title": "Fartyg attackerat – drivit till finländskt vatten",
-          "summary": "Ett fraktfartyg har attackerats i Finska viken och drivit in i finländskt vatten.",
-          "link": "https://www.aftonbladet.se/nyheter/a/LoAglR/dronarlarm-i-finland-och-estland-natoflyg-i-luften?utm_medium=rss",
-          "date": "2026-11-21T08:09:09.000Z",
+          "id": "svt-sport-19",
+          "source": "SVT Sport",
+          "color": "#1a1a1a",
+          "title": "Galet drama i Bruksvallarna – Ebba Andersson och Frida Karlsson delade segern",
+          "summary": "Ebba Andersson mot Frida Karlsson – då vann... Båda. I säsongens första uppgörelse delades (!) segern efter att de fått exakt samma tid. – Jag har aldrig varit med om det, säger Frida Karlsson.",
+          "link": "https://www.svt.se/sport/langdskidor/galet-drama-i-bruksvallarna-ebba-andersson-och-frida-karlsson-delade-segern",
+          "date": "2026-11-21T12:21:53.000Z",
           "paywall": false
         },
         {
-          "id": "expressen-4",
-          "source": "Expressen",
-          "color": "#d2232a",
-          "title": "Ryskt fartyg brinner",
-          "summary": "Driver in på finskt vatten",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=bc2211e4-7d42-4716-86dc-89cb4a393906",
-          "date": "2026-11-21T11:39:21.000Z",
-          "paywall": false
-        },
-        {
-          "id": "svd-3",
+          "id": "svd-18",
           "source": "SvD",
           "color": "#2b2b2b",
-          "title": "Drönarattack i Finska viken – ryskt fartyg brinner",
+          "title": "Ebba Andersson och Frida Karlsson delar på segern",
           "summary": "",
-          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80152&utm_medium=rss",
-          "date": "2026-11-21T11:43:02.000Z",
+          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80154&utm_medium=rss",
+          "date": "2026-11-21T12:24:55.000Z",
           "paywall": true
+        },
+        {
+          "id": "dn-3",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "Andersson och Karlsson delade segern: ”Sjukt”",
+          "summary": "Det blev en riktig rysare mellan Ebba Andersson och Frida Karlsson i Bruksvallarnas skidpremiär. De båda favoriterna visade sig vara helt jämnstarka och fick till slut dela på segern. – Sjukt, jag har aldrig varit med om det, säger Karlsson till SVT.",
+          "link": "https://www.dn.se/sport/andersson-och-karlsson-delade-segern-sjukt/",
+          "date": "2026-11-21T12:58:55.000Z",
+          "paywall": true,
+          "alsoAt": [
+            "Norra Skåne",
+            "Kristianstadsbladet"
+          ]
         }
       ]
     },
     {
-      "id": "k-ekot-26",
-      "sources": 3,
-      "latest": "2026-11-21T10:37:00.000Z",
+      "id": "k-expressen-31",
+      "sources": 2,
+      "latest": "2026-11-21T12:32:37.000Z",
+      "category": "Sverige",
+      "image": "https://static.bonniernews.se/ba/0a6a883d-40b8-4cd6-b408-7f9e8dd0c243.jpeg?crop=2557%2C1440%2Cx0%2Cy0",
+      "versions": [
+        {
+          "id": "expressen-31",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Tunga C-toppen vill stötta Kristersson: ”Alliansen mest realistisk”",
+          "summary": "De rödgröna regeringsförhandlingarna pågår för fullt. Nu sätter C-toppen Emma Ytterell, tidigare Wiesner, ned foten – och vill samarbeta med den gamla Alliansen. ”Den mest realistiska och ansvarsfulla vägen framåt i det här läget”, skriver hon i ett inlägg på Facebook.",
+          "link": "https://www.expressen.se/nyheter/politik/tunga-c-toppen-vill-stotta-kristersson-alliansen-mest-realistisk/",
+          "date": "2026-11-21T11:53:30.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svt-inrikes-15",
+          "source": "SVT Nyheter",
+          "color": "#1a1a1a",
+          "title": "C-toppen: Bör gå vidare med allianspartierna",
+          "summary": "Centerpartiet bör ingå ett regeringssamarbete med övriga allianspartier. Det skriver C-toppen och Europaparlamentarikern Emma Ytterell i ett inlägg på Facebook.",
+          "link": "https://www.svt.se/nyheter/inrikes/c-toppen-bor-ga-vidare-med-allianspartierna",
+          "date": "2026-11-21T12:32:37.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-expressen-73",
+      "sources": 2,
+      "latest": "2026-11-21T09:23:39.000Z",
       "category": "Sverige",
       "image": "https://www.svd.se/monorepo-api/og/wA9Gmd.png?pinnedEntry=80146",
       "versions": [
         {
-          "id": "svd-65",
+          "id": "svd-92",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Larm om drönare i Finland och Estland i natt",
@@ -440,7 +594,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-46",
+          "id": "expressen-73",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Drönarlarm i Finland och Estland – Natoflyg i luften",
@@ -451,67 +605,18 @@
           "alsoAt": [
             "SVT Utrikes"
           ]
-        },
-        {
-          "id": "ekot-26",
-          "source": "Ekot",
-          "color": "#1d4e89",
-          "title": "Trafiken i Finska viken begränsas efter drönarlarm",
-          "summary": "I Estland har invånare varnats för drönare under natten, rapporterar estnisk public service. Samtidigt har flyg- och sjötrafik begränsats i östra Finska viken, enligt Finlands försvarsmakt.",
-          "link": "https://www.sverigesradio.se/artikel/9347629",
-          "date": "2026-11-21T10:37:00.000Z",
-          "paywall": false
         }
       ]
     },
     {
-      "id": "k-dn-277",
-      "sources": 3,
-      "latest": "2026-11-20T17:20:09.000Z",
-      "category": "Sverige",
-      "image": "https://static.bonniernews.se/ba/76953052-acb4-447f-a8d5-b3381a207b43.jpeg?crop=1843%2C1037%2Cx383%2Cy114",
-      "versions": [
-        {
-          "id": "expressen-283",
-          "source": "Expressen",
-          "color": "#d2232a",
-          "title": "Bergfeldt hjälpte adhd-expert att anmäla SVT",
-          "summary": "Carina Bergfeldt hjälpte adhd-expert att anmäla SVT till Granskningsnämnden. Det rapporterar Uppdrag granskning på fredagen. Dessutom följer Bergfeldts man med experten till UG-intervjun och beskriver sig som ”en kompis”.",
-          "link": "https://www.expressen.se/noje/tv-och-streaming/bergfeldt-hjalpte-adhd-expert-att-anmala-svt/",
-          "date": "2026-11-20T16:22:04.000Z",
-          "paywall": false
-        },
-        {
-          "id": "dn-277",
-          "source": "DN",
-          "color": "#0f4c81",
-          "title": "Carina Bergfeldt hjälpte expert att anmäla SVT-artikel",
-          "summary": "Carina Bergfeldt hjälpte en expert som medverkade i hennes SVT-serie ”Alla mina bokstäver” att anmäla programmet till Granskningsnämnden, rapporterar SVT:s Uppdrag granskning.",
-          "link": "https://www.dn.se/kultur/carina-bergfeldt-hjalpte-expert-att-anmala-svt-artikel/",
-          "date": "2026-11-20T16:47:08.000Z",
-          "paywall": true
-        },
-        {
-          "id": "svd-266",
-          "source": "SvD",
-          "color": "#2b2b2b",
-          "title": "Carina Bergfeldt hjälpte expert att anmäla SVT",
-          "summary": "En artikel av SVT:s Kulturnyheterna har anmälts till Granskningsnämnden av såväl journalisten och…",
-          "link": "https://www.svd.se/a/3BJwML/carina-bergfeldt-hjalpte-expert-att-anmala-svt?utm_medium=rss",
-          "date": "2026-11-20T17:20:09.000Z",
-          "paywall": true
-        }
-      ]
-    },
-    {
-      "id": "k-aftonbladet-53",
+      "id": "k-aftonbladet-80",
       "sources": 2,
       "latest": "2026-11-21T09:04:41.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/d7bee764-b54f-3d1f-a823-bdeebfc2c6e4?format=auto&w=1000&s=99240de4dc27085478ceacbdc4aa621cb491266a",
       "versions": [
         {
-          "id": "aftonbladet-53",
+          "id": "aftonbladet-80",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "”Kapten ynkrygg” på fri fot",
@@ -521,7 +626,7 @@
           "paywall": false
         },
         {
-          "id": "svd-54",
+          "id": "svd-81",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "”Kapten ynkrygg” har släppts ur fängelset",
@@ -533,14 +638,14 @@
       ]
     },
     {
-      "id": "k-expressen-59",
+      "id": "k-expressen-86",
       "sources": 2,
       "latest": "2026-11-21T08:55:15.000Z",
       "category": "Lokalt",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.7/0.48/3b347b72084d7455e2ea8f40442e835dc15162d65ee6cb0c3dc9dc39fc5bdfe1",
       "versions": [
         {
-          "id": "svt-skane-479",
+          "id": "svt-skane-506",
           "source": "SVT Skåne",
           "color": "#2a9d8f",
           "title": "Godisjättar i bråk: ”Större fråga än en skumtomte”",
@@ -550,7 +655,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-59",
+          "id": "expressen-86",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Cloetta rasar mot Haribo – vill stoppa skumtomten",
@@ -562,14 +667,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-99",
+      "id": "k-aftonbladet-126",
       "sources": 2,
       "latest": "2026-11-21T06:47:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/56680ef7-7e38-356d-b343-b8606085341d?format=auto&w=1000&s=75b7bc048741eef5c87ce8f85ba6df7df0c1dd8b",
       "versions": [
         {
-          "id": "aftonbladet-99",
+          "id": "aftonbladet-126",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Explosioner och bränder i Kiev",
@@ -579,7 +684,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-89",
+          "id": "ekot-116",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Attacker mot Kyjiv – bostadshus i lågor",
@@ -591,14 +696,14 @@
       ]
     },
     {
-      "id": "k-ekot-140",
+      "id": "k-ekot-167",
       "sources": 2,
       "latest": "2026-11-21T06:10:30.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/c9d0d1b9-0fd2-42cd-9156-276611123307.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-140",
+          "id": "ekot-167",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "CNN: FBI hackade igen – databaser angripna",
@@ -608,7 +713,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-101",
+          "id": "expressen-128",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "FBI hackade",
@@ -620,14 +725,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-151",
+      "id": "k-aftonbladet-178",
       "sources": 2,
       "latest": "2026-11-21T01:03:54.000Z",
       "category": "Världen",
       "image": "https://akamai.vgc.no/v2/images/9cccd7d2-f396-3344-b5b9-5cb5f28963fc?format=auto&w=1000&s=1d6d8e8e90a7b1b7cb0eee588af720b0c150c58d",
       "versions": [
         {
-          "id": "aftonbladet-151",
+          "id": "aftonbladet-178",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Döms för start av Palisadesbrand",
@@ -640,7 +745,7 @@
           ]
         },
         {
-          "id": "svt-utrikes-148",
+          "id": "svt-utrikes-175",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Man döms för dödsbranden i Pacific Palisades",
@@ -652,14 +757,14 @@
       ]
     },
     {
-      "id": "k-svd-341",
+      "id": "k-svd-368",
       "sources": 2,
       "latest": "2026-11-20T21:20:13.000Z",
       "category": "Ekonomi",
       "image": "https://akamai.vgc.no/v2/images/609ad5ba-4689-36de-9649-c4515eb9b194?format=auto&w=1000&s=96624417c52dab807c89d992231b683505410c58",
       "versions": [
         {
-          "id": "svd-341",
+          "id": "svd-368",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Anthropic har fallit nära nollpunkten",
@@ -669,7 +774,7 @@
           "paywall": true
         },
         {
-          "id": "svt-ekonomi-184",
+          "id": "svt-ekonomi-211",
           "source": "SVT Ekonomi",
           "color": "#1a1a1a",
           "title": "Blodig fredag med AI-slakt på Wall Street",
@@ -684,14 +789,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-216",
+      "id": "k-aftonbladet-243",
       "sources": 2,
       "latest": "2026-11-20T19:49:47.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/04441b16-a842-3e70-9fda-208e8304bb20?format=auto&w=1000&s=a64bc237f79211c6f1ee2de70db3bfb23c244899",
       "versions": [
         {
-          "id": "aftonbladet-216",
+          "id": "aftonbladet-243",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Oligark krävs på miljarder av ex-fru i jättetvist",
@@ -701,7 +806,7 @@
           "paywall": false
         },
         {
-          "id": "svd-217",
+          "id": "svd-244",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Oligark krävs på miljarder av ex-fru",
@@ -713,14 +818,14 @@
       ]
     },
     {
-      "id": "k-expressen-287",
+      "id": "k-expressen-314",
       "sources": 2,
       "latest": "2026-11-20T16:11:46.000Z",
       "category": "Sverige",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.63/0.79/eaae7305091ec2b3b6f09d50cf33e4d6148eec5eb7195f0b90bbb4546775770f",
       "versions": [
         {
-          "id": "svt-inrikes-405",
+          "id": "svt-inrikes-432",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Lokal C-topp öppnar för V-ministrar i regeringen",
@@ -730,7 +835,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-287",
+          "id": "expressen-314",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Lokal C-topp öppnar för V i regeringen",
@@ -742,14 +847,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-438",
+      "id": "k-aftonbladet-465",
       "sources": 2,
       "latest": "2026-11-20T16:07:49.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/5ebe80ec-c2ab-3fab-b1f3-b7219398f010?format=auto&w=1000&s=777043726934b65bc8b87c0f7d33c4cb6a70c5fd",
       "versions": [
         {
-          "id": "aftonbladet-438",
+          "id": "aftonbladet-465",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "”Jag känner frustration” – splittring vid klimatmöte",
@@ -762,7 +867,7 @@
           ]
         },
         {
-          "id": "dn-289",
+          "id": "dn-316",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Klimatmötet går in på övertid – stor ovisshet",
@@ -774,46 +879,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-581",
-      "sources": 2,
-      "latest": "2026-11-20T15:25:00.000Z",
-      "category": "Sverige",
-      "image": "https://akamai.vgc.no/v2/images/6eea3ee1-6838-39e3-85b8-427387e1d907?format=auto&w=1000&s=b9400f53e6da7d9045c6eb06d60776ea72b3e3a8",
-      "versions": [
-        {
-          "id": "aftonbladet-581",
-          "source": "Aftonbladet",
-          "color": "#c8102e",
-          "title": "Öppning för unga när Storbritannien närmar sig EU",
-          "summary": "Billigare studier i Storbritannien och ökad möjlighet för unga britter att bo i EU – och tvärtom.",
-          "link": "https://www.aftonbladet.se/nyheter/a/r8A3qe/storbritannien-narmar-sig-eu-toppmote-i-bryssel?utm_medium=rss",
-          "date": "2026-11-20T04:30:09.000Z",
-          "paywall": false,
-          "alsoAt": [
-            "DN"
-          ]
-        },
-        {
-          "id": "ekot-320",
-          "source": "Ekot",
-          "color": "#1d4e89",
-          "title": "Storbritannien närmar sig EU – öppning för unga",
-          "summary": "Storbritannien och EU har enats om utökat samarbete kring handel, säkerhet och utbyten för unga vid ett toppmöte i Bryssel. Det var parternas första toppmöte sedan Brexit. EU vill sänka studieavgifterna för EU-medborgare i Storbritannien, men britterna bromsar eftersom avgifterna ger universiteten viktiga inkomster.",
-          "link": "https://www.sverigesradio.se/artikel/9347422",
-          "date": "2026-11-20T15:25:00.000Z",
-          "paywall": false
-        }
-      ]
-    },
-    {
-      "id": "k-aftonbladet-448",
+      "id": "k-aftonbladet-475",
       "sources": 2,
       "latest": "2026-11-20T14:58:49.000Z",
       "category": "Lokalt",
       "image": "https://akamai.vgc.no/v2/images/c4a67b99-07f0-3305-bcf8-38076b5667b6?format=auto&w=1000&s=431c36dece3cefb05208b68a0e54934e00bb33e0",
       "versions": [
         {
-          "id": "aftonbladet-448",
+          "id": "aftonbladet-475",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Centern: ”V vägrar förhandla”",
@@ -826,7 +899,7 @@
           ]
         },
         {
-          "id": "nsk-332",
+          "id": "nsk-359",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "Låst mellan de rödgröna: ”Vägrar förhandla”",
@@ -841,14 +914,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-355",
+      "id": "k-aftonbladet-382",
       "sources": 2,
       "latest": "2026-11-20T13:53:19.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/0e9a6738-f622-4fe2-bab0-cfd4b2a010f0.jpeg?crop=2557%2C1440%2Cx0%2Cy0",
       "versions": [
         {
-          "id": "expressen-402",
+          "id": "expressen-429",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Räkningen för kung Haralds begravning klar",
@@ -858,7 +931,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-355",
+          "id": "aftonbladet-382",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Notan för kungens begravning: Nästan 300 miljoner",
@@ -870,14 +943,14 @@
       ]
     },
     {
-      "id": "k-dn-395",
+      "id": "k-dn-422",
       "sources": 2,
       "latest": "2026-11-20T13:02:02.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/60b258df-17e3-45bb-a150-c439c4cbf492.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-395",
+          "id": "dn-422",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Svahn och Grahn starkas i skidpremiären: ”Ringrostig”",
@@ -887,7 +960,7 @@
           "paywall": true
         },
         {
-          "id": "svd-375",
+          "id": "svd-402",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Svahns premiärsuccé: ”Bästa loppet i finalen”",
@@ -903,14 +976,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-421",
+      "id": "k-aftonbladet-448",
       "sources": 2,
       "latest": "2026-11-20T12:04:42.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/f96e90e3-8102-3e5a-92fb-6df63eb1058c?format=auto&w=1000&s=8c74e4d2edcf335e02671922a85c761d035d117c",
       "versions": [
         {
-          "id": "aftonbladet-421",
+          "id": "aftonbladet-448",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Barnen på Safiren får stanna – pappans lättnad",
@@ -920,7 +993,7 @@
           "paywall": false
         },
         {
-          "id": "dn-408",
+          "id": "dn-435",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Nytt besked: Multisjuka barnen får bo kvar på Safiren",
@@ -932,14 +1005,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-506",
+      "id": "k-aftonbladet-533",
       "sources": 2,
       "latest": "2026-11-20T08:00:42.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/d33249e1-a284-48d0-a066-f8f2a5a0bfdf.jpeg?crop=767%2C433%2Cx1%2Cy0",
       "versions": [
         {
-          "id": "expressen-507",
+          "id": "expressen-534",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Al-Bara Mejri, 21, uppsatt på Europols ”most wanted”-lista",
@@ -949,7 +1022,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-506",
+          "id": "aftonbladet-533",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Al-Bara Mejri på Europols lista – misstänks för flera mord",
@@ -961,14 +1034,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-537",
+      "id": "k-aftonbladet-564",
       "sources": 2,
       "latest": "2026-11-20T06:27:51.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/bda474c4-e8d0-3bc5-8d8d-c40b15abe347?format=auto&w=1000&s=6fa28cb3d64f561c70e51e5ccf41c5df3bf834e3",
       "versions": [
         {
-          "id": "aftonbladet-537",
+          "id": "aftonbladet-564",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Protester i hela Europa mot krig och kostnader",
@@ -982,7 +1055,7 @@
           ]
         },
         {
-          "id": "svd-536",
+          "id": "svd-563",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Miljontals väntas protestera i helgen",
@@ -994,14 +1067,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-560",
+      "id": "k-aftonbladet-587",
       "sources": 2,
       "latest": "2026-11-20T06:13:17.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/2ef09406-995c-3da1-81fc-15b46e0faeab?format=auto&w=1000&s=a4c0b180b1415fd8fe5e83507bfb45a79a49191d",
       "versions": [
         {
-          "id": "aftonbladet-560",
+          "id": "aftonbladet-587",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Lömskt virus minskar bland barn – slår mot äldre",
@@ -1014,7 +1087,7 @@
           ]
         },
         {
-          "id": "dn-539",
+          "id": "dn-566",
           "source": "DN",
           "color": "#0f4c81",
           "title": "RS-virus minskar bland barn – slår mot äldre",
