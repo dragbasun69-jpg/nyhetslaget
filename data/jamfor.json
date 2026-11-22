@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-22T10:54:35.216Z",
+  "updated": "2026-11-22T11:52:01.129Z",
   "clusters": [
     {
-      "id": "k-aftonbladet-376",
+      "id": "k-aftonbladet-395",
       "sources": 5,
       "latest": "2026-11-21T12:47:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/f314d1fb-7cbb-320e-97cf-5485b10439e2?format=auto&w=1000&s=5657e0a7a2e93f27aeb67c41f798db5138f9953a",
       "versions": [
         {
-          "id": "aftonbladet-376",
+          "id": "aftonbladet-395",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Svenska poliser ska placeras i Irak",
@@ -22,7 +22,7 @@
           ]
         },
         {
-          "id": "svd-374",
+          "id": "svd-393",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Svensk polis ska placeras i Irak",
@@ -32,7 +32,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-364",
+          "id": "expressen-383",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Sverige öppnar polisstation i Irak",
@@ -42,7 +42,7 @@
           "paywall": false
         },
         {
-          "id": "svt-inrikes-358",
+          "id": "svt-inrikes-377",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Svensk polis öppnar station i Irak",
@@ -55,7 +55,7 @@
           ]
         },
         {
-          "id": "ekot-257",
+          "id": "ekot-276",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Polisen rekryterar chef till nya stationen i Bagdad",
@@ -67,14 +67,63 @@
       ]
     },
     {
-      "id": "k-dn-551",
+      "id": "k-dn-31",
+      "sources": 4,
+      "latest": "2026-11-22T11:33:15.000Z",
+      "category": "Sverige",
+      "image": "https://static.bonniernews.se/ba/d7dc9323-c058-4c06-9a90-f5f08b535e5b.jpeg?io=1&width=1000",
+      "versions": [
+        {
+          "id": "dn-31",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "Klimatmötet ett fiasko – överenskommelsen faller",
+          "summary": "Klimatförhandlingarna i Turkiet kollapsar. EU och flera andra länder säger nej till överenskommelsen. ”Vi kommer inte att stå bakom ett beslut som inte ens nämner fossila bränslen”, säger EU:s representant, Irlands miljöminister Darragh O'Brien, vid FN-mötet COP31 i Antalya.",
+          "link": "https://www.dn.se/varlden/klimatmotet-pa-vag-mot-fiasko-eu-forbereder-historiskt-nej/",
+          "date": "2026-11-22T09:50:41.000Z",
+          "paywall": true
+        },
+        {
+          "id": "ekot-23",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Sverige har lämnat kollapsade klimatmötet",
+          "summary": "Klimatmötet i Turkiet har fallit samman. EU accepterar inte överenskommelsen som ligger på bordet och därmed blir det inget slutdokument. Till Ekot säger klimat- och miljöminister Romina Pourmokhtari att det är ”oacceptabelt” att man inte kommit överens om utfasningen av fossila bränslen.",
+          "link": "https://www.sverigesradio.se/artikel/9347817",
+          "date": "2026-11-22T10:12:00.000Z",
+          "paywall": false
+        },
+        {
+          "id": "expressen-13",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Klimatmötet kollapsar",
+          "summary": "EU säger nej till slutdokument",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=1861ef63-b221-44b9-8748-a7b8c48328f0",
+          "date": "2026-11-22T11:09:50.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svt-utrikes-7",
+          "source": "SVT Utrikes",
+          "color": "#1a1a1a",
+          "title": "Klimatförhandlingarna kollapsar – EU skriver inte under",
+          "summary": "Klimatförhandlingarna på COP31 i Turkiet har brutit samman. ”Vi kommer inte att acceptera en COP som gröntvättar fossila bränslen”, säger EU:s representant, Irlands miljöminister Darragh O'Brien. Sveriges klimatminister Romina Pourmokhtari (L) och chefsförhandlare Mattias de Frumerie har lämnat mötet.",
+          "link": "https://www.svt.se/nyheter/utrikes/klimatforhandlingarna-kollapsar-eu-skriver-inte-under",
+          "date": "2026-11-22T11:33:15.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-dn-570",
       "sources": 4,
       "latest": "2026-11-21T12:25:02.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/76953052-acb4-447f-a8d5-b3381a207b43.jpeg?crop=1843%2C1037%2Cx383%2Cy114",
       "versions": [
         {
-          "id": "expressen-557",
+          "id": "expressen-576",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Bergfeldt hjälpte adhd-expert att anmäla SVT",
@@ -84,7 +133,7 @@
           "paywall": false
         },
         {
-          "id": "dn-551",
+          "id": "dn-570",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Carina Bergfeldt hjälpte expert att anmäla SVT-artikel",
@@ -94,7 +143,7 @@
           "paywall": true
         },
         {
-          "id": "svd-540",
+          "id": "svd-559",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Carina Bergfeldt hjälpte expert att anmäla SVT",
@@ -104,7 +153,7 @@
           "paywall": true
         },
         {
-          "id": "svt-inrikes-266",
+          "id": "svt-inrikes-285",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Carina Bergfeldts ånger efter SVT-anmälan: ”Borde hållits isär”",
@@ -116,14 +165,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-415",
+      "id": "k-aftonbladet-434",
       "sources": 4,
       "latest": "2026-11-21T07:32:36.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/30aa20cf-e439-3619-a402-9c74e683a7c5?format=auto&w=1000&s=8433d4928c42ff79693e57b1be1a13426cf52e17",
       "versions": [
         {
-          "id": "aftonbladet-415",
+          "id": "aftonbladet-434",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Historiskt matematiskt problem påstås löst med AI",
@@ -133,7 +182,7 @@
           "paywall": false
         },
         {
-          "id": "svd-416",
+          "id": "svd-435",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Raimannhypotesen påstås ha lösts",
@@ -143,7 +192,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-400",
+          "id": "expressen-419",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Historiska problemet påstås löst med AI",
@@ -153,7 +202,7 @@
           "paywall": false
         },
         {
-          "id": "dn-355",
+          "id": "dn-374",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Ännu ett historiskt matteproblem kan ha lösts – med AI",
@@ -165,14 +214,14 @@
       ]
     },
     {
-      "id": "k-ekot-507",
+      "id": "k-ekot-526",
       "sources": 4,
       "latest": "2026-11-20T19:25:24.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/b95649ee-b51d-441b-a5f8-fabc54ee0990.jpeg?crop=2553%2C1436%2Cx0%2Cy188",
       "versions": [
         {
-          "id": "expressen-529",
+          "id": "expressen-548",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Trumps tullhot – mot amerikanska företag",
@@ -182,7 +231,7 @@
           "paywall": false
         },
         {
-          "id": "svt-utrikes-520",
+          "id": "svt-utrikes-539",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Donald Trump vill stoppa AI-center utanför USA: ”Enorm skatt”",
@@ -192,7 +241,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-507",
+          "id": "ekot-526",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Trumps hot: Inga amerikanska datacenter utanför USA",
@@ -202,7 +251,7 @@
           "paywall": false
         },
         {
-          "id": "svd-504",
+          "id": "svd-523",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Trump: Förbjud datacenter utanför USA",
@@ -214,14 +263,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-60",
+      "id": "k-aftonbladet-79",
       "sources": 3,
       "latest": "2026-11-22T10:07:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/774cef81-6e3e-3b87-9cfd-adc0cfad63f5?format=auto&w=1000&s=7cfbe0b278a56ad87834ac46d0f08f36c4babe2c",
       "versions": [
         {
-          "id": "aftonbladet-60",
+          "id": "aftonbladet-79",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Femvåningshus träffat i rysk attack",
@@ -231,7 +280,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-56",
+          "id": "expressen-75",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Femvåningshus träffat",
@@ -241,7 +290,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-6",
+          "id": "ekot-25",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Femvåningshus i Kyjiv träffat av rysk drönare",
@@ -253,14 +302,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-52",
+      "id": "k-aftonbladet-71",
       "sources": 3,
       "latest": "2026-11-22T07:24:09.000Z",
       "category": "Sverige",
       "image": "https://www.svd.se/monorepo-api/og/wA9Gmd.png?pinnedEntry=80180",
       "versions": [
         {
-          "id": "svd-53",
+          "id": "svd-72",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "SMHI utfärdar orange snövarning",
@@ -270,7 +319,7 @@
           "paywall": true
         },
         {
-          "id": "aftonbladet-52",
+          "id": "aftonbladet-71",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Orange snövarning – risk för trafikkaos",
@@ -280,7 +329,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-42",
+          "id": "expressen-61",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Orange SMHI-varning",
@@ -292,14 +341,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-89",
+      "id": "k-aftonbladet-108",
       "sources": 3,
       "latest": "2026-11-22T06:53:54.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/e467f4af-cd62-30a4-bfdc-62c32f156290?format=auto&w=1000&s=435f55f1829630fb80c44a9dffd94591a1d45778",
       "versions": [
         {
-          "id": "aftonbladet-89",
+          "id": "aftonbladet-108",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Storbrand på godisfabrik – flera döda",
@@ -312,7 +361,7 @@
           ]
         },
         {
-          "id": "svt-utrikes-88",
+          "id": "svt-utrikes-107",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Sju döda i fabriksbrand i Indonesien – fler än 50 saknas",
@@ -322,7 +371,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-46",
+          "id": "expressen-65",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Eld i godisfabrik – flera döda",
@@ -334,14 +383,14 @@
       ]
     },
     {
-      "id": "k-dn-312",
+      "id": "k-dn-331",
       "sources": 3,
       "latest": "2026-11-21T10:40:13.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/c00e7d73-cd43-48d7-a989-ce83c229b40e.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-312",
+          "id": "dn-331",
           "source": "DN",
           "color": "#0f4c81",
           "title": "SMHI utökar snövarningen – igen",
@@ -351,7 +400,7 @@
           "paywall": true
         },
         {
-          "id": "ekot-310",
+          "id": "ekot-329",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "SMHI vädervarnar igen – gul varning för snö",
@@ -361,7 +410,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-299",
+          "id": "expressen-318",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "SMHI utökar snövarning",
@@ -373,30 +422,30 @@
       ]
     },
     {
-      "id": "k-nsk-1",
+      "id": "k-nsk-4",
       "sources": 2,
-      "latest": "2026-11-22T10:43:57.000Z",
+      "latest": "2026-11-22T11:39:50.000Z",
       "category": "Lokalt",
       "image": "https://akamai.vgc.no/v2/images/18b0efc4-17d4-351d-99c7-aecf01496c6d?format=auto&w=1000&s=1587abe779934670e0640231f4e61d124d57c7fd",
       "versions": [
         {
-          "id": "svd-70",
+          "id": "svd-89",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Orden fortsatt strukna från klimatutkastet",
-          "summary": "Klimattoppmötet COP31 är inne på övertid. Mer än 40 timmar efter att mötet egentligen skulle ha…",
+          "summary": "EU säger nej till klimattoppmötets förslag till slutdokument, meddelar unionens ordförandeland…",
           "link": "https://www.svd.se/a/0vn7zM/klimattoppmote-drar-ut-pa-tiden?utm_medium=rss",
           "date": "2026-11-22T05:28:03.000Z",
           "paywall": true
         },
         {
-          "id": "nsk-1",
+          "id": "nsk-4",
           "source": "Norra Skåne",
           "color": "#6a4c93",
-          "title": "Slutmötet i gång – nytt klimatutkast på bordet",
-          "summary": "Klimattoppmötet COP31 är inne på övertid. Mer än 40 timmar efter att mötet egentligen skulle ha avslutats finns ingen överenskommelse, och allt fler delegater lämnar mötet.",
+          "title": "EU säger nej till klimatutkast på COP31",
+          "summary": "EU säger nej till klimattoppmötets förslag till slutdokument, meddelar unionens ordförandeland Irland under slutmötet i Antalya i Turkiet.",
           "link": "https://www.nsk.se/sverige/slutmotet-i-gang-nytt-klimatutkast-pa-bordet/",
-          "date": "2026-11-22T10:43:57.000Z",
+          "date": "2026-11-22T11:39:50.000Z",
           "paywall": true,
           "alsoAt": [
             "Kristianstadsbladet"
@@ -405,14 +454,43 @@
       ]
     },
     {
-      "id": "k-dn-58",
+      "id": "k-aftonbladet-112",
+      "sources": 2,
+      "latest": "2026-11-22T11:05:22.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/efddd14c-c7c5-3e44-b87c-fc32d7e16305?format=auto&w=1000&s=3bd0402886b44559a86bd0b398cc31e462230455",
+      "versions": [
+        {
+          "id": "aftonbladet-112",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "COP31: Tyskland säger nej till klimatutkast",
+          "summary": "COP31 Flera länder kritiska",
+          "link": "https://www.aftonbladet.se/nyheter/klimat/a/z0Gywv/klimattoppmote-drar-ut-pa-tiden?utm_medium=rss",
+          "date": "2026-11-22T01:29:26.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svd-16",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "EU avvisar slutförslaget på klimatmötet COP31",
+          "summary": "Sverige har lämnat klimattoppmötet COP31 – EU-länderna uppger att de inte kan acceptera det…",
+          "link": "https://www.svd.se/a/7P0wWv/eu-landerna-avvisar-slutforslaget-pa-cop31?utm_medium=rss",
+          "date": "2026-11-22T11:05:22.000Z",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "id": "k-dn-77",
       "sources": 2,
       "latest": "2026-11-22T07:52:42.000Z",
       "category": "Världen",
       "image": "https://static.bonniernews.se/ba/b2669466-d557-44ef-98c9-8c0774e0851d.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-58",
+          "id": "dn-77",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Kartelledare gripen – en av FBI:s mest efterlysta",
@@ -422,7 +500,7 @@
           "paywall": true
         },
         {
-          "id": "svt-utrikes-38",
+          "id": "svt-utrikes-57",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Kartellboss gripen i Mexiko – flera döda",
@@ -434,14 +512,14 @@
       ]
     },
     {
-      "id": "k-nsk-51",
+      "id": "k-nsk-70",
       "sources": 2,
       "latest": "2026-11-22T06:30:00.000Z",
       "category": "Lokalt",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.67/0.14/91a20fca5c31d5eb7f0674d964173fa5b9a769d66a330c1ea01e628facd8e70c",
       "versions": [
         {
-          "id": "svt-skane-403",
+          "id": "svt-skane-422",
           "source": "SVT Skåne",
           "color": "#2a9d8f",
           "title": "Marie stoppades från att åka med bussen – Skånetrafiken krävs på 80 000 kronor",
@@ -451,7 +529,7 @@
           "paywall": false
         },
         {
-          "id": "nsk-51",
+          "id": "nsk-70",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "Rullstolsburen nekades bussturer – kräver 80 000",
@@ -466,43 +544,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-92",
-      "sources": 2,
-      "latest": "2026-11-22T01:29:26.000Z",
-      "category": "Världen",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.3/0.31/52826717feab6d39042bb370492d8bca3f33b1d03f2e5a4ca85be3a0510f35c9",
-      "versions": [
-        {
-          "id": "svt-utrikes-583",
-          "source": "SVT Utrikes",
-          "color": "#1a1a1a",
-          "title": "Därför är ordet ”fossilt” borta ur klimatavtalet",
-          "summary": "Kampen mellan länderna på klimattoppmötet COP31 om fossil utfasning tycks ovanligt hård i år. Flera länder kräver starka formuleringar kring omställning från fossila bränslen i slutdokumentet, medan andra säger tvärt nej.",
-          "link": "https://www.svt.se/nyheter/utrikes/darfor-ar-ordet-fossilt-borta-ur-klimatavtalet",
-          "date": "2026-11-20T15:45:53.000Z",
-          "paywall": false
-        },
-        {
-          "id": "aftonbladet-92",
-          "source": "Aftonbladet",
-          "color": "#c8102e",
-          "title": "Fossila bränslen fortsatt borta från klimatutkast",
-          "summary": "Formuleringar om fossila bränslen har varit en stötesten under klimattoppmötet COP31 i Turkiet.",
-          "link": "https://www.aftonbladet.se/nyheter/a/z0Gywv/klimattoppmote-drar-ut-pa-tiden?utm_medium=rss",
-          "date": "2026-11-22T01:29:26.000Z",
-          "paywall": false
-        }
-      ]
-    },
-    {
-      "id": "k-expressen-95",
+      "id": "k-expressen-114",
       "sources": 2,
       "latest": "2026-11-22T00:21:43.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/f709a766-9738-3579-bf5a-080b411ca232?format=auto&w=1000&s=61dd661c7f62823f714596fbf51a61825ac123ff",
       "versions": [
         {
-          "id": "svd-170",
+          "id": "svd-189",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Prinsessan Kate talar ut om cancern",
@@ -512,7 +561,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-95",
+          "id": "expressen-114",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Prinsessan Kates känslosamma ord om cancern",
@@ -524,14 +573,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-100",
+      "id": "k-aftonbladet-119",
       "sources": 2,
       "latest": "2026-11-22T00:09:48.000Z",
       "category": "Världen",
       "image": "https://aftonbladet.se/monorepo-api/og/ARdmWr.png",
       "versions": [
         {
-          "id": "aftonbladet-100",
+          "id": "aftonbladet-119",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Fler än 20 döda i båtolycka",
@@ -544,7 +593,7 @@
           ]
         },
         {
-          "id": "svt-utrikes-96",
+          "id": "svt-utrikes-115",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Minst 24 döda när båt på väg till begravning sjönk i Nigeria",
@@ -556,14 +605,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-141",
+      "id": "k-aftonbladet-160",
       "sources": 2,
       "latest": "2026-11-21T18:46:22.000Z",
       "category": "Lokalt",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/10c013599a96fa5639e4b21b23086545f5dd5072509fb5c0dc1eab0661e63670",
       "versions": [
         {
-          "id": "svt-skane-150",
+          "id": "svt-skane-169",
           "source": "SVT Skåne",
           "color": "#2a9d8f",
           "title": "Farligt föremål i Hyllie oskadliggjort",
@@ -573,7 +622,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-141",
+          "id": "aftonbladet-160",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Farligt föremål i Malmö oskadliggjort",
@@ -585,14 +634,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-210",
+      "id": "k-aftonbladet-229",
       "sources": 2,
       "latest": "2026-11-21T15:24:14.000Z",
       "category": "Sverige",
       "image": "https://svd.vgc.no/v2/images/99ceaee0-1251-3ea6-9bdc-1eaff18f717a?fit=crop&h=630&q=80&upscale=true&w=1200&s=a72844e33962cbfc75d60fc46c65dae904d6e530",
       "versions": [
         {
-          "id": "svd-216",
+          "id": "svd-235",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Alice Landerholm väljs till Muf-ordförande",
@@ -602,7 +651,7 @@
           "paywall": true
         },
         {
-          "id": "aftonbladet-210",
+          "id": "aftonbladet-229",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Landerholm vald till ny ordförande för Muf",
@@ -614,14 +663,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-289",
+      "id": "k-aftonbladet-308",
       "sources": 2,
       "latest": "2026-11-21T15:12:22.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/7b727e32-e4ae-3d91-8647-26e480fa7711?format=auto&w=1000&s=f530ca54a9a282333fefecf98e63f2a04c4a0a0f",
       "versions": [
         {
-          "id": "aftonbladet-289",
+          "id": "aftonbladet-308",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "C-topp stöttar Kristersson – efter infekterade bråket",
@@ -631,7 +680,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-215",
+          "id": "expressen-234",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Gabrielsson slår tillbaka",
@@ -643,14 +692,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-232",
+      "id": "k-aftonbladet-251",
       "sources": 2,
       "latest": "2026-11-21T14:06:37.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/87f71ad6-5d22-441d-8752-8766fe5ae237.jpeg?crop=2554%2C1431%2Cx0%2Cy0",
       "versions": [
         {
-          "id": "expressen-565",
+          "id": "expressen-584",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "En begärd häktad för mord hos kommunalt bolag",
@@ -660,7 +709,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-232",
+          "id": "aftonbladet-251",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Man häktad för mord på kollega",
@@ -672,14 +721,14 @@
       ]
     },
     {
-      "id": "k-dn-255",
+      "id": "k-dn-274",
       "sources": 2,
       "latest": "2026-11-21T12:58:55.000Z",
       "category": "Sport",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.73/0.48/0fc209ff7178ef6e5703e7f8c471a2a895dd7d76196b32b991dbbdf8858d5d8b",
       "versions": [
         {
-          "id": "svt-sport-268",
+          "id": "svt-sport-287",
           "source": "SVT Sport",
           "color": "#1a1a1a",
           "title": "Galet drama i Bruksvallarna – Ebba Andersson och Frida Karlsson delade segern",
@@ -689,7 +738,7 @@
           "paywall": false
         },
         {
-          "id": "dn-255",
+          "id": "dn-274",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Andersson och Karlsson delade segern: ”Sjukt”",
@@ -705,14 +754,14 @@
       ]
     },
     {
-      "id": "k-expressen-279",
+      "id": "k-expressen-298",
       "sources": 2,
       "latest": "2026-11-21T12:32:37.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/0a6a883d-40b8-4cd6-b408-7f9e8dd0c243.jpeg?crop=2557%2C1440%2Cx0%2Cy0",
       "versions": [
         {
-          "id": "expressen-279",
+          "id": "expressen-298",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Tunga C-toppen vill stötta Kristersson: ”Alliansen mest realistisk”",
@@ -722,7 +771,7 @@
           "paywall": false
         },
         {
-          "id": "svt-inrikes-264",
+          "id": "svt-inrikes-283",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "C-toppen: Bör gå vidare med allianspartierna",
@@ -734,14 +783,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-327",
+      "id": "k-aftonbladet-346",
       "sources": 2,
       "latest": "2026-11-21T09:04:41.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/d7bee764-b54f-3d1f-a823-bdeebfc2c6e4?format=auto&w=1000&s=99240de4dc27085478ceacbdc4aa621cb491266a",
       "versions": [
         {
-          "id": "aftonbladet-327",
+          "id": "aftonbladet-346",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "”Kapten ynkrygg” på fri fot",
@@ -751,7 +800,7 @@
           "paywall": false
         },
         {
-          "id": "svd-328",
+          "id": "svd-347",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "”Kapten ynkrygg” har släppts ur fängelset",
@@ -763,14 +812,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-373",
+      "id": "k-aftonbladet-392",
       "sources": 2,
       "latest": "2026-11-21T06:47:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/56680ef7-7e38-356d-b343-b8606085341d?format=auto&w=1000&s=75b7bc048741eef5c87ce8f85ba6df7df0c1dd8b",
       "versions": [
         {
-          "id": "aftonbladet-373",
+          "id": "aftonbladet-392",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Explosioner och bränder i Kiev",
@@ -780,7 +829,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-363",
+          "id": "ekot-382",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Attacker mot Kyjiv – bostadshus i lågor",
@@ -792,14 +841,14 @@
       ]
     },
     {
-      "id": "k-ekot-414",
+      "id": "k-ekot-433",
       "sources": 2,
       "latest": "2026-11-21T06:10:30.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/c9d0d1b9-0fd2-42cd-9156-276611123307.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-414",
+          "id": "ekot-433",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "CNN: FBI hackade igen – databaser angripna",
@@ -809,7 +858,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-375",
+          "id": "expressen-394",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "FBI hackade",
@@ -821,14 +870,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-425",
+      "id": "k-aftonbladet-444",
       "sources": 2,
       "latest": "2026-11-21T01:03:54.000Z",
       "category": "Världen",
       "image": "https://akamai.vgc.no/v2/images/9cccd7d2-f396-3344-b5b9-5cb5f28963fc?format=auto&w=1000&s=1d6d8e8e90a7b1b7cb0eee588af720b0c150c58d",
       "versions": [
         {
-          "id": "aftonbladet-425",
+          "id": "aftonbladet-444",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Döms för start av Palisadesbrand",
@@ -841,7 +890,7 @@
           ]
         },
         {
-          "id": "svt-utrikes-422",
+          "id": "svt-utrikes-441",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Man döms för dödsbranden i Pacific Palisades",
@@ -853,14 +902,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-490",
+      "id": "k-aftonbladet-509",
       "sources": 2,
       "latest": "2026-11-20T19:49:47.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/04441b16-a842-3e70-9fda-208e8304bb20?format=auto&w=1000&s=a64bc237f79211c6f1ee2de70db3bfb23c244899",
       "versions": [
         {
-          "id": "aftonbladet-490",
+          "id": "aftonbladet-509",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Oligark krävs på miljarder av ex-fru i jättetvist",
@@ -870,7 +919,7 @@
           "paywall": false
         },
         {
-          "id": "svd-491",
+          "id": "svd-510",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Oligark krävs på miljarder av ex-fru",
@@ -878,35 +927,6 @@
           "link": "https://www.svd.se/a/Wmb2dg/oligark-kravs-pa-miljarder-av-ex-fru-i-jattetvist?utm_medium=rss",
           "date": "2026-11-20T19:49:47.000Z",
           "paywall": true
-        }
-      ]
-    },
-    {
-      "id": "k-expressen-550",
-      "sources": 2,
-      "latest": "2026-11-20T16:49:48.000Z",
-      "category": "Världen",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/2f93ba843f7e400a13c86112e65490896499522866cbeab7a04aa887efed39b6",
-      "versions": [
-        {
-          "id": "svt-utrikes-587",
-          "source": "SVT Utrikes",
-          "color": "#1a1a1a",
-          "title": "Mordplaner på ukrainsk rappare i Danmark – Ryssland misstänks",
-          "summary": "Två danska män misstänkts ha anlitats av rysk underrättelsetjänst för att mörda en ukrainsk artist i samband med en konsert i Köpenhamn, rapporterar flera danska medier. Männen ska ha koppling till den gängkriminella miljön.",
-          "link": "https://www.svt.se/nyheter/utrikes/mordplaner-pa-ukrainsk-rappare-i-danmark-ryssland-misstanks",
-          "date": "2026-11-20T15:36:12.000Z",
-          "paywall": false
-        },
-        {
-          "id": "expressen-550",
-          "source": "Expressen",
-          "color": "#d2232a",
-          "title": "Planen: Mörda ukrainsk rappare",
-          "summary": "Två danskar har häktats som misstänkta för en mordkomplott mot den ukrainske rapparen ”Kyivstoner”, rapporterar DR . Den ryska underrättelsetjänsten misstänks ha gett dem uppdraget. Nu utvisas den ryska försvarsattachén i Danmark.",
-          "link": "https://www.expressen.se/nyheter/varlden/planen-morda--ukrainsk-rappare/",
-          "date": "2026-11-20T16:49:48.000Z",
-          "paywall": false
         }
       ]
     }
