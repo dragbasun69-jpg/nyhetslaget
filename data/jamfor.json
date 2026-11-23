@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-23T16:21:38.326Z",
+  "updated": "2026-11-23T18:08:38.493Z",
   "clusters": [
     {
-      "id": "k-aftonbladet-152",
+      "id": "k-aftonbladet-193",
       "sources": 6,
       "latest": "2026-11-23T12:39:03.000Z",
       "category": "Sverige",
       "image": "https://www.svtstatic.se/image-news/992/wide/0.5/0.5/abb13bb281e9e0501b8b33b8634558f68d01b699e5c48daca8a05650909b48ad",
       "versions": [
         {
-          "id": "svt-utrikes-155",
+          "id": "svt-utrikes-196",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Bombhot mot flera skolor i Danmark och Tyskland",
@@ -19,7 +19,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-152",
+          "id": "aftonbladet-193",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Bombhot mot hundratals skolor i Danmark och Tyskland",
@@ -29,7 +29,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-150",
+          "id": "ekot-191",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Bombhot mot hundratals skolor i Europa",
@@ -39,7 +39,7 @@
           "paywall": false
         },
         {
-          "id": "svd-149",
+          "id": "svd-190",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Bombhot mot skolor i hela Danmark",
@@ -49,7 +49,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-125",
+          "id": "expressen-166",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Bombhot mot skolor i Tyskland och Danmark",
@@ -59,7 +59,7 @@
           "paywall": false
         },
         {
-          "id": "dn-84",
+          "id": "dn-125",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Bombhot mot hundratals skolor i två länder",
@@ -71,14 +71,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-56",
+      "id": "k-aftonbladet-97",
       "sources": 5,
       "latest": "2026-11-23T14:25:27.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/a073ee57-f5d9-3243-b60d-f5eefef21489?format=auto&w=1000&s=72a80629304ad65803884df3d5b90bb03e932482",
       "versions": [
         {
-          "id": "aftonbladet-56",
+          "id": "aftonbladet-97",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Jensen Huang gör comeback som vd",
@@ -88,7 +88,7 @@
           "paywall": false
         },
         {
-          "id": "svt-utrikes-55",
+          "id": "svt-utrikes-96",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Jensen Huang gör comeback som vd för Nvidia",
@@ -98,7 +98,7 @@
           "paywall": false
         },
         {
-          "id": "svd-53",
+          "id": "svd-94",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Jensen Huang tillbaka som vd – Nvidia rusar",
@@ -108,7 +108,7 @@
           "paywall": true
         },
         {
-          "id": "dn-45",
+          "id": "dn-86",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Jensen Huang tillbaka som vd för Nvidia",
@@ -118,7 +118,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-43",
+          "id": "expressen-84",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Jensen Huang tillbaka som vd på Nvidia",
@@ -130,14 +130,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-114",
+      "id": "k-aftonbladet-155",
       "sources": 4,
       "latest": "2026-11-23T13:45:49.000Z",
       "category": "Lokalt",
       "image": "https://image-api.sr.se/v1/static/AA/101/97d09c44-db71-4a87-b02b-9e1b6e7368e9.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "p4-kristianstad-168",
+          "id": "p4-kristianstad-209",
           "source": "P4 Kristianstad",
           "color": "#e85d04",
           "title": "25-åring hittad död – en man anhållen",
@@ -147,7 +147,7 @@
           "paywall": false
         },
         {
-          "id": "svt-skane-164",
+          "id": "svt-skane-205",
           "source": "SVT Skåne",
           "color": "#2a9d8f",
           "title": "Man i 25-årsåldern hittad död i Kristianstad – misstänkt anhållen",
@@ -157,7 +157,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-114",
+          "id": "aftonbladet-155",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Man hittad död i Kristianstad – en anhållen",
@@ -167,7 +167,7 @@
           "paywall": false
         },
         {
-          "id": "nsk-59",
+          "id": "nsk-100",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "Man hittades död i Kristianstad – polisen utreder mord",
@@ -182,14 +182,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-172",
+      "id": "k-aftonbladet-213",
       "sources": 4,
       "latest": "2026-11-23T10:05:15.000Z",
       "category": "Sverige",
       "image": "https://verifiedupload.ifragasatt.se/ea8910cb-acc6-4cb9-9165-bb64a59890b3.jpeg",
       "versions": [
         {
-          "id": "expressen-175",
+          "id": "expressen-216",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Hundratals smittspåras",
@@ -199,7 +199,7 @@
           "paywall": false
         },
         {
-          "id": "svd-174",
+          "id": "svd-215",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Misstänkt utbrott av mässling i Stockholm",
@@ -209,7 +209,7 @@
           "paywall": true
         },
         {
-          "id": "aftonbladet-172",
+          "id": "aftonbladet-213",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Smittspårning efter mässlingsfall i Stockholm",
@@ -219,7 +219,7 @@
           "paywall": false
         },
         {
-          "id": "dn-142",
+          "id": "dn-183",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Omfattande smittspårning efter mässlingsfall i Stockholm",
@@ -231,14 +231,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-283",
+      "id": "k-aftonbladet-324",
       "sources": 4,
       "latest": "2026-11-22T23:20:43.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/199cf1e1-fc9b-314d-a59e-ea661f6ea845?format=auto&w=1000&s=afba044511b05b6d9d64804e21f72b470bdf52fd",
       "versions": [
         {
-          "id": "aftonbladet-283",
+          "id": "aftonbladet-324",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "18-åring gripen i Kroatien för mordet i Älvsjö",
@@ -248,7 +248,7 @@
           "paywall": false
         },
         {
-          "id": "svd-284",
+          "id": "svd-325",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Man gripen i Kroatien för mordet på Saba",
@@ -258,7 +258,7 @@
           "paywall": true
         },
         {
-          "id": "ekot-278",
+          "id": "ekot-319",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "18-åring gripen i Kroatien – kopplas till mordet i Älvsjö",
@@ -268,7 +268,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-266",
+          "id": "expressen-307",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Svensk man gripen i Kroatien – misstänks för anstiftan för mordet på Saba Abraham",
@@ -280,14 +280,14 @@
       ]
     },
     {
-      "id": "k-dn-351",
+      "id": "k-dn-392",
       "sources": 4,
       "latest": "2026-11-22T18:26:00.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/b61e605e-4900-4e43-8dc3-d8d2faed4edf.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-351",
+          "id": "dn-392",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Här är Anderssons bud till vänstern – ber om ursäkt för januariavtalet",
@@ -297,7 +297,7 @@
           "paywall": true
         },
         {
-          "id": "svt-inrikes-345",
+          "id": "svt-inrikes-386",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Andersson (S) erbjuder ”startpaket” till V – får nobben",
@@ -307,7 +307,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-341",
+          "id": "expressen-382",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "S-ledarens ursäkt till Vänsterpartiet",
@@ -317,7 +317,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-334",
+          "id": "ekot-375",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Fredrik Furtenbach: ”De dinglar ett bete framför V”",
@@ -329,53 +329,56 @@
       ]
     },
     {
-      "id": "k-aftonbladet-67",
+      "id": "k-dn-413",
       "sources": 3,
-      "latest": "2026-11-23T13:18:05.000Z",
-      "category": "Världen",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/2f93ba843f7e400a13c86112e65490896499522866cbeab7a04aa887efed39b6",
+      "latest": "2026-11-23T16:55:47.000Z",
+      "category": "Lokalt",
+      "image": "https://static.bonniernews.se/ba/f0c9f1e6-993a-4a68-ae5c-c78d6c8c486f.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "svt-utrikes-560",
-          "source": "SVT Utrikes",
+          "id": "dn-413",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "Fiasko för Rosengård – åker ur damallsvenskan",
+          "summary": "”Mesta mästarna” Rosengård åker ur damallsvenskan – åtminstone i några dagar. Kif Örebro vann kvalet med sammanlagt 5–4, men närkingarna kan uteslutas om de försätts i konkurs. Då erbjuds Rosengård den vakanta platsen.",
+          "link": "https://www.dn.se/sport/fiasko-for-rosengard-aker-ur-damallsvenskan/",
+          "date": "2026-11-22T16:07:29.000Z",
+          "paywall": true
+        },
+        {
+          "id": "nsk-404",
+          "source": "Norra Skåne",
+          "color": "#6a4c93",
+          "title": "Rosengård åker ur: ”Jättetråkigt för damfotbollen”",
+          "summary": "”Mesta mästarna” Rosengård åker ur damallsvenskan – åtminstone i några dagar. Kif Örebro vann kvalet med sammanlagt 5–4, men närkingarna kan uteslutas om de försätts i konkurs. Då erbjuds Rosengård den vakanta platsen.",
+          "link": "https://www.nsk.se/sport/fiasko-for-rosengard-aker-ur-damallsvenskan/",
+          "date": "2026-11-22T16:25:26.000Z",
+          "paywall": true,
+          "alsoAt": [
+            "Kristianstadsbladet"
+          ]
+        },
+        {
+          "id": "svt-sport-30",
+          "source": "SVT Sport",
           "color": "#1a1a1a",
-          "title": "Sju döda i fabriksbrand i Indonesien – fler än 50 saknas",
-          "summary": "Sju personer har omkommit och man letar efter över 50 personer som saknas sedan en brand brutit ut i en godisfabrik väster om den indonesiska huvudstaden Jakarta.",
-          "link": "https://www.svt.se/nyheter/utrikes/nara-40-saknas-efter-fabriksbrand-i-jakarta",
-          "date": "2026-11-22T02:58:36.000Z",
-          "paywall": false
-        },
-        {
-          "id": "expressen-517",
-          "source": "Expressen",
-          "color": "#d2232a",
-          "title": "Eld i godisfabrik – flera döda",
-          "summary": "36 saknas • Byggnad i Jakarta övertänd",
-          "link": "https://www.expressen.se/tv/nyheter/varlden/godisfabrik-overtand-36-personer-saknas",
-          "date": "2026-11-22T06:53:54.000Z",
-          "paywall": false
-        },
-        {
-          "id": "aftonbladet-67",
-          "source": "Aftonbladet",
-          "color": "#c8102e",
-          "title": "Över 20 döda i utbrunnen godisfabrik",
-          "summary": "En omfattande brand i en godisfabrik i Indonesien har skördat över 20 människoliv.",
-          "link": "https://www.aftonbladet.se/nyheter/a/aGw9WL/over-20-doda-i-utbrunnen-godisfabrik?utm_medium=rss",
-          "date": "2026-11-23T13:18:05.000Z",
+          "title": "Hanna Marklund: ”Totalt misslyckande och fiasko för Rosengård”",
+          "summary": "2024 tog Rosengård SM-guld. Två år senare åker man ur damallsvenskan efter kvalförlust mot konkurshotade Kif Örebro. – Det är totalt misslyckande och ett fiasko för Rosengård, säger SVT:s expert Hanna Marklund.",
+          "link": "https://www.svt.se/sport/fotboll/hanna-marklund-totalt-misslyckande-och-fiasko-for-rosengard",
+          "date": "2026-11-23T16:55:47.000Z",
           "paywall": false
         }
       ]
     },
     {
-      "id": "k-aftonbladet-85",
+      "id": "k-aftonbladet-126",
       "sources": 3,
       "latest": "2026-11-23T12:44:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/7cf79f50-ffd1-3ac4-960f-f824d1a92497?format=auto&w=1000&s=8f478864e2ab724ab34e8bc0c874f45d3760fa8b",
       "versions": [
         {
-          "id": "aftonbladet-85",
+          "id": "aftonbladet-126",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Greta Thunberg döms för aktioner i Köpenhamn",
@@ -388,7 +391,7 @@
           ]
         },
         {
-          "id": "expressen-83",
+          "id": "expressen-124",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Greta Thunberg döms i Danmark",
@@ -398,7 +401,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-79",
+          "id": "ekot-120",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Greta Thunberg döms för olaga intrång",
@@ -413,14 +416,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-260",
+      "id": "k-aftonbladet-301",
       "sources": 3,
       "latest": "2026-11-23T10:25:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/0b74c72d-ebbd-3945-aafa-0363730fdb66?format=auto&w=1000&s=ff3e8469f306789c1ba2f5368057613a12d70563",
       "versions": [
         {
-          "id": "aftonbladet-260",
+          "id": "aftonbladet-301",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Ukraina sänkte rysk korvett i libysk hamn",
@@ -434,7 +437,7 @@
           ]
         },
         {
-          "id": "svd-261",
+          "id": "svd-302",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Rysk korvett sänkt i libysk hamn",
@@ -444,7 +447,7 @@
           "paywall": true
         },
         {
-          "id": "ekot-139",
+          "id": "ekot-180",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Zelenskyj: Ukraina bakom fartygsattack i Libyen",
@@ -456,14 +459,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-239",
+      "id": "k-aftonbladet-280",
       "sources": 3,
       "latest": "2026-11-23T05:26:21.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/2dfc8d69-f0e3-340b-9584-899c8ecca4b9?format=auto&w=1000&s=20c3840669225b9513c6dc0f811623832dffae30",
       "versions": [
         {
-          "id": "aftonbladet-239",
+          "id": "aftonbladet-280",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Familjens sorg efter Rönningemordet: Smärta varje dag",
@@ -478,7 +481,7 @@
           ]
         },
         {
-          "id": "svd-240",
+          "id": "svd-281",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Familjen tackar för stöd – vädjar om utrymme",
@@ -488,7 +491,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-224",
+          "id": "expressen-265",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Familjens sorg efter mordet i Rönninge: Går inte att beskriva",
@@ -500,56 +503,14 @@
       ]
     },
     {
-      "id": "k-dn-372",
-      "sources": 3,
-      "latest": "2026-11-22T16:25:26.000Z",
-      "category": "Sport",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.58/0.5/c742ec4a84445d409adbf13fe2705af459ad04e9328699173f30745d06b5fb08",
-      "versions": [
-        {
-          "id": "svt-sport-378",
-          "source": "SVT Sport",
-          "color": "#1a1a1a",
-          "title": "Rosengårds mardröm – åker ur damallsvenskan",
-          "summary": "Rosengård åker ur damallsvenskan. Konkurshotade Kif Örebro vann kvalet och är – just nu – tillbaka i den högsta ligan. – Jag tror inte att det finns så mycket ord, det är mest en tomhet, säger Rosengårds assisterande tränare Robin Lindroos till SVT Sport.",
-          "link": "https://www.svt.se/sport/fotboll/rosengards-mardrom-aker-ur-damallsvenskan",
-          "date": "2026-11-22T15:56:42.000Z",
-          "paywall": false
-        },
-        {
-          "id": "dn-372",
-          "source": "DN",
-          "color": "#0f4c81",
-          "title": "Fiasko för Rosengård – åker ur damallsvenskan",
-          "summary": "”Mesta mästarna” Rosengård åker ur damallsvenskan – åtminstone i några dagar. Kif Örebro vann kvalet med sammanlagt 5–4, men närkingarna kan uteslutas om de försätts i konkurs. Då erbjuds Rosengård den vakanta platsen.",
-          "link": "https://www.dn.se/sport/fiasko-for-rosengard-aker-ur-damallsvenskan/",
-          "date": "2026-11-22T16:07:29.000Z",
-          "paywall": true
-        },
-        {
-          "id": "nsk-363",
-          "source": "Norra Skåne",
-          "color": "#6a4c93",
-          "title": "Rosengård åker ur: ”Jättetråkigt för damfotbollen”",
-          "summary": "”Mesta mästarna” Rosengård åker ur damallsvenskan – åtminstone i några dagar. Kif Örebro vann kvalet med sammanlagt 5–4, men närkingarna kan uteslutas om de försätts i konkurs. Då erbjuds Rosengård den vakanta platsen.",
-          "link": "https://www.nsk.se/sport/fiasko-for-rosengard-aker-ur-damallsvenskan/",
-          "date": "2026-11-22T16:25:26.000Z",
-          "paywall": true,
-          "alsoAt": [
-            "Kristianstadsbladet"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "k-aftonbladet-521",
+      "id": "k-aftonbladet-562",
       "sources": 3,
       "latest": "2026-11-22T15:03:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/f9240a41-09dc-39d5-a397-6da9604999e7?format=auto&w=1000&s=3033c8c712de29f273b09e0eb8cc535f22269880",
       "versions": [
         {
-          "id": "aftonbladet-521",
+          "id": "aftonbladet-562",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Attacken i Finska viken: Okänd last ombord Sparta",
@@ -559,7 +520,7 @@
           "paywall": false
         },
         {
-          "id": "svd-520",
+          "id": "svd-561",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Fartyget brinner ännu – lastens innehåll okänt",
@@ -569,7 +530,7 @@
           "paywall": true
         },
         {
-          "id": "ekot-391",
+          "id": "ekot-432",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Ryskflaggade Sparta II ska bogseras till Ryssland",
@@ -581,14 +542,14 @@
       ]
     },
     {
-      "id": "k-dn-483",
+      "id": "k-dn-524",
       "sources": 3,
       "latest": "2026-11-22T11:33:15.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/d7dc9323-c058-4c06-9a90-f5f08b535e5b.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-483",
+          "id": "dn-524",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Klimatmötet ett fiasko – överenskommelsen faller",
@@ -598,7 +559,7 @@
           "paywall": true
         },
         {
-          "id": "ekot-475",
+          "id": "ekot-516",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Sverige har lämnat kollapsade klimatmötet",
@@ -608,7 +569,7 @@
           "paywall": false
         },
         {
-          "id": "svt-utrikes-458",
+          "id": "svt-utrikes-499",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Klimatförhandlingarna kollapsar – EU skriver inte under",
@@ -620,14 +581,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-532",
+      "id": "k-aftonbladet-573",
       "sources": 3,
       "latest": "2026-11-22T10:07:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/b48dcbab-d86b-3fc8-9492-3f31dd08da0c?format=auto&w=1000&s=52bb765dcdfac9a40bb1835eea0732d9ce30643e",
       "versions": [
         {
-          "id": "aftonbladet-532",
+          "id": "aftonbladet-573",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Dödlig rysk attack: Femvåningshus träffat",
@@ -637,7 +598,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-528",
+          "id": "expressen-569",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Femvåningshus träffat",
@@ -647,7 +608,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-477",
+          "id": "ekot-518",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Femvåningshus träffat av rysk drönare – minst en död",
@@ -659,14 +620,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-524",
+      "id": "k-aftonbladet-565",
       "sources": 3,
       "latest": "2026-11-22T07:24:09.000Z",
       "category": "Sverige",
       "image": "https://www.svd.se/monorepo-api/og/wA9Gmd.png?pinnedEntry=80180",
       "versions": [
         {
-          "id": "svd-525",
+          "id": "svd-566",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "SMHI utfärdar orange snövarning",
@@ -676,7 +637,7 @@
           "paywall": true
         },
         {
-          "id": "aftonbladet-524",
+          "id": "aftonbladet-565",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Orange snövarning – risk för trafikkaos",
@@ -689,7 +650,7 @@
           ]
         },
         {
-          "id": "expressen-513",
+          "id": "expressen-554",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Orange SMHI-varning",
@@ -701,14 +662,134 @@
       ]
     },
     {
-      "id": "k-nsk-14",
+      "id": "k-aftonbladet-72",
+      "sources": 2,
+      "latest": "2026-11-23T17:46:00.000Z",
+      "category": "Sverige",
+      "image": "https://aftonbladet.se/monorepo-api/og/nLa2bd.png",
+      "versions": [
+        {
+          "id": "aftonbladet-72",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Fem döda i misstänkt gasläcka i lägenhet",
+          "summary": "Två vuxna och tre barn har hittats döda i en lägenhet i Kehl i sydvästra Tyskland, i vad som befaras…",
+          "link": "https://www.aftonbladet.se/nyheter/a/nLa2bd/fem-doda-i-misstankt-gaslacka-i-lagenhet?utm_medium=rss",
+          "date": "2026-11-23T15:00:55.000Z",
+          "paywall": false
+        },
+        {
+          "id": "ekot-10",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Fem döda i misstänkt gasläcka i Tyskland",
+          "summary": "Två vuxna och tre barn hittades på måndagen döda i en lägenhet i Kehl i västra Tyskland efter en misstänkt gasläcka, rapporterar AFP. Två andra barn vårdas för skador. Polis larmades när barnen saknades i skolan. Enligt lokala medier upptäcktes höga halter av kolmonoxid på platsen och polisen utreder händelsen.",
+          "link": "https://www.sverigesradio.se/artikel/9348600",
+          "date": "2026-11-23T17:46:00.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-dn-20",
+      "sources": 2,
+      "latest": "2026-11-23T17:45:19.000Z",
+      "category": "Sverige",
+      "image": "https://static.bonniernews.se/ba/32eccdcb-3601-44e1-a987-0a6b749b1714.jpeg?io=1&width=1000",
+      "versions": [
+        {
+          "id": "dn-20",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "Karolina Ramqvist vinner Augustpriset: ”Att skriva är ett kontaktförsök”",
+          "summary": "Årets Augustpris för bästa skönlitterära bok tilldelas Karolina Ramqvist för romanen ”Nattsäsong”. – Romanen skrev sig själv, säger hon till DN. Priset för årets fackbok går postumt till författaren och journalisten Per Svensson för ”När jag dog”.",
+          "link": "https://www.dn.se/kultur/karolina-ramqvist-vinner-augustpriset/",
+          "date": "2026-11-23T17:19:50.000Z",
+          "paywall": true
+        },
+        {
+          "id": "svd-11",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Augustpriset till Karolina Ramqvist: Kanske passande",
+          "summary": "Augustpriset i den skönlitterära klassen går till Karolina Ramqvist för romanen ”Nattsäsong”.",
+          "link": "https://www.svd.se/a/nLa2qo/augustpriset-2026-gar-till-per-svensson?utm_medium=rss",
+          "date": "2026-11-23T17:45:19.000Z",
+          "paywall": true,
+          "alsoAt": [
+            "Norra Skåne",
+            "Kristianstadsbladet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k-ekot-39",
+      "sources": 2,
+      "latest": "2026-11-23T17:07:55.000Z",
+      "category": "Sverige",
+      "image": "https://image-api.sr.se/v1/static/AA/83/f475de82-592e-48a3-8766-c9db24329893.jpg?w=1200&h=675&q=75",
+      "versions": [
+        {
+          "id": "ekot-39",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Vänsterpartiet gläntar på dörren för att släppa ministerkrav",
+          "summary": "Vänsterpartiet står fast vid kravet på ministerposter, men vice partiledaren Ida Gabrielsson öppnar för att släppa det vid stora sakpolitiska eftergifter. ”Skulle behöva enormt stora eftergifter”, säger Ida Gabrielsson i Studio Ett .",
+          "link": "https://www.sverigesradio.se/artikel/9348509",
+          "date": "2026-11-23T16:24:00.000Z",
+          "paywall": false
+        },
+        {
+          "id": "expressen-22",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Ida Gabrielsson: Det krävs för att V ska släppa ministerkravet",
+          "summary": "Vänsterpartiet står fast vid kravet på ministerposter. Men nu förklarar vice partiledaren Ida Gabrielsson vad som skulle krävas för att partiet ska överväga att backa.",
+          "link": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-det-kravs-for-att-v-ska-slappa-ministerkravet/",
+          "date": "2026-11-23T17:07:55.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-ekot-23",
+      "sources": 2,
+      "latest": "2026-11-23T17:07:00.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/27f58363-cb93-316a-8850-194b131484a4?format=auto&w=1000&s=c684645e63cc19d061238b69322cc15be1f98580",
+      "versions": [
+        {
+          "id": "svd-282",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "12 000 evakuerade från konsert",
+          "summary": "Tusentals besökare fick evakueras under rapparen Don Tolivers konsert i Manchester.",
+          "link": "https://www.svd.se/a/4EqArg/12000-evakuerade-fran-don-tolivers-konsert-i-manchester?utm_medium=rss",
+          "date": "2026-11-23T04:41:16.000Z",
+          "paywall": true
+        },
+        {
+          "id": "ekot-23",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Okänd gas spreds på Don Toliver-konsert – tusentals evakuerade",
+          "summary": "12 000 personer evakuerades från en konsert med den populäre rapparen Don Toliver i Storbritanniens största inomhus-arena i Manchester. Filmer från konserten visar hur delar av publiken börjar hosta och snabbt lämna lokalen efter att en illaluktande gas spridits i arenan, och ett 80-tal fick hjälp av ambulanspersonal …",
+          "link": "https://www.sverigesradio.se/artikel/9348553",
+          "date": "2026-11-23T17:07:00.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-nsk-55",
       "sources": 2,
       "latest": "2026-11-23T15:44:40.000Z",
       "category": "Sport",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.72/0.42/9b71440bdf604bb1b49997cea98490a165f02e2071480e386b37133a574314b5",
       "versions": [
         {
-          "id": "svt-sport-24",
+          "id": "svt-sport-65",
           "source": "SVT Sport",
           "color": "#1a1a1a",
           "title": "Nya EU-sanktioner: Ryssar stoppas från idrott",
@@ -718,7 +799,7 @@
           "paywall": false
         },
         {
-          "id": "nsk-14",
+          "id": "nsk-55",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "EU-basen: Stäng dörren för rysk idrott",
@@ -733,14 +814,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-112",
+      "id": "k-aftonbladet-153",
       "sources": 2,
       "latest": "2026-11-23T11:43:19.000Z",
       "category": "Sverige",
       "image": "https://www.svd.se/monorepo-api/og/wA9Gmd.png?pinnedEntry=80217",
       "versions": [
         {
-          "id": "svd-113",
+          "id": "svd-154",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Värnpliktig skjuten i foten under övning",
@@ -750,7 +831,7 @@
           "paywall": true
         },
         {
-          "id": "aftonbladet-112",
+          "id": "aftonbladet-153",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Värnpliktig skjuten vid övning – träffad i foten",
@@ -762,14 +843,14 @@
       ]
     },
     {
-      "id": "k-ekot-118",
+      "id": "k-ekot-159",
       "sources": 2,
       "latest": "2026-11-23T11:32:37.000Z",
       "category": "Världen",
       "image": "https://image-api.sr.se/v1/static/AA/83/355decbe-7934-4224-8a78-eb05d23577f8.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-118",
+          "id": "ekot-159",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Bryssels flygtrafik ligger nere när tusentals demonstrerar",
@@ -779,7 +860,7 @@
           "paywall": false
         },
         {
-          "id": "svt-utrikes-116",
+          "id": "svt-utrikes-157",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Strejk och regeringskris – inga flyg i Bryssel",
@@ -791,14 +872,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-228",
+      "id": "k-aftonbladet-269",
       "sources": 2,
       "latest": "2026-11-23T07:25:34.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/3e3dac2a-580e-392d-a1e0-cbd05d92971f?format=auto&w=1000&s=c9fee6b2eb30212be380de84f75f7edc3cfbc36b",
       "versions": [
         {
-          "id": "aftonbladet-228",
+          "id": "aftonbladet-269",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "V:s vrede efter debattartikeln: ”Obegripligt”",
@@ -808,7 +889,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-198",
+          "id": "expressen-239",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "V ville stoppa utspelet – S-toppens svar",
@@ -820,14 +901,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-295",
+      "id": "k-aftonbladet-336",
       "sources": 2,
       "latest": "2026-11-23T05:02:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/bfd07c02-73c5-35ca-b3da-a1a9b24f7501?format=auto&w=1000&s=e739bda373b732c086969860ce2a1469bc9533ad",
       "versions": [
         {
-          "id": "aftonbladet-295",
+          "id": "aftonbladet-336",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "V-toppens 3x nej på X på 99 minuter",
@@ -837,7 +918,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-230",
+          "id": "expressen-271",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Gabrielsson: Det här saknar V i erbjudandet",
@@ -849,14 +930,14 @@
       ]
     },
     {
-      "id": "k-svd-252",
+      "id": "k-svd-293",
       "sources": 2,
       "latest": "2026-11-23T03:32:56.000Z",
       "category": "Världen",
       "image": "https://akamai.vgc.no/v2/images/65b12670-859a-3ae6-a7ec-e70bf85efa10?format=auto&w=1000&s=a712779d9ddcc4163ffa0cb9172fe81b36bec245",
       "versions": [
         {
-          "id": "svd-252",
+          "id": "svd-293",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Därför misstänkte USA en honungsfälla",
@@ -866,7 +947,7 @@
           "paywall": true
         },
         {
-          "id": "svt-utrikes-251",
+          "id": "svt-utrikes-292",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Källor: Därför misstänkte USA en honungsfälla",
@@ -878,14 +959,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-265",
+      "id": "k-aftonbladet-306",
       "sources": 2,
       "latest": "2026-11-23T00:37:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/f829a2cb-9511-342e-b9aa-35841080017b?format=auto&w=1000&s=9650727f5f4c2571c386dcea03121b790ee659d1",
       "versions": [
         {
-          "id": "aftonbladet-265",
+          "id": "aftonbladet-306",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "WHO vädjar om fred i eboladrabbade Kongo-Kinshasa",
@@ -899,7 +980,7 @@
           ]
         },
         {
-          "id": "ekot-263",
+          "id": "ekot-304",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "WHO vädjar om fred i eboladrabbade landet",
@@ -911,14 +992,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-369",
+      "id": "k-aftonbladet-410",
       "sources": 2,
       "latest": "2026-11-22T22:21:47.000Z",
       "category": "Lokalt",
       "image": "https://akamai.vgc.no/v2/images/e20ddceb-7b92-30bc-ad4b-f6710a718db1?format=auto&w=1000&s=72bc6db9ec7396770605ac6bce49e44bf431a5b5",
       "versions": [
         {
-          "id": "aftonbladet-369",
+          "id": "aftonbladet-410",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Största C-distriktet: Pröva andra alternativ",
@@ -933,7 +1014,7 @@
           ]
         },
         {
-          "id": "nsk-275",
+          "id": "nsk-316",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "Centerpartiet i Skåne ställer sig bakom partiledningens krav",
@@ -948,14 +1029,14 @@
       ]
     },
     {
-      "id": "k-dn-379",
+      "id": "k-dn-420",
       "sources": 2,
       "latest": "2026-11-22T20:39:00.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/07cfaf19-abb2-4ef6-87f4-8ded5baf4754.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-379",
+          "id": "dn-420",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Statsvetare: ”Tror inte hon vill utsätta sig för offentlig avrättning”",
@@ -965,7 +1046,7 @@
           "paywall": true
         },
         {
-          "id": "ekot-293",
+          "id": "ekot-334",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Statsvetare om turerna S-V: ”Förhandlingarna går nog inte så bra”",
@@ -977,14 +1058,14 @@
       ]
     },
     {
-      "id": "k-svd-300",
+      "id": "k-svd-341",
       "sources": 2,
       "latest": "2026-11-22T20:07:36.000Z",
       "category": "Sport",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.57/0.46/e14d4cea6871cb78547b639f5cff0e62e8fc1d42c92eb671ee3110b5419b23ef",
       "versions": [
         {
-          "id": "svt-sport-317",
+          "id": "svt-sport-358",
           "source": "SVT Sport",
           "color": "#1a1a1a",
           "title": "Carlos Alcaraz vinner ATP-slutspelet för första gången",
@@ -994,7 +1075,7 @@
           "paywall": false
         },
         {
-          "id": "svd-300",
+          "id": "svd-341",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Första finalsegern ger 53 miljoner",
@@ -1006,14 +1087,72 @@
       ]
     },
     {
-      "id": "k-aftonbladet-389",
+      "id": "k-dn-344",
+      "sources": 2,
+      "latest": "2026-11-22T19:59:13.000Z",
+      "category": "Sverige",
+      "image": "https://svd.vgc.no/v2/images/ef693536-d0c8-3283-8ddf-a95d9e205daa?fit=crop&h=630&q=80&upscale=true&w=1200&s=ee0a1954ba1eea7447a38041575da57eadaf2648",
+      "versions": [
+        {
+          "id": "svd-395",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Ida Gabrielsson (V) nobbar S-bud: ”Nej tack”",
+          "summary": "",
+          "link": "https://www.svd.se/a/0p33lG?pinnedEntry=80191&utm_medium=rss",
+          "date": "2026-11-22T17:04:25.000Z",
+          "paywall": true
+        },
+        {
+          "id": "dn-344",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "Ida Gabrielsson nobbar S bud: ”Tack men nej tack”",
+          "summary": "Ida Gabrielsson uppger att Vänsterpartiet tackar nej till budet från S, MP och C. I paketet erbjuds V framträdande roller och vänsterpolitik, men det räcker inte, uppger partitoppen. ”Budet” är att V ska låta övriga regera på våra mandat. Marknadsskolan, a-kassan och karensen är inte ens med”, skriver hon på X.",
+          "link": "https://www.dn.se/sverige/ida-gabrielsson-nobbar-s-bud-inte-seriost/",
+          "date": "2026-11-22T19:59:13.000Z",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-533",
+      "sources": 2,
+      "latest": "2026-11-22T18:31:00.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/17b841cb-7bbc-301d-b833-89d6ac0839fe?format=auto&w=1000&s=458ac523431506c2ef8135c77b98bc930718df9b",
+      "versions": [
+        {
+          "id": "aftonbladet-533",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Efter åtta år – rymdfarkost nära Merkurius",
+          "summary": "Efter åtta år har rymdfarkosten Bepicolombo, som ska studera solens närmaste granne Merkurius, gått…",
+          "link": "https://www.aftonbladet.se/nyheter/a/OypJww/efter-atta-ar-rymdfarare-nara-merkurius?utm_medium=rss",
+          "date": "2026-11-22T08:59:50.000Z",
+          "paywall": false
+        },
+        {
+          "id": "ekot-373",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Rymdfarkosten BepiColombo har nått Merkurius",
+          "summary": "Efter åtta år har rymdfarkosten BepiColombo kommit fram och gått in i Merkurius omloppsbana, skriver europeiska rymdorganet ESA på sociala medier. Den fyra ton tunga farkosten sköts upp i oktober 2018 och består av två olika sonder, en europeisk och en japansk.",
+          "link": "https://www.sverigesradio.se/artikel/9347943",
+          "date": "2026-11-22T18:31:00.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-430",
       "sources": 2,
       "latest": "2026-11-22T15:03:10.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/70e762f8-c8e4-34e3-9f80-def78e52d48c?format=auto&w=1000&s=c45da97316ec4c8a508b5f6478c8080376944546",
       "versions": [
         {
-          "id": "aftonbladet-389",
+          "id": "aftonbladet-430",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Netanyahu och Eisenkot överens om nytt möte",
@@ -1023,7 +1162,7 @@
           "paywall": false
         },
         {
-          "id": "svd-390",
+          "id": "svd-431",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Netanyahu och Eisenkot i nytt möte",
@@ -1035,14 +1174,14 @@
       ]
     },
     {
-      "id": "k-ekot-399",
+      "id": "k-ekot-440",
       "sources": 2,
       "latest": "2026-11-22T14:54:10.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/9d76730c-bdf0-411a-b6ba-23e94519682b.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-399",
+          "id": "ekot-440",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Centerstrid inför öppen ridå – nytt distrikt sätter ner foten",
@@ -1052,7 +1191,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-394",
+          "id": "expressen-435",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "C-distriktet: ”Olyckligt”",
@@ -1064,14 +1203,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-408",
+      "id": "k-aftonbladet-449",
       "sources": 2,
       "latest": "2026-11-22T14:54:03.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/7abc1133-51c1-3235-b05f-0ce86165d310?format=auto&w=1000&s=ba01d2223c0aaebc61819436fb875d2d95489266",
       "versions": [
         {
-          "id": "aftonbladet-408",
+          "id": "aftonbladet-449",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "19 personer förgiftade under gudstjänst",
@@ -1081,7 +1220,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-396",
+          "id": "expressen-437",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "19 förgiftade i kyrka i Tyskland",
@@ -1093,14 +1232,14 @@
       ]
     },
     {
-      "id": "k-nsk-523",
+      "id": "k-nsk-564",
       "sources": 2,
       "latest": "2026-11-22T12:10:00.000Z",
       "category": "Lokalt",
       "image": "https://static.bonniernews.se/ba/306a6624-591d-421c-b7ba-59f6a3a0fe5b.jpeg?width=600",
       "versions": [
         {
-          "id": "nsk-523",
+          "id": "nsk-564",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "Rullstolsburen nekades bussturer – kräver 80 000",
@@ -1113,7 +1252,7 @@
           ]
         },
         {
-          "id": "p4-kristianstad-447",
+          "id": "p4-kristianstad-488",
           "source": "P4 Kristianstad",
           "color": "#e85d04",
           "title": "Rullstolsburen kvinna nekades resor – DO kräver 80 000",
@@ -1125,14 +1264,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-454",
+      "id": "k-aftonbladet-495",
       "sources": 2,
       "latest": "2026-11-22T11:46:16.000Z",
       "category": "Världen",
       "image": "https://akamai.vgc.no/v2/images/d5f8d3ab-1537-3805-b021-cfb39eef60b3?format=auto&w=1000&s=b2a87bf9c33787ed272b5076f84698cd22fbac77",
       "versions": [
         {
-          "id": "aftonbladet-454",
+          "id": "aftonbladet-495",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Klimatforskaren efter COP-kollaps: En tuff situation",
@@ -1147,7 +1286,7 @@
           ]
         },
         {
-          "id": "svt-utrikes-452",
+          "id": "svt-utrikes-493",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Klimatforskaren efter COP-kollapsen: En tuff situation",
@@ -1159,14 +1298,14 @@
       ]
     },
     {
-      "id": "k-dn-530",
+      "id": "k-dn-571",
       "sources": 2,
       "latest": "2026-11-22T07:52:42.000Z",
       "category": "Världen",
       "image": "https://static.bonniernews.se/ba/b2669466-d557-44ef-98c9-8c0774e0851d.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-530",
+          "id": "dn-571",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Kartelledare gripen – en av FBI:s mest efterlysta",
@@ -1176,45 +1315,13 @@
           "paywall": true
         },
         {
-          "id": "svt-utrikes-509",
+          "id": "svt-utrikes-550",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Kartellboss gripen i Mexiko – flera döda",
           "summary": "En mexikansk kartelledare, Fausto Isidro Meza, som varit efterlyst i över tio år greps natten till lördagen i nordvästra Mexiko. Elva människor dog, varav fyra soldater, och räden utlöste oroligheter och våldsamheter i landet.",
           "link": "https://www.svt.se/nyheter/utrikes/kartellboss-gripen-i-mexiko-flera-doda",
           "date": "2026-11-22T07:52:42.000Z",
-          "paywall": false
-        }
-      ]
-    },
-    {
-      "id": "k-aftonbladet-572",
-      "sources": 2,
-      "latest": "2026-11-22T00:09:48.000Z",
-      "category": "Världen",
-      "image": "https://aftonbladet.se/monorepo-api/og/ARdmWr.png",
-      "versions": [
-        {
-          "id": "aftonbladet-572",
-          "source": "Aftonbladet",
-          "color": "#c8102e",
-          "title": "Fler än 20 döda i båtolycka",
-          "summary": "Minst 24 personer har omkommit sedan en båt kapsejsat i södra Nigeria.",
-          "link": "https://www.aftonbladet.se/nyheter/a/ARdmWr/fler-an-20-doda-i-batolycka?utm_medium=rss",
-          "date": "2026-11-21T23:05:20.000Z",
-          "paywall": false,
-          "alsoAt": [
-            "SvD"
-          ]
-        },
-        {
-          "id": "svt-utrikes-568",
-          "source": "SVT Utrikes",
-          "color": "#1a1a1a",
-          "title": "Minst 24 döda när båt på väg till begravning sjönk i Nigeria",
-          "summary": "Minst 24 personer har omkommit sedan en passagerarbåt kapsejsat i södra Nigeria, enligt landets nationella räddningsmyndighet. Ombord fanns människor på väg till en begravningsceremoni.",
-          "link": "https://www.svt.se/nyheter/utrikes/minst-24-doda-nar-bat-pa-vag-till-begravning-sjonk-i-nigeria",
-          "date": "2026-11-22T00:09:48.000Z",
           "paywall": false
         }
       ]
