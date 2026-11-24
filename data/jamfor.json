@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-24T16:22:52.600Z",
+  "updated": "2026-11-24T18:00:32.695Z",
   "clusters": [
     {
-      "id": "k-aftonbladet-553",
+      "id": "k-aftonbladet-588",
       "sources": 6,
       "latest": "2026-11-23T20:56:39.000Z",
       "category": "Sverige",
       "image": "https://www.svtstatic.se/image-news/992/wide/0.5/0.5/abb13bb281e9e0501b8b33b8634558f68d01b699e5c48daca8a05650909b48ad",
       "versions": [
         {
-          "id": "svt-utrikes-556",
+          "id": "svt-utrikes-591",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Bombhot mot flera skolor i Danmark och Tyskland",
@@ -19,7 +19,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-553",
+          "id": "aftonbladet-588",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Bombhot mot hundratals skolor i Danmark och Tyskland",
@@ -29,7 +29,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-551",
+          "id": "ekot-586",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Bombhot mot hundratals skolor i Europa",
@@ -39,7 +39,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-526",
+          "id": "expressen-561",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Bombhot mot skolor i Tyskland och Danmark",
@@ -49,7 +49,7 @@
           "paywall": false
         },
         {
-          "id": "dn-485",
+          "id": "dn-520",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Bombhot mot hundratals skolor i två länder",
@@ -59,7 +59,7 @@
           "paywall": true
         },
         {
-          "id": "svd-304",
+          "id": "svd-339",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "”Nordiska guldet” kan hotas efter fler bombhot",
@@ -71,34 +71,73 @@
       ]
     },
     {
-      "id": "k-aftonbladet-515",
-      "sources": 6,
-      "latest": "2026-11-23T20:53:41.000Z",
-      "category": "Lokalt",
-      "image": "https://image-api.sr.se/v1/static/AA/101/97d09c44-db71-4a87-b02b-9e1b6e7368e9.jpg?w=1200&h=675&q=75",
+      "id": "k-aftonbladet-492",
+      "sources": 5,
+      "latest": "2026-11-23T14:25:27.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/a073ee57-f5d9-3243-b60d-f5eefef21489?format=auto&w=1000&s=72a80629304ad65803884df3d5b90bb03e932482",
       "versions": [
         {
-          "id": "p4-kristianstad-569",
-          "source": "P4 Kristianstad",
-          "color": "#e85d04",
-          "title": "25-åring hittad död – en man anhållen",
-          "summary": "Polisen utreder mord sedan en man i 25-årsåldern hittats död i en lägenhet på Gamlegården i Kristianstad, skriver Kristianstadsbladet/Norra Skåne . En man i 30-årsåldern har anhållits misstänkt för mord. Den avlidne mannen hittades tidigt på lördagskvällen och dödsorsaken är ännu oklar.",
-          "link": "https://www.sverigesradio.se/artikel/9348081",
-          "date": "2026-11-23T09:02:00.000Z",
+          "id": "aftonbladet-492",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Jensen Huang gör comeback som vd",
+          "summary": "Börsen rusar ✓ ”Tillräckligt uppriktig”",
+          "link": "https://www.aftonbladet.se/nyheter/a/Pv9Jvb/jensen-huang-gor-comeback-som-vd?utm_medium=rss",
+          "date": "2026-11-23T14:00:27.000Z",
           "paywall": false
         },
         {
-          "id": "svt-skane-565",
-          "source": "SVT Skåne",
-          "color": "#2a9d8f",
-          "title": "Man i 25-årsåldern hittad död i Kristianstad – misstänkt anhållen",
-          "summary": "En man i 25-årsåldern hittades död i en lägenhet under kvällen i lördags. På söndagen greps och anhölls en man i 30-årsåldern misstänkt för mord.",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/25-aring-hittad-dod-i-kristianstad-misstankt-man-anhallen",
-          "date": "2026-11-23T09:11:02.000Z",
+          "id": "svt-utrikes-491",
+          "source": "SVT Utrikes",
+          "color": "#1a1a1a",
+          "title": "Jensen Huang gör comeback som vd för Nvidia",
+          "summary": "Jensen Huang har återigen blivit vd för Nvidia, skriver företaget själva i ett pressmeddelande. Aktien rusar med cirka 27 procent efter beskedet och Nasdaqs tekniktunga index har stigit med nästan sju procent.",
+          "link": "https://www.svt.se/nyheter/utrikes/jensen-huang-gor-comeback-som-vd-for-nvidia",
+          "date": "2026-11-23T14:01:40.000Z",
           "paywall": false
         },
         {
-          "id": "aftonbladet-515",
+          "id": "svd-489",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Jensen Huang tillbaka som vd – Nvidia rusar",
+          "summary": "",
+          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80223&utm_medium=rss",
+          "date": "2026-11-23T14:02:56.000Z",
+          "paywall": true
+        },
+        {
+          "id": "dn-ekonomi-481",
+          "source": "DN Ekonomi",
+          "color": "#0f4c81",
+          "title": "Jensen Huang tillbaka som vd för Nvidia",
+          "summary": "Nvidia meddelar att Jensen Huang kommer tillbaka som vd för chipjätten med omedelbar verkan, 1,5 vecka efter att han lämnade bolaget på dagen. Aktien rusar över 30 procent och lyfter Nasdaq-indexet nästan 7 procent. USA:s president Donald Trump hyllar beslutet.",
+          "link": "https://www.dn.se/ekonomi/jensen-huang-tillbaka-som-vd-for-nvidia/",
+          "date": "2026-11-23T14:19:57.000Z",
+          "paywall": true
+        },
+        {
+          "id": "expressen-479",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Jensen Huang tillbaka som vd på Nvidia",
+          "summary": "Tre otrohetsskandaler senare är Jensen Huang tillbaka som vd på Nvidia. Nu rusar aktien – med över 30 procent. ”Det är en ära att återvända till NVIDIA”, säger Huang i ett pressmeddelande.",
+          "link": "https://www.expressen.se/nyheter/varlden/jensen-huang-tillbaka-som-vd-pa-nvidia/",
+          "date": "2026-11-23T14:25:27.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-550",
+      "sources": 4,
+      "latest": "2026-11-23T20:53:41.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/e58857d9-ace1-3de9-abb9-28191f87f33f?format=auto&w=1000&s=cdb09c9d3d77aecf8c7dcbab452263766a94eb95",
+      "versions": [
+        {
+          "id": "aftonbladet-550",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Man hittad död i Kristianstad – en anhållen",
@@ -108,7 +147,7 @@
           "paywall": false
         },
         {
-          "id": "nsk-460",
+          "id": "nsk-495",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "Man hittades död i Kristianstad – polisen utreder mord",
@@ -121,7 +160,7 @@
           ]
         },
         {
-          "id": "svd-321",
+          "id": "svd-356",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Misstänkt mord i Heby",
@@ -131,7 +170,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-307",
+          "id": "expressen-342",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Person hittad död – misstänkt mord",
@@ -143,132 +182,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-457",
-      "sources": 6,
-      "latest": "2026-11-23T16:38:00.000Z",
-      "category": "Sverige",
-      "image": "https://akamai.vgc.no/v2/images/a073ee57-f5d9-3243-b60d-f5eefef21489?format=auto&w=1000&s=72a80629304ad65803884df3d5b90bb03e932482",
-      "versions": [
-        {
-          "id": "aftonbladet-457",
-          "source": "Aftonbladet",
-          "color": "#c8102e",
-          "title": "Jensen Huang gör comeback som vd",
-          "summary": "Börsen rusar ✓ ”Tillräckligt uppriktig”",
-          "link": "https://www.aftonbladet.se/nyheter/a/Pv9Jvb/jensen-huang-gor-comeback-som-vd?utm_medium=rss",
-          "date": "2026-11-23T14:00:27.000Z",
-          "paywall": false
-        },
-        {
-          "id": "svt-utrikes-456",
-          "source": "SVT Utrikes",
-          "color": "#1a1a1a",
-          "title": "Jensen Huang gör comeback som vd för Nvidia",
-          "summary": "Jensen Huang har återigen blivit vd för Nvidia, skriver företaget själva i ett pressmeddelande. Aktien rusar med cirka 27 procent efter beskedet och Nasdaqs tekniktunga index har stigit med nästan sju procent.",
-          "link": "https://www.svt.se/nyheter/utrikes/jensen-huang-gor-comeback-som-vd-for-nvidia",
-          "date": "2026-11-23T14:01:40.000Z",
-          "paywall": false
-        },
-        {
-          "id": "svd-454",
-          "source": "SvD",
-          "color": "#2b2b2b",
-          "title": "Jensen Huang tillbaka som vd – Nvidia rusar",
-          "summary": "",
-          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80223&utm_medium=rss",
-          "date": "2026-11-23T14:02:56.000Z",
-          "paywall": true
-        },
-        {
-          "id": "dn-ekonomi-446",
-          "source": "DN Ekonomi",
-          "color": "#0f4c81",
-          "title": "Jensen Huang tillbaka som vd för Nvidia",
-          "summary": "Nvidia meddelar att Jensen Huang kommer tillbaka som vd för chipjätten med omedelbar verkan, 1,5 vecka efter att han lämnade bolaget på dagen. Aktien rusar över 30 procent och lyfter Nasdaq-indexet nästan 7 procent. USA:s president Donald Trump hyllar beslutet.",
-          "link": "https://www.dn.se/ekonomi/jensen-huang-tillbaka-som-vd-for-nvidia/",
-          "date": "2026-11-23T14:19:57.000Z",
-          "paywall": true
-        },
-        {
-          "id": "expressen-444",
-          "source": "Expressen",
-          "color": "#d2232a",
-          "title": "Jensen Huang tillbaka som vd på Nvidia",
-          "summary": "Tre otrohetsskandaler senare är Jensen Huang tillbaka som vd på Nvidia. Nu rusar aktien – med över 30 procent. ”Det är en ära att återvända till NVIDIA”, säger Huang i ett pressmeddelande.",
-          "link": "https://www.expressen.se/nyheter/varlden/jensen-huang-tillbaka-som-vd-pa-nvidia/",
-          "date": "2026-11-23T14:25:27.000Z",
-          "paywall": false
-        },
-        {
-          "id": "ekot-396",
-          "source": "Ekot",
-          "color": "#1d4e89",
-          "title": "Efter Huangs comeback som vd – Nvidias aktie rusar",
-          "summary": "Nvidias aktie sköt i höjden på Nasdaqbörsen i New York efter beskedet att grundaren Jensen Huang återinsätts som vd. Turbulensen kring Huang har fått börsvärden motsvarande flera tusen miljarder svenska kronor att svänga fram och tillbaka på bara några dagar.",
-          "link": "https://www.sverigesradio.se/artikel/9348528",
-          "date": "2026-11-23T16:38:00.000Z",
-          "paywall": false
-        }
-      ]
-    },
-    {
-      "id": "k-aftonbladet-573",
-      "sources": 4,
-      "latest": "2026-11-23T10:05:15.000Z",
-      "category": "Sverige",
-      "image": "https://verifiedupload.ifragasatt.se/ea8910cb-acc6-4cb9-9165-bb64a59890b3.jpeg",
-      "versions": [
-        {
-          "id": "expressen-576",
-          "source": "Expressen",
-          "color": "#d2232a",
-          "title": "Hundratals smittspåras",
-          "summary": "Misstänkt utbrott av mässling i Stockholm, enligt TV4",
-          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=badfb391-c5d6-4550-96d2-404795bc540a",
-          "date": "2026-11-23T08:32:56.000Z",
-          "paywall": false
-        },
-        {
-          "id": "svd-575",
-          "source": "SvD",
-          "color": "#2b2b2b",
-          "title": "Misstänkt utbrott av mässling i Stockholm",
-          "summary": "",
-          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80214&utm_medium=rss",
-          "date": "2026-11-23T08:36:16.000Z",
-          "paywall": true
-        },
-        {
-          "id": "aftonbladet-573",
-          "source": "Aftonbladet",
-          "color": "#c8102e",
-          "title": "Smittspårning efter mässlingsfall i Stockholm",
-          "summary": "Hundratals personer ska testas efter ett mässlingsfall på ett sjukhus i Stockholm.",
-          "link": "https://www.aftonbladet.se/nyheter/a/BrRKR7/smittsparning-efter-masslingsfall-i-stockholm?utm_medium=rss",
-          "date": "2026-11-23T08:42:39.000Z",
-          "paywall": false
-        },
-        {
-          "id": "dn-543",
-          "source": "DN",
-          "color": "#0f4c81",
-          "title": "Omfattande smittspårning efter mässlingsfall i Stockholm",
-          "summary": "Södersjukhuset i Stockholm har inlett en omfattande smittspårning efter ett fall av mässling. Man kontaktar nu hundratals sedan den smittade personen befunnit sig i ett väntrum på sjukhuset under flera timmar. – Vi har under fredagen haft ett bekräftat fall, säger chefläkare Annelie Liljegren.",
-          "link": "https://www.dn.se/sverige/omfattande-smittsparning-efter-masslingsfall-i-stockholm/",
-          "date": "2026-11-23T10:05:15.000Z",
-          "paywall": true
-        }
-      ]
-    },
-    {
-      "id": "k-dn-32",
+      "id": "k-dn-67",
       "sources": 3,
       "latest": "2026-11-24T14:57:30.000Z",
       "category": "Sport",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.75/0.36/40e102b0ccfe2be4fa681346aa4d582e0c6a244b4f1738dcf9cfde64d328e8d0",
       "versions": [
         {
-          "id": "svt-sport-40",
+          "id": "svt-sport-75",
           "source": "SVT Sport",
           "color": "#1a1a1a",
           "title": "Nya vändningen – Senegal tilldelas Afcon-titeln",
@@ -278,7 +199,7 @@
           "paywall": false
         },
         {
-          "id": "svd-37",
+          "id": "svd-72",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Ett år efter kaosfinalen – Senegal får titeln",
@@ -288,7 +209,7 @@
           "paywall": true
         },
         {
-          "id": "dn-32",
+          "id": "dn-67",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Beskedet efter kaosfinalen – Senegal får titeln",
@@ -300,14 +221,14 @@
       ]
     },
     {
-      "id": "k-ekot-165",
+      "id": "k-ekot-200",
       "sources": 3,
       "latest": "2026-11-24T09:41:45.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/4d0e8a76-7b46-34cf-8809-df96842d0606?format=auto&w=1000&s=8265a594f3544a7a5a64b126e85faf35dd9417c6",
       "versions": [
         {
-          "id": "svd-167",
+          "id": "svd-202",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "It-chef på Riksbanken arbetsbefriad",
@@ -317,7 +238,7 @@
           "paywall": true
         },
         {
-          "id": "ekot-165",
+          "id": "ekot-200",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Chef på Riksbanken stängs av efter Ekots granskning",
@@ -327,7 +248,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-151",
+          "id": "expressen-186",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Riksbankens it-chef arbetsbefrias",
@@ -339,14 +260,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-380",
+      "id": "k-aftonbladet-415",
       "sources": 3,
       "latest": "2026-11-23T20:32:52.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/f475de82-592e-48a3-8766-c9db24329893.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-399",
+          "id": "ekot-434",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Vänsterpartiet gläntar på dörren för att släppa ministerkrav",
@@ -356,7 +277,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-380",
+          "id": "aftonbladet-415",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "V kan släppa ministerkravet mot \"enormt stora eftergifter\"",
@@ -366,7 +287,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-309",
+          "id": "expressen-344",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Vänsterprofilen Leonidas Aretakis: Då kan V släppa ministerkravet",
@@ -378,14 +299,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-486",
+      "id": "k-aftonbladet-521",
       "sources": 3,
       "latest": "2026-11-23T12:44:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/7cf79f50-ffd1-3ac4-960f-f824d1a92497?format=auto&w=1000&s=8f478864e2ab724ab34e8bc0c874f45d3760fa8b",
       "versions": [
         {
-          "id": "aftonbladet-486",
+          "id": "aftonbladet-521",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Greta Thunberg döms för aktioner i Köpenhamn",
@@ -398,7 +319,7 @@
           ]
         },
         {
-          "id": "expressen-484",
+          "id": "expressen-519",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Greta Thunberg döms i Danmark",
@@ -408,7 +329,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-480",
+          "id": "ekot-515",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Greta Thunberg döms för olaga intrång",
@@ -423,14 +344,101 @@
       ]
     },
     {
-      "id": "k-expressen-5",
+      "id": "k-expressen-2",
+      "sources": 2,
+      "latest": "2026-11-24T17:56:31.000Z",
+      "category": "Sverige",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.47/0.5/2d22b32e7162ac92ad5389acba672a839b2fd81f877b5efdf8d1dfdfb73f82f6",
+      "versions": [
+        {
+          "id": "svt-inrikes-5",
+          "source": "SVT Nyheter",
+          "color": "#1a1a1a",
+          "title": "Här är M:s totalpaket till C: ”Hade högre förväntningar”",
+          "summary": "Centerpartiet går nu in i nya regeringssamtal med Moderaterna. SVT har tagit del av M:s totalpaket som ligger till grund för samtalen. – Jag hade ärligt talat högre förväntningar, säger en C-källa.",
+          "link": "https://www.svt.se/nyheter/inrikes/har-ar-ms-totalpaket-till-c-hade-hogre-forvantningar",
+          "date": "2026-11-24T17:46:39.000Z",
+          "paywall": false
+        },
+        {
+          "id": "expressen-2",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Uppgifter: Här är M:s totalpaket till C",
+          "summary": "SVT har tagit del av M:s hittills hemliga totalpaket till C. – Jag hade ärligt talat högre förväntningar, säger en C-källa till SVT.",
+          "link": "https://www.expressen.se/nyheter/sverige/uppgifter-har-ar-ms-totalpaket-till-c/",
+          "date": "2026-11-24T17:56:31.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-11",
+      "sources": 2,
+      "latest": "2026-11-24T17:24:33.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/0857a946-07b3-3cae-ae42-32620bce9575?format=auto&w=1000&s=9ff7e4c56b6627fe9d092a9fea346bc60ae9724c",
+      "versions": [
+        {
+          "id": "svd-47",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Influencerns kritik mot klädjätten: ”Besvikelse”",
+          "summary": "Influencern Elin Warn anklagar Gina Tricot för plagiat – och pekar i ett inlägg på Instagram ut…",
+          "link": "https://www.svd.se/a/4Eqa7V/elin-warn-anklagar-gina-tricot-kladjatten-ber-om-ursakt?utm_medium=rss",
+          "date": "2026-11-24T15:59:22.000Z",
+          "paywall": true
+        },
+        {
+          "id": "aftonbladet-11",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Gina Tricot i nytt plagiatblåsväder – Elin, 26: ”Jag har legat sömnlös”",
+          "summary": "Elin, 26: ”Håller på att gå sönder”",
+          "link": "https://www.aftonbladet.se/nyheter/a/WmbPLd/gina-tricot-i-blasvader-anklagas-for-plagiat?utm_medium=rss",
+          "date": "2026-11-24T17:24:33.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-ekot-267",
+      "sources": 2,
+      "latest": "2026-11-24T16:56:34.000Z",
+      "category": "Sverige",
+      "image": "https://image-api.sr.se/v1/static/AA/83/7c0abbd7-649a-4ac9-ad80-7013c4b8ea3a.png?w=1200&h=675&q=75",
+      "versions": [
+        {
+          "id": "ekot-267",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Chat GPT underlättar planering av skoldåd",
+          "summary": "Gärningspersoner världen över misstänks ha använt AI-verktyget ChatGPT i sin planering av skolattacker och massmord de senaste åren. Trots att bolaget bakom chatten sagt att man höjt säkerheten visar Ekots granskning hur chattverktyget kan underlätta planeringen av en skolattack.",
+          "link": "https://www.sverigesradio.se/artikel/9346690",
+          "date": "2026-11-24T05:00:00.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svt-inrikes-22",
+          "source": "SVT Nyheter",
+          "color": "#1a1a1a",
+          "title": "ChatGPT gav råd om svensk skolattack i test",
+          "summary": "Ekots reportrar lyckades få hjälp med att planera en fiktiv svensk skolattack genom ChatGPT. Detta trots att företaget bakom AI-verktyget tidigare uppgett att man skärpt säkerheten.",
+          "link": "https://www.svt.se/nyheter/inrikes/chatgpt-gav-rad-om-svensk-skolattack-i-test",
+          "date": "2026-11-24T16:56:34.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-expressen-40",
       "sources": 2,
       "latest": "2026-11-24T16:08:27.000Z",
       "category": "Världen",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.6/f6e65606cfecbfcc1edd2340a49bf8aa3d7d8537bda9f94293e486bb8d3842b6",
       "versions": [
         {
-          "id": "svt-utrikes-48",
+          "id": "svt-utrikes-83",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Uppgifter: USA ska höja tullar",
@@ -440,7 +448,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-5",
+          "id": "expressen-40",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Trump förbereder tullar",
@@ -452,43 +460,14 @@
       ]
     },
     {
-      "id": "k-expressen-133",
-      "sources": 2,
-      "latest": "2026-11-24T15:59:22.000Z",
-      "category": "Sverige",
-      "image": "https://static.bonniernews.se/ba/4d2a55db-e597-43ca-a990-5a213bdc3192.jpeg?crop=2557%2C1434%2Cx0%2Cy266",
-      "versions": [
-        {
-          "id": "expressen-133",
-          "source": "Expressen",
-          "color": "#d2232a",
-          "title": "Gina Tricot ber om ursäkt efter kritiken",
-          "summary": "När Elin Warn, 26, såg fotona trodde hon inte att det var sant. Bilderna som Gina Tricot använt såg ut att kunna vara hennes egna. Företaget skriver i ett mejl att de ”gick över gränsen”.",
-          "link": "https://www.expressen.se/nyheter/sverige/gina-tricot-ber-om-ursakt-efter-kritiken/",
-          "date": "2026-11-24T10:32:47.000Z",
-          "paywall": false
-        },
-        {
-          "id": "svd-12",
-          "source": "SvD",
-          "color": "#2b2b2b",
-          "title": "Influencerns kritik mot klädjätten: ”Besvikelse”",
-          "summary": "Influencern Elin Warn anklagar Gina Tricot för plagiat – och pekar i ett inlägg på Instagram ut…",
-          "link": "https://www.svd.se/a/4Eqa7V/elin-warn-anklagar-gina-tricot-kladjatten-ber-om-ursakt?utm_medium=rss",
-          "date": "2026-11-24T15:59:22.000Z",
-          "paywall": true
-        }
-      ]
-    },
-    {
-      "id": "k-nsk-28",
+      "id": "k-nsk-63",
       "sources": 2,
       "latest": "2026-11-24T15:45:00.000Z",
       "category": "Lokalt",
       "image": "https://static.bonniernews.se/ba/bd29cfe2-555c-4e66-bbd9-14427bedb90b.jpeg?width=600",
       "versions": [
         {
-          "id": "nsk-28",
+          "id": "nsk-63",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "En till sjukhus – fick stock i huvudet på Nymölla bruk",
@@ -501,7 +480,7 @@
           ]
         },
         {
-          "id": "p4-kristianstad-18",
+          "id": "p4-kristianstad-53",
           "source": "P4 Kristianstad",
           "color": "#e85d04",
           "title": "Anställd fick stock i huvudet – fördes till sjukhus",
@@ -513,14 +492,14 @@
       ]
     },
     {
-      "id": "k-ekot-137",
+      "id": "k-ekot-172",
       "sources": 2,
       "latest": "2026-11-24T13:26:14.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/a7f61ff6-42d0-4d37-be6c-5df68887638e.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-137",
+          "id": "ekot-172",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Så mycket dyrare blir det att skicka brev 2027",
@@ -530,7 +509,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-64",
+          "id": "expressen-99",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Postnord höjer priserna – dyrare att skicka brev",
@@ -542,14 +521,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-93",
+      "id": "k-aftonbladet-128",
       "sources": 2,
       "latest": "2026-11-24T12:35:10.000Z",
       "category": "Världen",
       "image": "https://akamai.vgc.no/v2/images/7c9e1155-e9f9-3a16-9612-74cbfd2ddde3?format=auto&w=1000&s=99e76e83a9f9829e787a79825e56168bffb50af7",
       "versions": [
         {
-          "id": "aftonbladet-93",
+          "id": "aftonbladet-128",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Inbrott hos prins William och Kate – två män gripna",
@@ -559,7 +538,7 @@
           "paywall": false
         },
         {
-          "id": "svt-utrikes-82",
+          "id": "svt-utrikes-117",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Inbrott i Kate och Williams semesterhem",
@@ -571,14 +550,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-117",
+      "id": "k-aftonbladet-152",
       "sources": 2,
       "latest": "2026-11-24T12:08:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/a57106e0-9a31-3ed8-ad12-cd277e9cf4de?format=auto&w=1000&s=7578572705f74eda9994bd9ce9615166ddc21e5c",
       "versions": [
         {
-          "id": "aftonbladet-117",
+          "id": "aftonbladet-152",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Zelenskyj: Vi angrep fartyget i Finska viken",
@@ -588,7 +567,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-94",
+          "id": "ekot-129",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Zelenskyj: Attackerade ryska fartyget transporterade vapen",
@@ -600,14 +579,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-237",
+      "id": "k-aftonbladet-272",
       "sources": 2,
       "latest": "2026-11-24T10:41:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/bdfada72-0174-3ba7-a290-0a5d2a67077f?format=auto&w=1000&s=e5bcf11a36747cc97d6bcff75f62f94f34db76cc",
       "versions": [
         {
-          "id": "aftonbladet-237",
+          "id": "aftonbladet-272",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Ukraina: Två döda och många skadade i attack",
@@ -617,7 +596,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-128",
+          "id": "ekot-163",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Zelenskyj: De första Gripen-planen anländer i januari",
@@ -629,14 +608,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-139",
+      "id": "k-aftonbladet-174",
       "sources": 2,
       "latest": "2026-11-24T10:21:42.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/c5f7bcaf-c90d-4efb-9f1c-326d5c9f5917.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-260",
+          "id": "ekot-295",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Israeliskt flyganfall mot Gaza – minst tre dödade",
@@ -646,7 +625,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-139",
+          "id": "aftonbladet-174",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Gaza: Sju dödade i israeliska bombningar",
@@ -658,14 +637,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-210",
+      "id": "k-aftonbladet-245",
       "sources": 2,
       "latest": "2026-11-24T06:13:07.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/2d7336ac-9b0f-3631-ac82-b9c846393e92?format=auto&w=1000&s=85753046d23a0b42c92fb7bb00fa7004055e4e77",
       "versions": [
         {
-          "id": "aftonbladet-210",
+          "id": "aftonbladet-245",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Vändningen: Nu blir julmaten billigare",
@@ -675,7 +654,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-208",
+          "id": "expressen-243",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Julmaten blir billigare",
@@ -687,14 +666,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-224",
+      "id": "k-aftonbladet-259",
       "sources": 2,
       "latest": "2026-11-24T05:01:04.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/a93e09f9-f46f-352d-aa9c-53294d9b8657?format=auto&w=1000&s=66e746c6f9b81e16c13d31d8848ae08971e4cb1d",
       "versions": [
         {
-          "id": "svd-226",
+          "id": "svd-261",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Demoskop byter metod till slumpmässigt urval",
@@ -704,7 +683,7 @@
           "paywall": true
         },
         {
-          "id": "aftonbladet-224",
+          "id": "aftonbladet-259",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Demoskop byter metod för väljarbarometern",
@@ -716,14 +695,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-259",
+      "id": "k-aftonbladet-294",
       "sources": 2,
       "latest": "2026-11-24T04:22:38.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/b8483ab3-977e-380e-951e-eb611ace6563?format=auto&w=1000&s=4c60a761e845efaeb34d0f64ad1bd8b4f4ab4d3d",
       "versions": [
         {
-          "id": "aftonbladet-259",
+          "id": "aftonbladet-294",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "S-veteranen till attack: Ni har fullständigt kört sönder detta",
@@ -733,7 +712,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-247",
+          "id": "expressen-282",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Strandhäll till V: ”Fullständigt kört sönder detta”",
@@ -745,14 +724,14 @@
       ]
     },
     {
-      "id": "k-expressen-299",
+      "id": "k-expressen-334",
       "sources": 2,
       "latest": "2026-11-23T21:56:36.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/968706db-429c-46a6-bebd-21e4d2c32b39.jpeg?crop=2557%2C1440%2Cx0%2Cy0",
       "versions": [
         {
-          "id": "expressen-299",
+          "id": "expressen-334",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering",
@@ -762,7 +741,7 @@
           "paywall": false
         },
         {
-          "id": "svt-inrikes-286",
+          "id": "svt-inrikes-321",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Tidigare C-ledaren: ”Syna Kristersson”",
@@ -774,14 +753,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-377",
+      "id": "k-aftonbladet-412",
       "sources": 2,
       "latest": "2026-11-23T21:03:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/7ca082ad-e328-3e0a-a468-9b7221b3562d?format=auto&w=1000&s=a976f33972222c67b1c7428cf6c2fe24d95d83b9",
       "versions": [
         {
-          "id": "aftonbladet-377",
+          "id": "aftonbladet-412",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Rapport: ”Gaza är en giftig ödemark”",
@@ -791,7 +770,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-301",
+          "id": "ekot-336",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Rapport: Striderna i Gaza förgiftar miljön – ökar risk för cancer",
@@ -803,14 +782,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-432",
+      "id": "k-aftonbladet-467",
       "sources": 2,
       "latest": "2026-11-23T17:46:00.000Z",
       "category": "Sverige",
       "image": "https://aftonbladet.se/monorepo-api/og/nLa2bd.png",
       "versions": [
         {
-          "id": "aftonbladet-432",
+          "id": "aftonbladet-467",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Fem döda i misstänkt gasläcka i lägenhet",
@@ -820,7 +799,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-372",
+          "id": "ekot-407",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Fem döda i misstänkt gasläcka i Tyskland",
@@ -832,14 +811,14 @@
       ]
     },
     {
-      "id": "k-dn-381",
+      "id": "k-dn-416",
       "sources": 2,
       "latest": "2026-11-23T17:45:19.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/32eccdcb-3601-44e1-a987-0a6b749b1714.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-381",
+          "id": "dn-416",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Karolina Ramqvist vinner Augustpriset: ”Att skriva är ett kontaktförsök”",
@@ -849,7 +828,7 @@
           "paywall": true
         },
         {
-          "id": "svd-373",
+          "id": "svd-408",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Augustpriset till Karolina Ramqvist: Kanske passande",
@@ -865,14 +844,14 @@
       ]
     },
     {
-      "id": "k-nsk-415",
+      "id": "k-nsk-450",
       "sources": 2,
       "latest": "2026-11-23T15:44:40.000Z",
       "category": "Sport",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.72/0.42/9b71440bdf604bb1b49997cea98490a165f02e2071480e386b37133a574314b5",
       "versions": [
         {
-          "id": "svt-sport-425",
+          "id": "svt-sport-460",
           "source": "SVT Sport",
           "color": "#1a1a1a",
           "title": "Nya EU-sanktioner: Ryssar stoppas från idrott",
@@ -882,7 +861,7 @@
           "paywall": false
         },
         {
-          "id": "nsk-415",
+          "id": "nsk-450",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "EU-basen: Stäng dörren för rysk idrott",
@@ -897,14 +876,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-513",
+      "id": "k-aftonbladet-548",
       "sources": 2,
       "latest": "2026-11-23T11:43:19.000Z",
       "category": "Sverige",
       "image": "https://www.svd.se/monorepo-api/og/wA9Gmd.png?pinnedEntry=80217",
       "versions": [
         {
-          "id": "svd-514",
+          "id": "svd-549",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Värnpliktig skjuten i foten under övning",
@@ -914,7 +893,7 @@
           "paywall": true
         },
         {
-          "id": "aftonbladet-513",
+          "id": "aftonbladet-548",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Värnpliktig skjuten vid övning – träffad i foten",
@@ -926,14 +905,14 @@
       ]
     },
     {
-      "id": "k-ekot-519",
+      "id": "k-ekot-554",
       "sources": 2,
       "latest": "2026-11-23T11:32:37.000Z",
       "category": "Världen",
       "image": "https://image-api.sr.se/v1/static/AA/83/355decbe-7934-4224-8a78-eb05d23577f8.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-519",
+          "id": "ekot-554",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Bryssels flygtrafik ligger nere när tusentals demonstrerar",
@@ -943,7 +922,7 @@
           "paywall": false
         },
         {
-          "id": "svt-utrikes-517",
+          "id": "svt-utrikes-552",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Strejk och regeringskris – inga flyg i Bryssel",
