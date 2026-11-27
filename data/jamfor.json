@@ -1,15 +1,77 @@
 {
-  "updated": "2026-11-27T07:31:51.031Z",
+  "updated": "2026-11-27T09:19:56.949Z",
   "clusters": [
     {
-      "id": "k-ekot-271",
+      "id": "k-aftonbladet-8",
+      "sources": 5,
+      "latest": "2026-11-27T09:12:37.000Z",
+      "category": "Sverige",
+      "image": "https://static.bonniernews.se/ba/8f840c80-b81e-4458-aecc-59a119f9fcba.jpeg?io=1&width=1000",
+      "versions": [
+        {
+          "id": "dn-11",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "Officer vid Försvarsmakten misstänks för brott mot Sveriges säkerhet",
+          "summary": "En officer vid Försvarsmakten misstänks för grov obehörig befattning med hemlig uppgift. Brottet ska ha begåtts förra året.",
+          "link": "https://www.dn.se/sverige/officer-vid-forsvarsmakten-misstanks-for-brott-mot-sveriges-sakerhet/",
+          "date": "2026-11-27T09:00:28.000Z",
+          "paywall": true
+        },
+        {
+          "id": "aftonbladet-8",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Officer misstänks för brott mot landets säkerhet",
+          "summary": "En officer vid Sveriges försvarsmakt utreds av Säpo för grov obehörig befattning med hemlig…",
+          "link": "https://www.aftonbladet.se/nyheter/a/mMRG7l/officer-misstanks-for-brott-mot-landets-sakerhet?utm_medium=rss",
+          "date": "2026-11-27T09:04:54.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svt-inrikes-7",
+          "source": "SVT Nyheter",
+          "color": "#1a1a1a",
+          "title": "Officer misstänks för brott mot Sveriges säkerhet",
+          "summary": "En officer vid Försvarsmakten misstänks för grov obehörig befattning med hemlig uppgift, rapporterar Dagens Nyheter. Enligt tidningen ska brottet ska ha begåtts förra året.",
+          "link": "https://www.svt.se/nyheter/inrikes/officer-misstanks-for-brott-mot-sveriges-sakerhet",
+          "date": "2026-11-27T09:05:28.000Z",
+          "paywall": false,
+          "alsoAt": [
+            "SvD"
+          ]
+        },
+        {
+          "id": "ekot-5",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Uppgifter: Officer misstänks för brott som kan skada Sveriges säkerhet",
+          "summary": "En officer vid Sveriges försvarsmakt misstänks för brottslighet som kan skada mot Sveriges säkerhet. Officeren misstänks för grov obehörig befattning med hemlig uppgift, skriver DN. Den misstänkta brottsligheten ska ha ägt rum under 2025. Säkerhetspolisen uppger till DN att de utreder ärendet.",
+          "link": "https://www.sverigesradio.se/artikel/9351373",
+          "date": "2026-11-27T09:10:00.000Z",
+          "paywall": false
+        },
+        {
+          "id": "expressen-1",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Svensk officer utreds",
+          "summary": "Misstänkt brott mot Sveriges säkerhet, skriver DN",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=62dcd3d5-e551-4506-a10a-033692aaf495",
+          "date": "2026-11-27T09:12:37.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-ekot-316",
       "sources": 4,
       "latest": "2026-11-26T15:26:51.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/90d30a00-7034-462c-b9f8-7ff5cad9b804.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-271",
+          "id": "ekot-316",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Elnätsavgiften höjs för nära 900 000 hushåll och företag",
@@ -19,7 +81,7 @@
           "paywall": false
         },
         {
-          "id": "svd-268",
+          "id": "svd-313",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Vattenfall höjer elnätsavgiften igen",
@@ -29,7 +91,7 @@
           "paywall": true
         },
         {
-          "id": "svt-ekonomi-263",
+          "id": "svt-ekonomi-308",
           "source": "SVT Ekonomi",
           "color": "#1a1a1a",
           "title": "Vattenfall höjer elnätsavgiften",
@@ -39,7 +101,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-248",
+          "id": "expressen-293",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Vattenfalls höjer priset för 900 000 hushåll",
@@ -51,14 +113,100 @@
       ]
     },
     {
-      "id": "k-aftonbladet-45",
+      "id": "k-aftonbladet-46",
+      "sources": 3,
+      "latest": "2026-11-27T09:00:00.000Z",
+      "category": "Sverige",
+      "image": "https://static.bonniernews.se/images/39/36/3936d9fda6c84db5834a0d8c5437c756/16x9/original.jpg",
+      "versions": [
+        {
+          "id": "expressen-60",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Demirok (C): Därför röstade jag nej",
+          "summary": "Under gårdagen berättade Centerpartiet att man vill se Ulf Kristersson som statsminister. Men beslutet var långt från enhälligt. Nu berättar Muharrem Demirok, tidigare partiledare, att han röstade nej. ”Den rädslan kan jag inte vara med och ge kraft åt”, skriver han på Facebook.",
+          "link": "https://www.expressen.se/nyheter/politik/demirok-c-darfor-rostade-jag-nej/",
+          "date": "2026-11-27T07:06:59.000Z",
+          "paywall": false
+        },
+        {
+          "id": "aftonbladet-46",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Demirok: Jag röstade nej till Ulf Kristersson",
+          "summary": "Den tidigare C-ledaren Muharrem Demirok röstade nej till Ulf Kristersson (M) som statsminister…",
+          "link": "https://www.aftonbladet.se/nyheter/a/LoAvOp/demirok-jag-rostade-nej-till-ulf-kristersson?utm_medium=rss",
+          "date": "2026-11-27T07:38:53.000Z",
+          "paywall": false,
+          "alsoAt": [
+            "SvD",
+            "Norra Skåne",
+            "Kristianstadsbladet"
+          ]
+        },
+        {
+          "id": "ekot-12",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Förre C-ledaren utesluter inte att rösta nej: Äger min egen röst",
+          "summary": "Riksdagsledmoten och tidigare Centerledaren Muharrem Demirok kan i dag inte säga hur han kommer att rösta statsministeromröstningen på måndag, oavsett vad Centerpartiets förtroenderåd kommer fram till på sitt möte på söndag. Det säger han till Ekot.",
+          "link": "https://www.sverigesradio.se/artikel/9351365",
+          "date": "2026-11-27T09:00:00.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-40",
+      "sources": 3,
+      "latest": "2026-11-27T07:58:30.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/ee4665b6-e5ca-39e3-a83e-49b204d68277?format=auto&w=1000&s=32cda9a41056aabffc0736fd208c353468413eb3",
+      "versions": [
+        {
+          "id": "aftonbladet-40",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Två män utlämnas från Irak till Sverige",
+          "summary": "Två internationellt efterlysta män i 20-årsåldern, som misstänks för en rad grova brott kopplade…",
+          "link": "https://www.aftonbladet.se/nyheter/a/r8A02e/tva-personer-utlamnas-fran-irak-till-sverige?utm_medium=rss",
+          "date": "2026-11-27T07:57:47.000Z",
+          "paywall": false,
+          "alsoAt": [
+            "SvD"
+          ]
+        },
+        {
+          "id": "expressen-39",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Två utlämnas från Irak",
+          "summary": "Svenskar internationellt efterlysta",
+          "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=84ad6e5d-cffc-4ada-a993-b78bb59470b8",
+          "date": "2026-11-27T07:58:24.000Z",
+          "paywall": false
+        },
+        {
+          "id": "svt-inrikes-38",
+          "source": "SVT Nyheter",
+          "color": "#1a1a1a",
+          "title": "Irak utlämnar två efterlysta till Sverige",
+          "summary": "Irakisk domstol har beslutat att utlämna två internationellt efterlysta personer till Sverige. Enligt Åklagarmyndigheten är de misstänkta för mycket allvarlig brottslighet i Sverige.",
+          "link": "https://www.svt.se/nyheter/inrikes/irak-utlamnar-efterlysta-till-sverige",
+          "date": "2026-11-27T07:58:30.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-92",
       "sources": 3,
       "latest": "2026-11-27T05:14:24.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/edb942b5-9f80-3864-8483-b7bafbec0d3e?format=auto&w=1000&s=cda028749acd54dfe5dd17f72c47a14d75423475",
       "versions": [
         {
-          "id": "aftonbladet-45",
+          "id": "aftonbladet-92",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Varningen: Mässling upptäckt på flyg från Thailand",
@@ -68,7 +216,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-43",
+          "id": "expressen-90",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Varningen: Mässling upptäck på flyg från Thailand",
@@ -78,7 +226,7 @@
           "paywall": false
         },
         {
-          "id": "svd-41",
+          "id": "svd-88",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Misstänkt mässling på flyg till Stockholm",
@@ -90,14 +238,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-231",
+      "id": "k-aftonbladet-276",
       "sources": 3,
       "latest": "2026-11-27T00:00:55.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/cd9a8b6e-891e-3087-b633-ba48f301e5c5?format=auto&w=1000&s=1a9ad65064e00ede6ca97160d15946929b1ecb80",
       "versions": [
         {
-          "id": "aftonbladet-231",
+          "id": "aftonbladet-276",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Trump: Putin borde dra tillbaka hoten mot Europa",
@@ -107,7 +255,7 @@
           "paywall": false
         },
         {
-          "id": "svd-229",
+          "id": "svd-274",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Trump: Putin borde dra tillbaka hot mot Europa",
@@ -117,7 +265,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-83",
+          "id": "expressen-128",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Trumps krav på Putin: Låt Europa vara",
@@ -129,96 +277,14 @@
       ]
     },
     {
-      "id": "k-ekot-101",
-      "sources": 3,
-      "latest": "2026-11-26T22:35:00.000Z",
-      "category": "Sverige",
-      "image": "https://akamai.vgc.no/v2/images/994575f4-9378-3630-9007-3cd64aa73178?format=auto&w=1000&s=0454cfdbfb8510c673d6a98f00c2637e9fdd4b32",
-      "versions": [
-        {
-          "id": "svd-243",
-          "source": "SvD",
-          "color": "#2b2b2b",
-          "title": "C-ledaren kallar till pressträff efter ödesmötet",
-          "summary": "Centerledaren Elisabeth Thand Ringqvist kommer att hålla en pressträff i riksdagen torsdag…",
-          "link": "https://www.svd.se/a/wdP7v5/c-ledaren-kallar-till-presstraff-efter-odesmotet?utm_medium=rss",
-          "date": "2026-11-26T15:43:31.000Z",
-          "paywall": true
-        },
-        {
-          "id": "expressen-217",
-          "source": "Expressen",
-          "color": "#d2232a",
-          "title": "Centerpartiets beslut: Vill bilda borgerlig regering",
-          "summary": "Centerpartiets riksdagsgrupp och partistyrelse hade ett flera timmar långt möte om regeringsfrågan. På en pressträff efteråt säger partiledaren Elisabeth Thand Ringqvist att C vill ingå i en borgerlig regering. – Beslutet hade en majoritet, men jag vill också vara tydlig med att beslutet inte var enhälligt.",
-          "link": "https://www.expressen.se/nyheter/politik/centerpartiet-har-presstraff-efter-odesmotet-/",
-          "date": "2026-11-26T16:33:56.000Z",
-          "paywall": false
-        },
-        {
-          "id": "ekot-101",
-          "source": "Ekot",
-          "color": "#1d4e89",
-          "title": "Furtenbach om C:s besked: ”En kris för Socialdemokraterna”",
-          "summary": "Centerpartiets styrelse vill ingå i en borgerlig regering och vill att partiet nu på måndag röstar fram Ulf Kristersson som statsminister. Det beskedet gav partiledaren Elisabeth Thand Ringqvist under torsdagen efter ett flera timmar långt möte med partistyrelsen och riksdagsgruppen.",
-          "link": "https://www.sverigesradio.se/artikel/9351198",
-          "date": "2026-11-26T22:35:00.000Z",
-          "paywall": false
-        }
-      ]
-    },
-    {
-      "id": "k-aftonbladet-242",
-      "sources": 3,
-      "latest": "2026-11-26T17:27:55.000Z",
-      "category": "Sverige",
-      "image": "https://akamai.vgc.no/v2/images/d87a5657-71a9-32d2-a730-fc074b7f0543?format=auto&w=1000&s=1a4ca4fd379a5a73038a0838f33082d019595291",
-      "versions": [
-        {
-          "id": "aftonbladet-242",
-          "source": "Aftonbladet",
-          "color": "#c8102e",
-          "title": "C:s partistyrelse säger ja till Kristersson",
-          "summary": "Centerpartiets partistyrelse och riksdagsgrupp vill rösta ja till moderatledaren Ulf Kristersson som…",
-          "link": "https://www.aftonbladet.se/nyheter/a/z0Gd4b/c-ledaren-kallar-till-presstraff-efter-odesmotet?utm_medium=rss",
-          "date": "2026-11-26T15:43:31.000Z",
-          "paywall": false,
-          "alsoAt": [
-            "Norra Skåne",
-            "Kristianstadsbladet"
-          ]
-        },
-        {
-          "id": "svd-199",
-          "source": "SvD",
-          "color": "#2b2b2b",
-          "title": "Thand Ringqvist hotade med att avgå",
-          "summary": "C-ledningen vill att partiet röstar ja till Ulf Kristersson. Det slutgiltiga beslutet ska fattas av…",
-          "link": "https://www.svd.se/a/wdP7bL/c-vill-se-kristersson-som-statsminister-igen?utm_medium=rss",
-          "date": "2026-11-26T17:19:56.000Z",
-          "paywall": true
-        },
-        {
-          "id": "dn-193",
-          "source": "DN",
-          "color": "#0f4c81",
-          "title": "Partistyrelse säger ja till Kristersson – C-ledarens avgångshot vid extraval",
-          "summary": "Partistyrelsen och riksdagsgruppen i Centerpartiet säger ja till att rösta fram Ulf Kristersson som ny statsminister. Thand Ringqvist hotade att avgå vid extraval. Nu går regeringsfrågan vidare till partiets förtroenderåd.",
-          "link": "https://www.dn.se/sverige/cs-partistyrelse-sager-ja-till-kristersson/",
-          "date": "2026-11-26T17:27:55.000Z",
-          "paywall": true
-        }
-      ]
-    },
-    {
-      "id": "k-aftonbladet-358",
+      "id": "k-aftonbladet-403",
       "sources": 3,
       "latest": "2026-11-26T09:26:41.000Z",
       "category": "Världen",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/2f93ba843f7e400a13c86112e65490896499522866cbeab7a04aa887efed39b6",
       "versions": [
         {
-          "id": "svt-utrikes-378",
+          "id": "svt-utrikes-423",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Stor explosion på oljeanläggning i Bangkok – flera skadade",
@@ -228,7 +294,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-372",
+          "id": "ekot-417",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Kraftig explosion i Bangkok – minst sju skadade",
@@ -238,7 +304,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-358",
+          "id": "aftonbladet-403",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Stor explosion i Bangkok",
@@ -253,14 +319,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-379",
+      "id": "k-aftonbladet-424",
       "sources": 3,
       "latest": "2026-11-26T09:11:00.000Z",
       "category": "Sverige",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.64/0.25/c6fc327e342cbd6f0d97e8a7942bd078bb74cc20ad97e6e0e7adfba5d5bac5cd",
       "versions": [
         {
-          "id": "svt-inrikes-382",
+          "id": "svt-inrikes-427",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "C-toppar möts i dag – i blixtinkallat möte",
@@ -270,7 +336,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-379",
+          "id": "aftonbladet-424",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "C-toppar möts i blixtinkallat möte",
@@ -280,7 +346,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-363",
+          "id": "ekot-408",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "C-partistyrelse kallar till nytt möte",
@@ -292,14 +358,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-470",
+      "id": "k-aftonbladet-515",
       "sources": 3,
       "latest": "2026-11-26T06:58:32.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/6dcd780c-d05b-3a7b-aece-3b583f68cd61?format=auto&w=1000&s=2f9267e07d6c4cc76016adeccecd0fac981899fb",
       "versions": [
         {
-          "id": "aftonbladet-470",
+          "id": "aftonbladet-515",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Trump och Natochefen: Utvidga inte kriget",
@@ -309,7 +375,7 @@
           "paywall": false
         },
         {
-          "id": "svd-467",
+          "id": "svd-512",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Trump och Rutte: Utvidga inte kriget",
@@ -319,7 +385,7 @@
           "paywall": true
         },
         {
-          "id": "svt-utrikes-419",
+          "id": "svt-utrikes-464",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Trump och Ruttes uppmaning: Utvidga inte kriget",
@@ -331,14 +397,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-551",
+      "id": "k-aftonbladet-596",
       "sources": 3,
       "latest": "2026-11-26T04:32:01.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/7dc62c85-48d6-30be-bb8a-76da0860894a?format=auto&w=1000&s=adcddbcc9fc72492f2936b1d9f8d74e30fbd756c",
       "versions": [
         {
-          "id": "aftonbladet-551",
+          "id": "aftonbladet-596",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Minst 30 döda när tankbil välte i Kairo",
@@ -348,7 +414,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-489",
+          "id": "ekot-534",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Minst 31 döda efter olycka i Egypten",
@@ -361,7 +427,7 @@
           ]
         },
         {
-          "id": "svd-469",
+          "id": "svd-514",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "31 döda när tankbil exploderade",
@@ -373,14 +439,101 @@
       ]
     },
     {
-      "id": "k-dn-33",
+      "id": "k-aftonbladet-17",
+      "sources": 2,
+      "latest": "2026-11-27T08:51:34.000Z",
+      "category": "Sverige",
+      "image": "https://www.svd.se/monorepo-api/og/wA9Gmd.png?pinnedEntry=80367",
+      "versions": [
+        {
+          "id": "svd-35",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Brand i guldgruva i Skellefteå",
+          "summary": "",
+          "link": "https://www.svd.se/a/wA9Gmd/senaste-nytt?pinnedEntry=80367&utm_medium=rss",
+          "date": "2026-11-27T08:12:53.000Z",
+          "paywall": true
+        },
+        {
+          "id": "aftonbladet-17",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Guldgruva utryms efter brand",
+          "summary": "Personal evakueras från Björkdalsgruvan nära Sandfors i Skellefteå kommun, rapporterar P4…",
+          "link": "https://www.aftonbladet.se/nyheter/a/VxbyKW/guldgruva-utryms-efter-brand?utm_medium=rss",
+          "date": "2026-11-27T08:51:34.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-dn-91",
+      "sources": 2,
+      "latest": "2026-11-27T08:34:50.000Z",
+      "category": "Sverige",
+      "image": "https://static.bonniernews.se/ba/5f93cf17-c526-4b95-baba-3741ee778ec8.jpeg?io=1&width=1000",
+      "versions": [
+        {
+          "id": "dn-91",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "Andersson rasar – Kristersson ny etta i förtroendeligan",
+          "summary": "Magdalena Anderssons försök att bilda en ny regering har kraschat. Det har hennes förtroendesiffror också. I en ny mätning från DN/Ipsos rasar hon till plats fyra bland partiledarna. – Det är slående hur snabbt man kan förbruka sitt förtroendekapital, säger Nicklas Källebring på Ipsos.",
+          "link": "https://www.dn.se/sverige/andersson-rasar-kristersson-ny-etta-i-fortroendeligan/",
+          "date": "2026-11-27T05:05:16.000Z",
+          "paywall": true
+        },
+        {
+          "id": "expressen-24",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Andersson rasar i ny mätning: ”Slående”",
+          "summary": "Väljarnas förtroende för S-ledaren har länge varit det högsta. Men under regeringsbildningen har det rasat. – Det är slående hur snabbt man kan förbruka sitt förtroendekapital, säger Nicklas Källebring, opinionsanalytiker på Ipsos till DN.",
+          "link": "https://www.expressen.se/nyheter/politik/andersson-rasar-i-ny-matning-slaende/",
+          "date": "2026-11-27T08:34:50.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-aftonbladet-53",
+      "sources": 2,
+      "latest": "2026-11-27T07:53:00.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/0dc91e57-7bae-333f-a2e3-bd701fcc7da5?format=auto&w=1000&s=5244e0617c3874d82f46f432620a5351b020e95c",
+      "versions": [
+        {
+          "id": "aftonbladet-53",
+          "source": "Aftonbladet",
+          "color": "#c8102e",
+          "title": "Elisabeth Thand Ringqvist: Finns ett beroende av SD",
+          "summary": "Medger – på en punkt",
+          "link": "https://www.aftonbladet.se/nyheter/a/oMpdQK/elisabeth-thand-ringqvist-finns-ett-beroende-av-sd?utm_medium=rss",
+          "date": "2026-11-27T07:25:07.000Z",
+          "paywall": false
+        },
+        {
+          "id": "expressen-42",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Thand Ringqvist om SD: ”Finns ett beroende”",
+          "summary": "Centern är splittrad. Men partiledaren står fast med att rösta ja till Kristersson är det bästa alternativet – trots SD:s inflytande. – Det finns ett beroende, säger Elisabeth Thand Ringqvist i SVT:s ”Morgonstudion”.",
+          "link": "https://www.expressen.se/nyheter/politik/thand-ringqvist-om-sd-finns-ett-beroende/",
+          "date": "2026-11-27T07:53:00.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-dn-80",
       "sources": 2,
       "latest": "2026-11-27T07:24:02.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/74f9fc2e-bbc3-4a0f-b0ea-c007591d777e.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-33",
+          "id": "dn-80",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Elprischocken: Nu kommer dyraste räkningen på fyra år",
@@ -390,7 +543,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-3",
+          "id": "expressen-54",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Elprischocken – dyraste räkningen på fyra år",
@@ -406,43 +559,14 @@
       ]
     },
     {
-      "id": "k-dn-44",
-      "sources": 2,
-      "latest": "2026-11-27T06:29:03.000Z",
-      "category": "Sverige",
-      "image": "https://static.bonniernews.se/ba/5f93cf17-c526-4b95-baba-3741ee778ec8.jpeg?io=1&width=1000",
-      "versions": [
-        {
-          "id": "dn-44",
-          "source": "DN",
-          "color": "#0f4c81",
-          "title": "Andersson rasar – Kristersson ny etta i förtroendeligan",
-          "summary": "Magdalena Anderssons försök att bilda en ny regering har kraschat. Det har hennes förtroendesiffror också. I en ny mätning från DN/Ipsos rasar hon till plats fyra bland partiledarna. – Det är slående hur snabbt man kan förbruka sitt förtroendekapital, säger Nicklas Källebring på Ipsos.",
-          "link": "https://www.dn.se/sverige/andersson-rasar-kristersson-ny-etta-i-fortroendeligan/",
-          "date": "2026-11-27T05:05:16.000Z",
-          "paywall": true
-        },
-        {
-          "id": "expressen-19",
-          "source": "Expressen",
-          "color": "#d2232a",
-          "title": "Andersson rasar i ny mätning: ”Slående”",
-          "summary": "Väljarnas förtroende för S-ledaren har länge varit det högsta. Men under regeringsbildningen har det rasat. – Det är slående hur snabbt man kan förbruka sitt förtroendekapital, säger Nicklas Källebring, opinionsanalytiker på Ipsos till DN.",
-          "link": "https://www.expressen.se/nyheter/politik/andersson-rasar-i-ny-matning-slaende/",
-          "date": "2026-11-27T06:29:03.000Z",
-          "paywall": false
-        }
-      ]
-    },
-    {
-      "id": "k-nsk-233",
+      "id": "k-nsk-278",
       "sources": 2,
       "latest": "2026-11-27T05:24:00.000Z",
       "category": "Lokalt",
       "image": "https://static.bonniernews.se/ba/10903cdd-e07e-4162-9b7d-f6f954386b18.jpeg?width=600",
       "versions": [
         {
-          "id": "nsk-233",
+          "id": "nsk-278",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "Mordmisstänkt släppt – polisen väntar på fler svar",
@@ -455,7 +579,7 @@
           ]
         },
         {
-          "id": "p4-kristianstad-34",
+          "id": "p4-kristianstad-81",
           "source": "P4 Kristianstad",
           "color": "#e85d04",
           "title": "Mordmisstänkt 30-åring släppt – men utredningen pågår",
@@ -467,14 +591,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-328",
+      "id": "k-aftonbladet-373",
       "sources": 2,
       "latest": "2026-11-27T04:51:43.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/079a9b62-ce02-3edb-aef2-5d96d479cd52?format=auto&w=1000&s=aa5a2e77cc45862b5721d248e69ade89dc49e6f5",
       "versions": [
         {
-          "id": "aftonbladet-328",
+          "id": "aftonbladet-373",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Krav i EU: Släpp Dawit Isaak",
@@ -484,7 +608,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-55",
+          "id": "expressen-101",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Kravet om Dawit Isaak",
@@ -496,14 +620,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-86",
+      "id": "k-aftonbladet-131",
       "sources": 2,
       "latest": "2026-11-27T01:12:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/225118d4-a7d1-33bc-b2ad-56d25e99648f?format=auto&w=1000&s=aba5cfcb8422af997309c20f58609fb38c154a3f",
       "versions": [
         {
-          "id": "aftonbladet-86",
+          "id": "aftonbladet-131",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Fiasko för budgetmöte – Sverige vägrade vara med",
@@ -519,7 +643,7 @@
           ]
         },
         {
-          "id": "ekot-79",
+          "id": "ekot-124",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Sverige vägrade vara med på möte i Bryssel",
@@ -531,14 +655,75 @@
       ]
     },
     {
-      "id": "k-expressen-122",
+      "id": "k-ekot-146",
+      "sources": 2,
+      "latest": "2026-11-26T22:35:00.000Z",
+      "category": "Sverige",
+      "image": "https://static.bonniernews.se/ba/b9aae0b5-84ab-4d39-bb2e-53324313c2cd.jpeg?crop=2557%2C1440%2Cx0%2Cy0",
+      "versions": [
+        {
+          "id": "expressen-262",
+          "source": "Expressen",
+          "color": "#d2232a",
+          "title": "Centerpartiets beslut: Vill bilda borgerlig regering",
+          "summary": "Centerpartiets riksdagsgrupp och partistyrelse hade ett flera timmar långt möte om regeringsfrågan. På en pressträff efteråt säger partiledaren Elisabeth Thand Ringqvist att C vill ingå i en borgerlig regering. – Beslutet hade en majoritet, men jag vill också vara tydlig med att beslutet inte var enhälligt.",
+          "link": "https://www.expressen.se/nyheter/politik/centerpartiet-har-presstraff-efter-odesmotet-/",
+          "date": "2026-11-26T16:33:56.000Z",
+          "paywall": false
+        },
+        {
+          "id": "ekot-146",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Furtenbach om C:s besked: ”En kris för Socialdemokraterna”",
+          "summary": "Centerpartiets styrelse vill ingå i en borgerlig regering och vill att partiet nu på måndag röstar fram Ulf Kristersson som statsminister. Det beskedet gav partiledaren Elisabeth Thand Ringqvist under torsdagen efter ett flera timmar långt möte med partistyrelsen och riksdagsgruppen.",
+          "link": "https://www.sverigesradio.se/artikel/9351198",
+          "date": "2026-11-26T22:35:00.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-dn-324",
+      "sources": 2,
+      "latest": "2026-11-26T21:22:00.000Z",
+      "category": "Sverige",
+      "image": "https://static.bonniernews.se/ba/ba7d29f9-4042-4ba6-98ee-7b5603c1921a.jpeg?io=1&width=1000",
+      "versions": [
+        {
+          "id": "dn-324",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "Jätteaffär för Hägglunds – ”historisk order”",
+          "summary": "Finland köper in 160 stridsfordon CV90 från BAE Systems Hägglunds. Ordervärdet uppges vara 2,8 miljarder euro, cirka 31 miljarder kronor. Det Örnsköldsviksbaserade bolaget vill inte kommentera beslutet.",
+          "link": "https://www.dn.se/sverige/jatteaffar-for-hagglunds-historisk-order/",
+          "date": "2026-11-26T13:45:46.000Z",
+          "paywall": true,
+          "alsoAt": [
+            "SvD"
+          ]
+        },
+        {
+          "id": "ekot-163",
+          "source": "Ekot",
+          "color": "#1d4e89",
+          "title": "Finland köper 160 svenska stridsfordon i mångmiljardaffär",
+          "summary": "BAE Hägglunds i Örnsköldsvik har fått en stororder från Finland på stridsfordonet CV90 till ett värde av 31 miljarder kronor. Affären kan växa, då ett avtal skrevs sommaren 2025 med Finland, Norge, Nederländerna och Litauen om ett storköp av CV90-fordon.",
+          "link": "https://www.sverigesradio.se/artikel/9351181",
+          "date": "2026-11-26T21:22:00.000Z",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "id": "k-expressen-167",
       "sources": 2,
       "latest": "2026-11-26T20:54:44.000Z",
       "category": "Sverige",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.54/0.39/e124f1075047817ff11e65dc02b83179eabce882f524fad7f36904232b376cb9",
       "versions": [
         {
-          "id": "svt-inrikes-164",
+          "id": "svt-inrikes-209",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "C-ledamot ska rösta nej till Kristersson: ”Oerhört upprörd”",
@@ -548,7 +733,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-122",
+          "id": "expressen-167",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Anna Lasses (C): ”Arg och väldigt, väldigt ledsen”",
@@ -560,14 +745,14 @@
       ]
     },
     {
-      "id": "k-ekot-142",
+      "id": "k-ekot-187",
       "sources": 2,
       "latest": "2026-11-26T19:18:00.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/c628c06a-e32a-49db-b57f-2da860f53fdf.jpeg?crop=2553%2C1434%2Cx0%2Cy106",
       "versions": [
         {
-          "id": "expressen-196",
+          "id": "expressen-241",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Kristersson efter C:s möte: ”Välkommet besked”",
@@ -577,7 +762,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-142",
+          "id": "ekot-187",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Kristersson (M): ”Ett mycket välkommet besked”",
@@ -589,14 +774,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-414",
+      "id": "k-aftonbladet-459",
       "sources": 2,
       "latest": "2026-11-26T19:07:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/ac676421-26c6-3410-8876-877d17906aef?format=auto&w=1000&s=0ff98853759ebd41c7a5d5abe5941786f32edb2d",
       "versions": [
         {
-          "id": "aftonbladet-414",
+          "id": "aftonbladet-459",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Tusentals svenskar riskerar läkemedelsberoende",
@@ -611,7 +796,7 @@
           ]
         },
         {
-          "id": "ekot-148",
+          "id": "ekot-193",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Therese var beroende av opioider: ”Åt enorma mängder”",
@@ -623,14 +808,14 @@
       ]
     },
     {
-      "id": "k-dn-344",
+      "id": "k-dn-389",
       "sources": 2,
       "latest": "2026-11-26T18:27:05.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/2e356dd5-cab1-4ccd-a95d-e3d48cf0bc5b.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-344",
+          "id": "dn-389",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Centerpartiet i ödesmöte – öppen splittring i partiet",
@@ -640,7 +825,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-161",
+          "id": "expressen-206",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Birgitta Ohlsson (C): ”Fel väg att gå”",
@@ -652,14 +837,43 @@
       ]
     },
     {
-      "id": "k-dn-213",
+      "id": "k-dn-238",
+      "sources": 2,
+      "latest": "2026-11-26T17:27:55.000Z",
+      "category": "Sverige",
+      "image": "https://akamai.vgc.no/v2/images/ec0b3f5a-96d7-320e-b2eb-0c6874af9c58?format=auto&w=1000&s=32812ec8161ed283431c9453f42797f3609fb449",
+      "versions": [
+        {
+          "id": "svd-244",
+          "source": "SvD",
+          "color": "#2b2b2b",
+          "title": "Thand Ringqvist hotade med att avgå",
+          "summary": "C-ledningen vill att partiet röstar ja till Ulf Kristersson. Det slutgiltiga beslutet ska fattas av…",
+          "link": "https://www.svd.se/a/wdP7bL/c-vill-se-kristersson-som-statsminister-igen?utm_medium=rss",
+          "date": "2026-11-26T17:19:56.000Z",
+          "paywall": true
+        },
+        {
+          "id": "dn-238",
+          "source": "DN",
+          "color": "#0f4c81",
+          "title": "Partistyrelse säger ja till Kristersson – C-ledarens avgångshot vid extraval",
+          "summary": "Partistyrelsen och riksdagsgruppen i Centerpartiet säger ja till att rösta fram Ulf Kristersson som ny statsminister. Thand Ringqvist hotade att avgå vid extraval. Nu går regeringsfrågan vidare till partiets förtroenderåd.",
+          "link": "https://www.dn.se/sverige/cs-partistyrelse-sager-ja-till-kristersson/",
+          "date": "2026-11-26T17:27:55.000Z",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "id": "k-dn-258",
       "sources": 2,
       "latest": "2026-11-26T16:48:55.000Z",
       "category": "Sport",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.44/0.34/281cfa20b8a7006b1eccdb8615e86ff9257e3f188db11988f8fd45f0e4fe2efa",
       "versions": [
         {
-          "id": "svt-sport-221",
+          "id": "svt-sport-266",
           "source": "SVT Sport",
           "color": "#1a1a1a",
           "title": "Campbell Wright skrällde i världscuppremiären – karriärens första seger",
@@ -669,7 +883,7 @@
           "paywall": false
         },
         {
-          "id": "dn-213",
+          "id": "dn-258",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Amerikansk skrällvinst – tungt för svenskarna",
@@ -681,14 +895,14 @@
       ]
     },
     {
-      "id": "k-dn-220",
+      "id": "k-dn-265",
       "sources": 2,
       "latest": "2026-11-26T16:27:16.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/a5ed2e6d-9d7e-410c-b600-04683b463997.jpeg?crop=2557%2C1440%2Cx0%2Cy0",
       "versions": [
         {
-          "id": "expressen-499",
+          "id": "expressen-544",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "MP-språkrören sågar Kristerssons budgetplan: ”Kaos”",
@@ -698,7 +912,7 @@
           "paywall": false
         },
         {
-          "id": "dn-220",
+          "id": "dn-265",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Språkrören om C-beskedet: ”Det är inte för sent”",
@@ -710,43 +924,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-577",
-      "sources": 2,
-      "latest": "2026-11-26T14:51:58.000Z",
-      "category": "Lokalt",
-      "image": "https://akamai.vgc.no/v2/images/e10241ca-afc3-3ddf-856b-518e98a58363?format=auto&w=1000&s=58d9a94b649b1ce1a35ff59d367280b6483b4b1c",
-      "versions": [
-        {
-          "id": "aftonbladet-577",
-          "source": "Aftonbladet",
-          "color": "#c8102e",
-          "title": "Inga toadörrar på häktet – JO kritiserar",
-          "summary": "Intagna på det nya häktet i Kristianstad kan inte stänga om sig när de ska gå på toaletten i…",
-          "link": "https://www.aftonbladet.se/nyheter/a/Vxbmkp/inga-toadorrar-pa-haktet-jo-kritiserar?utm_medium=rss",
-          "date": "2026-11-25T18:31:20.000Z",
-          "paywall": false
-        },
-        {
-          "id": "svt-skane-257",
-          "source": "SVT Skåne",
-          "color": "#2a9d8f",
-          "title": "JO kritiserar häktet i Kristianstad – toadörrar saknas",
-          "summary": "Häktade i Kristianstad har ingen dörr till toaletten. De som bor i dubbelcell måste uträtta sina behov inför cellkamraten – utan att kunna stänga om sig. Justitieombudsmannen (JO) kritiserar nu toalettsituationen i det nya häktet.",
-          "link": "https://www.svt.se/nyheter/lokalt/skane/jo-kritiserar-haktet-i-kristianstad-toadorrar-saknas",
-          "date": "2026-11-26T14:51:58.000Z",
-          "paywall": false
-        }
-      ]
-    },
-    {
-      "id": "k-aftonbladet-309",
+      "id": "k-aftonbladet-354",
       "sources": 2,
       "latest": "2026-11-26T11:54:16.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/images/60/f9/60f9718a9e2947c6a21855b91be6842c/16x9/original.png",
       "versions": [
         {
-          "id": "expressen-317",
+          "id": "expressen-362",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Man död på häkte",
@@ -756,7 +941,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-309",
+          "id": "aftonbladet-354",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Man hittad död på häkte",
@@ -771,14 +956,14 @@
       ]
     },
     {
-      "id": "k-ekot-343",
+      "id": "k-ekot-388",
       "sources": 2,
       "latest": "2026-11-26T10:27:00.000Z",
       "category": "Sverige",
       "image": "https://www.expressen.se/images/logotype-for-sharing.png",
       "versions": [
         {
-          "id": "expressen-356",
+          "id": "expressen-401",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Norska flygbolaget ställer in samtliga flyg",
@@ -792,7 +977,7 @@
           ]
         },
         {
-          "id": "ekot-343",
+          "id": "ekot-388",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Krisande flygbolag ställer in flyg",
@@ -804,14 +989,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-450",
+      "id": "k-aftonbladet-495",
       "sources": 2,
       "latest": "2026-11-26T06:49:35.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/bd16546d-123b-36e2-9e44-26c7cab72048?format=auto&w=1000&s=3f5e50f579aae0b186763cc139d3804821e56ee1",
       "versions": [
         {
-          "id": "aftonbladet-450",
+          "id": "aftonbladet-495",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Polisens interna varning – risk för bränslebrist när priset höjs",
@@ -821,7 +1006,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-421",
+          "id": "expressen-466",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Polisens interna varning: Risk för bränslebrist",
@@ -833,14 +1018,14 @@
       ]
     },
     {
-      "id": "k-ekot-515",
+      "id": "k-ekot-560",
       "sources": 2,
       "latest": "2026-11-26T06:26:03.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/c8918d7e-9b6d-41a0-b758-7ab7572593dd.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-515",
+          "id": "ekot-560",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Elon Musks Space X får skjuta upp en miljon satelliter",
@@ -850,7 +1035,7 @@
           "paywall": false
         },
         {
-          "id": "svd-427",
+          "id": "svd-472",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Musks dröm: En miljon AI-satelliter",
@@ -862,14 +1047,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-478",
+      "id": "k-aftonbladet-523",
       "sources": 2,
       "latest": "2026-11-26T03:00:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/c000b73d-fae4-37de-8a27-c37b9cca9698?format=auto&w=1000&s=60336185f75fc2c76667abfaecc9dcafbc463a98",
       "versions": [
         {
-          "id": "aftonbladet-478",
+          "id": "aftonbladet-523",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Nordkorea: Producera mer kärnvapen",
@@ -883,7 +1068,7 @@
           ]
         },
         {
-          "id": "ekot-476",
+          "id": "ekot-521",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Kim Jong-Un: Nordkorea behöver fler kärnvapen",
@@ -895,14 +1080,14 @@
       ]
     },
     {
-      "id": "k-dn-503",
+      "id": "k-dn-548",
       "sources": 2,
       "latest": "2026-11-25T22:18:18.000Z",
       "category": "Sport",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.42/0.48/92102f3285f4bce394bbcd29d3529588f03a7bd26f0b9091eb68bfae9c7c7446",
       "versions": [
         {
-          "id": "svt-sport-530",
+          "id": "svt-sport-575",
           "source": "SVT Sport",
           "color": "#1a1a1a",
           "title": "Alexander Isak tvåmålsskytt i Champions League",
@@ -912,7 +1097,7 @@
           "paywall": false
         },
         {
-          "id": "dn-503",
+          "id": "dn-548",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Stekhet Isak slog till två gånger om",
@@ -924,14 +1109,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-529",
+      "id": "k-aftonbladet-574",
       "sources": 2,
       "latest": "2026-11-25T22:16:52.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/bbc6647c-82b7-34f1-862d-bd45ed698c7e?format=auto&w=1000&s=2a6a16e5ed5ed2acefb69d2d6bc8415a51150a04",
       "versions": [
         {
-          "id": "aftonbladet-529",
+          "id": "aftonbladet-574",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "USA: Kims dotters kläder kan vara brottsliga",
@@ -941,7 +1126,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-504",
+          "id": "expressen-549",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Kim Jong-Uns dotter pekas ut för brottet",
