@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T01:26:31.475Z",
+  "updated": "2026-11-28T03:00:50.903Z",
   "sources": [
     {
       "id": "svt-inrikes",
@@ -100,6 +100,61 @@
   ],
   "items": [
     {
+      "title": "Manliga demoner i silverstaden Kristianstad",
+      "link": "https://www.nsk.se/kultur/manliga-demoner-i-silverstaden-kristianstad/",
+      "summary": "Den flitiga deckarförfattaren Cecilia Sahlström har startat ännu en ny serie med polisromaner. Efter att ha använt Lund och Malmö som kriminella miljöer är det nu dags för Kristianstad. Sahlströms nya huvudpersoner, kriminalpoliserna Miriam och Arash, är kolleger och utredare vid Polisen Kristianstad.",
+      "date": "2026-11-28T03:00:00.000Z",
+      "image": "https://static.bonniernews.se/ba/32ee62c3-4023-4e79-b962-97b3c561d629.jpeg?width=600",
+      "sourceId": "nsk",
+      "source": "Norra Skåne",
+      "color": "#6a4c93",
+      "category": "Lokalt",
+      "paywall": true,
+      "id": "nsk-0",
+      "alsoAt": [
+        "Kristianstadsbladet"
+      ]
+    },
+    {
+      "title": "Dansk ekonomi växer mest i Europa – Ozempic en faktor",
+      "link": "https://www.sverigesradio.se/artikel/9349683",
+      "summary": "Danmarks ekonomi går strålande just nu och vårt grannland har i det närmaste kinesiska tillväxttal. Enlig EU-kommissionens ekonomiska höstprognos som publicerades häromveckan förväntas den danska tillväxten i år landa på 4,5 procent, mest i Europa.",
+      "date": "2026-11-28T02:30:00.000Z",
+      "image": "https://image-api.sr.se/v1/static/AA/83/029eea25-9a24-4066-ac2b-72da5296dc70.jpg?w=1200&h=675&q=75",
+      "sourceId": "ekot",
+      "source": "Ekot",
+      "color": "#1d4e89",
+      "category": "Sverige",
+      "paywall": false,
+      "id": "ekot-1"
+    },
+    {
+      "title": "Prinsessan Kate om mystiska gestalten: Tacksam",
+      "link": "https://www.expressen.se/nyheter/kungligt/prinsessan-kate-om-mystiska-gestalten-tacksam/",
+      "summary": "Prinsessan Kate talar ut om ensamheten efter diagnosen. I nya BBC-filmen ”Heal” berättar hon om mörkret – och en mystisk gestalt vid sjukhussängen. – Jag kommer alltid att vara tacksam, säger hon.",
+      "date": "2026-11-28T02:05:07.000Z",
+      "image": "https://static.bonniernews.se/ba/75512f6c-fead-4d12-8845-4cf4fe889a2b.jpeg?crop=2557%2C1440%2Cx0%2Cy0",
+      "sourceId": "expressen",
+      "source": "Expressen",
+      "color": "#d2232a",
+      "category": "Sverige",
+      "paywall": false,
+      "id": "expressen-2"
+    },
+    {
+      "title": "Markwayne Mullin kan bli nästa minister att sparkas: ”En idiot”",
+      "link": "https://www.expressen.se/nyheter/varlden/markwayne-mullin-kan-bli-nasta-minister-att-sparkas-en-idiot/",
+      "summary": "Efter åtta månader på jobbet kan det vara kört för säkerhetsministern Markwayne Mullin. Medarbetare har inlett vadslagning om hur länge han blir kvar. – Han är en idiot, säger en källa.",
+      "date": "2026-11-28T01:39:00.000Z",
+      "image": "https://static.bonniernews.se/ba/f94ef0f6-eac4-4bad-a9aa-d87f6fea7230.jpeg?crop=2557%2C1440%2Cx0%2Cy0",
+      "sourceId": "expressen",
+      "source": "Expressen",
+      "color": "#d2232a",
+      "category": "Sverige",
+      "paywall": false,
+      "id": "expressen-3"
+    },
+    {
       "title": "Två dödade i israelisk attack",
       "link": "https://www.aftonbladet.se/nyheter/a/3B9kWX/tva-dodade-i-israelisk-attack?utm_medium=rss",
       "summary": "Två personer har dödats i en israelisk attack mot en klinik tillhörande Läkare utan gränser (MSF) i…",
@@ -110,7 +165,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-0",
+      "id": "aftonbladet-4",
       "alsoAt": [
         "SvD"
       ]
@@ -126,7 +181,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-1"
+      "id": "ekot-5"
     },
     {
       "title": "Uppgifter: Misstänkta terrorplaner mot Malmö",
@@ -139,8 +194,8 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-2",
-      "cluster": "k-aftonbladet-4",
+      "id": "svt-inrikes-6",
+      "cluster": "k-aftonbladet-8",
       "clusterSize": 5
     },
     {
@@ -154,7 +209,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-3"
+      "id": "aftonbladet-7"
     },
     {
       "title": "Uppgifter: Misstänks ha planerat terrordåd i Malmö",
@@ -167,11 +222,11 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-4",
+      "id": "aftonbladet-8",
       "alsoAt": [
         "SvD"
       ],
-      "cluster": "k-aftonbladet-4",
+      "cluster": "k-aftonbladet-8",
       "clusterSize": 5
     },
     {
@@ -185,7 +240,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-5"
+      "id": "svd-9"
     },
     {
       "title": "”Veckotävlingen är en viktig tradition”",
@@ -198,7 +253,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-6"
+      "id": "svd-10"
     },
     {
       "title": "Namn och Nytt: Gråfäll och ”Vårflora”",
@@ -211,7 +266,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-7"
+      "id": "dn-11"
     },
     {
       "title": "Gör Sverige till ett elområde!",
@@ -224,7 +279,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-8",
+      "id": "nsk-12",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -240,7 +295,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-9",
+      "id": "nsk-13",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -256,7 +311,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-10",
+      "id": "nsk-14",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -272,7 +327,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-11",
+      "id": "nsk-15",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -288,7 +343,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-12",
+      "id": "nsk-16",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -304,7 +359,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-13",
+      "id": "nsk-17",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -320,7 +375,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-14",
+      "id": "nsk-18",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -336,7 +391,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-15",
+      "id": "nsk-19",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -352,8 +407,8 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-16",
-      "cluster": "k-aftonbladet-4",
+      "id": "expressen-20",
+      "cluster": "k-aftonbladet-8",
       "clusterSize": 5
     },
     {
@@ -367,7 +422,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-17"
+      "id": "expressen-21"
     },
     {
       "title": "Fartyg med 7 000 ton diesel bogseras från Ibiza",
@@ -380,8 +435,8 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-18",
-      "cluster": "k-aftonbladet-225",
+      "id": "expressen-22",
+      "cluster": "k-aftonbladet-229",
       "clusterSize": 2
     },
     {
@@ -395,7 +450,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-19",
+      "id": "nsk-23",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -411,7 +466,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-20",
+      "id": "nsk-24",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -427,7 +482,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-21",
+      "id": "nsk-25",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -443,7 +498,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-22"
+      "id": "aftonbladet-26"
     },
     {
       "title": "Insändare. Noterat av DN:s läsare den 27 november",
@@ -456,7 +511,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-23"
+      "id": "dn-27"
     },
     {
       "title": "Appen Wehunt hackad – 71 400 kan vara berörda",
@@ -469,7 +524,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-24"
+      "id": "expressen-28"
     },
     {
       "title": "Tungt nederlag för Bromölla mot Kävlinge IBK",
@@ -482,7 +537,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-25",
+      "id": "nsk-29",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -498,7 +553,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-26",
+      "id": "nsk-30",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -514,7 +569,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-27"
+      "id": "svd-31"
     },
     {
       "title": "S-veteran: Mörkt i går, nattsvart i dag",
@@ -527,7 +582,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-28"
+      "id": "svd-32"
     },
     {
       "title": "Seger för Hässleholm Bjärnum hemma mot Mörrum",
@@ -540,7 +595,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-29",
+      "id": "nsk-33",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -556,7 +611,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-30"
+      "id": "dn-34"
     },
     {
       "title": "Seger för Lönsboda mot IBK Lund",
@@ -569,7 +624,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-31",
+      "id": "nsk-35",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -585,7 +640,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-32"
+      "id": "svd-36"
     },
     {
       "title": "Nödlarm från fritidsbåt utanför Smögen",
@@ -598,7 +653,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-33"
+      "id": "expressen-37"
     },
     {
       "title": "Cannabisodling hittad under lekplats i Spanien",
@@ -611,7 +666,7 @@
       "color": "#1a1a1a",
       "category": "Världen",
       "paywall": false,
-      "id": "svt-utrikes-34"
+      "id": "svt-utrikes-38"
     },
     {
       "title": "Kvinna blev misshandlad när hon rastade hunden",
@@ -624,7 +679,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-35",
+      "id": "nsk-39",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -640,7 +695,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-36"
+      "id": "expressen-40"
     },
     {
       "title": "VM-drömmen lever för Sverige – efter rysare",
@@ -653,8 +708,8 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-37",
-      "cluster": "k-dn-37",
+      "id": "dn-41",
+      "cluster": "k-dn-41",
       "clusterSize": 2
     },
     {
@@ -668,7 +723,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-38"
+      "id": "aftonbladet-42"
     },
     {
       "title": "Willands B upp i topp efter seger",
@@ -681,7 +736,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-39",
+      "id": "nsk-43",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -697,7 +752,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-40"
+      "id": "dn-44"
     },
     {
       "title": "Tyringes tunga smäll – nya serieledaren vann stort",
@@ -710,7 +765,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-41",
+      "id": "nsk-45",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -726,7 +781,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-42"
+      "id": "svt-sport-46"
     },
     {
       "title": "DN Debatt. ”Därför säger vi ja till Ulf Kristersson som statsminister”",
@@ -739,7 +794,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-43"
+      "id": "dn-47"
     },
     {
       "title": "Elisabeth Thand Ringqvist avgår om det blir nej",
@@ -752,7 +807,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-44"
+      "id": "expressen-48"
     },
     {
       "title": "Martin Ådahl om interna striden: Det är väldigt jämnt",
@@ -765,7 +820,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-45"
+      "id": "expressen-49"
     },
     {
       "title": "Sverige vann måstematchen mot Ungern i VM-kvalet",
@@ -778,8 +833,8 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-46",
-      "cluster": "k-dn-37",
+      "id": "svt-sport-50",
+      "cluster": "k-dn-41",
       "clusterSize": 2
     },
     {
@@ -793,7 +848,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-47",
+      "id": "nsk-51",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -809,7 +864,7 @@
       "color": "#e85d04",
       "category": "Lokalt",
       "paywall": false,
-      "id": "p4-kristianstad-48"
+      "id": "p4-kristianstad-52"
     },
     {
       "title": "Målfest för Åhus mot H 65 Gordies",
@@ -822,7 +877,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-49",
+      "id": "nsk-53",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -838,7 +893,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-50",
+      "id": "nsk-54",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -854,7 +909,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-51"
+      "id": "svd-55"
     },
     {
       "title": "Olycka på E22 var lastbil som havererat: ”Ingen krock”",
@@ -867,7 +922,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-52",
+      "id": "nsk-56",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -883,7 +938,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-53"
+      "id": "expressen-57"
     },
     {
       "title": "Karl Dalén: Därför flörtar Trump med de demokratiska stjärnskotten",
@@ -896,7 +951,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-54"
+      "id": "dn-58"
     },
     {
       "title": "Flera ledamöter tänker trotsa Thand Ringqvist",
@@ -909,7 +964,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-55"
+      "id": "ekot-59"
     },
     {
       "title": "Första förlusten för Brynäs i SDHL efter elva raka",
@@ -922,7 +977,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-56"
+      "id": "svt-sport-60"
     },
     {
       "title": "Milon, 15, pyntar sin A-traktor: \"Julkänsla”",
@@ -935,7 +990,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-57",
+      "id": "nsk-61",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -951,7 +1006,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-58"
+      "id": "ekot-62"
     },
     {
       "title": "Nyheter från dagen: 27 november",
@@ -964,7 +1019,7 @@
       "color": "#2a9d8f",
       "category": "Lokalt",
       "paywall": false,
-      "id": "svt-skane-59"
+      "id": "svt-skane-63"
     },
     {
       "title": "Bluffen avslöjades, men drömmen lever vidare",
@@ -977,7 +1032,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-60"
+      "id": "svd-64"
     },
     {
       "title": "Edsbyn efter 14 insläppta: ”Bara piss och skit”",
@@ -990,7 +1045,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-61"
+      "id": "svt-sport-65"
     },
     {
       "title": "Ilskan i kommunen – ”hittar” ingen julgran",
@@ -1003,7 +1058,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-62"
+      "id": "aftonbladet-66"
     },
     {
       "title": "Här dyker Andreas Almgren upp på VM-kvalmatchen",
@@ -1016,7 +1071,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-63"
+      "id": "svt-sport-67"
     },
     {
       "title": "Ukraina försöker strypa Rysslands väg till Krim",
@@ -1029,7 +1084,7 @@
       "color": "#1a1a1a",
       "category": "Världen",
       "paywall": false,
-      "id": "svt-utrikes-64"
+      "id": "svt-utrikes-68"
     },
     {
       "title": "Slår till – mot kartelledaren",
@@ -1042,7 +1097,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-65"
+      "id": "expressen-69"
     },
     {
       "title": "Viltolycka på väg 23 i höjd med Ballingslöv: ”Mår bra”",
@@ -1055,7 +1110,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-66",
+      "id": "nsk-70",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -1071,7 +1126,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-67"
+      "id": "dn-71"
     },
     {
       "title": "Gratiskonsert med internationell touch till Broby",
@@ -1084,7 +1139,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-68",
+      "id": "nsk-72",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -1100,7 +1155,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-69"
+      "id": "aftonbladet-73"
     },
     {
       "title": "Multiresistent hudbakterie i sjukhusluft",
@@ -1113,7 +1168,7 @@
       "color": "#3a7d44",
       "category": "Vetenskap",
       "paywall": false,
-      "id": "forskning-70"
+      "id": "forskning-74"
     },
     {
       "title": "Tysk polis misstänker terrorplaner mot synagoga i Sverige",
@@ -1126,8 +1181,8 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-71",
-      "cluster": "k-aftonbladet-4",
+      "id": "ekot-75",
+      "cluster": "k-aftonbladet-8",
       "clusterSize": 5
     },
     {
@@ -1141,7 +1196,7 @@
       "color": "#e85d04",
       "category": "Lokalt",
       "paywall": false,
-      "id": "p4-kristianstad-72"
+      "id": "p4-kristianstad-76"
     },
     {
       "title": "Carina Bergfeldt är Sveriges Taylor Swift",
@@ -1154,7 +1209,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-73"
+      "id": "svd-77"
     },
     {
       "title": "Trots den röda linjen – här är C och SD överens",
@@ -1167,7 +1222,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-74"
+      "id": "svd-78"
     },
     {
       "title": "Molly, 14, dog – nu har Alina fått vittna",
@@ -1180,7 +1235,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-75"
+      "id": "expressen-79"
     },
     {
       "title": "Kenyansk sektledare dömd för ytterligare 123 dödsfall",
@@ -1193,8 +1248,8 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-76",
-      "cluster": "k-aftonbladet-125",
+      "id": "dn-80",
+      "cluster": "k-aftonbladet-129",
       "clusterSize": 3
     },
     {
@@ -1208,7 +1263,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-77"
+      "id": "aftonbladet-81"
     },
     {
       "title": "Tysk polis misstänker terrorförberedelser mot synagoga i Sverige",
@@ -1221,8 +1276,8 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-78",
-      "cluster": "k-aftonbladet-4",
+      "id": "dn-82",
+      "cluster": "k-aftonbladet-8",
       "clusterSize": 5
     },
     {
@@ -1236,7 +1291,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-79"
+      "id": "dn-83"
     },
     {
       "title": "Jesper Sankell stängs av i tre matcher efter punggreppet",
@@ -1249,7 +1304,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-80"
+      "id": "svt-sport-84"
     },
     {
       "title": "Max Hjelm: Herregud, nu får det räcka med attackerna mot Carina Bergfeldt",
@@ -1262,7 +1317,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-81"
+      "id": "dn-85"
     },
     {
       "title": "Svahn och Karlssons stöd till Kristine Stavås Skistad",
@@ -1275,7 +1330,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-82"
+      "id": "svt-sport-86"
     },
     {
       "title": "SVT:s expert om Frida Karlssons förändring: ”Hon är starkare”",
@@ -1288,7 +1343,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-83"
+      "id": "svt-sport-87"
     },
     {
       "title": "Barn slog larm om brand i Sösdala: ”Tänt eld”",
@@ -1301,7 +1356,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-84",
+      "id": "nsk-88",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -1317,7 +1372,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-85",
+      "id": "nsk-89",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -1333,7 +1388,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-86",
+      "id": "nsk-90",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -1349,7 +1404,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-87"
+      "id": "expressen-91"
     },
     {
       "title": "Våldtäktsmisstänkte finansmannen levde lyxliv före gripandet",
@@ -1362,7 +1417,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-88"
+      "id": "aftonbladet-92"
     },
     {
       "title": "Jenny och Therese öppnar ny hälsokost: ”Fantastiskt”",
@@ -1375,7 +1430,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-89",
+      "id": "nsk-93",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -1391,7 +1446,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-90"
+      "id": "ekot-94"
     },
     {
       "title": "Linus Ullmark talar ut om tuffa tiden: ”Hockey är inte allt i livet”",
@@ -1404,7 +1459,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-91"
+      "id": "svt-sport-95"
     },
     {
       "title": "MP lägger fram egen budget – hoppas på gemensam framöver",
@@ -1417,8 +1472,8 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-92",
-      "cluster": "k-aftonbladet-142",
+      "id": "ekot-96",
+      "cluster": "k-aftonbladet-146",
       "clusterSize": 2
     },
     {
@@ -1432,7 +1487,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-93"
+      "id": "aftonbladet-97"
     },
     {
       "title": "Så gör du för att ta en tiopoängare i ”På spåret”",
@@ -1445,7 +1500,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-94"
+      "id": "dn-98"
     },
     {
       "title": "Anna-Lena Laurén: Därför vill en majoritet av tyskarna sluta stödja Ukraina militärt",
@@ -1458,7 +1513,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-95"
+      "id": "dn-99"
     },
     {
       "title": "Polariserat Taiwan går till val: ”Olika syn på Kina”",
@@ -1471,7 +1526,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-96"
+      "id": "ekot-100"
     },
     {
       "title": "Katja Nyberg startar nätbutik – hånar polisutredningen",
@@ -1484,7 +1539,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-97"
+      "id": "expressen-101"
     },
     {
       "title": "Den dramatiska veckan då allt vände",
@@ -1497,7 +1552,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-98"
+      "id": "svd-102"
     },
     {
       "title": "S-källor: Andersson kan behöva avgå",
@@ -1510,7 +1565,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-99"
+      "id": "expressen-103"
     },
     {
       "title": "Rysare väntar vid C:s ödesbeslut: ”Fler kan övertygas”",
@@ -1523,7 +1578,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-100"
+      "id": "dn-104"
     },
     {
       "title": "Drömstart för moster Öberg: ”En häftig vecka”",
@@ -1536,7 +1591,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-101"
+      "id": "dn-105"
     },
     {
       "title": "Fem mil kö till Moskva",
@@ -1549,7 +1604,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-102"
+      "id": "expressen-106"
     },
     {
       "title": "Världens ytvatten minskade stort under rekordvarma år",
@@ -1562,7 +1617,7 @@
       "color": "#3a7d44",
       "category": "Vetenskap",
       "paywall": false,
-      "id": "forskning-103"
+      "id": "forskning-107"
     },
     {
       "title": "Finskans chock efter succén: ”Aldrig sett så många nollor”",
@@ -1575,7 +1630,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-104"
+      "id": "svt-sport-108"
     },
     {
       "title": "Sektledaren döms igen – uppmanade till svält",
@@ -1588,8 +1643,8 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-105",
-      "cluster": "k-aftonbladet-125",
+      "id": "ekot-109",
+      "cluster": "k-aftonbladet-129",
       "clusterSize": 3
     },
     {
@@ -1603,7 +1658,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-106"
+      "id": "aftonbladet-110"
     },
     {
       "title": "Att bilda regering med sina borgerliga vänner är inte ont",
@@ -1616,7 +1671,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-107",
+      "id": "nsk-111",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -1632,7 +1687,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-108",
+      "id": "aftonbladet-112",
       "alsoAt": [
         "SvD"
       ]
@@ -1648,7 +1703,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-109"
+      "id": "ekot-113"
     },
     {
       "title": "Historisk försvarsaffär – fem länder köper svenska CV90",
@@ -1661,7 +1716,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-110"
+      "id": "ekot-114"
     },
     {
       "title": "Simon Campanello: Är det här Elon Musks största bluff hittills?",
@@ -1674,7 +1729,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-111"
+      "id": "dn-115"
     },
     {
       "title": "Prinsessan Estelles skola efter NMR-skandalen",
@@ -1687,7 +1742,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-112"
+      "id": "expressen-116"
     },
     {
       "title": "Misstänkt för våldtäkt på äldreboende släppt",
@@ -1700,7 +1755,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-113"
+      "id": "aftonbladet-117"
     },
     {
       "title": "C-toppen: Kommer bli ett ganska nära SD-samarbete",
@@ -1713,7 +1768,7 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-114"
+      "id": "svt-inrikes-118"
     },
     {
       "title": "Lululemon-grundaren kritiseras efter sexistiska uttalanden",
@@ -1726,7 +1781,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-115"
+      "id": "expressen-119"
     },
     {
       "title": "Elvira Öberg vann världscuppremiären i Kontiolax",
@@ -1739,7 +1794,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-116"
+      "id": "svt-sport-120"
     },
     {
       "title": "170 kvadratmeter stort hus i Hammar, Kristianstad sålt",
@@ -1752,7 +1807,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-117",
+      "id": "nsk-121",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -1768,7 +1823,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-118"
+      "id": "dn-122"
     },
     {
       "title": "Polisen gav upp – då sökte scoutkår själv upp stulna kanoter",
@@ -1781,7 +1836,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-119",
+      "id": "nsk-123",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -1797,7 +1852,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-120"
+      "id": "ekot-124"
     },
     {
       "title": "Burnham: Migrationen till Storbritannien minskar",
@@ -1810,7 +1865,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-121"
+      "id": "ekot-125"
     },
     {
       "title": "Cuf svänger i regeringsfrågan – öppnar för Kristersson",
@@ -1823,7 +1878,7 @@
       "color": "#2a9d8f",
       "category": "Lokalt",
       "paywall": false,
-      "id": "svt-skane-122"
+      "id": "svt-skane-126"
     },
     {
       "title": "Förlaget: ”Stort förtroende för Claeson”",
@@ -1836,7 +1891,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-123"
+      "id": "svd-127"
     },
     {
       "title": "S-källor om framtiden för partiet: Flera kommer behöva lämna",
@@ -1849,7 +1904,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-124"
+      "id": "aftonbladet-128"
     },
     {
       "title": "Ledare för svältsekt dömd för över hundra dråp",
@@ -1862,8 +1917,8 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-125",
-      "cluster": "k-aftonbladet-125",
+      "id": "aftonbladet-129",
+      "cluster": "k-aftonbladet-129",
       "clusterSize": 3
     },
     {
@@ -1877,7 +1932,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-126"
+      "id": "svd-130"
     },
     {
       "title": "Symbolen för C – gråtande politiker",
@@ -1890,7 +1945,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-127"
+      "id": "svd-131"
     },
     {
       "title": "Experterna: De blir ministrar om Ulf Kristersson bildar regering",
@@ -1903,7 +1958,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-128"
+      "id": "aftonbladet-132"
     },
     {
       "title": "Mindre grönska och sämre luft kopplas till hjärtsjukdom",
@@ -1916,7 +1971,7 @@
       "color": "#3a7d44",
       "category": "Vetenskap",
       "paywall": false,
-      "id": "forskning-129"
+      "id": "forskning-133"
     },
     {
       "title": "Erbjudandet till C: Kall öl och euroutredning – inte ett ord om SD",
@@ -1929,7 +1984,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-130"
+      "id": "ekot-134"
     },
     {
       "title": "Två bilar kolliderade på Röingegatan",
@@ -1942,7 +1997,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-131",
+      "id": "nsk-135",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -1958,7 +2013,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-132"
+      "id": "dn-136"
     },
     {
       "title": "32-åring startar nytt företag i Kristianstad",
@@ -1971,7 +2026,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-133",
+      "id": "nsk-137",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -1987,7 +2042,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-134"
+      "id": "aftonbladet-138"
     },
     {
       "title": "Brasilianska män lockas till fronten: ”Köpte en biljett och bara körde”",
@@ -2000,7 +2055,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-135"
+      "id": "dn-139"
     },
     {
       "title": "Är det Putins nya fanclub som talar?",
@@ -2013,7 +2068,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-136"
+      "id": "expressen-140"
     },
     {
       "title": "Kushners hyllning till Putins taktik",
@@ -2026,7 +2081,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-137"
+      "id": "expressen-141"
     },
     {
       "title": "Stockholms centralstation utryms",
@@ -2039,7 +2094,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-138"
+      "id": "expressen-142"
     },
     {
       "title": "Det här är ju värre än i Liberalerna",
@@ -2052,7 +2107,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-139"
+      "id": "expressen-143"
     },
     {
       "title": "Blomqvist och Bennison lider med Freigang: ”Kommer saknas”",
@@ -2065,8 +2120,8 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-140",
-      "cluster": "k-dn-143",
+      "id": "svt-sport-144",
+      "cluster": "k-dn-147",
       "clusterSize": 2
     },
     {
@@ -2080,7 +2135,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-141"
+      "id": "dn-145"
     },
     {
       "title": "M, KD och L vill ha sänkt bränsleskatt",
@@ -2093,13 +2148,13 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-142",
+      "id": "aftonbladet-146",
       "alsoAt": [
         "SvD",
         "Norra Skåne",
         "Kristianstadsbladet"
       ],
-      "cluster": "k-aftonbladet-142",
+      "cluster": "k-aftonbladet-146",
       "clusterSize": 2
     },
     {
@@ -2113,8 +2168,8 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-143",
-      "cluster": "k-dn-143",
+      "id": "dn-147",
+      "cluster": "k-dn-147",
       "clusterSize": 2
     },
     {
@@ -2128,7 +2183,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-144"
+      "id": "svd-148"
     },
     {
       "title": "Johan Croneman: Jag har inget till övers för kändisar som styrs av girighet",
@@ -2141,7 +2196,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-145"
+      "id": "dn-149"
     },
     {
       "title": "M, L och KD presenterar gemensam budget",
@@ -2154,8 +2209,8 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-146",
-      "cluster": "k-aftonbladet-182",
+      "id": "svt-inrikes-150",
+      "cluster": "k-aftonbladet-186",
       "clusterSize": 3
     },
     {
@@ -2169,7 +2224,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-147"
+      "id": "dn-151"
     },
     {
       "title": "Här är Kristerssons erbjudande till Centerpartiet",
@@ -2182,7 +2237,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-148"
+      "id": "dn-152"
     },
     {
       "title": "Här är klubbarna som tjänar mest pengar på Bingolotter",
@@ -2195,7 +2250,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-149",
+      "id": "nsk-153",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -2211,8 +2266,8 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-150",
-      "cluster": "k-dn-195",
+      "id": "svd-154",
+      "cluster": "k-dn-199",
       "clusterSize": 2
     },
     {
@@ -2226,7 +2281,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-151"
+      "id": "ekot-155"
     },
     {
       "title": "75 kvadratmeter stort hus i Tyringe sålt",
@@ -2239,7 +2294,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-152",
+      "id": "nsk-156",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -2255,7 +2310,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-153"
+      "id": "svt-sport-157"
     },
     {
       "title": "Förslaget till C: Tonårsutvisningar och euro",
@@ -2268,7 +2323,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-154"
+      "id": "aftonbladet-158"
     },
     {
       "title": "Försvunnen kvinna hittad död",
@@ -2281,7 +2336,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-155"
+      "id": "expressen-159"
     },
     {
       "title": "Migranter hittade döda nära Kanarieöarna",
@@ -2294,7 +2349,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-156",
+      "id": "aftonbladet-160",
       "alsoAt": [
         "SVT Utrikes"
       ]
@@ -2310,7 +2365,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-157"
+      "id": "aftonbladet-161"
     },
     {
       "title": "Intern mätning skakade om C – riskerade tappa varannan väljare",
@@ -2323,7 +2378,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-158"
+      "id": "dn-162"
     },
     {
       "title": "Här är Kristerssons förslag: ”Samarbetsregering” med C",
@@ -2336,7 +2391,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-159"
+      "id": "expressen-163"
     },
     {
       "title": "Fick lämna HVB-hemmet på 18-årsdagen: ”Som ett svart moln”",
@@ -2349,7 +2404,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-160"
+      "id": "ekot-164"
     },
     {
       "title": "Åtal om Rönningemord nästa vecka",
@@ -2362,7 +2417,7 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-161",
+      "id": "svt-inrikes-165",
       "alsoAt": [
         "Aftonbladet"
       ]
@@ -2378,7 +2433,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-162"
+      "id": "ekot-166"
     },
     {
       "title": "Expert inför förtroenderådet: ”Partiet kluvet mitt itu”",
@@ -2391,7 +2446,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-163"
+      "id": "ekot-167"
     },
     {
       "title": "Hammarbystjärnornas biljetthets: ”Bara att ringa på nätterna”",
@@ -2404,7 +2459,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-164"
+      "id": "svt-sport-168"
     },
     {
       "title": "Rökutveckling i lägenhet: ”Glömde mat på spisen”",
@@ -2417,7 +2472,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-165",
+      "id": "nsk-169",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -2433,7 +2488,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-166"
+      "id": "dn-170"
     },
     {
       "title": "EU läxar upp Sverige om klimatmålen",
@@ -2446,7 +2501,7 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-167"
+      "id": "svt-inrikes-171"
     },
     {
       "title": "Därför har Stockholmsbörsen stått emot AI-frossan",
@@ -2459,7 +2514,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-168"
+      "id": "svd-172"
     },
     {
       "title": "Dadgostar vädjar till C",
@@ -2472,7 +2527,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-169"
+      "id": "expressen-173"
     },
     {
       "title": "Åklagare ska väcka åtal mot Vilma Andersson",
@@ -2485,7 +2540,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-170"
+      "id": "expressen-174"
     },
     {
       "title": "Åtal för Rönningemordet på tisdag",
@@ -2498,7 +2553,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-171"
+      "id": "svd-175"
     },
     {
       "title": "Kristersson presenterar samarbetsavtal",
@@ -2511,7 +2566,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-172"
+      "id": "expressen-176"
     },
     {
       "title": "Dadgostar till C: Lovar att göra vårt yttersta",
@@ -2524,7 +2579,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-173"
+      "id": "aftonbladet-177"
     },
     {
       "title": "Krogkommissionen tipsar om bra matupplevelser för pengarna",
@@ -2537,7 +2592,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-174"
+      "id": "dn-178"
     },
     {
       "title": "The Bristol Tavern: Den brittiska kokkonsten förtjänar en bättre ambassadör",
@@ -2550,7 +2605,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-175"
+      "id": "dn-179"
     },
     {
       "title": "M, KD, L och C överens om ny klimatpolitik",
@@ -2563,8 +2618,8 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-176",
-      "cluster": "k-aftonbladet-182",
+      "id": "expressen-180",
+      "cluster": "k-aftonbladet-186",
       "clusterSize": 3
     },
     {
@@ -2578,7 +2633,7 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-177"
+      "id": "svt-inrikes-181"
     },
     {
       "title": "Boklistan vecka 48: hackare, 7-åringar, Solstad och god Sikt",
@@ -2591,7 +2646,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-178"
+      "id": "dn-182"
     },
     {
       "title": "Årets lucia är utsedd – Ella överraskades med blommor",
@@ -2604,7 +2659,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-179",
+      "id": "nsk-183",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -2620,7 +2675,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-180"
+      "id": "aftonbladet-184"
     },
     {
       "title": "Ryssen kritisk till Sveriges beslut kring skid-VM: ”Skit”",
@@ -2633,7 +2688,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-181"
+      "id": "svt-sport-185"
     },
     {
       "title": "M, KD, L och C överens – så ska budgeten hanteras",
@@ -2646,13 +2701,13 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-182",
+      "id": "aftonbladet-186",
       "alsoAt": [
         "SvD",
         "Norra Skåne",
         "Kristianstadsbladet"
       ],
-      "cluster": "k-aftonbladet-182",
+      "cluster": "k-aftonbladet-186",
       "clusterSize": 3
     },
     {
@@ -2666,7 +2721,7 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-183"
+      "id": "svt-inrikes-187"
     },
     {
       "title": "20-åring rekryterade barnsoldater – utlämnas från Irak",
@@ -2679,7 +2734,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-184"
+      "id": "dn-188"
     },
     {
       "title": "Dadgostars (V) vädjan till C – vill förhandla",
@@ -2692,7 +2747,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-185"
+      "id": "aftonbladet-189"
     },
     {
       "title": "”Är det här början på stormen efter lugnet?”",
@@ -2705,7 +2760,7 @@
       "color": "#1a1a1a",
       "category": "Världen",
       "paywall": false,
-      "id": "svt-utrikes-186"
+      "id": "svt-utrikes-190"
     },
     {
       "title": "Strömmer om självmordet: ”En fruktansvärd händelse”",
@@ -2718,7 +2773,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-187"
+      "id": "aftonbladet-191"
     },
     {
       "title": "Nytt företag startar i Hässleholm: Fasab VVS AB",
@@ -2731,7 +2786,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-188",
+      "id": "nsk-192",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -2747,7 +2802,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-189"
+      "id": "svt-sport-193"
     },
     {
       "title": "Man drogade sin fru i över 20 år – nio män inför rätta i Storbritannien",
@@ -2760,7 +2815,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-190"
+      "id": "dn-194"
     },
     {
       "title": "Unikt perspektiv i afghansk romkom",
@@ -2773,7 +2828,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-191"
+      "id": "svd-195"
     },
     {
       "title": "Gata i lågor efter jättekrock",
@@ -2786,7 +2841,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-192"
+      "id": "expressen-196"
     },
     {
       "title": "”Är hål i huvudet att skicka saker i blindo”",
@@ -2799,7 +2854,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-193"
+      "id": "svd-197"
     },
     {
       "title": "Fuglesang om Musks planer: ”Helt suveränt”",
@@ -2812,7 +2867,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-194"
+      "id": "svd-198"
     },
     {
       "title": "Tusentals verk brann upp – nu kan Grafikens hus få nytt hem",
@@ -2825,8 +2880,8 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-195",
-      "cluster": "k-dn-195",
+      "id": "dn-199",
+      "cluster": "k-dn-199",
       "clusterSize": 2
     },
     {
@@ -2840,8 +2895,8 @@
       "color": "#1a1a1a",
       "category": "Ekonomi",
       "paywall": false,
-      "id": "svt-ekonomi-196",
-      "cluster": "k-aftonbladet-223",
+      "id": "svt-ekonomi-200",
+      "cluster": "k-aftonbladet-227",
       "clusterSize": 2
     },
     {
@@ -2855,7 +2910,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-197",
+      "id": "nsk-201",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -2871,7 +2926,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-198"
+      "id": "svd-202"
     },
     {
       "title": "Norskt flygbolag ansöker om konkurs",
@@ -2884,8 +2939,8 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-199",
-      "cluster": "k-ekot-199",
+      "id": "ekot-203",
+      "cluster": "k-ekot-203",
       "clusterSize": 3
     },
     {
@@ -2899,7 +2954,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-200"
+      "id": "aftonbladet-204"
     },
     {
       "title": "Gräsklippare stulen i Rinkaby",
@@ -2912,7 +2967,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-201",
+      "id": "nsk-205",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -2928,7 +2983,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-202",
+      "id": "aftonbladet-206",
       "alsoAt": [
         "SvD"
       ]
@@ -2944,8 +2999,8 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-203",
-      "cluster": "k-ekot-199",
+      "id": "expressen-207",
+      "cluster": "k-ekot-203",
       "clusterSize": 3
     },
     {
@@ -2959,8 +3014,8 @@
       "color": "#1a1a1a",
       "category": "Ekonomi",
       "paywall": false,
-      "id": "svt-ekonomi-204",
-      "cluster": "k-ekot-199",
+      "id": "svt-ekonomi-208",
+      "cluster": "k-ekot-203",
       "clusterSize": 3
     },
     {
@@ -2974,7 +3029,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-205"
+      "id": "aftonbladet-209"
     },
     {
       "title": "Youtubern Jordi Wild har blivit spanska valrörelsens nya maktfaktor",
@@ -2987,7 +3042,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-206"
+      "id": "ekot-210"
     },
     {
       "title": "Extraval i Spanien kan leda till maktskifte",
@@ -3000,7 +3055,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-207"
+      "id": "ekot-211"
     },
     {
       "title": "Shirin bröt sig fri från våldet efter ett decennium",
@@ -3013,7 +3068,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-208"
+      "id": "aftonbladet-212"
     },
     {
       "title": "Sexfaldigt norskt på herrsidan i Ruka – Johannes Hösflot Kläbo ”bara” trea",
@@ -3026,7 +3081,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-209"
+      "id": "svt-sport-213"
     },
     {
       "title": "”Klokt att invänta utredningarna”",
@@ -3039,7 +3094,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-210"
+      "id": "svd-214"
     },
     {
       "title": "Då kan Dadgostar sluta som vinnare",
@@ -3052,7 +3107,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-211"
+      "id": "expressen-215"
     },
     {
       "title": "75 dagar utan regering – detta har hänt",
@@ -3065,7 +3120,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-212",
+      "id": "aftonbladet-216",
       "alsoAt": [
         "SvD"
       ]
@@ -3081,7 +3136,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-213"
+      "id": "expressen-217"
     },
     {
       "title": "Emma Bouvin: USA bombade inte bort regimen – och den kan inte piska bort motståndet",
@@ -3094,7 +3149,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-214"
+      "id": "dn-218"
     },
     {
       "title": "Ljusare tider i ekonomi – men mörkare hushållshumör",
@@ -3107,7 +3162,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-215"
+      "id": "ekot-219"
     },
     {
       "title": "Lista: Så mycket tjänar politik­profilerna",
@@ -3120,7 +3175,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-216"
+      "id": "aftonbladet-220"
     },
     {
       "title": "CUF svänger i regeringsfrågan – stöttar högersväng",
@@ -3133,7 +3188,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-217"
+      "id": "expressen-221"
     },
     {
       "title": "Målvaktskris i Vinslöv – ”Super-Sibbe” tillbaka",
@@ -3146,7 +3201,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-218",
+      "id": "nsk-222",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -3162,7 +3217,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-219"
+      "id": "svt-sport-223"
     },
     {
       "title": "Asta, 4, förlorar förmågor – en efter en",
@@ -3175,7 +3230,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-220"
+      "id": "expressen-224"
     },
     {
       "title": "Stöldliga avslöjad på Arlanda",
@@ -3188,7 +3243,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-221"
+      "id": "expressen-225"
     },
     {
       "title": "C-toppen i Stockholm: ”Det känns lite som att man blir utpressad”",
@@ -3201,7 +3256,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-222"
+      "id": "dn-226"
     },
     {
       "title": "Jätteordern på svenska stridsfordon i hamn",
@@ -3214,11 +3269,11 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-223",
+      "id": "aftonbladet-227",
       "alsoAt": [
         "SvD"
       ],
-      "cluster": "k-aftonbladet-223",
+      "cluster": "k-aftonbladet-227",
       "clusterSize": 2
     },
     {
@@ -3232,7 +3287,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-224",
+      "id": "nsk-228",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -3248,8 +3303,8 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-225",
-      "cluster": "k-aftonbladet-225",
+      "id": "aftonbladet-229",
+      "cluster": "k-aftonbladet-229",
       "clusterSize": 2
     },
     {
@@ -3263,8 +3318,8 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-226",
-      "cluster": "k-ekot-240",
+      "id": "expressen-230",
+      "cluster": "k-ekot-244",
       "clusterSize": 3
     },
     {
@@ -3278,7 +3333,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-227"
+      "id": "dn-231"
     },
     {
       "title": "Värnpliktiga fick kollektiv bestraffning",
@@ -3291,7 +3346,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-228"
+      "id": "aftonbladet-232"
     },
     {
       "title": "C:s vice partiledare stod inte bakom beslutet",
@@ -3304,7 +3359,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-229"
+      "id": "ekot-233"
     },
     {
       "title": "C i Skåne röstar ja till Kristersson – trots splittring",
@@ -3317,7 +3372,7 @@
       "color": "#e85d04",
       "category": "Lokalt",
       "paywall": false,
-      "id": "p4-kristianstad-230"
+      "id": "p4-kristianstad-234"
     },
     {
       "title": "Kina vill avgöra val med hot, AI och falska videos",
@@ -3330,7 +3385,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-231"
+      "id": "expressen-235"
     },
     {
       "title": "Mer än medicinska fel – därför anmäler djurägare veterinärer",
@@ -3343,7 +3398,7 @@
       "color": "#3a7d44",
       "category": "Vetenskap",
       "paywall": false,
-      "id": "forskning-232"
+      "id": "forskning-236"
     },
     {
       "title": "Furtenbach: ”Förvärras av att SD väcker så starka känslor”",
@@ -3356,7 +3411,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-233"
+      "id": "ekot-237"
     },
     {
       "title": "Alex Noréns succéslag – hålar ut för eagle i Australien",
@@ -3369,7 +3424,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-234"
+      "id": "svt-sport-238"
     },
     {
       "title": "Uppgifter: USA:s flygvapen utsatt för hackerattack",
@@ -3382,8 +3437,8 @@
       "color": "#1a1a1a",
       "category": "Världen",
       "paywall": false,
-      "id": "svt-utrikes-235",
-      "cluster": "k-ekot-240",
+      "id": "svt-utrikes-239",
+      "cluster": "k-ekot-244",
       "clusterSize": 3
     },
     {
@@ -3397,7 +3452,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-236"
+      "id": "dn-240"
     },
     {
       "title": "Två män i slagsmål – anmäler varandra för misshandel",
@@ -3410,7 +3465,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-237",
+      "id": "nsk-241",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -3426,7 +3481,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-238"
+      "id": "dn-242"
     },
     {
       "title": "Chockbeskedet: “Ovanligt att C är så öppet sönderslitet”",
@@ -3439,7 +3494,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-239"
+      "id": "dn-243"
     },
     {
       "title": "Uppgifter: Amerikanska luftsförsvarets plattform har hackats",
@@ -3452,8 +3507,8 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-240",
-      "cluster": "k-ekot-240",
+      "id": "ekot-244",
+      "cluster": "k-ekot-244",
       "clusterSize": 3
     },
     {
@@ -3467,7 +3522,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-241"
+      "id": "svt-sport-245"
     },
     {
       "title": "Ryssland vill inte ha fred",
@@ -3480,7 +3535,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-242"
+      "id": "svd-246"
     },
     {
       "title": "Varför måste C4 Energi höja elnätsavgiften?",
@@ -3493,7 +3548,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-243",
+      "id": "nsk-247",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -3509,7 +3564,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-244"
+      "id": "aftonbladet-248"
     },
     {
       "title": "Källor: USA:s flygvapen hackat",
@@ -3522,7 +3577,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-245",
+      "id": "aftonbladet-249",
       "alsoAt": [
         "SvD"
       ]
@@ -3538,7 +3593,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-246",
+      "id": "nsk-250",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -3554,7 +3609,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-247"
+      "id": "aftonbladet-251"
     },
     {
       "title": "C kommer tillbaka – om V släpper ministerkrav",
@@ -3567,7 +3622,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-248"
+      "id": "expressen-252"
     },
     {
       "title": "Ingen kontrollerade trygghetslarmen – på tre månader",
@@ -3580,7 +3635,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-249",
+      "id": "nsk-253",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -3596,7 +3651,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-250"
+      "id": "dn-254"
     },
     {
       "title": "Allt om handboll – följ IFK och KHK",
@@ -3609,7 +3664,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-251",
+      "id": "nsk-255",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -3625,7 +3680,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-252",
+      "id": "nsk-256",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -3641,7 +3696,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-253"
+      "id": "dn-257"
     },
     {
       "title": "Striden i LO: Två förbund backar inte kravet till avtalsrörelsen",
@@ -3654,7 +3709,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-254"
+      "id": "ekot-258"
     },
     {
       "title": "Natalja Terentjeva buades ut – Linn Svahn fördömer: ”Fult”",
@@ -3667,7 +3722,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-255"
+      "id": "svt-sport-259"
     },
     {
       "title": "21-åring startar nytt företag i Hässleholm",
@@ -3680,7 +3735,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-256",
+      "id": "nsk-260",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -3696,7 +3751,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-257"
+      "id": "aftonbladet-261"
     },
     {
       "title": "Demirok: Vi ger SD makt – det skrämmer mig",
@@ -3709,7 +3764,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-258"
+      "id": "svd-262"
     },
     {
       "title": "Kvinna får sänkt straff för misslyckad mordplan",
@@ -3722,7 +3777,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-259",
+      "id": "aftonbladet-263",
       "alsoAt": [
         "Expressen"
       ]
@@ -3738,7 +3793,7 @@
       "color": "#2a9d8f",
       "category": "Lokalt",
       "paywall": false,
-      "id": "svt-skane-260"
+      "id": "svt-skane-264"
     },
     {
       "title": "Attacker mot fartyg i Finska viken kan innebära stora risker: ”Ny front”",
@@ -3751,7 +3806,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-261"
+      "id": "ekot-265"
     },
     {
       "title": "Centern i Skåne ska rösta ja till Kristersson som statsminister",
@@ -3764,8 +3819,8 @@
       "color": "#2a9d8f",
       "category": "Lokalt",
       "paywall": false,
-      "id": "svt-skane-262",
-      "cluster": "k-nsk-446",
+      "id": "svt-skane-266",
+      "cluster": "k-nsk-450",
       "clusterSize": 2
     },
     {
@@ -3779,7 +3834,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-263"
+      "id": "dn-267"
     },
     {
       "title": "Här tar Markus en simtur i Malmö kanal: ”Fortfarande sommartid tycker jag”",
@@ -3792,7 +3847,7 @@
       "color": "#2a9d8f",
       "category": "Lokalt",
       "paywall": false,
-      "id": "svt-skane-264"
+      "id": "svt-skane-268"
     },
     {
       "title": "Kristersson siktar på ny regering om en vecka",
@@ -3805,7 +3860,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-265",
+      "id": "aftonbladet-269",
       "alsoAt": [
         "SvD",
         "Norra Skåne",
@@ -3823,7 +3878,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-266",
+      "id": "nsk-270",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -3839,7 +3894,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-267"
+      "id": "dn-271"
     },
     {
       "title": "C-toppen: ”Vill inte äta SD:s apterade ost i råttfällan”",
@@ -3852,7 +3907,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-268"
+      "id": "aftonbladet-272"
     },
     {
       "title": "Brand i guldgruva – 27 personer är kvar i kammare",
@@ -3865,8 +3920,8 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-269",
-      "cluster": "k-aftonbladet-316",
+      "id": "expressen-273",
+      "cluster": "k-aftonbladet-320",
       "clusterSize": 3
     },
     {
@@ -3880,7 +3935,7 @@
       "color": "#e85d04",
       "category": "Lokalt",
       "paywall": false,
-      "id": "p4-kristianstad-270"
+      "id": "p4-kristianstad-274"
     },
     {
       "title": "Ett historiskt slutvarv: ”Jag vägrade förlora”",
@@ -3893,7 +3948,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-271"
+      "id": "svd-275"
     },
     {
       "title": "Aktivklubb i ny marsch: ”Förlorat momentum”",
@@ -3906,7 +3961,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-272"
+      "id": "svd-276"
     },
     {
       "title": "Kvinna försvunnen",
@@ -3919,7 +3974,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-273"
+      "id": "expressen-277"
     },
     {
       "title": "Svensk kross i världscupen i skidor",
@@ -3932,7 +3987,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-274"
+      "id": "svd-278"
     },
     {
       "title": "Känslor exploderar i slagfält av minnen",
@@ -3945,7 +4000,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-275"
+      "id": "svd-279"
     },
     {
       "title": "Ebba Anderssons succé – vinner världscuppremiären",
@@ -3958,7 +4013,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-276"
+      "id": "svt-sport-280"
     },
     {
       "title": "Flera partitoppar röstade emot C-beslutet",
@@ -3971,8 +4026,8 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-277",
-      "cluster": "k-aftonbladet-290",
+      "id": "svd-281",
+      "cluster": "k-aftonbladet-294",
       "clusterSize": 4
     },
     {
@@ -3986,7 +4041,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-278"
+      "id": "dn-282"
     },
     {
       "title": "Uppgifter: Vice Centerledaren Rickard Nordin sa nej",
@@ -3999,8 +4054,8 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-279",
-      "cluster": "k-aftonbladet-343",
+      "id": "expressen-283",
+      "cluster": "k-aftonbladet-347",
       "clusterSize": 2
     },
     {
@@ -4014,7 +4069,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-280"
+      "id": "dn-284"
     },
     {
       "title": "Tågstopp efter olycka vid Finja",
@@ -4027,7 +4082,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-281",
+      "id": "nsk-285",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -4043,7 +4098,7 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-282"
+      "id": "svt-inrikes-286"
     },
     {
       "title": "Storbritannien vädjar: Ta influensavaccinet",
@@ -4056,7 +4111,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-283"
+      "id": "aftonbladet-287"
     },
     {
       "title": "65 kvadratmeter stort hus gick för 2,9 miljoner",
@@ -4069,7 +4124,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-284",
+      "id": "nsk-288",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -4085,7 +4140,7 @@
       "color": "#1a1a1a",
       "category": "Världen",
       "paywall": false,
-      "id": "svt-utrikes-285"
+      "id": "svt-utrikes-289"
     },
     {
       "title": "Nvidia stoppar leveranser till delar av Sydostasien",
@@ -4098,7 +4153,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-286"
+      "id": "ekot-290"
     },
     {
       "title": "Insändare. Vänsterpartiet måste acceptera sin roll som ”kantparti”",
@@ -4111,7 +4166,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-287"
+      "id": "dn-291"
     },
     {
       "title": "Splittring i C-toppen",
@@ -4124,8 +4179,8 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-288",
-      "cluster": "k-aftonbladet-290",
+      "id": "expressen-292",
+      "cluster": "k-aftonbladet-294",
       "clusterSize": 4
     },
     {
@@ -4139,7 +4194,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-289"
+      "id": "aftonbladet-293"
     },
     {
       "title": "Uppgift: Vice partiledaren ville rösta nej",
@@ -4152,8 +4207,8 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-290",
-      "cluster": "k-aftonbladet-290",
+      "id": "aftonbladet-294",
+      "cluster": "k-aftonbladet-294",
       "clusterSize": 4
     },
     {
@@ -4167,7 +4222,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-291"
+      "id": "expressen-295"
     },
     {
       "title": "Uppgifter: Vice partiledaren gick emot Thand Ringqvist",
@@ -4180,8 +4235,8 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-292",
-      "cluster": "k-aftonbladet-290",
+      "id": "svt-inrikes-296",
+      "cluster": "k-aftonbladet-294",
       "clusterSize": 4
     },
     {
@@ -4195,7 +4250,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-293"
+      "id": "ekot-297"
     },
     {
       "title": "Datumet klart: Då flyger julgranen över Skåne",
@@ -4208,7 +4263,7 @@
       "color": "#e85d04",
       "category": "Lokalt",
       "paywall": false,
-      "id": "p4-kristianstad-294"
+      "id": "p4-kristianstad-298"
     },
     {
       "title": "Birgitta Ohlssons besked: Kommer rösta nej",
@@ -4221,7 +4276,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-295"
+      "id": "expressen-299"
     },
     {
       "title": "Chatt: Vad händer efter C:s högersväng?",
@@ -4234,7 +4289,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-296"
+      "id": "dn-300"
     },
     {
       "title": "Anderssons ord om C",
@@ -4247,7 +4302,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-297"
+      "id": "expressen-301"
     },
     {
       "title": "Roxette live i Sydney visas på Kosmorama",
@@ -4260,7 +4315,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-298",
+      "id": "nsk-302",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -4276,7 +4331,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-299"
+      "id": "ekot-303"
     },
     {
       "title": "Agentfirma knyter till sig HIF:s tränare: ”Inget dramatiskt”",
@@ -4289,7 +4344,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-300",
+      "id": "nsk-304",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -4305,8 +4360,8 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-301",
-      "cluster": "k-aftonbladet-308",
+      "id": "expressen-305",
+      "cluster": "k-aftonbladet-312",
       "clusterSize": 5
     },
     {
@@ -4320,7 +4375,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-302",
+      "id": "nsk-306",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -4336,7 +4391,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-303"
+      "id": "aftonbladet-307"
     },
     {
       "title": "Hot om extraval i norr – ”Knivigt uppdrag”",
@@ -4349,7 +4404,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-304"
+      "id": "dn-308"
     },
     {
       "title": "Uppgifter: Officer misstänks för brott mot Sveriges säkerhet",
@@ -4362,8 +4417,8 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-305",
-      "cluster": "k-aftonbladet-308",
+      "id": "ekot-309",
+      "cluster": "k-aftonbladet-312",
       "clusterSize": 5
     },
     {
@@ -4377,7 +4432,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-306",
+      "id": "nsk-310",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -4393,12 +4448,12 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-307",
+      "id": "svt-inrikes-311",
       "alsoAt": [
         "Expressen",
         "SvD"
       ],
-      "cluster": "k-aftonbladet-308",
+      "cluster": "k-aftonbladet-312",
       "clusterSize": 5
     },
     {
@@ -4412,8 +4467,8 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-308",
-      "cluster": "k-aftonbladet-308",
+      "id": "aftonbladet-312",
+      "cluster": "k-aftonbladet-312",
       "clusterSize": 5
     },
     {
@@ -4427,7 +4482,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-309"
+      "id": "dn-313"
     },
     {
       "title": "Johanna Frändén: Bönderna kunde bara titta på när Centern sänkte helrör på Stureplan",
@@ -4440,7 +4495,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-310"
+      "id": "dn-314"
     },
     {
       "title": "Officer vid Försvarsmakten misstänks för brott mot Sveriges säkerhet",
@@ -4453,8 +4508,8 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-311",
-      "cluster": "k-aftonbladet-308",
+      "id": "dn-315",
+      "cluster": "k-aftonbladet-312",
       "clusterSize": 5
     },
     {
@@ -4468,7 +4523,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-312"
+      "id": "ekot-316"
     },
     {
       "title": "Hon är första artisten till Torsjö Live 2027: ”Verkligen exploderat under hösten”",
@@ -4481,7 +4536,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-313",
+      "id": "nsk-317",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -4497,7 +4552,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-314"
+      "id": "ekot-318"
     },
     {
       "title": "Då sker årets julgransflygning",
@@ -4510,7 +4565,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-315",
+      "id": "nsk-319",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -4526,8 +4581,8 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-316",
-      "cluster": "k-aftonbladet-316",
+      "id": "aftonbladet-320",
+      "cluster": "k-aftonbladet-320",
       "clusterSize": 3
     },
     {
@@ -4541,7 +4596,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-317"
+      "id": "svd-321"
     },
     {
       "title": "Quiz: Testa dig på veckans nyheter",
@@ -4554,7 +4609,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-318"
+      "id": "aftonbladet-322"
     },
     {
       "title": "Putins stad anfalls: ”Jävlar”",
@@ -4567,7 +4622,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-319"
+      "id": "expressen-323"
     },
     {
       "title": "Pär Lindholms babylycka mitt i hektiska spelschemat",
@@ -4580,7 +4635,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-320"
+      "id": "svt-sport-324"
     },
     {
       "title": "Andersson rasar i ny mätning: ”Slående”",
@@ -4593,8 +4648,8 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-321",
-      "cluster": "k-dn-388",
+      "id": "expressen-325",
+      "cluster": "k-dn-392",
       "clusterSize": 2
     },
     {
@@ -4608,7 +4663,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-322",
+      "id": "nsk-326",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -4624,7 +4679,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-323"
+      "id": "dn-327"
     },
     {
       "title": "Centerkvinnorna går emot Elisabeth Thand Ringqvist – röstar nej",
@@ -4637,7 +4692,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-324"
+      "id": "aftonbladet-328"
     },
     {
       "title": "Fler borde shoppa på Black Friday",
@@ -4650,7 +4705,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-325",
+      "id": "nsk-329",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -4666,7 +4721,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-326",
+      "id": "nsk-330",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -4682,7 +4737,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-327"
+      "id": "ekot-331"
     },
     {
       "title": "Ledare: C har bättre alternativ inför en fjärde statsministeromröstning",
@@ -4695,7 +4750,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-328"
+      "id": "dn-332"
     },
     {
       "title": "Efter anklagelserna: BBC utreds för antisemitism",
@@ -4708,7 +4763,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-329"
+      "id": "dn-333"
     },
     {
       "title": "Filmlistan vecka 48: Brad Pitt är tillbaka som Hollywoodnostalgisk hunk",
@@ -4721,7 +4776,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-330"
+      "id": "dn-334"
     },
     {
       "title": "Brand i guldgruva",
@@ -4734,7 +4789,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-331"
+      "id": "expressen-335"
     },
     {
       "title": "Brand i guldgruva i Skellefteå",
@@ -4747,8 +4802,8 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-332",
-      "cluster": "k-aftonbladet-316",
+      "id": "svd-336",
+      "cluster": "k-aftonbladet-320",
       "clusterSize": 3
     },
     {
@@ -4762,7 +4817,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-333"
+      "id": "expressen-337"
     },
     {
       "title": "Skuldkänslor och raseri får ”Woman and child” att brinna",
@@ -4775,7 +4830,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-334"
+      "id": "dn-338"
     },
     {
       "title": "Irak utlämnar två efterlysta till Sverige",
@@ -4788,8 +4843,8 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-335",
-      "cluster": "k-aftonbladet-337",
+      "id": "svt-inrikes-339",
+      "cluster": "k-aftonbladet-341",
       "clusterSize": 3
     },
     {
@@ -4803,8 +4858,8 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-336",
-      "cluster": "k-aftonbladet-337",
+      "id": "expressen-340",
+      "cluster": "k-aftonbladet-341",
       "clusterSize": 3
     },
     {
@@ -4818,11 +4873,11 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-337",
+      "id": "aftonbladet-341",
       "alsoAt": [
         "SvD"
       ],
-      "cluster": "k-aftonbladet-337",
+      "cluster": "k-aftonbladet-341",
       "clusterSize": 3
     },
     {
@@ -4836,7 +4891,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-338",
+      "id": "nsk-342",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -4852,7 +4907,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-339"
+      "id": "expressen-343"
     },
     {
       "title": "Värdar rasar mot nya Airbnb-regler",
@@ -4865,7 +4920,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-340"
+      "id": "svd-344"
     },
     {
       "title": "Flickor tappar mer än pojkar: ”Oroväckande”",
@@ -4878,7 +4933,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-341"
+      "id": "svd-345"
     },
     {
       "title": "Insändare. Lägg ner Centerpartiet och Liberalerna",
@@ -4891,7 +4946,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-342"
+      "id": "dn-346"
     },
     {
       "title": "Vice partiledaren gick emot Thand Ringqvist",
@@ -4904,13 +4959,13 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-343",
+      "id": "aftonbladet-347",
       "alsoAt": [
         "SvD",
         "Norra Skåne",
         "Kristianstadsbladet"
       ],
-      "cluster": "k-aftonbladet-343",
+      "cluster": "k-aftonbladet-347",
       "clusterSize": 2
     },
     {
@@ -4924,7 +4979,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-344"
+      "id": "dn-348"
     },
     {
       "title": "Insändare. Thand Ringqvist släpar Annie Lööfs arv i smutsen",
@@ -4937,7 +4992,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-345"
+      "id": "dn-349"
     },
     {
       "title": "16-åring körde av vägen i modifierad A-traktor – åtalas",
@@ -4950,7 +5005,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-346",
+      "id": "nsk-350",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -4966,7 +5021,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-347"
+      "id": "svd-351"
     },
     {
       "title": "Experterna hyllar Timrås talang Eddie Genborg: ”Något vi inte är vana vid i svensk hockey”",
@@ -4979,7 +5034,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-348"
+      "id": "svt-sport-352"
     },
     {
       "title": "Demoskop: Förtroendet för Magdalena Andersson störtdyker",
@@ -4992,7 +5047,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-349"
+      "id": "aftonbladet-353"
     },
     {
       "title": "Elisabeth Thand Ringqvist: Finns ett beroende av SD",
@@ -5005,7 +5060,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-350"
+      "id": "aftonbladet-354"
     },
     {
       "title": "Elprischocken – dyraste räkningen på fyra år",
@@ -5018,12 +5073,12 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-351",
+      "id": "expressen-355",
       "alsoAt": [
         "SvD",
         "SVT Skåne"
       ],
-      "cluster": "k-dn-377",
+      "cluster": "k-dn-381",
       "clusterSize": 2
     },
     {
@@ -5037,7 +5092,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-352"
+      "id": "ekot-356"
     },
     {
       "title": "”Ny skatt får inte gå ut över nyhetsmedier”",
@@ -5050,7 +5105,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-353"
+      "id": "svd-357"
     },
     {
       "title": "Skottlossning i Hudiksvall – område avspärrat",
@@ -5063,7 +5118,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-354"
+      "id": "aftonbladet-358"
     },
     {
       "title": "Starshield-strulet en gåta: ”Som pingpong”",
@@ -5076,7 +5131,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-355",
+      "id": "aftonbladet-359",
       "alsoAt": [
         "SvD"
       ]
@@ -5092,7 +5147,7 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-356"
+      "id": "svt-inrikes-360"
     },
     {
       "title": "Demirok (C): Därför röstade jag nej",
@@ -5105,7 +5160,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-357"
+      "id": "expressen-361"
     },
     {
       "title": "Insändare. C bör släppa fram Kristersson – och gå i opposition",
@@ -5118,7 +5173,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-358"
+      "id": "dn-362"
     },
     {
       "title": "109 kvadratmeter stort hus gick för 995 000",
@@ -5131,7 +5186,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-359",
+      "id": "nsk-363",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -5147,7 +5202,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-360",
+      "id": "aftonbladet-364",
       "alsoAt": [
         "SvD"
       ]
@@ -5163,7 +5218,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-361"
+      "id": "aftonbladet-365"
     },
     {
       "title": "Runt 135 000 pensionärer kan ha rätt till tillägg – utan att få det",
@@ -5176,7 +5231,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-362"
+      "id": "ekot-366"
     },
     {
       "title": "Kinesisk AI drabbas av USA:s lagar",
@@ -5189,7 +5244,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-363"
+      "id": "svd-367"
     },
     {
       "title": "Säverman: Vattenfika? Nej, så här ska det gå till på konditori",
@@ -5202,7 +5257,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-364"
+      "id": "dn-368"
     },
     {
       "title": "Norska artisten Girl in red laddar depressionsdramat ”Low expectations”",
@@ -5215,7 +5270,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-365"
+      "id": "dn-369"
     },
     {
       "title": "”Vi bearbetade det tragiska hela vägen in mot OS”",
@@ -5228,7 +5283,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-366"
+      "id": "dn-370"
     },
     {
       "title": "När mamsellerna blev befordrade till fröknar",
@@ -5241,7 +5296,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-367"
+      "id": "svd-371"
     },
     {
       "title": "Dubbla signalfel drabbar pendeltågen i Stockholm",
@@ -5254,7 +5309,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-368"
+      "id": "expressen-372"
     },
     {
       "title": "Vissa rutiner finner sin form – andra kanske måste värkas fram",
@@ -5267,7 +5322,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-369",
+      "id": "nsk-373",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -5283,7 +5338,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-370",
+      "id": "aftonbladet-374",
       "alsoAt": [
         "SvD",
         "Norra Skåne",
@@ -5301,7 +5356,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-371"
+      "id": "expressen-375"
     },
     {
       "title": "Splittring inför C:s ödesmöte på söndag: ”Inte toppstyrt”",
@@ -5314,7 +5369,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-372"
+      "id": "expressen-376"
     },
     {
       "title": "Grekland fängslar båtmigranter: ”Travesti på rättvisa”",
@@ -5327,7 +5382,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-373"
+      "id": "ekot-377"
     },
     {
       "title": "Ayan Jamal: ”De skriver att jag är inkvoterad i ’På spåret’ – för att jag är somalier”",
@@ -5340,7 +5395,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-374"
+      "id": "dn-378"
     },
     {
       "title": "Vi slängdes ut av mössföretaget – trots tillstånd",
@@ -5353,7 +5408,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-375",
+      "id": "nsk-379",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -5369,7 +5424,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-376",
+      "id": "nsk-380",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -5385,11 +5440,11 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-377",
+      "id": "dn-381",
       "alsoAt": [
         "DN Ekonomi"
       ],
-      "cluster": "k-dn-377",
+      "cluster": "k-dn-381",
       "clusterSize": 2
     },
     {
@@ -5403,8 +5458,8 @@
       "color": "#e85d04",
       "category": "Lokalt",
       "paywall": false,
-      "id": "p4-kristianstad-378",
-      "cluster": "k-nsk-575",
+      "id": "p4-kristianstad-382",
+      "cluster": "k-nsk-579",
       "clusterSize": 2
     },
     {
@@ -5418,7 +5473,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-379"
+      "id": "svt-sport-383"
     },
     {
       "title": "Forskaren: Ekonomisk stress triggar impulsköp",
@@ -5431,7 +5486,7 @@
       "color": "#0f4c81",
       "category": "Ekonomi",
       "paywall": true,
-      "id": "dn-ekonomi-380"
+      "id": "dn-ekonomi-384"
     },
     {
       "title": "Tydliga inkomstklyftor under granen – så får familjen julen att gå ihop",
@@ -5444,7 +5499,7 @@
       "color": "#0f4c81",
       "category": "Ekonomi",
       "paywall": true,
-      "id": "dn-ekonomi-381"
+      "id": "dn-ekonomi-385"
     },
     {
       "title": "Så mycket mer orkar du med kreatintillskott",
@@ -5457,7 +5512,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-382"
+      "id": "dn-386"
     },
     {
       "title": "Moderaterna ingår i flest kommunstyren – fler än före valet",
@@ -5470,7 +5525,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-383"
+      "id": "ekot-387"
     },
     {
       "title": "Lita aldrig på folk som snålar med saffranet",
@@ -5483,7 +5538,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-384",
+      "id": "nsk-388",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -5499,8 +5554,8 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-385",
-      "cluster": "k-aftonbladet-389",
+      "id": "svd-389",
+      "cluster": "k-aftonbladet-393",
       "clusterSize": 3
     },
     {
@@ -5514,7 +5569,7 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-386"
+      "id": "svt-inrikes-390"
     },
     {
       "title": "Varningen: Mässling upptäck på flyg från Thailand",
@@ -5527,8 +5582,8 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-387",
-      "cluster": "k-aftonbladet-389",
+      "id": "expressen-391",
+      "cluster": "k-aftonbladet-393",
       "clusterSize": 3
     },
     {
@@ -5542,8 +5597,8 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-388",
-      "cluster": "k-dn-388",
+      "id": "dn-392",
+      "cluster": "k-dn-392",
       "clusterSize": 2
     },
     {
@@ -5557,8 +5612,8 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-389",
-      "cluster": "k-aftonbladet-389",
+      "id": "aftonbladet-393",
+      "cluster": "k-aftonbladet-393",
       "clusterSize": 3
     },
     {
@@ -5572,7 +5627,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-390"
+      "id": "ekot-394"
     },
     {
       "title": "C väljer tåget som faktiskt går",
@@ -5585,7 +5640,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-391"
+      "id": "expressen-395"
     },
     {
       "title": "Öppnade för molntjänster – nu bromsas införandet",
@@ -5598,7 +5653,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-392"
+      "id": "ekot-396"
     },
     {
       "title": "Det tog 117 år – nu finns Namn och Nytt digitalt",
@@ -5611,7 +5666,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-393"
+      "id": "dn-397"
     },
     {
       "title": "Hårdkokta läxor av härdsmältan",
@@ -5624,7 +5679,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-394"
+      "id": "svd-398"
     },
     {
       "title": "Gränsen blir luddig mellan bluffmakare och tech-vd",
@@ -5637,7 +5692,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-395",
+      "id": "nsk-399",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -5653,7 +5708,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-396"
+      "id": "ekot-400"
     },
     {
       "title": "Efter kritiken: Nu ska minutstyrningen i hemtjänsten bort",
@@ -5666,7 +5721,7 @@
       "color": "#e85d04",
       "category": "Lokalt",
       "paywall": false,
-      "id": "p4-kristianstad-397"
+      "id": "p4-kristianstad-401"
     },
     {
       "title": "Kravet om Dawit Isaak",
@@ -5679,7 +5734,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-398"
+      "id": "expressen-402"
     },
     {
       "title": "”Habibi Trump” nappar på guldkort – vill prata vård",
@@ -5692,7 +5747,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-399",
+      "id": "aftonbladet-403",
       "alsoAt": [
         "SvD"
       ]
@@ -5708,7 +5763,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-400"
+      "id": "aftonbladet-404"
     },
     {
       "title": "Mässlingsutbrott på Thailandsflyg: ”Inte kul att bli sjuk till jul”",
@@ -5721,7 +5776,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-401"
+      "id": "aftonbladet-405"
     },
     {
       "title": "Amanda Sokolnicki: Ljög du för väljarna? Frågan måste ställas",
@@ -5734,7 +5789,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-402"
+      "id": "dn-406"
     },
     {
       "title": "Uppgifter inifrån ödesmötet: Så många sa nej",
@@ -5747,7 +5802,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-403"
+      "id": "aftonbladet-407"
     },
     {
       "title": "Sopor och flis började brinna på återvinningscentral",
@@ -5760,7 +5815,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-404",
+      "id": "nsk-408",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -5776,7 +5831,7 @@
       "color": "#2a9d8f",
       "category": "Lokalt",
       "paywall": false,
-      "id": "svt-skane-405"
+      "id": "svt-skane-409"
     },
     {
       "title": "Unika förskolan i Malmö fyller 50 – fick hälsning av drottning Silvia",
@@ -5789,7 +5844,7 @@
       "color": "#2a9d8f",
       "category": "Lokalt",
       "paywall": false,
-      "id": "svt-skane-406"
+      "id": "svt-skane-410"
     },
     {
       "title": "Varningen från skogen: ”Är ju vi som får stryk”",
@@ -5802,7 +5857,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-407"
+      "id": "svd-411"
     },
     {
       "title": "Spoilervarning: Du har dålig filmsmak",
@@ -5815,7 +5870,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-408"
+      "id": "svd-412"
     },
     {
       "title": "”Märkte en stank – sen såg jag två nakna fötter”",
@@ -5828,7 +5883,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-409"
+      "id": "svd-413"
     },
     {
       "title": "Poliserna om unga som rekryteras: ”Swish är ett tecken”",
@@ -5841,7 +5896,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-410"
+      "id": "aftonbladet-414"
     },
     {
       "title": "Costa Rica portar FN-rapportör",
@@ -5854,7 +5909,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-411",
+      "id": "aftonbladet-415",
       "alsoAt": [
         "SVT Utrikes"
       ]
@@ -5870,7 +5925,7 @@
       "color": "#1a1a1a",
       "category": "Världen",
       "paywall": false,
-      "id": "svt-utrikes-412"
+      "id": "svt-utrikes-416"
     },
     {
       "title": "Spricka i C: ”Riskerar att bryta isär partiet”",
@@ -5883,7 +5938,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-413"
+      "id": "ekot-417"
     },
     {
       "title": "Kvinnlig anställd fast hos man på boende – till polis larmats dit",
@@ -5896,7 +5951,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-414",
+      "id": "nsk-418",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -5912,7 +5967,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-415",
+      "id": "nsk-419",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -5928,7 +5983,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-416"
+      "id": "expressen-420"
     },
     {
       "title": "Stormar i USA – 900 000 strömlösa",
@@ -5941,7 +5996,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-417",
+      "id": "aftonbladet-421",
       "alsoAt": [
         "SvD"
       ]
@@ -5957,7 +6012,7 @@
       "color": "#1a1a1a",
       "category": "Världen",
       "paywall": false,
-      "id": "svt-utrikes-418"
+      "id": "svt-utrikes-422"
     },
     {
       "title": "Zelenskyjs kritik mot Trump: ”Har många frågor”",
@@ -5970,7 +6025,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-419",
+      "id": "aftonbladet-423",
       "alsoAt": [
         "SvD"
       ]
@@ -5986,7 +6041,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-420"
+      "id": "expressen-424"
     },
     {
       "title": "Sverige vägrade vara med på möte i Bryssel",
@@ -5999,8 +6054,8 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-421",
-      "cluster": "k-aftonbladet-428",
+      "id": "ekot-425",
+      "cluster": "k-aftonbladet-432",
       "clusterSize": 2
     },
     {
@@ -6014,7 +6069,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-422"
+      "id": "ekot-426"
     },
     {
       "title": "Trump osäker på Putins deltagande på G20",
@@ -6027,7 +6082,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-423",
+      "id": "aftonbladet-427",
       "alsoAt": [
         "SvD"
       ]
@@ -6043,7 +6098,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-424",
+      "id": "aftonbladet-428",
       "alsoAt": [
         "SvD"
       ]
@@ -6059,8 +6114,8 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-425",
-      "cluster": "k-aftonbladet-573",
+      "id": "expressen-429",
+      "cluster": "k-aftonbladet-577",
       "clusterSize": 3
     },
     {
@@ -6074,7 +6129,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-426"
+      "id": "dn-430"
     },
     {
       "title": "Vann tio miljoner – greps direkt efteråt",
@@ -6087,7 +6142,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-427"
+      "id": "expressen-431"
     },
     {
       "title": "Fiasko för budgetmöte – Sverige vägrade vara med",
@@ -6100,14 +6155,14 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-428",
+      "id": "aftonbladet-432",
       "alsoAt": [
         "SvD",
         "SVT Utrikes",
         "Norra Skåne",
         "Kristianstadsbladet"
       ],
-      "cluster": "k-aftonbladet-428",
+      "cluster": "k-aftonbladet-432",
       "clusterSize": 2
     },
     {
@@ -6121,7 +6176,7 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-429"
+      "id": "svt-inrikes-433"
     },
     {
       "title": "”Gifter sig perfekt med lussekatterna”",
@@ -6134,7 +6189,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-430"
+      "id": "svd-434"
     },
     {
       "title": "”Varför ska man hitta på nya smaker?”",
@@ -6147,7 +6202,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-431"
+      "id": "svd-435"
     },
     {
       "title": "”Pölsan fick oss att börja gråta”",
@@ -6160,7 +6215,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-432"
+      "id": "svd-436"
     },
     {
       "title": "Duka för julbord med historia",
@@ -6173,7 +6228,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-433"
+      "id": "svd-437"
     },
     {
       "title": "Namn och Nytt: Muminmugg och Nora-Misse",
@@ -6186,7 +6241,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-434"
+      "id": "dn-438"
     },
     {
       "title": "Barnkonventionen måste vara mer än vackra ord",
@@ -6199,7 +6254,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-435",
+      "id": "nsk-439",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -6215,7 +6270,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-436",
+      "id": "nsk-440",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -6231,7 +6286,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-437",
+      "id": "nsk-441",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -6247,7 +6302,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-438",
+      "id": "nsk-442",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -6263,7 +6318,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-439",
+      "id": "nsk-443",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -6279,7 +6334,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-440",
+      "id": "nsk-444",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -6295,7 +6350,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-441"
+      "id": "aftonbladet-445"
     },
     {
       "title": "Grät i intervjun efter C-beskedet: Hatar politik",
@@ -6308,7 +6363,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-442"
+      "id": "aftonbladet-446"
     },
     {
       "title": "Furtenbach om C:s besked: ”En kris för Socialdemokraterna”",
@@ -6321,8 +6376,8 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-443",
-      "cluster": "k-ekot-443",
+      "id": "ekot-447",
+      "cluster": "k-ekot-447",
       "clusterSize": 2
     },
     {
@@ -6336,7 +6391,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-444"
+      "id": "expressen-448"
     },
     {
       "title": "Kör mot rött – då kommer tåget",
@@ -6349,7 +6404,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-445"
+      "id": "expressen-449"
     },
     {
       "title": "Centerpartiet i Skåne står bakom beslutet om Kristersson (M)",
@@ -6362,11 +6417,11 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-446",
+      "id": "nsk-450",
       "alsoAt": [
         "Kristianstadsbladet"
       ],
-      "cluster": "k-nsk-446",
+      "cluster": "k-nsk-450",
       "clusterSize": 2
     },
     {
@@ -6380,7 +6435,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-447"
+      "id": "expressen-451"
     },
     {
       "title": "Bil förstörd i brand i Åhus: ”Nog en totalskada”",
@@ -6393,7 +6448,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-448",
+      "id": "nsk-452",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -6409,7 +6464,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-449"
+      "id": "expressen-453"
     },
     {
       "title": "Total kalabalik i Europa League – skandalscener på läktaren",
@@ -6422,7 +6477,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-450"
+      "id": "svt-sport-454"
     },
     {
       "title": "VV-84 Bjuv för tuffa för Willands – förlust med 5-9",
@@ -6435,7 +6490,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-451",
+      "id": "nsk-455",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -6451,7 +6506,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-452"
+      "id": "svd-456"
     },
     {
       "title": "Originaltrogen ”Jekyll & Hyde” på teatern: ”En berättelse om det mänskliga psyket”",
@@ -6464,7 +6519,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-453",
+      "id": "nsk-457",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -6480,7 +6535,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-454",
+      "id": "nsk-458",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -6496,7 +6551,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-455"
+      "id": "expressen-459"
     },
     {
       "title": "Bäckström målskytt – när Glimma föll",
@@ -6509,7 +6564,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-456",
+      "id": "nsk-460",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -6525,7 +6580,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-457"
+      "id": "svt-sport-461"
     },
     {
       "title": "Rättspsykiatrin inte redo för 14-åringar – Bris kritiska",
@@ -6538,7 +6593,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-458"
+      "id": "ekot-462"
     },
     {
       "title": "Osby vann – avgjorde i tredje",
@@ -6551,7 +6606,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-459",
+      "id": "nsk-463",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -6567,7 +6622,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-460"
+      "id": "ekot-464"
     },
     {
       "title": "Bussolycka på E4",
@@ -6580,7 +6635,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-461"
+      "id": "expressen-465"
     },
     {
       "title": "Insikten – svårare att hjälpa sig själv än andra",
@@ -6593,7 +6648,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-462"
+      "id": "svd-466"
     },
     {
       "title": "Jonny, 63: Så fångar du julstämning på första advent",
@@ -6606,7 +6661,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-463",
+      "id": "nsk-467",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -6622,8 +6677,8 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-464",
-      "cluster": "k-expressen-464",
+      "id": "expressen-468",
+      "cluster": "k-expressen-468",
       "clusterSize": 2
     },
     {
@@ -6637,7 +6692,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-465",
+      "id": "nsk-469",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -6653,7 +6708,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-466"
+      "id": "aftonbladet-470"
     },
     {
       "title": "Ulf Kristersson störst i ny förtroendemätning",
@@ -6666,7 +6721,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-467",
+      "id": "aftonbladet-471",
       "alsoAt": [
         "SvD"
       ]
@@ -6682,7 +6737,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-468"
+      "id": "svt-sport-472"
     },
     {
       "title": "C i Stockholm sågar beslutet – kommer inte rösta ja",
@@ -6695,7 +6750,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-469"
+      "id": "ekot-473"
     },
     {
       "title": "26 november: Missa inte dagens nyheter",
@@ -6708,7 +6763,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-470"
+      "id": "dn-474"
     },
     {
       "title": "Här slår stjärnan till domaren när Djurgården förlorade femte raka",
@@ -6721,7 +6776,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-471"
+      "id": "svt-sport-475"
     },
     {
       "title": "Går mot ledningen: Lovat väljarna",
@@ -6734,7 +6789,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-472"
+      "id": "svd-476"
     },
     {
       "title": "Kristersson: Partier kommer inte sura i fyra år",
@@ -6747,7 +6802,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-473",
+      "id": "aftonbladet-477",
       "alsoAt": [
         "SvD"
       ]
@@ -6763,7 +6818,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-474"
+      "id": "dn-478"
     },
     {
       "title": "Så undviker du fallgropar under Black Friday",
@@ -6776,7 +6831,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-475",
+      "id": "nsk-479",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -6792,7 +6847,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-476"
+      "id": "expressen-480"
     },
     {
       "title": "Därför är elen så dyr just nu",
@@ -6805,7 +6860,7 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-477"
+      "id": "svt-inrikes-481"
     },
     {
       "title": "Prisas efter att ha hjälpt löpare som kollapsade på Boston Marathon",
@@ -6818,7 +6873,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-478"
+      "id": "svt-sport-482"
     },
     {
       "title": "Sandra Stiskalo: Mindre sex – men är det nödvändigtvis deppigt?",
@@ -6831,7 +6886,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-479"
+      "id": "dn-483"
     },
     {
       "title": "108-åringen är Finlands sista manliga veteran från vinterkriget",
@@ -6844,7 +6899,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-480"
+      "id": "dn-484"
     },
     {
       "title": "Nu blir det lättare att göra abort: ”En seger”",
@@ -6857,7 +6912,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-481"
+      "id": "aftonbladet-485"
     },
     {
       "title": "Anderssons smocka – halkar flera steg ned",
@@ -6870,7 +6925,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-482"
+      "id": "svd-486"
     },
     {
       "title": "Marcus vägrar Swish – tjänar på varje köp",
@@ -6883,7 +6938,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-483"
+      "id": "svd-487"
     },
     {
       "title": "Kristersson (M): ”Ett mycket välkommet besked”",
@@ -6896,8 +6951,8 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-484",
-      "cluster": "k-ekot-484",
+      "id": "ekot-488",
+      "cluster": "k-ekot-488",
       "clusterSize": 2
     },
     {
@@ -6911,7 +6966,7 @@
       "color": "#2a9d8f",
       "category": "Lokalt",
       "paywall": false,
-      "id": "svt-skane-485"
+      "id": "svt-skane-489"
     },
     {
       "title": "Fick böter från Bolt – trots godkänd parkering",
@@ -6924,7 +6979,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-486"
+      "id": "expressen-490"
     },
     {
       "title": "Glädjesiffran: Aldrig har så många lyckats ta studenten",
@@ -6937,7 +6992,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-487"
+      "id": "ekot-491"
     },
     {
       "title": "Sverige föll i EM-genrepet mot Island",
@@ -6950,7 +7005,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-488"
+      "id": "svt-sport-492"
     },
     {
       "title": "C-kvinnornas ordförande: ”Klart att jag är besviken”",
@@ -6963,7 +7018,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-489"
+      "id": "ekot-493"
     },
     {
       "title": "Therese var beroende av opioider: ”Åt enorma mängder”",
@@ -6976,7 +7031,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-490"
+      "id": "ekot-494"
     },
     {
       "title": "Thand Ringqvists interna brev efter vägvalet: ”En tuff sits”",
@@ -6989,7 +7044,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-491"
+      "id": "expressen-495"
     },
     {
       "title": "Går det att dikta om Israels krigsbrott?",
@@ -7002,7 +7057,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-492"
+      "id": "svd-496"
     },
     {
       "title": "Avslöjar: Biel Nilsen på väg att lämna IFK – för Danmark",
@@ -7015,7 +7070,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-493",
+      "id": "nsk-497",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -7031,7 +7086,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-494",
+      "id": "nsk-498",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -7047,7 +7102,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-495"
+      "id": "expressen-499"
     },
     {
       "title": "Dödlig attack mot saudiskt oljeraffinaderi",
@@ -7060,7 +7115,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-496"
+      "id": "aftonbladet-500"
     },
     {
       "title": "Fånga tjuven på film – då kan du själv göra fel",
@@ -7073,7 +7128,7 @@
       "color": "#e85d04",
       "category": "Lokalt",
       "paywall": false,
-      "id": "p4-kristianstad-497"
+      "id": "p4-kristianstad-501"
     },
     {
       "title": "Gissén: ”Ett omvälvande beslut för Centerpartiet”",
@@ -7086,7 +7141,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-498"
+      "id": "ekot-502"
     },
     {
       "title": "Från magiker till världens just nu hetaste regissör – det här är Nathan Fielder",
@@ -7099,7 +7154,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-499"
+      "id": "dn-503"
     },
     {
       "title": "”Fel att pengar till forskning stryks”",
@@ -7112,7 +7167,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-500"
+      "id": "svd-504"
     },
     {
       "title": "Statsvetaren: C riskerar svekdebatt oavsett",
@@ -7125,7 +7180,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-501",
+      "id": "aftonbladet-505",
       "alsoAt": [
         "SvD"
       ]
@@ -7141,7 +7196,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-502"
+      "id": "ekot-506"
     },
     {
       "title": "Birgitta Ohlsson (C): ”Fel väg att gå”",
@@ -7154,7 +7209,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-503"
+      "id": "expressen-507"
     },
     {
       "title": "Hett lussebullsbråk i talarstolen: ”Du far med osanning”",
@@ -7167,7 +7222,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-504"
+      "id": "dn-508"
     },
     {
       "title": "Afghanska ”Det finns inga bra karlar” skämtar om förtryck och sexleksaker",
@@ -7180,7 +7235,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-505"
+      "id": "dn-509"
     },
     {
       "title": "C-ledamot ska rösta nej till Kristersson: ”Oerhört upprörd”",
@@ -7193,8 +7248,8 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-506",
-      "cluster": "k-expressen-464",
+      "id": "svt-inrikes-510",
+      "cluster": "k-expressen-468",
       "clusterSize": 2
     },
     {
@@ -7208,7 +7263,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-507"
+      "id": "dn-511"
     },
     {
       "title": "Hoppet det sista som överger C",
@@ -7221,7 +7276,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-508"
+      "id": "svd-512"
     },
     {
       "title": "Richard Jomshofs tårthån mot Magdalena Andersson",
@@ -7234,7 +7289,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-509"
+      "id": "expressen-513"
     },
     {
       "title": "Stormvarning stör USA:s Thanksgiving-firande",
@@ -7247,7 +7302,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-510"
+      "id": "aftonbladet-514"
     },
     {
       "title": "Splittring inom C – så tycker de lokala politikerna",
@@ -7260,7 +7315,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-511",
+      "id": "nsk-515",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -7276,7 +7331,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-512"
+      "id": "dn-516"
     },
     {
       "title": "Tomas Ramberg: Det blev Thand Ringqvist som höll i yxan",
@@ -7289,7 +7344,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-513"
+      "id": "dn-517"
     },
     {
       "title": "Konkurs för företag i Kristianstad",
@@ -7302,7 +7357,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-514",
+      "id": "nsk-518",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -7318,7 +7373,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-515",
+      "id": "nsk-519",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -7334,7 +7389,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-516",
+      "id": "aftonbladet-520",
       "alsoAt": [
         "SvD"
       ]
@@ -7350,7 +7405,7 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-517"
+      "id": "svt-inrikes-521"
     },
     {
       "title": "Bråk om rum i rådhuset – L jämför Malmöstyret med Ryssland",
@@ -7363,7 +7418,7 @@
       "color": "#2a9d8f",
       "category": "Lokalt",
       "paywall": false,
-      "id": "svt-skane-518"
+      "id": "svt-skane-522"
     },
     {
       "title": "Eva Baltasars lesbiska kvinnor kämpar med begär och radikal frihet",
@@ -7376,7 +7431,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-519"
+      "id": "dn-523"
     },
     {
       "title": "Maxida Märak på turné – kommer till Hässleholm",
@@ -7389,7 +7444,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-520",
+      "id": "nsk-524",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -7405,7 +7460,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-521",
+      "id": "nsk-525",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -7421,7 +7476,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-522"
+      "id": "dn-526"
     },
     {
       "title": "Insändare. Noterat av DN:s läsare den 26 november",
@@ -7434,7 +7489,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-523"
+      "id": "dn-527"
     },
     {
       "title": "C-ledningen säger ja till Ulf Kristersson",
@@ -7447,7 +7502,7 @@
       "color": "#1a1a1a",
       "category": "Sverige",
       "paywall": false,
-      "id": "svt-inrikes-524"
+      "id": "svt-inrikes-528"
     },
     {
       "title": "Kronprinsessan Victorias oro: ”Åh, ni är så hotade”",
@@ -7460,7 +7515,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-525"
+      "id": "expressen-529"
     },
     {
       "title": "Kinas ilska mot Trump: ”Allvarlig skada”",
@@ -7473,7 +7528,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-526"
+      "id": "expressen-530"
     },
     {
       "title": "Splittringen i C: ”Kommer ta oss igenom det här”",
@@ -7486,7 +7541,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-527"
+      "id": "aftonbladet-531"
     },
     {
       "title": "UD kallade upp Rysslands ambassadör",
@@ -7499,7 +7554,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-528"
+      "id": "aftonbladet-532"
     },
     {
       "title": "Anna-Lena Laurén: Det är något som dör när en stad får för många besökare",
@@ -7512,7 +7567,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-529"
+      "id": "dn-533"
     },
     {
       "title": "Furtenbach: ”Svarade inte på hur det ska gå till”",
@@ -7525,7 +7580,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-530"
+      "id": "ekot-534"
     },
     {
       "title": "Så reagerar partiledarna på C:s besked: ”Skulle vara historiskt svag”",
@@ -7538,7 +7593,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-531"
+      "id": "aftonbladet-535"
     },
     {
       "title": "Norsk spykavalkad i premiären: ”Det ser inte så skönt ut”",
@@ -7551,7 +7606,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-532"
+      "id": "svt-sport-536"
     },
     {
       "title": "Första förlusten för Mjällby i Europa – föll mot Kairat Almaty",
@@ -7564,7 +7619,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-533"
+      "id": "svt-sport-537"
     },
     {
       "title": "Engla Nilsson ställer in säsongen – tvingas till operation",
@@ -7577,7 +7632,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-534"
+      "id": "svt-sport-538"
     },
     {
       "title": "Partistyrelse säger ja till Kristersson – C-ledarens avgångshot vid extraval",
@@ -7590,8 +7645,8 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-535",
-      "cluster": "k-aftonbladet-584",
+      "id": "dn-539",
+      "cluster": "k-aftonbladet-588",
       "clusterSize": 2
     },
     {
@@ -7605,7 +7660,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-536"
+      "id": "aftonbladet-540"
     },
     {
       "title": "Lakvatten kan renas från PFAS med ny metod",
@@ -7618,7 +7673,7 @@
       "color": "#3a7d44",
       "category": "Vetenskap",
       "paywall": false,
-      "id": "forskning-537"
+      "id": "forskning-541"
     },
     {
       "title": "Kristersson efter C:s möte: ”Välkommet besked”",
@@ -7631,8 +7686,8 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-538",
-      "cluster": "k-ekot-484",
+      "id": "expressen-542",
+      "cluster": "k-ekot-488",
       "clusterSize": 2
     },
     {
@@ -7646,7 +7701,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-539"
+      "id": "svt-sport-543"
     },
     {
       "title": "Lisa Eriksson om lärdomarna efter avstängningen: ”Smartare nu”",
@@ -7659,7 +7714,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-540"
+      "id": "svt-sport-544"
     },
     {
       "title": "Thand Ringqvist hotade med att avgå",
@@ -7672,7 +7727,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-541"
+      "id": "svd-545"
     },
     {
       "title": "Thand Ringqvist: Inget organiserat samarbete med SD",
@@ -7685,7 +7740,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-542"
+      "id": "ekot-546"
     },
     {
       "title": "Frida Karlsson: ”Det har tärt på mig”",
@@ -7698,7 +7753,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-543",
+      "id": "nsk-547",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -7714,7 +7769,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-544"
+      "id": "aftonbladet-548"
     },
     {
       "title": "Susanne Nyström: Centerpartiet är på väg mot fullt inbördeskrig",
@@ -7727,7 +7782,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-545"
+      "id": "dn-549"
     },
     {
       "title": "Dubbelbyte Mjällby – som jagar kvittering i Kazakstan",
@@ -7740,7 +7795,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-546",
+      "id": "nsk-550",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -7756,7 +7811,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-547"
+      "id": "expressen-551"
     },
     {
       "title": "Andersson: Skulle vara en historiskt svag regering",
@@ -7769,7 +7824,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-548",
+      "id": "aftonbladet-552",
       "alsoAt": [
         "SvD"
       ]
@@ -7785,7 +7840,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-549"
+      "id": "dn-553"
     },
     {
       "title": "Nya styret siktar på att skrota hela kvalitetsklivet",
@@ -7798,7 +7853,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-550",
+      "id": "nsk-554",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -7814,7 +7869,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-551",
+      "id": "nsk-555",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -7830,7 +7885,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-552",
+      "id": "nsk-556",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -7846,7 +7901,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-553"
+      "id": "dn-557"
     },
     {
       "title": "Thand Ringqvist vill att Centerpartiet röstar ja till Kristersson",
@@ -7859,7 +7914,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-554"
+      "id": "ekot-558"
     },
     {
       "title": "Amerikansk skrällvinst – tungt för svenskarna",
@@ -7872,8 +7927,8 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-555",
-      "cluster": "k-dn-555",
+      "id": "dn-559",
+      "cluster": "k-dn-559",
       "clusterSize": 2
     },
     {
@@ -7887,7 +7942,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-556"
+      "id": "svd-560"
     },
     {
       "title": "Tågen mellan Malmö och Köpenhamn kör igen",
@@ -7900,7 +7955,7 @@
       "color": "#2a9d8f",
       "category": "Lokalt",
       "paywall": false,
-      "id": "svt-skane-557"
+      "id": "svt-skane-561"
     },
     {
       "title": "Graeme Clarke gör samma sak – i varje byte: ”Kanske för mycket...”",
@@ -7913,7 +7968,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-558"
+      "id": "svt-sport-562"
     },
     {
       "title": "Centerpartiets beslut: Vill bilda borgerlig regering",
@@ -7926,8 +7981,8 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-559",
-      "cluster": "k-ekot-443",
+      "id": "expressen-563",
+      "cluster": "k-ekot-447",
       "clusterSize": 2
     },
     {
@@ -7941,7 +7996,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-560",
+      "id": "nsk-564",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -7957,7 +8012,7 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-561"
+      "id": "svt-sport-565"
     },
     {
       "title": "Språkrören om C-beskedet: ”Det är inte för sent”",
@@ -7970,7 +8025,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-562"
+      "id": "dn-566"
     },
     {
       "title": "Campbell Wright skrällde i världscuppremiären – karriärens första seger",
@@ -7983,8 +8038,8 @@
       "color": "#1a1a1a",
       "category": "Sport",
       "paywall": false,
-      "id": "svt-sport-563",
-      "cluster": "k-dn-555",
+      "id": "svt-sport-567",
+      "cluster": "k-dn-559",
       "clusterSize": 2
     },
     {
@@ -7998,7 +8053,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-564"
+      "id": "dn-568"
     },
     {
       "title": "Brand på Allöverket: ”Inne i silon”",
@@ -8011,7 +8066,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-565",
+      "id": "nsk-569",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -8027,7 +8082,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-566"
+      "id": "expressen-570"
     },
     {
       "title": "Mäklarprofil blir av med licensen – igen",
@@ -8040,7 +8095,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-567",
+      "id": "nsk-571",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -8056,7 +8111,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-568"
+      "id": "expressen-572"
     },
     {
       "title": "Huset i Västra Torup sålt på nytt",
@@ -8069,7 +8124,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-569",
+      "id": "nsk-573",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -8085,7 +8140,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-570",
+      "id": "nsk-574",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -8101,8 +8156,8 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-571",
-      "cluster": "k-aftonbladet-573",
+      "id": "svd-575",
+      "cluster": "k-aftonbladet-577",
       "clusterSize": 3
     },
     {
@@ -8116,7 +8171,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-572"
+      "id": "aftonbladet-576"
     },
     {
       "title": "Trump: Putin borde dra tillbaka hoten mot Europa",
@@ -8129,8 +8184,8 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-573",
-      "cluster": "k-aftonbladet-573",
+      "id": "aftonbladet-577",
+      "cluster": "k-aftonbladet-577",
       "clusterSize": 3
     },
     {
@@ -8144,7 +8199,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-574"
+      "id": "svd-578"
     },
     {
       "title": "Mordmisstänkt släppt – polisen väntar på fler svar",
@@ -8157,11 +8212,11 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-575",
+      "id": "nsk-579",
       "alsoAt": [
         "Kristianstadsbladet"
       ],
-      "cluster": "k-nsk-575",
+      "cluster": "k-nsk-579",
       "clusterSize": 2
     },
     {
@@ -8175,7 +8230,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-576"
+      "id": "svd-580"
     },
     {
       "title": "Paradox för Europa – bolagen tvingas flytta",
@@ -8188,7 +8243,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-577"
+      "id": "svd-581"
     },
     {
       "title": "Tydligt tecken – nu formas regeringen",
@@ -8201,7 +8256,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-578"
+      "id": "svd-582"
     },
     {
       "title": "Rekordhög skatt på sparande – så påverkas du",
@@ -8214,7 +8269,7 @@
       "color": "#e85d04",
       "category": "Lokalt",
       "paywall": false,
-      "id": "p4-kristianstad-579"
+      "id": "p4-kristianstad-583"
     },
     {
       "title": "Gissén: Majoriteten inom C är för Kristersson-spåret",
@@ -8227,7 +8282,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-580"
+      "id": "ekot-584"
     },
     {
       "title": "Guld och silver när Sveriges kocklandslag gjorde upp med världseliten",
@@ -8240,7 +8295,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-581"
+      "id": "dn-585"
     },
     {
       "title": "Pekas ut som C-ministrar: Thand kan peta Busch",
@@ -8253,7 +8308,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-582"
+      "id": "expressen-586"
     },
     {
       "title": "Sossarna har tappat det",
@@ -8266,7 +8321,7 @@
       "color": "#6a4c93",
       "category": "Lokalt",
       "paywall": true,
-      "id": "nsk-583",
+      "id": "nsk-587",
       "alsoAt": [
         "Kristianstadsbladet"
       ]
@@ -8282,12 +8337,12 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-584",
+      "id": "aftonbladet-588",
       "alsoAt": [
         "Norra Skåne",
         "Kristianstadsbladet"
       ],
-      "cluster": "k-aftonbladet-584",
+      "cluster": "k-aftonbladet-588",
       "clusterSize": 2
     },
     {
@@ -8301,7 +8356,7 @@
       "color": "#2b2b2b",
       "category": "Sverige",
       "paywall": true,
-      "id": "svd-585"
+      "id": "svd-589"
     },
     {
       "title": "Centerpartiet blixtinkallar till pressträff",
@@ -8314,7 +8369,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-586"
+      "id": "expressen-590"
     },
     {
       "title": "Georgien på väg att förbjuda de stora oppositionspartierna",
@@ -8327,7 +8382,7 @@
       "color": "#1d4e89",
       "category": "Sverige",
       "paywall": false,
-      "id": "ekot-587"
+      "id": "ekot-591"
     },
     {
       "title": "Nicholas Wennö: Här är veckans bästa strömningstips",
@@ -8340,7 +8395,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-588"
+      "id": "dn-592"
     },
     {
       "title": "Sågar Trump",
@@ -8353,7 +8408,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-589"
+      "id": "expressen-593"
     },
     {
       "title": "Vattenfalls höjer priset för 900 000 hushåll",
@@ -8366,7 +8421,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-590"
+      "id": "expressen-594"
     },
     {
       "title": "Högerradikala Vox: På tröskeln till historisk framgång",
@@ -8379,7 +8434,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-591"
+      "id": "dn-595"
     },
     {
       "title": "Slow-tv: Följ Gävlebocken live",
@@ -8392,7 +8447,7 @@
       "color": "#d2232a",
       "category": "Sverige",
       "paywall": false,
-      "id": "expressen-592"
+      "id": "expressen-596"
     },
     {
       "title": "Här går de rödgröna ihop – kör över regeringen: ”Våra armar är öppna”",
@@ -8405,7 +8460,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-593"
+      "id": "aftonbladet-597"
     },
     {
       "title": "Insändare. Flytta avgörandet av allsvenskan till midsommartid",
@@ -8418,7 +8473,7 @@
       "color": "#0f4c81",
       "category": "Sverige",
       "paywall": true,
-      "id": "dn-594"
+      "id": "dn-598"
     },
     {
       "title": "Knivman på engelskt tåg dömd för flera mordförsök",
@@ -8431,62 +8486,7 @@
       "color": "#c8102e",
       "category": "Sverige",
       "paywall": false,
-      "id": "aftonbladet-595"
-    },
-    {
-      "title": "”Focker-in-law” är en helt onödig uppföljare",
-      "link": "https://www.nsk.se/kultur/focker-in-law-ar-en-helt-onodig-uppfoljare/",
-      "summary": "Ett kvartsekel efter den första filmen om Greg Focker och hans iskalla svärfar Jack Byrnes är det dags för Greg att själv bli svärfar. Det är lika förutsägbart som det låter.",
-      "date": "2026-11-26T15:00:00.000Z",
-      "image": "https://static.bonniernews.se/ba/2adc362d-3787-418e-b9d0-87f2fa89c63d.jpeg?width=600",
-      "sourceId": "nsk",
-      "source": "Norra Skåne",
-      "color": "#6a4c93",
-      "category": "Lokalt",
-      "paywall": true,
-      "id": "nsk-596",
-      "alsoAt": [
-        "Kristianstadsbladet"
-      ]
-    },
-    {
-      "title": "Israeliska stjärnjournalisten Lee Yaron: ”En ny regering är en möjlighet att återuppväcka en tvåstatslösning”",
-      "link": "https://www.dn.se/kultur/israeliska-stjarnjournalisten-lee-yaron-en-ny-regering-ar-en-mojlighet-att-ateruppvacka-en/",
-      "summary": "Den israeliska författaren Lee Yaron är nära vän med mannen som har chans att bilda en ny regering i Israel. Hon uppmanar Gadi Eisenkot att hedra offren för Hamas terrorattack den 7 oktober genom att forma en regeringskoalition med Israels arabiska minoritet.",
-      "date": "2026-11-26T14:59:09.000Z",
-      "image": "https://static.bonniernews.se/ba/9f6b05cd-2bf5-412f-a270-8551e5faab50.jpeg?io=1&width=1000",
-      "sourceId": "dn",
-      "source": "DN",
-      "color": "#0f4c81",
-      "category": "Sverige",
-      "paywall": true,
-      "id": "dn-597"
-    },
-    {
-      "title": "Kulturdebatt. Därför kan AI-slask bli en ny form av förvanskning av Förintelsen",
-      "link": "https://www.dn.se/kultur/darfor-kan-ai-slask-bli-en-ny-form-av-forvanskning-av-forintelsen/",
-      "summary": "Nu gör AI-bilderna sitt intåg också i minnesarbetet kring Förintelsen. Det riskerar att förvränga en viktig historisk erfarenhet till sentimentala klichéer. Det skriver forskarna Ingjerd Veiden Brakstad och Karin Kvist Geverts på minnesdagen för de norska judarnas deportation den 26 november 1942.",
-      "date": "2026-11-26T14:52:41.000Z",
-      "image": "https://static.bonniernews.se/ba/ba3c75ca-0618-40eb-985b-f95e136d8e9d.jpeg?io=1&width=1000",
-      "sourceId": "dn",
-      "source": "DN",
-      "color": "#0f4c81",
-      "category": "Sverige",
-      "paywall": true,
-      "id": "dn-598"
-    },
-    {
-      "title": "JO kritiserar häktet i Kristianstad – toadörrar saknas",
-      "link": "https://www.svt.se/nyheter/lokalt/skane/jo-kritiserar-haktet-i-kristianstad-toadorrar-saknas",
-      "summary": "Häktade i Kristianstad har ingen dörr till toaletten. De som bor i dubbelcell måste uträtta sina behov inför cellkamraten – utan att kunna stänga om sig. Justitieombudsmannen (JO) kritiserar nu toalettsituationen i det nya häktet.",
-      "date": "2026-11-26T14:51:58.000Z",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.7/0.53/619b33980812053f2ee62586dd09b4e136c22e1a4ddd1da754c41b41668e3da3",
-      "sourceId": "svt-skane",
-      "source": "SVT Skåne",
-      "color": "#2a9d8f",
-      "category": "Lokalt",
-      "paywall": false,
-      "id": "svt-skane-599"
+      "id": "aftonbladet-599"
     }
   ]
 }

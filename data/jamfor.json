@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-28T01:26:31.469Z",
+  "updated": "2026-11-28T03:00:50.897Z",
   "clusters": [
     {
-      "id": "k-aftonbladet-4",
+      "id": "k-aftonbladet-8",
       "sources": 5,
       "latest": "2026-11-27T23:33:26.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/b54a3864-c9f4-425f-91a1-df2811f52b87.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-78",
+          "id": "dn-82",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Tysk polis misstänker terrorförberedelser mot synagoga i Sverige",
@@ -19,7 +19,7 @@
           "paywall": true
         },
         {
-          "id": "ekot-71",
+          "id": "ekot-75",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Tysk polis misstänker terrorplaner mot synagoga i Sverige",
@@ -29,7 +29,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-16",
+          "id": "expressen-20",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Källor: Tysk polis utreder terrorplaner i Malmö",
@@ -39,7 +39,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-4",
+          "id": "aftonbladet-8",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Uppgifter: Misstänks ha planerat terrordåd i Malmö",
@@ -52,7 +52,7 @@
           ]
         },
         {
-          "id": "svt-inrikes-2",
+          "id": "svt-inrikes-6",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Uppgifter: Misstänkta terrorplaner mot Malmö",
@@ -64,14 +64,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-308",
+      "id": "k-aftonbladet-312",
       "sources": 5,
       "latest": "2026-11-27T09:12:37.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/8f840c80-b81e-4458-aecc-59a119f9fcba.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-311",
+          "id": "dn-315",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Officer vid Försvarsmakten misstänks för brott mot Sveriges säkerhet",
@@ -81,7 +81,7 @@
           "paywall": true
         },
         {
-          "id": "aftonbladet-308",
+          "id": "aftonbladet-312",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Officer misstänks för brott mot landets säkerhet",
@@ -91,7 +91,7 @@
           "paywall": false
         },
         {
-          "id": "svt-inrikes-307",
+          "id": "svt-inrikes-311",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Officer misstänks för brott mot Sveriges säkerhet",
@@ -105,7 +105,7 @@
           ]
         },
         {
-          "id": "ekot-305",
+          "id": "ekot-309",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Uppgifter: Officer misstänks för brott mot Sveriges säkerhet",
@@ -115,7 +115,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-301",
+          "id": "expressen-305",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Svensk officer utreds",
@@ -127,14 +127,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-290",
+      "id": "k-aftonbladet-294",
       "sources": 4,
       "latest": "2026-11-27T10:21:06.000Z",
       "category": "Sverige",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.4/0.37/4f4353523e56466346abd59045e648734f6f62ff9608a5ddf396b2fa2e642c55",
       "versions": [
         {
-          "id": "svt-inrikes-292",
+          "id": "svt-inrikes-296",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Uppgifter: Vice partiledaren gick emot Thand Ringqvist",
@@ -144,7 +144,7 @@
           "paywall": false
         },
         {
-          "id": "aftonbladet-290",
+          "id": "aftonbladet-294",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Uppgift: Vice partiledaren ville rösta nej",
@@ -154,7 +154,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-288",
+          "id": "expressen-292",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Splittring i C-toppen",
@@ -164,7 +164,7 @@
           "paywall": false
         },
         {
-          "id": "svd-277",
+          "id": "svd-281",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Flera partitoppar röstade emot C-beslutet",
@@ -176,14 +176,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-125",
+      "id": "k-aftonbladet-129",
       "sources": 3,
       "latest": "2026-11-27T18:33:19.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/b6c280c3-cb67-3f38-8aaa-954af37d2730?format=auto&w=1000&s=5b643d922b5070c42a31382817fb818bc19c4542",
       "versions": [
         {
-          "id": "aftonbladet-125",
+          "id": "aftonbladet-129",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Ledare för svältsekt dömd för över hundra dråp",
@@ -193,7 +193,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-105",
+          "id": "ekot-109",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Sektledaren döms igen – uppmanade till svält",
@@ -203,7 +203,7 @@
           "paywall": false
         },
         {
-          "id": "dn-76",
+          "id": "dn-80",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Kenyansk sektledare dömd för ytterligare 123 dödsfall",
@@ -215,14 +215,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-182",
+      "id": "k-aftonbladet-186",
       "sources": 3,
       "latest": "2026-11-27T15:17:14.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/ef2feaac-f666-3612-810d-5ff6bb0b93c8?format=auto&w=1000&s=d17fad4ac560608f882508443a413101420625d6",
       "versions": [
         {
-          "id": "aftonbladet-182",
+          "id": "aftonbladet-186",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "M, KD, L och C överens – så ska budgeten hanteras",
@@ -237,7 +237,7 @@
           ]
         },
         {
-          "id": "expressen-176",
+          "id": "expressen-180",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "M, KD, L och C överens om ny klimatpolitik",
@@ -247,7 +247,7 @@
           "paywall": false
         },
         {
-          "id": "svt-inrikes-146",
+          "id": "svt-inrikes-150",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "M, L och KD presenterar gemensam budget",
@@ -259,14 +259,14 @@
       ]
     },
     {
-      "id": "k-ekot-199",
+      "id": "k-ekot-203",
       "sources": 3,
       "latest": "2026-11-27T13:17:00.000Z",
       "category": "Ekonomi",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.58/0.53/5741d22ab61da731aacf637cbcd56bb59b80612713263b7719cd565da8d1af0c",
       "versions": [
         {
-          "id": "svt-ekonomi-204",
+          "id": "svt-ekonomi-208",
           "source": "SVT Ekonomi",
           "color": "#1a1a1a",
           "title": "Norskt flygbolag i konkurs",
@@ -276,7 +276,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-203",
+          "id": "expressen-207",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Flygbolaget Norse ansöker om konkurs",
@@ -286,7 +286,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-199",
+          "id": "ekot-203",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Norskt flygbolag ansöker om konkurs",
@@ -298,14 +298,14 @@
       ]
     },
     {
-      "id": "k-ekot-240",
+      "id": "k-ekot-244",
       "sources": 3,
       "latest": "2026-11-27T12:31:08.000Z",
       "category": "Sverige",
       "image": "https://image-api.sr.se/v1/static/AA/83/c5f7bcaf-c90d-4efb-9f1c-326d5c9f5917.jpg?w=1200&h=675&q=75",
       "versions": [
         {
-          "id": "ekot-240",
+          "id": "ekot-244",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Uppgifter: Amerikanska luftsförsvarets plattform har hackats",
@@ -315,7 +315,7 @@
           "paywall": false
         },
         {
-          "id": "svt-utrikes-235",
+          "id": "svt-utrikes-239",
           "source": "SVT Utrikes",
           "color": "#1a1a1a",
           "title": "Uppgifter: USA:s flygvapen utsatt för hackerattack",
@@ -325,7 +325,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-226",
+          "id": "expressen-230",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "USA:s luftförsvar hackat",
@@ -337,14 +337,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-316",
+      "id": "k-aftonbladet-320",
       "sources": 3,
       "latest": "2026-11-27T10:39:08.000Z",
       "category": "Sverige",
       "image": "https://www.svd.se/monorepo-api/og/wA9Gmd.png?pinnedEntry=80367",
       "versions": [
         {
-          "id": "svd-332",
+          "id": "svd-336",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Brand i guldgruva i Skellefteå",
@@ -354,7 +354,7 @@
           "paywall": true
         },
         {
-          "id": "aftonbladet-316",
+          "id": "aftonbladet-320",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Guldgruva utryms efter brand",
@@ -364,7 +364,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-269",
+          "id": "expressen-273",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Brand i guldgruva – 27 personer är kvar i kammare",
@@ -376,14 +376,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-337",
+      "id": "k-aftonbladet-341",
       "sources": 3,
       "latest": "2026-11-27T07:58:30.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/ee4665b6-e5ca-39e3-a83e-49b204d68277?format=auto&w=1000&s=32cda9a41056aabffc0736fd208c353468413eb3",
       "versions": [
         {
-          "id": "aftonbladet-337",
+          "id": "aftonbladet-341",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Två gängmän utlämnas från Irak till Sverige",
@@ -396,7 +396,7 @@
           ]
         },
         {
-          "id": "expressen-336",
+          "id": "expressen-340",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Två utlämnas från Irak",
@@ -406,7 +406,7 @@
           "paywall": false
         },
         {
-          "id": "svt-inrikes-335",
+          "id": "svt-inrikes-339",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "Irak utlämnar två efterlysta till Sverige",
@@ -418,14 +418,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-389",
+      "id": "k-aftonbladet-393",
       "sources": 3,
       "latest": "2026-11-27T05:14:24.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/edb942b5-9f80-3864-8483-b7bafbec0d3e?format=auto&w=1000&s=cda028749acd54dfe5dd17f72c47a14d75423475",
       "versions": [
         {
-          "id": "aftonbladet-389",
+          "id": "aftonbladet-393",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Varningen: Mässling upptäckt på flyg från Thailand",
@@ -435,7 +435,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-387",
+          "id": "expressen-391",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Varningen: Mässling upptäck på flyg från Thailand",
@@ -445,7 +445,7 @@
           "paywall": false
         },
         {
-          "id": "svd-385",
+          "id": "svd-389",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Misstänkt mässling på flyg till Stockholm",
@@ -457,14 +457,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-573",
+      "id": "k-aftonbladet-577",
       "sources": 3,
       "latest": "2026-11-27T00:00:55.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/cd9a8b6e-891e-3087-b633-ba48f301e5c5?format=auto&w=1000&s=1a9ad65064e00ede6ca97160d15946929b1ecb80",
       "versions": [
         {
-          "id": "aftonbladet-573",
+          "id": "aftonbladet-577",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Trump: Putin borde dra tillbaka hoten mot Europa",
@@ -474,7 +474,7 @@
           "paywall": false
         },
         {
-          "id": "svd-571",
+          "id": "svd-575",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Trump: Putin borde dra tillbaka hot mot Europa",
@@ -484,7 +484,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-425",
+          "id": "expressen-429",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Trumps krav på Putin: Låt Europa vara",
@@ -496,14 +496,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-225",
+      "id": "k-aftonbladet-229",
       "sources": 2,
       "latest": "2026-11-27T21:56:56.000Z",
       "category": "Sverige",
       "image": "https://aftonbladet.se/monorepo-api/og/ez8lrl.png",
       "versions": [
         {
-          "id": "aftonbladet-225",
+          "id": "aftonbladet-229",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Kapsejsad tanker utanför Ibiza ska bogseras",
@@ -513,7 +513,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-18",
+          "id": "expressen-22",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Fartyg med 7 000 ton diesel bogseras från Ibiza",
@@ -525,14 +525,14 @@
       ]
     },
     {
-      "id": "k-dn-37",
+      "id": "k-dn-41",
       "sources": 2,
       "latest": "2026-11-27T20:42:54.000Z",
       "category": "Sport",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.2/0.52/11cdaba9640a8f7d3d15aaa8d236d2bf59e8062f19fbe817141a8e41bd1fa5d0",
       "versions": [
         {
-          "id": "svt-sport-46",
+          "id": "svt-sport-50",
           "source": "SVT Sport",
           "color": "#1a1a1a",
           "title": "Sverige vann måstematchen mot Ungern i VM-kvalet",
@@ -542,7 +542,7 @@
           "paywall": false
         },
         {
-          "id": "dn-37",
+          "id": "dn-41",
           "source": "DN",
           "color": "#0f4c81",
           "title": "VM-drömmen lever för Sverige – efter rysare",
@@ -554,14 +554,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-142",
+      "id": "k-aftonbladet-146",
       "sources": 2,
       "latest": "2026-11-27T17:49:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/f9f3f3ce-742d-392b-a0a9-6b6cd31e3c1d?format=auto&w=1000&s=e6ee5773cbfeee7e91abef16a21ced6f0d9d48ac",
       "versions": [
         {
-          "id": "aftonbladet-142",
+          "id": "aftonbladet-146",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "M, KD och L vill ha sänkt bränsleskatt",
@@ -576,7 +576,7 @@
           ]
         },
         {
-          "id": "ekot-92",
+          "id": "ekot-96",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "MP lägger fram egen budget – hoppas på gemensam framöver",
@@ -588,14 +588,14 @@
       ]
     },
     {
-      "id": "k-dn-143",
+      "id": "k-dn-147",
       "sources": 2,
       "latest": "2026-11-27T15:31:47.000Z",
       "category": "Sport",
       "image": "https://static.bonniernews.se/ba/d8e5e477-ab03-443f-97cf-47b776ccc041.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-143",
+          "id": "dn-147",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Tysk stjärna avstängd för dopningsbrott – stöttas av svenska lagkamrater: ”För hårt straff”",
@@ -605,7 +605,7 @@
           "paywall": true
         },
         {
-          "id": "svt-sport-140",
+          "id": "svt-sport-144",
           "source": "SVT Sport",
           "color": "#1a1a1a",
           "title": "Blomqvist och Bennison lider med Freigang: ”Kommer saknas”",
@@ -617,14 +617,14 @@
       ]
     },
     {
-      "id": "k-dn-195",
+      "id": "k-dn-199",
       "sources": 2,
       "latest": "2026-11-27T14:53:03.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/bdca90c0-1820-467e-8075-5ccc2171e922.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-195",
+          "id": "dn-199",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Tusentals verk brann upp – nu kan Grafikens hus få nytt hem",
@@ -634,7 +634,7 @@
           "paywall": true
         },
         {
-          "id": "svd-150",
+          "id": "svd-154",
           "source": "SvD",
           "color": "#2b2b2b",
           "title": "Tolv år efter branden: Grafikens hus får nytt hem",
@@ -646,14 +646,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-223",
+      "id": "k-aftonbladet-227",
       "sources": 2,
       "latest": "2026-11-27T13:19:11.000Z",
       "category": "Ekonomi",
       "image": "https://akamai.vgc.no/v2/images/1cff22fe-99b0-3aaf-8a07-4d8303c42a80?format=auto&w=1000&s=ca51ab130b795ab8fc2446e789bd555cd069db28",
       "versions": [
         {
-          "id": "aftonbladet-223",
+          "id": "aftonbladet-227",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Jätteordern på svenska stridsfordon i hamn",
@@ -666,7 +666,7 @@
           ]
         },
         {
-          "id": "svt-ekonomi-196",
+          "id": "svt-ekonomi-200",
           "source": "SVT Ekonomi",
           "color": "#1a1a1a",
           "title": "Historisk försvarsaffär i hamn – jätteorder på Stridsfordon 90",
@@ -678,14 +678,14 @@
       ]
     },
     {
-      "id": "k-nsk-446",
+      "id": "k-nsk-450",
       "sources": 2,
       "latest": "2026-11-27T11:04:04.000Z",
       "category": "Lokalt",
       "image": "https://static.bonniernews.se/ba/c9aff7dd-df95-4fa0-ac20-af147835af63.jpeg?width=600",
       "versions": [
         {
-          "id": "nsk-446",
+          "id": "nsk-450",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "Centerpartiet i Skåne står bakom beslutet om Kristersson (M)",
@@ -698,7 +698,7 @@
           ]
         },
         {
-          "id": "svt-skane-262",
+          "id": "svt-skane-266",
           "source": "SVT Skåne",
           "color": "#2a9d8f",
           "title": "Centern i Skåne ska rösta ja till Kristersson som statsminister",
@@ -710,14 +710,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-343",
+      "id": "k-aftonbladet-347",
       "sources": 2,
       "latest": "2026-11-27T10:17:13.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/e79cb282-a275-30a8-82e7-7bccbc3b910b?format=auto&w=1000&s=add070dec2acae594a52a04be2d94796b71f1f26",
       "versions": [
         {
-          "id": "aftonbladet-343",
+          "id": "aftonbladet-347",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Vice partiledaren gick emot Thand Ringqvist",
@@ -732,7 +732,7 @@
           ]
         },
         {
-          "id": "expressen-279",
+          "id": "expressen-283",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Uppgifter: Vice Centerledaren Rickard Nordin sa nej",
@@ -744,14 +744,14 @@
       ]
     },
     {
-      "id": "k-dn-388",
+      "id": "k-dn-392",
       "sources": 2,
       "latest": "2026-11-27T08:34:50.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/5f93cf17-c526-4b95-baba-3741ee778ec8.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-388",
+          "id": "dn-392",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Andersson rasar – Kristersson ny etta i förtroendeligan",
@@ -761,7 +761,7 @@
           "paywall": true
         },
         {
-          "id": "expressen-321",
+          "id": "expressen-325",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Andersson rasar i ny mätning: ”Slående”",
@@ -773,14 +773,14 @@
       ]
     },
     {
-      "id": "k-dn-377",
+      "id": "k-dn-381",
       "sources": 2,
       "latest": "2026-11-27T07:24:02.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/74f9fc2e-bbc3-4a0f-b0ea-c007591d777e.jpeg?io=1&width=1000",
       "versions": [
         {
-          "id": "dn-377",
+          "id": "dn-381",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Elprischocken: Nu kommer dyraste räkningen på fyra år",
@@ -793,7 +793,7 @@
           ]
         },
         {
-          "id": "expressen-351",
+          "id": "expressen-355",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Elprischocken – dyraste räkningen på fyra år",
@@ -809,14 +809,14 @@
       ]
     },
     {
-      "id": "k-nsk-575",
+      "id": "k-nsk-579",
       "sources": 2,
       "latest": "2026-11-27T05:24:00.000Z",
       "category": "Lokalt",
       "image": "https://static.bonniernews.se/ba/10903cdd-e07e-4162-9b7d-f6f954386b18.jpeg?width=600",
       "versions": [
         {
-          "id": "nsk-575",
+          "id": "nsk-579",
           "source": "Norra Skåne",
           "color": "#6a4c93",
           "title": "Mordmisstänkt släppt – polisen väntar på fler svar",
@@ -829,7 +829,7 @@
           ]
         },
         {
-          "id": "p4-kristianstad-378",
+          "id": "p4-kristianstad-382",
           "source": "P4 Kristianstad",
           "color": "#e85d04",
           "title": "Mordmisstänkt 30-åring släppt – men utredning pågår",
@@ -841,14 +841,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-428",
+      "id": "k-aftonbladet-432",
       "sources": 2,
       "latest": "2026-11-27T01:12:00.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/225118d4-a7d1-33bc-b2ad-56d25e99648f?format=auto&w=1000&s=aba5cfcb8422af997309c20f58609fb38c154a3f",
       "versions": [
         {
-          "id": "aftonbladet-428",
+          "id": "aftonbladet-432",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "Fiasko för budgetmöte – Sverige vägrade vara med",
@@ -864,7 +864,7 @@
           ]
         },
         {
-          "id": "ekot-421",
+          "id": "ekot-425",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Sverige vägrade vara med på möte i Bryssel",
@@ -876,14 +876,14 @@
       ]
     },
     {
-      "id": "k-ekot-443",
+      "id": "k-ekot-447",
       "sources": 2,
       "latest": "2026-11-26T22:35:00.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/b9aae0b5-84ab-4d39-bb2e-53324313c2cd.jpeg?crop=2557%2C1440%2Cx0%2Cy0",
       "versions": [
         {
-          "id": "expressen-559",
+          "id": "expressen-563",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Centerpartiets beslut: Vill bilda borgerlig regering",
@@ -893,7 +893,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-443",
+          "id": "ekot-447",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Furtenbach om C:s besked: ”En kris för Socialdemokraterna”",
@@ -905,14 +905,14 @@
       ]
     },
     {
-      "id": "k-expressen-464",
+      "id": "k-expressen-468",
       "sources": 2,
       "latest": "2026-11-26T20:54:44.000Z",
       "category": "Sverige",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.54/0.39/e124f1075047817ff11e65dc02b83179eabce882f524fad7f36904232b376cb9",
       "versions": [
         {
-          "id": "svt-inrikes-506",
+          "id": "svt-inrikes-510",
           "source": "SVT Nyheter",
           "color": "#1a1a1a",
           "title": "C-ledamot ska rösta nej till Kristersson: ”Oerhört upprörd”",
@@ -922,7 +922,7 @@
           "paywall": false
         },
         {
-          "id": "expressen-464",
+          "id": "expressen-468",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Anna Lasses (C): ”Arg och väldigt, väldigt ledsen”",
@@ -934,14 +934,14 @@
       ]
     },
     {
-      "id": "k-ekot-484",
+      "id": "k-ekot-488",
       "sources": 2,
       "latest": "2026-11-26T19:18:00.000Z",
       "category": "Sverige",
       "image": "https://static.bonniernews.se/ba/c628c06a-e32a-49db-b57f-2da860f53fdf.jpeg?crop=2553%2C1434%2Cx0%2Cy106",
       "versions": [
         {
-          "id": "expressen-538",
+          "id": "expressen-542",
           "source": "Expressen",
           "color": "#d2232a",
           "title": "Kristersson efter C:s möte: ”Välkommet besked”",
@@ -951,7 +951,7 @@
           "paywall": false
         },
         {
-          "id": "ekot-484",
+          "id": "ekot-488",
           "source": "Ekot",
           "color": "#1d4e89",
           "title": "Kristersson (M): ”Ett mycket välkommet besked”",
@@ -963,14 +963,14 @@
       ]
     },
     {
-      "id": "k-aftonbladet-584",
+      "id": "k-aftonbladet-588",
       "sources": 2,
       "latest": "2026-11-26T17:27:55.000Z",
       "category": "Sverige",
       "image": "https://akamai.vgc.no/v2/images/d87a5657-71a9-32d2-a730-fc074b7f0543?format=auto&w=1000&s=1a4ca4fd379a5a73038a0838f33082d019595291",
       "versions": [
         {
-          "id": "aftonbladet-584",
+          "id": "aftonbladet-588",
           "source": "Aftonbladet",
           "color": "#c8102e",
           "title": "C:s partistyrelse säger ja till Kristersson",
@@ -984,7 +984,7 @@
           ]
         },
         {
-          "id": "dn-535",
+          "id": "dn-539",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Partistyrelse säger ja till Kristersson – C-ledarens avgångshot vid extraval",
@@ -996,14 +996,14 @@
       ]
     },
     {
-      "id": "k-dn-555",
+      "id": "k-dn-559",
       "sources": 2,
       "latest": "2026-11-26T16:48:55.000Z",
       "category": "Sport",
       "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.44/0.34/281cfa20b8a7006b1eccdb8615e86ff9257e3f188db11988f8fd45f0e4fe2efa",
       "versions": [
         {
-          "id": "svt-sport-563",
+          "id": "svt-sport-567",
           "source": "SVT Sport",
           "color": "#1a1a1a",
           "title": "Campbell Wright skrällde i världscuppremiären – karriärens första seger",
@@ -1013,7 +1013,7 @@
           "paywall": false
         },
         {
-          "id": "dn-555",
+          "id": "dn-559",
           "source": "DN",
           "color": "#0f4c81",
           "title": "Amerikansk skrällvinst – tungt för svenskarna",
